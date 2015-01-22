@@ -1,0 +1,22 @@
+{
+  "name": "gale",
+  "version": "0.0.1",
+  "description": "server for wind",
+  "main": "app.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lutaoact/gale.git"
+  },
+  "author": "lutaoact",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lutaoact/gale/issues"
+  },
+  "homepage": "https://github.com/lutaoact/gale",
+  "dependencies": {
+    "express": "^4.11.1"
+  }
+}
