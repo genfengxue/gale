@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/lutaoact/gale",
   "dependencies": {
-    "express": "^4.11.1"
+    "coffee-script": "^1.8.0",
+    "config": "^1.10.0",
+    "express": "^4.11.1",
+    "grunt": "^0.4.5"
   }
 }

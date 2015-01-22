@@ -1,2 +1,4 @@
 express = require 'express'
-console.log 'hello'
+
+config = require 'config'
+console.log config
