@@ -3,7 +3,6 @@ module.exports = function(grunt) {
   grunt.initConfig({
     express: {
       options: {
-        // Override defaults here
         opts: ['node_modules/coffee-script/bin/coffee']
       },
       all: {

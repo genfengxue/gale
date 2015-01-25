@@ -1,3 +1,3 @@
 module.exports =
   hello: 'girlfriend'
-  good: 'hello'
+  port: 9000
