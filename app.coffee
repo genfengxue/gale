@@ -41,3 +41,8 @@ server = app.listen(config.port, () ->
 app.get('/', (req, res) ->
   res.send('hello girlfriend!')
 )
+
+global.count = 0
+app.get('/yang', (req, res) ->
+  res.send("洋洋，这是你第#{++global.count}次来看我的网站")
+)
