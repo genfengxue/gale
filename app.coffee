@@ -20,6 +20,8 @@ app.use(bodyParser.urlencoded({extended: false}))
 
 app.use(express.static(path.join(__dirname, 'public')))
 
+require('./routes')(app)
+
 app.use((err, req, res, next) ->
   meta = '[' + new Date() + '] ' + req.url + '\n'
   if (err)
