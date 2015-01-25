@@ -1,7 +1,8 @@
 require './common/init'
 express = require 'express'
 morgan = require 'morgan'
-bodyParser = require('body-parser')
+path = require 'path'
+bodyParser = require 'body-parser'
 
 console.log config
 
@@ -16,6 +17,8 @@ app.use(morgan('dev'))
 
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended: false}))
+
+app.use(express.static(path.join(__dirname, 'public')))
 
 app.use((err, req, res, next) ->
   meta = '[' + new Date() + '] ' + req.url + '\n'
