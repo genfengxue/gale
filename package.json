@@ -25,6 +25,7 @@
     "log4js": "^0.6.22",
     "mongoose": "^3.8.21",
     "morgan": "^1.5.1",
+    "stack-trace": "0.0.9",
     "underscore.string": "^3.0.1"
   },
   "devDependencies": {
