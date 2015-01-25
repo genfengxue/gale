@@ -1,6 +1,7 @@
 require './common/init'
 express = require 'express'
 morgan = require 'morgan'
+bodyParser = require('body-parser')
 
 console.log config
 
@@ -13,6 +14,8 @@ errorLog = fs.createWriteStream(config.morgan.errorLog, { flags: 'a' })
 app.use(morgan('combined', {stream: accessLog}))
 app.use(morgan('dev'))
 
+app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({extended: false}))
 
 app.use((err, req, res, next) ->
   meta = '[' + new Date() + '] ' + req.url + '\n'
