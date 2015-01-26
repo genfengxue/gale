@@ -1,6 +1,6 @@
 mongoose = require("mongoose")
 Schema = mongoose.Schema
-ObjectId = Schema.ObjectId
+ObjectId = Schema.Types.ObjectId
 BaseModel = (require '../../common/BaseModel').BaseModel
 
 exports.KeyPoint = BaseModel.subclass
