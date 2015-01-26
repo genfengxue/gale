@@ -4,3 +4,4 @@ global.config = require 'config'
 
 global.logger = require('./logger').logger
 global.loggerD = require('./logger').loggerD
+global.AsyncClass = require('./AsyncClass').AsyncClass

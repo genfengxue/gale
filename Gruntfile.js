@@ -29,7 +29,7 @@ module.exports = function(grunt) {
     },
     watch: {
       express: {
-        files:  [ '**/*.coffee', 'Gruntfile.js' ],
+        files:  [ '**/*.coffee', 'Gruntfile.js', '**/*.js' ],
         tasks:  [ 'express:all' ],
         options: {
           spawn: false
