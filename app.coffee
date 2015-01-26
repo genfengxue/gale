@@ -1,6 +1,7 @@
 require './common/init'
 express = require 'express'
 morgan = require 'morgan'
+favicon = require 'serve-favicon'
 path = require 'path'
 bodyParser = require 'body-parser'
 
@@ -8,15 +9,16 @@ console.log config
 
 app = express()
 
+app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({extended: false}))
+
+app.use(favicon(__dirname + '/public/favicon.ico'))
+
 fs = require 'fs'
 accessLog = fs.createWriteStream(config.morgan.accessLog, { flags: 'a' })
 errorLog = fs.createWriteStream(config.morgan.errorLog, { flags: 'a' })
-
 app.use(morgan('combined', {stream: accessLog}))
 app.use(morgan('dev'))
-
-app.use(bodyParser.json())
-app.use(bodyParser.urlencoded({extended: false}))
 
 app.use(express.static(path.join(__dirname, 'public')))
 
