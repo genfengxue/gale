@@ -22,6 +22,24 @@ app.use(morgan('dev'))
 
 app.use(express.static(path.join(__dirname, 'public')))
 
+app.use((req, res, next) ->
+  if /^yang/.test(req.hostname)
+    req.url = '/yang'
+  logger.info "host: #{req.hostname}, method: #{req.method}, url: #{req.url}"
+  next()
+)
+
+app.get('/', (req, res, next) ->
+  logger.info req.url
+  res.send('hello girlfriend!')
+  next()
+)
+
+global.count = 0
+app.get('/yang', (req, res) ->
+  res.send("洋洋，这是你第#{++global.count}次来看我的网站")
+)
+
 require('./routes')(app)
 
 app.use((err, req, res, next) ->
@@ -38,13 +56,4 @@ server = app.listen(config.port, () ->
   port = server.address().port
 
   console.log('Example app listening at http://%s:%s', host, port)
-)
-
-app.get('/', (req, res) ->
-  res.send('hello girlfriend!')
-)
-
-global.count = 0
-app.get('/yang', (req, res) ->
-  res.send("洋洋，这是你第#{++global.count}次来看我的网站")
 )

@@ -3,7 +3,7 @@ module.exports =
   appName: 'gale'
   port: 9000
   morgan:
-    accessLog: '/data/log/gale.log'
-    errorLog : '/data/log/error.log'
+    accessLog: '/data/log/gale.access.log'
+    errorLog : '/data/log/gale.error.log'
   mongo:
     uri: 'mongodb://localhost/gale'
