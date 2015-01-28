@@ -19,6 +19,7 @@ sudo apt-get install vim-gtk
 ```
 sudo npm install -g node-gyp
 ```
+* mongodb 从官方网站下载安装，apt-get的版本比较旧
 
 ## 进入项目根目录：
 ```
