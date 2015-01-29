@@ -2,8 +2,8 @@ use warnings;
 use strict;
 use Data::Dumper;
 use Encode;
+use JSON;
 
-#binmode(STDOUT, ':encoding(utf8)');
 my $src_path = '/Users/lutao/Downloads/L1-54';
 my $dst_path = "$src_path-json";
 chdir $src_path or die $!;
@@ -11,35 +11,46 @@ chdir $src_path or die $!;
 my $keys = ['sentenceNo', 'timeline', 'english', 'chinese'];
 my @files = glob "*";
 @files = @files[0, 1];
+
 for my $file (@files) {
-#  $file = Encode::decode('utf-8', $file);
-  print $file;
-#  open my $fh, '<:encoding(utf-8)', $file or die "$!";
+  my $lessonNo = getLessonNo($file);
+  print $lessonNo;
+
   open my $fh, '<', $file or die "$!";
   my @lines = <$fh>;
+  my $objects = [];
+  my ($count, $object) = (0, {lessonNo => $lessonNo});
   for (my $i = 0; $i < scalar @lines; $i++) {
-    next if $i % 5 == 4;
-    print $lines[$i];
+    $lines[$i] =~ s/\r?\n//;
+    $count = $i % 5;
+    next if $count == 4;
+    $object->{ $keys->[$count] } = $lines[$i];
+    if ($count == 3) {
+      push @{$objects}, {%{$object}};
+    }
   }
-  print "\n" x 5;
+#  print json_encode( $objects );
+  write_file("$dst_path/$file.json", json_encode( $objects ) );
 }
 
-sub read_file {
-    my ($file) = @_;
-    return do {
-        local $/;
-        open my $fh, '<:encoding(utf-16)', $file or die "$!";
-        <$fh>
-    };
+sub getLessonNo {
+  my ($file) = @_;
+
+  if ($file =~ /^lesson(\d+)/) {
+    return int($1);
+  }
+  die;#如果没匹配成功，就die
 }
 
+sub write_file {
+    my ($file, $text) = @_;
+    open my $fh, '>', $file or die "$!";
+    print $fh $text;
+    close $fh;
+}
 
-
-
-
-#print "@files";
-
-#my $file = $files[0];
-#my $srt_text =  read_file($file);
-#my @lines = split /^\s+$/m, $srt_text;
-#print Dumper \@lines;
+sub json_encode {
+    my ($json_obj) = @_;
+    my $JSON = JSON->new->allow_nonref;
+    return $JSON->pretty->encode($json_obj);
+}
