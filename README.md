@@ -27,6 +27,10 @@ sudo service mongodb stop
 sudo cp mongodb-linux-x86_64-2.6.7/bin/* /usr/bin/
 sudo service mongodb start
 ```
+* 可能需要运行crontab，所以安装mail命令查看错误信息
+```
+sudo apt-get install mailutils
+```
 
 ## 进入项目根目录：
 ```
