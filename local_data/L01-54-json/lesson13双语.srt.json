@@ -1,0 +1,114 @@
+[
+   {
+      "lessonNo" : 13,
+      "chinese" : "S:晚上好. 欢迎回来.",
+      "sentenceNo" : 1,
+      "timeline" : "00:00:06,702 --> 00:00:08,551",
+      "english" : "Good evening. Welcome back."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "S:你们今天去市区观光了吗?",
+      "sentenceNo" : 2,
+      "timeline" : "00:00:10,427 --> 00:00:11,820",
+      "english" : "Were you on a city tour today?"
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "S:你们去公共花园了吗? 去查尔斯街(Charles Street)了吗?",
+      "sentenceNo" : 3,
+      "timeline" : "00:00:12,198 --> 00:00:15,158",
+      "english" : "Did you go to the Public Gardens? And to Charles Street?"
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "A:你们去市政厅(City Hall)了吗? 去了...",
+      "sentenceNo" : 4,
+      "timeline" : "00:00:15,995 --> 00:00:18,028",
+      "english" : "Did you go to City Hall? And to ..."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "D:Oh,是很精彩的一天.",
+      "sentenceNo" : 5,
+      "timeline" : "00:00:18,263 --> 00:00:19,502",
+      "english" : "Oh, it was a big day."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "D:首先, 我们去了河边.",
+      "sentenceNo" : 6,
+      "timeline" : "00:00:19,870 --> 00:00:21,986",
+      "english" : "First, we went down to the river."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "D:然后我们去了Paul Revere故居",
+      "sentenceNo" : 7,
+      "timeline" : "00:00:22,351 --> 00:00:24,123",
+      "english" : "Then we went to Paul Revere's house."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "D:我们去了Bunker Hill.",
+      "sentenceNo" : 8,
+      "timeline" : "00:00:24,508 --> 00:00:26,097",
+      "english" : "We were at Bunker Hill."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "D:然后我们去了剑桥和哈佛.",
+      "sentenceNo" : 9,
+      "timeline" : "00:00:26,501 --> 00:00:28,540",
+      "english" : "And then we went to Cambridge and Harvard."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "D:然后是午餐, 不是吗?",
+      "sentenceNo" : 10,
+      "timeline" : "00:00:29,226 --> 00:00:30,590",
+      "english" : "And then it was lunch, wasn't it?"
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "S:你们去了每个地方!",
+      "sentenceNo" : 11,
+      "timeline" : "00:00:32,460 --> 00:00:33,783",
+      "english" : "You've been everywhere!"
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "D:下午时候我们去了码头(waterfront), 穿过了南海岸.",
+      "sentenceNo" : 12,
+      "timeline" : "00:00:34,607 --> 00:00:39,189",
+      "english" : "In the afternoon we went to the waterfront, across the South Shore.."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "A:Didi, 还有任何剩余的地方吗?",
+      "sentenceNo" : 13,
+      "timeline" : "00:00:39,606 --> 00:00:41,799",
+      "english" : "Didi, is there anywhere left to visit?"
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "D:有的. 明天我们去任何我们想去的地方.",
+      "sentenceNo" : 14,
+      "timeline" : "00:00:42,118 --> 00:00:44,208",
+      "english" : "Sure. Tomorrow we go wherever we want."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "D:Paulo, 接下来你想去哪?",
+      "sentenceNo" : 15,
+      "timeline" : "00:00:45,074 --> 00:00:46,713",
+      "english" : "Paulo, where would you like to go next?"
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "P:去我的房间, 请. 只想去我的房间!",
+      "sentenceNo" : 16,
+      "timeline" : "00:00:47,276 --> 00:00:49,822",
+      "english" : "To my room, please. Just to my room!"
+   }
+]
