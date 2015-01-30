@@ -4,7 +4,7 @@ use Data::Dumper;
 use Encode;
 use JSON;
 
-my $src_path = '/Users/lutao/Downloads/L1-54';
+my $src_path = '/Users/lutao/Downloads/L01-54';
 my $dst_path = "$src_path-json";
 chdir $src_path or die $!;
 
@@ -15,9 +15,10 @@ my $map = {
 };
 
 my @files = glob "*";
-@files = @files[0, 1];
+#@files = @files[10 .. 53];
 
 for my $file (@files) {
+  print "$file\n";
   my $lessonNo = getLessonNo($file);
 
   open my $fh, '<', $file or die "$!";
@@ -25,13 +26,13 @@ for my $file (@files) {
   my $objects = [];
   my ($count, $object) = (0, {lessonNo => $lessonNo});
   for (my $i = 0; $i < scalar @lines; $i++) {
-    $lines[$i] =~ s/\r?\n//;
+    $lines[$i] =~ s/\s*\r?\n//;
     $count = $i % 5;
     next if $count == 4; #遇到空行直接跳过
     if ($count == 0) {
       $object->{ sentenceNo } = int($i / 5) + 1;
     } else { # $count = 1, 2, 3的时候
-      $object->{ $map->{$count} } = $lines[$i];
+      $object->{ $map->{$count} } = $lines[$i] or die;
     }
 
     if ($count == 3) {#一条字幕处理完成，加入到结果中

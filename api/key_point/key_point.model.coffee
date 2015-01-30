@@ -7,11 +7,11 @@ exports.KeyPoint = BaseModel.subclass
   classname: 'KeyPoint'
   initialize: ($super) ->
     @schema = new Schema
+      question:
+        type: String
       text:
         type: String
         required: true
-      question:
-        type: String
       audio:
         type: String
       image:
