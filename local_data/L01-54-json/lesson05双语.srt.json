@@ -57,17 +57,17 @@
    },
    {
       "lessonNo" : 5,
-      "chinese" : "研讨会从9:30到正午. ",
+      "chinese" : "研讨会从9:30到正午.",
       "sentenceNo" : 9,
       "timeline" : "00:00:28,208 --> 00:00:30,420",
-      "english" : "Workshops run from 9：30 to noon. "
+      "english" : "Workshops run from 9：30 to noon."
    },
    {
       "lessonNo" : 5,
       "chinese" : "然后午餐.",
       "sentenceNo" : 10,
       "timeline" : "00:00:30,600 --> 00:00:31,740",
-      "english" : "Then lunch.                                              "
+      "english" : "Then lunch."
    },
    {
       "lessonNo" : 5,
@@ -102,7 +102,7 @@
       "chinese" : "然后一个小招待会.",
       "sentenceNo" : 15,
       "timeline" : "00:00:40,260 --> 00:00:42,020",
-      "english" : "Then a small reception.                "
+      "english" : "Then a small reception."
    },
    {
       "lessonNo" : 5,

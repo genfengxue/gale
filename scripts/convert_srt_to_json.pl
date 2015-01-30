@@ -21,7 +21,7 @@ for my $file (@files) {
   print "$file\n";
   my $lessonNo = getLessonNo($file);
 
-  open my $fh, '<', $file or die "$!";
+  open my $fh, '<', $file or die $!;
   my @lines = <$fh>;
   my $objects = [];
   my ($count, $object) = (0, {lessonNo => $lessonNo});
