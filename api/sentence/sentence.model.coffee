@@ -24,8 +24,12 @@ exports.Sentence = BaseModel.subclass
       keyPoints: [
         key: String
         kps: [
-          type: Schema.Types.ObjectId
-          ref : "key_point"
+          kpId:
+            type: Schema.Types.ObjectId
+            ref : "key_point"
+          isPrimary:
+            type: Boolean
+            default: false
         ]
       ]
 

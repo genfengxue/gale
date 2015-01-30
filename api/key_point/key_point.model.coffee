@@ -18,8 +18,5 @@ exports.KeyPoint = BaseModel.subclass
         type: String
       categories: [ Number ]
       tags: [ String ]
-      isPrimary:
-        type: Boolean
-        default: false
 
     $super()
