@@ -8,13 +8,17 @@ my $src_path = '/Users/lutao/Downloads/L1-54';
 my $dst_path = "$src_path-json";
 chdir $src_path or die $!;
 
-my $keys = ['sentenceNo', 'timeline', 'english', 'chinese'];
+my $map = {
+  1 => 'timeline',
+  2 => 'english',
+  3 => 'chinese'
+};
+
 my @files = glob "*";
 @files = @files[0, 1];
 
 for my $file (@files) {
   my $lessonNo = getLessonNo($file);
-  print $lessonNo;
 
   open my $fh, '<', $file or die "$!";
   my @lines = <$fh>;
@@ -23,9 +27,14 @@ for my $file (@files) {
   for (my $i = 0; $i < scalar @lines; $i++) {
     $lines[$i] =~ s/\r?\n//;
     $count = $i % 5;
-    next if $count == 4;
-    $object->{ $keys->[$count] } = $lines[$i];
-    if ($count == 3) {
+    next if $count == 4; #遇到空行直接跳过
+    if ($count == 0) {
+      $object->{ sentenceNo } = int($i / 5) + 1;
+    } else { # $count = 1, 2, 3的时候
+      $object->{ $map->{$count} } = $lines[$i];
+    }
+
+    if ($count == 3) {#一条字幕处理完成，加入到结果中
       push @{$objects}, {%{$object}};
     }
   }
