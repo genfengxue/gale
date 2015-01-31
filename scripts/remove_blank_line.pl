@@ -8,3 +8,8 @@ while (<>) {
   next if /^\s*$/;
   print;
 }
+
+__END__
+
+去掉BOM
+find . -name '*.srt' -exec gsed -i -e '1s/^\xEF\xBB\xBF//' {} \;
