@@ -21,6 +21,8 @@ app.use(morgan('combined', {stream: accessLog}))
 app.use(morgan('dev'))
 
 app.use(express.static(path.join(__dirname, 'public')))
+app.set('views', __dirname + '/views')
+app.set('view engine', 'ejs')
 
 app.use((req, res, next) ->
   if /^yang/.test(req.hostname)
