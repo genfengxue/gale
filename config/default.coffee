@@ -7,3 +7,6 @@ module.exports =
     errorLog : '/data/log/gale.error.log'
   mongo:
     uri: 'mongodb://localhost/gale'
+  secrets:
+    session: process.env.EXPRESS_SECRET or 'budweiser-secret'
+  tokenExpiresInMinutes: 60 * 24 * 7

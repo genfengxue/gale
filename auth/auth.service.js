@@ -2,11 +2,11 @@
 
 var mongoose = require('mongoose');
 var passport = require('passport');
-var config = require('../config/environment');
+//var config = require('../config/environment'); #config 是全局变量
 var jwt = require('jsonwebtoken');
 var expressJwt = require('express-jwt');
 var compose = require('composable-middleware');
-var User = _u.getModel("user");
+//var User = _u.getModel("user");
 
 /**
  * Attaches the user object to the request if authenticated
@@ -57,8 +57,8 @@ function hasRole(roleRequired) {
 /**
  * Returns a jwt token signed by the app secret
  */
-function signToken(id, role) {
-  return jwt.sign({ _id: id, role: role}, config.secrets.session, { expiresInMinutes: config.tokenExpireTime });
+function signToken(id) {
+  return jwt.sign({ _id: id}, config.secrets.session, { expiresInMinutes: config.tokenExpiresInMinutes });
 }
 
 /**
