@@ -1,0 +1,2 @@
+passport = require 'passport'
+
