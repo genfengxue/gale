@@ -1,128 +1,191 @@
 [
    {
       "lessonNo" : 29,
-      "chinese" : "用不了多久的.",
+      "chinese" : "嗨 Nina. 需要什么吗?",
       "sentenceNo" : 1,
-      "timeline" : "00:00:08,511 --> 00:00:09,363",
-      "english" : "This won't take a minute."
+      "timeline" : "00:00:07,989 --> 00:00:09,290",
+      "english" : "Hi Nina.Do you need something?"
    },
    {
       "lessonNo" : 29,
-      "chinese" : "没关系. 反正我也要买一些邮票.",
+      "chinese" : "Oh, 是你,Nu La. 我刚给你留了张便条.",
       "sentenceNo" : 2,
-      "timeline" : "00:00:09,583 --> 00:00:11,158",
-      "english" : "No problem.I need stamps anyway."
+      "timeline" : "00:00:10,520 --> 00:00:13,048",
+      "english" : "Oh.Hi Nu La.I left you a note."
    },
    {
       "lessonNo" : 29,
-      "chinese" : "看. 这是我的签证.",
+      "chinese" : "这些都是你的孩子,Nu La?",
       "sentenceNo" : 3,
-      "timeline" : "00:00:12,994 --> 00:00:14,696",
-      "english" : "Look.Here's the visa for my trip."
+      "timeline" : "00:00:14,307 --> 00:00:15,888",
+      "english" : "Are these your children,Nu La?"
    },
    {
       "lessonNo" : 29,
-      "chinese" : "WOW.盖了这么多章!",
+      "chinese" : "所有这些?",
       "sentenceNo" : 4,
-      "timeline" : "00:00:15,209 --> 00:00:16,539",
-      "english" : "Wow.Look at all the stamps."
+      "timeline" : "00:00:16,493 --> 00:00:17,081",
+      "english" : "All of these?"
    },
    {
       "lessonNo" : 29,
-      "chinese" : "Yeah.我做前一份工作时常常要出差.",
+      "chinese" : "No,no. 这几个才是我的孩子.",
       "sentenceNo" : 5,
-      "timeline" : "00:00:16,893 --> 00:00:19,568",
-      "english" : "Yeah.I travelled so much in my previous job."
+      "timeline" : "00:00:17,400 --> 00:00:19,268",
+      "english" : "No,no.These are my children."
    },
    {
       "lessonNo" : 29,
-      "chinese" : "你过去在Continental Hotel工作,right?",
+      "chinese" : "这是我的大儿子. 他已经结婚了.",
       "sentenceNo" : 6,
-      "timeline" : "00:00:20,014 --> 00:00:21,818",
-      "english" : "You worked with the Continental Hotel,right?"
+      "timeline" : "00:00:20,245 --> 00:00:22,194",
+      "english" : "This is my older son.He's married."
    },
    {
       "lessonNo" : 29,
-      "chinese" : "Uh huh.从1986年到1989年,我在那儿工作.",
+      "chinese" : "他有两个小女儿, 是双胞胎.",
       "sentenceNo" : 7,
-      "timeline" : "00:00:22,066 --> 00:00:26,088",
-      "english" : "Uh huh.I worked there from 1986 to 1989."
+      "timeline" : "00:00:22,596 --> 00:00:24,421",
+      "english" : "He has two little girls.Twins."
    },
    {
       "lessonNo" : 29,
-      "chinese" : "印度尼西亚. 阿根廷. 马达加斯加!",
+      "chinese" : "Oh my. 他肯定忙死了.",
       "sentenceNo" : 8,
-      "timeline" : "00:00:27,093 --> 00:00:31,394",
-      "english" : "Indonesia.Argentina.Madagascar!"
+      "timeline" : "00:00:24,728 --> 00:00:27,006",
+      "english" : "Oh my.He must be busy."
    },
    {
       "lessonNo" : 29,
-      "chinese" : "你应该看看我们的旧护照.",
+      "chinese" : "我们只有一个小女儿就忙得不可开交了.",
       "sentenceNo" : 9,
-      "timeline" : "00:00:31,620 --> 00:00:33,084",
-      "english" : "You should see my old passport."
+      "timeline" : "00:00:27,620 --> 00:00:29,465",
+      "english" : "Our hands are full with one little girl."
    },
    {
       "lessonNo" : 29,
-      "chinese" : "1980年到1982年我在欧洲读研究生.",
+      "chinese" : "Oh, 他总是忙个不停.",
       "sentenceNo" : 10,
-      "timeline" : "00:00:33,596 --> 00:00:36,142",
-      "english" : "I was in graduate school in Europe from'80 to'82."
+      "timeline" : "00:00:30,225 --> 00:00:31,482",
+      "english" : "Oh,he's always on the go."
    },
    {
       "lessonNo" : 29,
-      "chinese" : "我到处都走遍了.",
+      "chinese" : "那他像你.",
       "sentenceNo" : 11,
-      "timeline" : "00:00:36,511 --> 00:00:37,243",
-      "english" : "I went everywhere."
+      "timeline" : "00:00:32,166 --> 00:00:32,859",
+      "english" : "He's like you,then."
    },
    {
       "lessonNo" : 29,
-      "chinese" : "照片太糟糕了.",
+      "chinese" : "Yes. 他很像我.",
       "sentenceNo" : 12,
-      "timeline" : "00:00:38,056 --> 00:00:39,383",
-      "english" : "Terrible picture."
+      "timeline" : "00:00:33,341 --> 00:00:34,362",
+      "english" : "Yes.He takes after me."
    },
    {
       "lessonNo" : 29,
-      "chinese" : "I know.",
+      "chinese" : "这是谁呀?",
       "sentenceNo" : 13,
-      "timeline" : "00:00:40,138 --> 00:00:40,338",
-      "english" : "I know."
+      "timeline" : "00:00:36,144 --> 00:00:36,594",
+      "english" : "Who's this?"
    },
    {
       "lessonNo" : 29,
-      "chinese" : "你的全名是Anne Bruce Holland? Bruce是男人的名字.",
+      "chinese" : "我女儿.",
       "sentenceNo" : 14,
-      "timeline" : "00:00:41,931 --> 00:00:45,661",
-      "english" : "Your full name is Anne Bruce Holland?Bruce is a man's name."
+      "timeline" : "00:00:37,008 --> 00:00:37,602",
+      "english" : "My daughter."
    },
    {
       "lessonNo" : 29,
-      "chinese" : "这是家族的姓.",
+      "chinese" : "叫什么名字?",
       "sentenceNo" : 15,
-      "timeline" : "00:00:46,314 --> 00:00:47,017",
-      "english" : "It's family name."
+      "timeline" : "00:00:38,118 --> 00:00:38,936",
+      "english" : "What's her name?"
    },
    {
       "lessonNo" : 29,
-      "chinese" : "出生地:Connecticut,U.S.A.",
+      "chinese" : "Sothea. 不过我们都叫她Sally.",
       "sentenceNo" : 16,
-      "timeline" : "00:00:48,033 --> 00:00:49,924",
-      "english" : "Place of birth:Connecticut,U.S.A."
+      "timeline" : "00:00:39,401 --> 00:00:41,645",
+      "english" : "Sothea.But we call her Sally."
    },
    {
       "lessonNo" : 29,
-      "chinese" : "Hey,你出生于1952年2月14日, 情人节!",
+      "chinese" : "她长得像你.",
       "sentenceNo" : 17,
-      "timeline" : "00:00:50,217 --> 00:00:55,118",
-      "english" : "Hey,you were born on February 14th,1952.Valentine's Day."
+      "timeline" : "00:00:42,400 --> 00:00:43,250",
+      "english" : "She looks like you."
    },
    {
       "lessonNo" : 29,
-      "chinese" : "Julia.你挡住往前的队伍了.",
+      "chinese" : "Yes, 不过她的性格像他父亲.",
       "sentenceNo" : 18,
-      "timeline" : "00:00:55,412 --> 00:00:56,583",
-      "english" : "Julia.You're holding up the line."
+      "timeline" : "00:00:43,701 --> 00:00:45,837",
+      "english" : "Yes,but she takes after her father."
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "她很随和.",
+      "sentenceNo" : 19,
+      "timeline" : "00:00:46,273 --> 00:00:47,153",
+      "english" : "She's very easy-going."
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "我小儿子离婚了, 他有一个儿子.",
+      "sentenceNo" : 20,
+      "timeline" : "00:00:47,707 --> 00:00:51,139",
+      "english" : "And my younger son is divorced,but he has a son."
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "这些是你的孙子孙女吗?",
+      "sentenceNo" : 21,
+      "timeline" : "00:00:52,481 --> 00:00:54,454",
+      "english" : "These are your grandchildren?"
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "Yes.",
+      "sentenceNo" : 22,
+      "timeline" : "00:00:55,031 --> 00:00:55,301",
+      "english" : "Yes."
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "长得真可爱.",
+      "sentenceNo" : 23,
+      "timeline" : "00:00:56,676 --> 00:00:57,198",
+      "english" : "They're adorable."
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "Thank you.",
+      "sentenceNo" : 24,
+      "timeline" : "00:00:57,856 --> 00:00:58,142",
+      "english" : "Thank you."
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "这位是你的亲戚吗, NuLa?",
+      "sentenceNo" : 25,
+      "timeline" : "00:00:59,388 --> 00:01:00,780",
+      "english" : "Is this a relative,NuLa?"
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "No,no,no.",
+      "sentenceNo" : 26,
+      "timeline" : "00:01:01,272 --> 00:01:01,918",
+      "english" : "No,no,no."
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "他叫 Johnny Chen. 是一位很有名的演员,长的很英俊.",
+      "sentenceNo" : 27,
+      "timeline" : "00:01:02,156 --> 00:01:06,181",
+      "english" : "That's Johnny Chen.He's a very famous actor.Very handsome."
    }
 ]
