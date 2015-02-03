@@ -2,8 +2,10 @@ require './common/init'
 express = require 'express'
 morgan = require 'morgan'
 favicon = require 'serve-favicon'
+passport = require 'passport'
 path = require 'path'
 bodyParser = require 'body-parser'
+cookieParser = require('cookie-parser')
 
 console.log config
 
@@ -11,6 +13,8 @@ app = express()
 
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended: false}))
+app.use(cookieParser())
+app.use(passport.initialize())
 
 app.use(favicon(__dirname + '/public/favicon.ico'))
 
