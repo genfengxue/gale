@@ -1,0 +1,78 @@
+1
+On your left!
+
+2
+Pardon me.
+
+3
+I'm sorry.
+
+4
+I know you.
+
+5
+You do?
+
+6
+Yes, you work at the Sheraton.
+
+7
+Yes I do. Are you a guest there?
+
+8
+No...
+
+9
+Oh, you do business at the hotel.
+
+10
+Yes, I have meetings there.
+
+11
+I'm Jim Bigelow, C.E.O. Sheraton.
+
+12
+How do you do?
+
+13
+William Olson. Front desk.
+
+14
+I'm sorry. I-I-I didn't know you.
+
+15
+Well, you don't see me there very often.
+
+16
+I only come in for meetings.
+
+17
+Do you like those?
+
+18
+Oh, yes.
+
+19
+Not me. I always try to walk.
+
+20
+Oh, well I usually walk.
+
+21
+I live here in the city, so I walk everywhere.
+
+22
+Except when I skate. Or work,of course.
+
+23
+I never stop working.
+
+24
+Today's my day-off.
+
+25
+Well, enjoy it!
+
+26
+My last one was three weeks ago!
+

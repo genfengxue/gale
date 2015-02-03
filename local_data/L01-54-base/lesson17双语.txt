@@ -1,0 +1,72 @@
+1
+Hi. My name's Wendy.
+
+2
+Can I get you something to drink?
+
+3
+We need a bottle of mineral water
+
+4
+and a carafe of the house red wine.
+
+5
+Sorry. Are you ready to order?
+
+6
+Yes, I think so.
+
+7
+Would you like an appetizer?
+
+8
+Yes. What was the starter, Richard?
+
+9
+Yes. We'd like one spare ribs to share, please.
+
+10
+Fine. And for your main course?
+
+11
+Yes. I'd like the roast chicken
+
+12
+with roast potatoes and vegetables.
+
+13
+Excuse me!
+
+14
+00:00:37,597 --> 00:00:38,819
+
+15
+00:00:38,820 --> 00:00:40,153
+
+16
+00:00:40,450 --> 00:00:42,574
+
+17
+00:00:42,575 --> 00:00:43,853
+
+18
+00:00:43,854 --> 00:00:45,933
+
+19
+00:00:46,871 --> 00:00:49,361
+
+20
+00:00:49,505 --> 00:00:52,312
+
+21
+00:00:52,313 --> 00:00:53,825
+
+22
+00:00:53,826 --> 00:00:57,653
+
+23
+00:00:57,731 --> 00:01:00,829
+
+24
+00:01:00,830 --> 00:01:02,181
+

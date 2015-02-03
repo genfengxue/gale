@@ -1,0 +1,84 @@
+1
+How does it feel,Kevin?
+
+2
+Do you like driving on the right side?
+
+3
+It's a little strange.
+
+4
+Here's the turn.
+
+5
+OK.Get into the right-hand lane.
+
+6
+When?
+
+7
+Now!We have to make a right!
+
+8
+But I mustn't just cut in...
+
+9
+We missed it.
+
+10
+We have to go around.
+
+11
+Here's the turn.
+
+12
+OK.Get into the left-hand lane.
+
+13
+Left? I thought it was right.
+
+14
+It is right.
+
+15
+Yes.Yes. I mean a right turn.
+
+16
+We missed it.
+
+17
+We have to go around.
+
+18
+No left turn.
+
+19
+No turns.
+
+20
+Let's try this one.
+
+21
+No Kevin.
+
+22
+You can't go in here.
+
+23
+Do not enter.
+
+24
+We have to go around.
+
+25
+Finally.
+
+26
+Let's get out of this car.
+
+27
+Kevin.
+
+28
+What?No Parking.
+

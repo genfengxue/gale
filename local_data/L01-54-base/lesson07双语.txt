@@ -1,0 +1,78 @@
+1
+Where can we eat?
+
+2
+Someplace good.
+
+3
+Someplace cheap.
+
+4
+but vegetarian.
+
+5
+You're vegetarian,are you?
+
+6
+Yeah.
+
+7
+I like meat too much to be a vegetarian.
+
+8
+And fresh fish.
+
+9
+I don't like fish at all.
+
+10
+And I love bacon.It's my favorite breakfast.
+
+11
+I don't like bacon.
+
+12
+Are you a vegetarian as well?
+
+13
+Me? I don't like vegetables.
+
+14
+Elena's not a vegetarian.
+
+15
+She's just a picky eater.
+
+16
+Spinach,broccoli,and cauliflower. Ugh.
+
+17
+Do you eat cheese?
+
+18
+Kevin,I eat anything that can't look at me.
+
+19
+How about eggs?
+
+20
+Oh,I do not like eggs.
+
+21
+Elena,what do you like?
+
+22
+Coffee.
+
+23
+And coffee.
+
+24
+I also like coffee.
+
+25
+Elena even eats coffee yogurt.
+
+26
+And I don't like yogurt.
+

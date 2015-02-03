@@ -1,0 +1,75 @@
+1
+How are you feeling?
+
+2
+Great. Never better.
+
+3
+Aren't you suffering from jet lag?
+
+4
+Oh no.Besides,the afternoon meeting only lasted...What?...four hours?
+
+5
+Yes,but we have another one early tomorrow morning.
+
+6
+It will last all day.
+
+7
+We won't finish till six o'clock.
+
+8
+Hm.
+
+9
+Are you worried about getting tired?
+
+10
+No.I wanted to do some shopping tomorrow.
+
+11
+How late is Sogo open?
+
+12
+Quite late.
+
+13
+But don't forget,there is a banquet for you tomorrow night.
+
+14
+Ah.How long does that last?
+
+15
+They can take hours.
+
+16
+I'm afraid you won't be back at your hotel at least until midnight.
+
+17
+Maybe later.
+
+18
+Oh well.
+
+19
+Wait...Sogo's is open tonight,isn't it?
+
+20
+Yes.
+
+21
+Well,can we go now?
+
+22
+Of course.The tram will take about thirty minutes.
+
+23
+A taxi will be faster.
+
+24
+Let's walk.It's a beautiful evening.
+
+25
+I am amazed you're still going!
+
