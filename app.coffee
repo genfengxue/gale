@@ -13,6 +13,7 @@ app = express()
 
 app.use((req, res, next) ->
   if req.hostname is '123.249.24.233' #block host because of scanning port
+    console.log "what's this?"
     res.sendStatus 404
   else
     next()
@@ -44,7 +45,6 @@ app.use((req, res, next) ->
 )
 
 app.get('/', (req, res, next) ->
-  logger.info req.url
   res.send('hello girlfriend!')
   next()
 )
