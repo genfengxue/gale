@@ -11,6 +11,12 @@ console.log config
 
 app = express()
 
+app.use((req, res, next) ->
+  if req.hostname is '123.249.24.233' #block host because of scanning port
+    res.send 404
+  next()
+)
+
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended: false}))
 app.use(cookieParser())
@@ -31,6 +37,7 @@ app.set('view engine', 'ejs')
 app.use((req, res, next) ->
   if /^yang/.test(req.hostname)
     req.url = '/yang'
+
   logger.info "host: #{req.hostname}, method: #{req.method}, url: #{req.url}"
   next()
 )
