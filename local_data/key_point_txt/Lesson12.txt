@@ -1,0 +1,181 @@
+1
+Pam,give me a garden salad and `a grilled fish` appetizer.
+<k>grill= v 烤
+
+**grill另外有一个意思是 烤肉用的那个铁架子.**
+
+grill a fish=把一条鱼烤熟
+a grilled fish=一条烤鱼</k>
+
+1
+Pam,give me a `garden salad` and a grilled fish appetizer.
+<k>['sæləd]
+色拉
+中文的色拉是音译
+
+**garden salad是菜名, 里边有很多绿色的生菜.** 
+
+A garden salad (also green salad) is a salad consisting mostly of fresh vegetables. </k>
+
+1
+Pam,give me a garden salad and a grilled fish `appetizer`.
+<k>appetizer=开胃菜 ['æpə'taɪzɚ]
+appetite=胃口 ['æpɪtaɪt]
+
+吃西餐时, 因为正餐需要等很久, 往往会先吃一点开胃菜.
+
+如果说你的胃口很好, 什么都能吃, 就可以说 You have a good appetite</k>
+
+
+3
+Pam,please `turn off` that burner.
+<k>turn on the switch/light/burner/TV
+
+open是指把一个东西打开或关闭,
+比如open the door/cabinet/gate
+
+很多中文里边用"开"的词, 到英语中都是turn on, 而不是open, 注意一下
+
+turn on=打开
+turn off=关闭</k>
+
+3
+Pam,please turn off that `burner`.
+<k>burn= v 燃烧, 烧焦
+
+burner=n 烤...的东西, 就是烤炉, 烤箱
+
+-er表示...的东西或...的人
+</k>
+
+5
+And `a moussaka special` and fetucine Alfredo,
+<k>moussaka special的结构类似我们前边学到的hamburger special.
+
+moussaka是一道希腊菜,肉末+茄子做成
+special表示特色的或特价的
+
+/'musakə/
+</k>
+
+5
+And a moussaka special and `fetucine Alfredo`,
+<k>fetucine是一种意大利面食
+/fetə'tʃɪni/   /æl'frɪdəu/
+</k>
+
+7
+`Hand me` those bowls,please.
+<k>hand me some water.
+hand me a piece of paper
+hand me your cellphone</k>
+
+7
+Hand me `those bowls`,please.
+<k>bowl /boʊl/ 碗
+
+plate=碟子
+bowl=碗
+
+美国的棒球比赛的总决赛称之为super bowl, 超级碗.
+
+</k>
+
+
+10
+Fettucine Alfredo: `pasta` with cream,cheese,pepper...
+<k>pasta=/ˈpɑstə/  
+n. 意大利面食
+an Italian food made from flour, water, and sometimes eggs, formed into different shapes and usually served with a sauce.
+</k>
+
+10
+Fettucine Alfredo: pasta with cream,`cheese`,pepper...
+<k>cheese=奶酪
+和我们之前学过的yogurt酸奶区分
+外国人照相时常常说cheese, 因为说cheese的时候有种微笑的感觉</k>
+
+10
+Fettucine Alfredo: pasta with cream,cheese,`pepper`...
+<k>pepper['pɛpɚ]
+胡椒, 辣椒
+
+paper=纸
+pepper=胡椒
+注意区分
+</k>
+
+14
+`He can have` a nice spaghetti primavera.
+<k>He can have a nice evening.
+He can have a good job.
+He can have a garden salad.
+
+He can have 后边跟一个东西.
+他可以有...</k>
+
+14
+He can have a nice `spaghetti primavera`.
+<k>spaghetti [spə'ɡɛti]
+意大利面
+我们常常去意大利餐馆吃到的面就是这一种.
+spaghetti是pasta的一种
+
+pasta in the shape of long thin pieces that look like string when they are cooked.
+/'priməverə/
+</k>
+
+16
+`I'm not going to` give him something else.
+<k>I'm not going to give up.
+I'm not going to hand you those bowls.
+I'm not going to turn off that burner.
+
+I'm not going to后边跟一个动词,
+表示我不会做某事, 我不愿意做某事</k>
+
+17
+And I'm going to `put cream in it`.
+<k></k>
+
+
+17
+`And I'm going to` put cream in it.
+<k></k>
+
+18
+I am going to put `extra` cream in it.
+<k></k>
+
+19
+Oh.Do you want to `give him` high cholesterol?
+<k></k>
+
+19
+Oh.Do you want to give him `high cholesterol`?
+<k></k>
+
+20
+`Fine`.
+<k>Fine在这里表示随你便, 而不是好吧, 它和sure表示的语气是不同的</k>
+
+20
+`Fine`.
+<k>注意fine的发音是/fain/</k>
+
+21
+You `go out and tell him`.
+<k></k>
+
+22
+He's the man on the left `at the middle table`.
+<k></k>
+
+23
+`What am I going to` do with you?
+<k></k>
+
+24
+`It's not me`,Jarmusch. I like cream.
+<k></k>
+
