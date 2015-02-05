@@ -46,7 +46,7 @@ for my $file (@files) {
 sub getLessonNo {
   my ($file) = @_;
 
-  if ($file =~ /^lesson(\d+)/) {
+  if ($file =~ /^lesson(\d+)/i) {
     return int($1);
   }
   die;#如果没匹配成功，就die
