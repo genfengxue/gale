@@ -1,69 +1,92 @@
 1
 Quercio?
+<k></k>
 
 2
 Yes.Q-U-E-R-C-I-O.Quercio.
+<k></k>
 
 3
 Oh yes,here it is.
+<k></k>
 
 4
 Excuse me, Are you Tony Quercio?
+<k></k>
 
 5
 Yes I am.
+<k></k>
 
 6
 Are you here for the American Library Association Conference?
+<k></k>
 
 7
 Yes.
+<k></k>
 
 8
 My name's Barbara Seaton.
+<k></k>
 
 9
 -You're Barbara Seaton!  Yes!
+<k></k>
 
 10
 Barbara Seaton,of the New York Library?
+<k></k>
 
 11
 -Tony Quercio,Watson's Bookstores?  -Yes.
+<k></k>
 
 12
 How do you do?
+<k></k>
 
 13
 How do you do?
+<k></k>
 
 14
 It's nice to meet you finally.
+<k></k>
 
 15
 Nice to meet you.
+<k></k>
 
 16
 I'm sorry.
+<k></k>
 
 17
 That's all right.
+<k></k>
 
 18
 Mr.Quercio.Room 412.
+<k></k>
 
 19
 412. Great.
+<k></k>
 
 20
 Carl? Room 412,please.
+<k></k>
 
 21
 Well,I'll talk to you later,Barbara.
+<k></k>
 
 22
 Of course. Bye now.
+<k></k>
 
 23
 And welcome to Boston!
+<k></k>
 

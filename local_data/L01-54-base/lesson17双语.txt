@@ -1,72 +1,96 @@
 1
 Hi. My name's Wendy.
+<k></k>
 
 2
 Can I get you something to drink?
+<k></k>
 
 3
 We need a bottle of mineral water
+<k></k>
 
 4
 and a carafe of the house red wine.
+<k></k>
 
 5
 Sorry. Are you ready to order?
+<k></k>
 
 6
 Yes, I think so.
+<k></k>
 
 7
 Would you like an appetizer?
+<k></k>
 
 8
 Yes. What was the starter, Richard?
+<k></k>
 
 9
 Yes. We'd like one spare ribs to share, please.
+<k></k>
 
 10
 Fine. And for your main course?
+<k></k>
 
 11
 Yes. I'd like the roast chicken
+<k></k>
 
 12
 with roast potatoes and vegetables.
+<k></k>
 
 13
 Excuse me!
+<k></k>
 
 14
 00:00:37,597 --> 00:00:38,819
+<k></k>
 
 15
 00:00:38,820 --> 00:00:40,153
+<k></k>
 
 16
 00:00:40,450 --> 00:00:42,574
+<k></k>
 
 17
 00:00:42,575 --> 00:00:43,853
+<k></k>
 
 18
 00:00:43,854 --> 00:00:45,933
+<k></k>
 
 19
 00:00:46,871 --> 00:00:49,361
+<k></k>
 
 20
 00:00:49,505 --> 00:00:52,312
+<k></k>
 
 21
 00:00:52,313 --> 00:00:53,825
+<k></k>
 
 22
 00:00:53,826 --> 00:00:57,653
+<k></k>
 
 23
 00:00:57,731 --> 00:01:00,829
+<k></k>
 
 24
 00:01:00,830 --> 00:01:02,181
+<k></k>
 

@@ -1,69 +1,92 @@
 1
 Dean, have you got a moment?
+<k></k>
 
 2
 Sure. I'm on my way home.
+<k></k>
 
 3
 I'm working on a scheme to attract younger customers.
+<k></k>
 
 4
 To the restaurant?
+<k></k>
 
 5
 Yes.
+<k></k>
 
 6
 "Youth Market Trends in the Dining Industry".
+<k></k>
 
 7
 I beg your pardon?
+<k></k>
 
 8
 My research last semester was on this topic.
+<k></k>
 
 9
 Do go on.
+<k></k>
 
 10
 Well, in general, younger customers prefer casual dining.
+<k></k>
 
 11
 Yes.
+<k></k>
 
 12
 They like finger food.
+<k></k>
 
 13
 In fact, they often order appetizers.
+<k></k>
 
 14
 In the bar, they prefer beer and wine to hard liquor.
+<k></k>
 
 15
 Is that information useful?
+<k></k>
 
 16
 Absolutely. Let me ask you a question.
+<k></k>
 
 17
 Do they prefer large portions?
+<k></k>
 
 18
 I mean, is that important?
+<k></k>
 
 19
 Sure. They like large portions,
+<k></k>
 
 20
 but they prefer lower prices.
+<k></k>
 
 21
 After all, they're not making much money yet!
+<k></k>
 
 22
 Is that the voice of experience, Dean?
+<k></k>
 
 23
 Highly researched, of course.
+<k></k>
 

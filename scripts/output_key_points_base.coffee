@@ -22,7 +22,7 @@ buildStringFromJson = (file) ->
   datas = require "../#{dataPath}/#{file}"
   lines = []
   _.each datas, (data) ->
-    lines.push data.sentenceNo, data.english + '\n'
+    lines.push data.sentenceNo, data.english, '<k></k>' + '\n'
 
   newName = file.replace /.srt.json/, '.txt'
 
@@ -33,3 +33,5 @@ buildStringFromJson = (file) ->
         process.exit 1
 
       console.log "write success: #{newName}"
+
+# coffee scripts/output_key_points_base.coffee [28,29,32,33] #方括号表示可选参数

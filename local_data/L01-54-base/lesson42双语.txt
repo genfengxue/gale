@@ -1,81 +1,108 @@
 1
 So,Kevin,what do you think?
+<k></k>
 
 2
 Elena,I haven't met her yet,have I?
+<k></k>
 
 3
 I know.But does she sound interesting?
+<k></k>
 
 4
 Yes.From what you've told me,she sounds lovely.
+<k></k>
 
 5
 She said the same thing about you.
+<k></k>
 
 6
 What?
+<k></k>
 
 7
 When I described you...
+<k></k>
 
 8
 What did you say?
+<k></k>
 
 9
 Well,you know...
+<k></k>
 
 10
 Come on,Elena.
+<k></k>
 
 11
 I said,"He's tall.He's good-looking.
+<k></k>
 
 12
 He's nice.And he's very funny."
+<k></k>
 
 13
 If you can understand his accent.
+<k></k>
 
 14
 Did you tell her I used to work as a physicist?
+<k></k>
 
 15
 Good on you,mate.
+<k></k>
 
 16
 Kevin,you used to be a physicist?
+<k></k>
 
 17
 No,but it sounds so impressive,doesn't it?
+<k></k>
 
 18
 Dean.
+<k></k>
 
 19
 Kevin.
+<k></k>
 
 20
 Elena.
+<k></k>
 
 21
 Elena!
+<k></k>
 
 22
 Heather!
+<k></k>
 
 23
 Dean!
+<k></k>
 
 24
 Heather!
+<k></k>
 
 25
 And you must be Heather.
+<k></k>
 
 26
 Heather,this is Kevin.
+<k></k>
 
 27
 Right,the physicist.Nice to meet you.
+<k></k>
 
