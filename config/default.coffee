@@ -8,5 +8,5 @@ module.exports =
   mongo:
     uri: 'mongodb://localhost/gale'
   secrets:
-    session: process.env.EXPRESS_SECRET or 'budweiser-secret'
+    session: process.env.EXPRESS_SECRET or 'gale-secret'
   tokenExpiresInMinutes: 60 * 24 * 7
