@@ -19,5 +19,4 @@ fs.readdir dataPath, (err, files) ->
     needToProcess = files
 
   for file in needToProcess
-    datas = SentenceUtils.buildKeyPointsForImportToSentence file
-    console.log datas[datas.length - 1].keyPoints
+    datas = SentenceUtils.importKeyPoints file
