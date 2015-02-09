@@ -26,6 +26,7 @@
     "ejs": "^2.2.3",
     "express": "^4.11.1",
     "express-jwt": "^1.0.0",
+    "express-validator": "^2.8.0",
     "grunt": "^0.4.5",
     "jsonwebtoken": "^3.2.2",
     "lodash": "^2.4.1",
