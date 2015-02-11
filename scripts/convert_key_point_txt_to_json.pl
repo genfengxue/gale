@@ -22,14 +22,14 @@ for my $file (@files) {
     my @snippets = split /(`.*?`)/, $sentence;
 #    print scalar @snippets;
     my @keyIndexes = ();
-    my $from = 0;
+    my $from = 0; ##这个变量非常关键，用来跟踪关键词出现的时候的位置
     for my $snippet (@snippets) {
       if ($snippet =~ /^`(.+)`$/) {
         my $keyStr = $1;
         $keyStr =~ s/[^a-zA-Z0-9_-]+/ /g; #将非法单词字符都转为空格
         $keyStr =~ s/^\s+|\s+$//g; #去掉首尾空白
         my @keys = split /\s+/, $keyStr; #根据空白切割成单词
-        push @keyIndexes, ++$from for @keys;
+        push @keyIndexes, ++$from for @keys; #将关键词对应的索引位置放到数组中去
 #        for (@keys) {
 #          print "$_\n";
 #        }
@@ -40,13 +40,27 @@ for my $file (@files) {
         $from += scalar @words;
       }
     }
-    print "@keyIndexes\n";
+#    print "@keyIndexes\n";
     my $key = join ",", @keyIndexes;
     push @{ $result->{$lessonNo}->{$sentenceNo}->{$key} }, "1";
 #    push @{ $result->{$lessonNo}->{$sentenceNo}->{$key} }, $text;
   }
-#  write_file("../../$KP_DIR/$file.json", json_encode($result));
   print Dumper $result;
+
+  my $shouldDie = 0;
+  for my $sentenceNo (keys %{ $result->{$lessonNo} }) {
+    my %seen = ();
+    my @duplicated = ();
+    for my $key (keys %{ $result->{$lessonNo}->{$sentenceNo} }) {
+      @duplicated = grep { $seen{$_}++ } (split /,/, $key);
+      if (@duplicated) {
+        print "$lessonNo $sentenceNo duplicated: @duplicated\n";
+        $shouldDie = 1;
+      }
+    }
+  }
+  die if $shouldDie;
+#  write_file("../../$KP_DIR/$file.json", json_encode($result));
 }
 
 __END__
