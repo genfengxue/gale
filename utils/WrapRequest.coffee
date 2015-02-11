@@ -60,11 +60,14 @@ class WrapRequest
     .done()
 
 
-  wrapIndex: (req, res, next, conditions = {}) ->
-#    conditions.deleteFlag = {$ne: true}
-    logger.info 'index conditions:', conditions
+  wrapIndex: (req, res, next, findParams = {}) ->
+    unless findParams.conditions then findParams.conditions = {}
+    unless findParams.selects    then findParams.selects = null
+    unless findParams.options    then findParams.options = {}
 
-    mongoQuery = @Model.find conditions
+    logger.info 'index conditions:', findParams.conditions
+
+    mongoQuery = @Model.find findParams.conditions, findParams.selects, findParams.options
     mongoQuery = @populateQuery mongoQuery, @Model.populates?.index
 
     mongoQuery.execQ()
