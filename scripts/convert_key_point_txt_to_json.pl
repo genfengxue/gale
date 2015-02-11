@@ -42,8 +42,8 @@ for my $file (@files) {
     }
 #    print "@keyIndexes\n";
     my $key = join ",", @keyIndexes;
-    push @{ $result->{$lessonNo}->{$sentenceNo}->{$key} }, "1";
-#    push @{ $result->{$lessonNo}->{$sentenceNo}->{$key} }, $text;
+#    push @{ $result->{$lessonNo}->{$sentenceNo}->{$key} }, "1";
+    push @{ $result->{$lessonNo}->{$sentenceNo}->{$key} }, $text;
   }
   print Dumper $result;
 
@@ -60,7 +60,7 @@ for my $file (@files) {
     }
   }
   die if $shouldDie;
-#  write_file("../../$KP_DIR/$file.json", json_encode($result));
+  write_file("../../$KP_DIR/$file.json", json_encode($result));
 }
 
 __END__
