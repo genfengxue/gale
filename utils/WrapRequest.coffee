@@ -60,8 +60,8 @@ class WrapRequest
     .done()
 
 
-  wrapIndex: (req, res, next, conditions) ->
-    conditions.deleteFlag = {$ne: true}
+  wrapIndex: (req, res, next, conditions = {}) ->
+#    conditions.deleteFlag = {$ne: true}
     logger.info 'index conditions:', conditions
 
     mongoQuery = @Model.find conditions

@@ -32,11 +32,11 @@ class SentenceUtils
       .then (doc) ->
         keyPoint.kps.push(
           kpId: doc._id
-          isPrimary: true
         )
 
     Q.all promises
     .then () ->
+      keyPoint.kps[0].isPrimary = true #一个key上挂多个知识点时，第一个为primary
       return keyPoint
 
 exports.SentenceUtils = SentenceUtils
