@@ -31,7 +31,7 @@ class SentenceUtils
       KeyPoint.createQ text: text
       .then (doc) ->
         keyPoint.kps.push(
-          kpId: doc._id
+          kp: doc._id
         )
 
     Q.all promises

@@ -5,6 +5,10 @@ BaseModel = (require '../../common/BaseModel').BaseModel
 
 exports.Sentence = BaseModel.subclass
   classname: 'Sentence'
+  populates:
+    index: [
+      path: 'keyPoints.kps.kp'
+    ]
   initialize: ($super) ->
     @schema = new Schema
       lessonNo:
@@ -24,7 +28,7 @@ exports.Sentence = BaseModel.subclass
       keyPoints: [
         key: String
         kps: [
-          kpId:
+          kp:
             type: Schema.Types.ObjectId
             ref : "key_point"
           isPrimary:
