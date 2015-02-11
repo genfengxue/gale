@@ -20,3 +20,5 @@ fs.readdir dataPath, (err, files) ->
 
   for file in needToProcess
     datas = SentenceUtils.importKeyPoints file
+
+# coffee scripts/load_key_point_json_to_db.coffee
