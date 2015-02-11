@@ -8,7 +8,7 @@ grill a fish=把一条鱼烤熟
 a grilled fish=一条烤鱼</k>
 
 1
-Pam,give me a `garden salad and a grilled` fish appetizer.
+Pam,give me a `garden salad` and a grilled fish appetizer.
 <k>['sæləd]
 色拉
 中文的色拉是音译
@@ -59,7 +59,7 @@ special表示特色的或特价的
 </k>
 
 5
-And `a moussaka special and fetucine Alfredo`,
+And a moussaka special and `fetucine Alfredo`,
 <k>fetucine是一种意大利面食
 /fetə'tʃɪni/   /æl'frɪdəu/
 </k>
