@@ -33,6 +33,16 @@ app.use(morgan('combined', {stream: accessLog}))
 app.use(morgan('dev'))
 
 app.use(express.static(path.join(__dirname, 'public')))
+#app.use(express.static(path.join(__dirname, 'client')))
+
+app.use((req, res, next) ->
+  res.header('Access-Control-Allow-Origin', '*')
+  res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTION,PATCH')
+  res.header('Access-Control-Allow-Headers', 'Content-Type,Authorization')
+
+  next()
+)
+
 app.set('views', __dirname + '/views')
 app.set('view engine', 'ejs')
 
