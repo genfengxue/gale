@@ -1,0 +1,45 @@
+{
+   "52" : {
+      "25" : {
+         "1" : [
+            "key point text"
+         ]
+      },
+      "6" : {
+         "11" : [
+            "key point text"
+         ],
+         "12" : [
+            "key point text"
+         ]
+      },
+      "11" : {
+         "3,4,5" : [
+            "key point text"
+         ]
+      },
+      "1" : {
+         "2,3,4,5" : [
+            "key point text"
+         ]
+      },
+      "24" : {
+         "3,4,5" : [
+            "key point text"
+         ]
+      },
+      "16" : {
+         "2,4" : [
+            "key point text"
+         ]
+      },
+      "13" : {
+         "10,11" : [
+            "key point text"
+         ],
+         "1,2,3,4,5,6,7" : [
+            "key point text"
+         ]
+      }
+   }
+}
