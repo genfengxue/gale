@@ -16,7 +16,7 @@ for my $file (@files) {
   my $lessonNo = Gale::getLessonNo($file);
   my $result = {};
   my $fileContent = read_file($file);
-  while ($fileContent =~ m#(\d+)\n(.*?)\n<k>(.*?)</k>#sg) {
+  while ($fileContent =~ m#(?<![^\n])(\d+)\n(.+?)\n<k>(.*?)</k>#sg) { #(?<![^\n]) 表示在那个位置之前除了\n，其他都是非法字符
     next unless $3;
     my ($sentenceNo, $sentence, $text) = (int($1), $2, $3);
     my @snippets = split /(`.*?`)/, $sentence;
@@ -26,7 +26,7 @@ for my $file (@files) {
     for my $snippet (@snippets) {
       if ($snippet =~ /^`(.+)`$/) {
         my $keyStr = $1;
-        $keyStr =~ s/[^a-zA-Z0-9_-]+/ /g; #将非法单词字符都转为空格
+        $keyStr =~ s/[^a-zA-Z0-9'_-]+/ /g; #将非法单词字符都转为空格
         $keyStr =~ s/^\s+|\s+$//g; #去掉首尾空白
         my @keys = split /\s+/, $keyStr; #根据空白切割成单词
         push @keyIndexes, ++$from for @keys; #将关键词对应的索引位置放到数组中去
@@ -34,7 +34,7 @@ for my $file (@files) {
 #          print "$_\n";
 #        }
       } else {
-        $snippet =~ s/[^a-zA-Z0-9_-]+/ /g; #将非法单词字符都转为空格
+        $snippet =~ s/[^a-zA-Z0-9'_-]+/ /g; #将非法单词字符都转为空格
         $snippet =~ s/^\s+|\s+$//g; #去掉首尾空白
         my @words = split /\s+/, $snippet;
         $from += scalar @words;
@@ -42,8 +42,8 @@ for my $file (@files) {
     }
 #    print "@keyIndexes\n";
     my $key = join ",", @keyIndexes;
-#    push @{ $result->{$lessonNo}->{$sentenceNo}->{$key} }, "1";
-    push @{ $result->{$lessonNo}->{$sentenceNo}->{$key} }, $text;
+    push @{ $result->{$lessonNo}->{$sentenceNo}->{$key} }, "key point text";
+#    push @{ $result->{$lessonNo}->{$sentenceNo}->{$key} }, $text;
   }
   print Dumper $result;
 
