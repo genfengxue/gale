@@ -42,8 +42,8 @@ for my $file (@files) {
     }
 #    print "@keyIndexes\n";
     my $key = join ",", @keyIndexes;
-    push @{ $result->{$lessonNo}->{$sentenceNo}->{$key} }, "key point text";
-#    push @{ $result->{$lessonNo}->{$sentenceNo}->{$key} }, $text;
+#    push @{ $result->{$lessonNo}->{$sentenceNo}->{$key} }, "key point text";
+    push @{ $result->{$lessonNo}->{$sentenceNo}->{$key} }, $text;
   }
   print Dumper $result;
 
