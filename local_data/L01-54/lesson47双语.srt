@@ -5,12 +5,12 @@ Two suites for those dates are available.
 
 2
 00:00:11,733 --> 00:00:12,392
-Yes,I'll hold.
+Yes, I'll hold.
 Yes, 我不会挂.
 
 3
 00:00:13,427 --> 00:00:16,127
-Carl.Do rock stars ever stay here?
+Carl. Do rock stars ever stay here?
 Carl. 摇滚歌星们在这里住过吗?
 
 4
@@ -40,12 +40,12 @@ Snakes?
 
 9
 00:00:26,666 --> 00:00:29,985
-Sorry. Yes,gladly.Uh huh.
+Sorry. Yes, gladly. Uh huh.
 Sorry. Yes, 愿意效劳. Uh huh.
 
 10
 00:00:30,736 --> 00:00:32,810
-The restaurant closes at 2:00 a.m.
+The restaurant closes at 2:00 a. m.
 餐厅凌晨两点关门.
 
 11
@@ -55,7 +55,7 @@ but of course there is room service available at all times.
 
 12
 00:00:37,035 --> 00:00:37,992
-Yes,I'll hold.
+Yes, I'll hold.
 Yes, 我不会挂.
 
 13
@@ -125,7 +125,7 @@ James Slipper. 他的真名是James Slipp...
 
 26
 00:01:13,178 --> 00:01:16,594
-Yes.Yes. Confirm for those dates.
+Yes. Yes. Confirm for those dates.
 Yes.Yes. 确认一下日期.
 
 27
@@ -135,7 +135,7 @@ Yes. 我们期待着您的到来.
 
 28
 00:01:20,478 --> 00:01:22,120
-So,he throws his guitar into the audience.
+So, he throws his guitar into the audience.
 So,他真把吉他扔到观众中去.
 
 29

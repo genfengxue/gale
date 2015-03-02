@@ -5,12 +5,12 @@ Quercio?
 
 2
 00:00:14,856 --> 00:00:18,634
-Yes.Q-U-E-R-C-I-O.Quercio.
+Yes. Q-U-E-R-C-I-O. Quercio.
 对. Q-U-E-R-C-I-O. Quercio.
 
 3
 00:00:19,844 --> 00:00:21,557
-Oh yes,here it is.
+Oh yes, here it is.
 Oh yes, 它在这呢
 
 4
@@ -45,12 +45,12 @@ My name's Barbara Seaton.
 
 10
 00:00:34,416 --> 00:00:36,787
-Barbara Seaton,of the New York Library?
+Barbara Seaton, of the New York Library?
 Barbara Seaton, 纽约图书馆的?
 
 11
 00:00:36,788 --> 00:00:39,314
--Tony Quercio,Watson's Bookstores?  -Yes.
+-Tony Quercio, Watson's Bookstores?  -Yes.
 -Tony Quercio, Watson书店?  -对
 
 12
@@ -85,7 +85,7 @@ That's all right.
 
 18
 00:00:47,872 --> 00:00:50,276
-Mr.Quercio.Room 412.
+Mr. Quercio. Room 412.
 Quercio先生. 房间412
 
 19
@@ -95,12 +95,12 @@ Quercio先生. 房间412
 
 20
 00:00:52,219 --> 00:00:54,714
-Carl? Room 412,please.
+Carl? Room 412, please.
 Carl? 房间412, 请.
 
 21
 00:00:54,992 --> 00:00:57,013
-Well,I'll talk to you later,Barbara.
+Well, I'll talk to you later, Barbara.
 那个, 我之后再跟你聊, Barbara.
 
 22

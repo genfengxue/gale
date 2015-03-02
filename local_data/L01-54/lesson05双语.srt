@@ -1,6 +1,6 @@
 1
 00:00:08,797 --> 00:00:12,917
-That's Thursday,November 17th,at the hotel.
+That's Thursday, November 17th, at the hotel.
 那是星期四, 11月17日, 在酒店.
 
 2
@@ -20,7 +20,7 @@ With coffee.
 
 5
 00:00:18,572 --> 00:00:21,800
-Yes.Coffee starts at 8:30 and ends at 9.
+Yes. Coffee starts at 8:30 and ends at 9.
 是的. 咖啡开始于8:30, 结束于9点.
 
 6
@@ -100,7 +100,7 @@ Is it eleven already?
 
 21
 00:00:54,430 --> 00:00:57,063
-No,no.Actually,it's 10:30.
+No, no. Actually, it's 10:30.
 没, 没. 事实呢, 是10:30.
 
 22
@@ -110,11 +110,11 @@ I set my watch half an hour fast.
 
 23
 00:00:59,419 --> 00:01:00,728
-You're never late,are you?
+You're never late, are you?
 你永远不迟到, 是吗?
 
 24
 00:01:00,729 --> 00:01:02,575
-Never.I can't be!
+Never. I can't be!
 永不. 我不能(迟到)!
 

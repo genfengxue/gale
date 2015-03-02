@@ -10,7 +10,7 @@ have you any idea how hard I work to stay in shape?
 
 3
 00:00:11,894 --> 00:00:12,275
-No,Sharon.
+No, Sharon.
 No,Sharon.
 
 4
@@ -20,12 +20,12 @@ Have you any idea how much work I have to do today?
 
 5
 00:00:15,480 --> 00:00:16,954
-See,on Mondays I go swimming.
+See, on Mondays I go swimming.
 你看, 星期一, 我去游泳.
 
 6
 00:00:17,365 --> 00:00:19,220
-On Tuesdays,I lift weights at the gym.
+On Tuesdays, I lift weights at the gym.
 星期二, 我在健身房举重.
 
 7
@@ -35,7 +35,7 @@ On Wednesdays....
 
 8
 00:00:20,334 --> 00:00:22,912
-Let me guess.You enter triathlons.
+Let me guess. You enter triathlons.
 让我猜猜. 你参加三项全能运动.
 
 9
@@ -45,12 +45,12 @@ I run on Wednesdays.
 
 10
 00:00:25,160 --> 00:00:26,720
-Thursday mornings,I go back to the gym.
+Thursday mornings, I go back to the gym.
 星期四上午, 再去体操房.
 
 11
 00:00:27,203 --> 00:00:29,111
-And Fridays,I take a tennis lesson.
+And Fridays, I take a tennis lesson.
 星期五, 我上网球课.
 
 12
@@ -65,7 +65,7 @@ All to maintain my youthful figure.
 
 14
 00:00:33,740 --> 00:00:34,944
-Now,let's look at your new menu.
+Now, let's look at your new menu.
 现在,让我们看看你的新菜单.
 
 15
@@ -75,7 +75,7 @@ Sharon...
 
 16
 00:00:36,046 --> 00:00:38,145
-Jarmusch,there's cream and butter all over this thing.
+Jarmusch, there's cream and butter all over this thing.
 Jarmusch, 菜里全是奶油和黄油.
 
 17
@@ -125,6 +125,6 @@ Excuse me.
 
 26
 00:00:57,321 --> 00:00:59,878
-Jarmusch,a word when you get a moment,please.
+Jarmusch, a word when you get a moment, please.
 Jarmusch, 在你有空的时侯,我可以跟你谈谈吗?
 

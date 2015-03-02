@@ -1,6 +1,6 @@
 1
 00:00:06,820 --> 00:00:09,580
-Come in Dean.please sit down.
+Come in Dean. please sit down.
 进来 Dean. 请坐下.
 
 2
@@ -20,12 +20,12 @@ Sure.
 
 5
 00:00:22,040 --> 00:00:24,430
-Can you use a word processor,Dean?
+Can you use a word processor, Dean?
 你能用文字处理软件吗, Dean?
 
 6
 00:00:24,430 --> 00:00:25,840
-Yes,I can.
+Yes, I can.
 是, 我能.
 
 7
@@ -70,7 +70,7 @@ I see.
 
 15
 00:00:41,420 --> 00:00:44,440
-Well,you can't translate Spanish for us.
+Well, you can't translate Spanish for us.
 Well,你不能翻译西班牙语  为我们.
 
 16
@@ -85,7 +85,7 @@ I can do that.
 
 18
 00:00:49,460 --> 00:00:52,040
-All right,Dean.Talk to William at the front desk.
+All right, Dean. Talk to William at the front desk.
 好的, Dean. 和William聊聊  在前台.
 
 19
@@ -100,7 +100,7 @@ Great.
 
 21
 00:00:54,920 --> 00:00:56,640
-You can find your way,can't you?
+You can find your way, can't you?
 你能找到你的路, 不能吗?
 
 22
@@ -110,7 +110,7 @@ Sure.
 
 23
 00:00:57,570 --> 00:00:59,780
-Good luck.And welcome to the team.
+Good luck. And welcome to the team.
 好运. 并且欢迎来到团队
 
 24

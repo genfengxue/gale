@@ -1,6 +1,6 @@
 1
 00:00:11,281 --> 00:00:13,827
-George,we can talk,but it can't take long.
+George, we can talk, but it can't take long.
 George, 我们可以聊, 但它不能占用太久.
 
 2
@@ -70,7 +70,7 @@ I'm not an artist.
 
 15
 00:00:46,037 --> 00:00:48,052
-Ok.so what's the idea?
+Ok. so what's the idea?
 Ok.so点子是什么?
 
 16
@@ -100,7 +100,7 @@ And that's us. We're the experts.
 
 21
 00:01:00,364 --> 00:01:01,769
-It's a good thought,George.
+It's a good thought, George.
 它是一个好想法, Gorge.
 
 22

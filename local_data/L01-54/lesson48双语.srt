@@ -5,7 +5,7 @@ Let's get the show on the road.
 
 2
 00:00:10,913 --> 00:00:14,655
-Camera,and action.
+Camera, and action.
 摄像机,开始!
 
 3
@@ -40,7 +40,7 @@ A good hotel should be able to...
 
 9
 00:00:41,219 --> 00:00:43,452
-Cut,and action.
+Cut, and action.
 减掉, 开始.
 
 10
@@ -80,7 +80,7 @@ you can expect the best from us and you shouldn't worry.
 
 17
 00:02:01,312 --> 00:02:03,379
-Cut. Nice job,Nina.
+Cut. Nice job, Nina.
 减掉. 干得不错, Nina.
 
 18

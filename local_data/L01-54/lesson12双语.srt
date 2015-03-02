@@ -1,6 +1,6 @@
 1
 00:00:06,340 --> 00:00:09,080
-Pam,give me a garden salad and a grilled fish appetizer.
+Pam, give me a garden salad and a grilled fish appetizer.
 Pam, 给我一个果园沙拉和一个烤鱼开胃菜.
 
 2
@@ -10,7 +10,7 @@ Right.
 
 3
 00:00:11,340 --> 00:00:12,620
-Pam,please turn off that burner.
+Pam, please turn off that burner.
 Pam,请关掉那个炉子.
 
 4
@@ -30,7 +30,7 @@ no cream.
 
 7
 00:00:18,320 --> 00:00:19,860
-Hand me those bowls,please.
+Hand me those bowls, please.
 递给我那些碗, 请.
 
 8
@@ -45,7 +45,7 @@ I can't give a customer Alfredo sauce with no cream.
 
 10
 00:00:25,860 --> 00:00:29,740
-Fettucine Alfredo: pasta with cream,cheese,pepper...
+Fettucine Alfredo: pasta with cream, cheese, pepper...
 Fetucine Alfredo: 意大利面带有奶油,奶酪和胡椒粉...
 
 11
@@ -55,7 +55,7 @@ Use milk.
 
 12
 00:00:30,960 --> 00:00:33,100
-For Alfredo sauce,I need cream.
+For Alfredo sauce, I need cream.
 对于Alfredo sauce, 我需要奶油.
 
 13
@@ -90,7 +90,7 @@ I am going to put extra cream in it.
 
 19
 00:00:46,380 --> 00:00:48,820
-Oh.Do you want to give him high cholesterol?
+Oh. Do you want to give him high cholesterol?
 Oh. 你想要给他 高胆固醇(high cholesterol)?
 
 20
@@ -115,6 +115,6 @@ What am I going to do with you?
 
 24
 00:01:11,300 --> 00:01:13,580
-It's not me,Jarmusch. I like cream.
+It's not me, Jarmusch. I like cream.
 不是我, Jarmusch. 我喜欢奶油
 

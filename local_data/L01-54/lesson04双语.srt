@@ -1,6 +1,6 @@
 1
 00:00:08,997 --> 00:00:13,190
-Hi Sherise.Hello Sherise.
+Hi Sherise. Hello Sherise.
 嗨 Sherise. 哈喽 Sherise.
 
 2
@@ -15,7 +15,7 @@ Sherise去看电影了吗?
 
 4
 00:00:18,674 --> 00:00:21,115
-No,she hasn't.
+No, she hasn't.
 不, 她没有.
 
 5
@@ -35,7 +35,7 @@ Oh, 早安.
 
 8
 00:00:28,074 --> 00:00:31,230
-Good morning,Wendy. Friend of yours?
+Good morning, Wendy. Friend of yours?
 早安, Wendy. 你朋友?
 
 9
@@ -55,7 +55,7 @@ Sherise在餐厅里
 
 12
 00:00:38,404 --> 00:00:41,506
-The question is,who is Sherise?
+The question is, who is Sherise?
  问题是, Sherise是谁?
 
 13
@@ -65,7 +65,7 @@ Nina的宝宝
 
 14
 00:00:42,909 --> 00:00:45,308
-Oh.And where is Nina?
+Oh. And where is Nina?
  Oh.那么Nina在哪里?
 
 15
@@ -105,7 +105,7 @@ Has Sherise gone to the meeting?
 
 22
 00:01:04,801 --> 00:01:07,245
-No,she hasn't.
+No, she hasn't.
 不, 她没有
 
 23
@@ -115,22 +115,22 @@ Why isn't Sherise at the Children's Center?
 
 24
 00:01:09,762 --> 00:01:12,166
-Or at home,at Sherise's house?
+Or at home, at Sherise's house?
 或在家, 在Sherise的房子里?
 
 25
 00:01:12,526 --> 00:01:15,478
-Nina's baby sitter is sick,OK?
+Nina's baby sitter is sick, OK?
 Nina的保姆生病了,ok?
 
 26
 00:01:15,479 --> 00:01:18,450
-Oh,so the baby sitter's gone home.
+Oh, so the baby sitter's gone home.
 Oh,so 保姆(已经)回家去了.
 
 27
 00:01:18,451 --> 00:01:22,499
-But not Sherise!Sherise is at work.
+But not Sherise! Sherise is at work.
 但Sherise没有! Sherise在工作.
 
 28
@@ -140,7 +140,7 @@ Excuse me?
 
 29
 00:01:23,659 --> 00:01:27,867
-Yes.Can I help...? Can I help you?
+Yes. Can I help...? Can I help you?
 是.我可以帮...? 我可以帮你吗?
 
 30
@@ -150,6 +150,6 @@ Do you know where the Children's center is?
 
 31
 00:01:32,000 --> 00:01:33,556
-Why,yes.
+Why, yes.
 Why,yes.
 

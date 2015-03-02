@@ -15,17 +15,17 @@ Do you have my booking? Yamamoto?
 
 5
 00:00:15,107 --> 00:00:20,035
-How do you spell that,please?  Y-A-M-A-M-O-T-O.
+How do you spell that, please?  Y-A-M-A-M-O-T-O.
 你怎么拼写它,请问?  Y-A-M-A-M-O-T-O.
 
 6
 00:00:21,689 --> 00:00:26,109
-Here we are.That's a suite on the 24th floor,with a lovely view of the park.
+Here we are. That's a suite on the 24th floor, with a lovely view of the park.
 找到了! 是一个套房 在24楼, 带有一个好看的视野  公园的.
 
 7
 00:00:27,091 --> 00:00:30,436
--Great.  -And we're connecting the computer,fax machine,
+-Great.  -And we're connecting the computer, fax machine,
 -很好.  -并且我们正在连接电脑, 传真机,
 
 8
@@ -35,17 +35,17 @@ and extra phone in your room right now.
 
 9
 00:00:33,446 --> 00:00:34,883
-Very good.Here's my card.
+Very good. Here's my card.
 非常好. 这是我的卡.
 
 10
 00:00:36,507 --> 00:00:39,572
-Can you tell me the hotel phone and fax numbers,please?
+Can you tell me the hotel phone and fax numbers, please?
 你能告诉我 酒店的电话和传真号码吗, 请?
 
 11
 00:00:40,250 --> 00:00:47,452
-Of course.The hotel phone is area code 617 437 1890.
+Of course. The hotel phone is area code 617 437 1890.
 当然了.酒店的电话是 区号 617 437 1890.
 
 12
@@ -60,7 +60,7 @@ Your fax number is 617 437 1888.
 
 14
 00:00:59,143 --> 00:01:01,727
-Your card and your key,Mr.Yamamoto.
+Your card and your key, Mr. Yamamoto.
 你的卡 和你的钥匙, Yamamoto先生.
 
 15

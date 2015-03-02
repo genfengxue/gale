@@ -5,17 +5,17 @@ What are you doing?
 
 2
 00:00:10,772 --> 00:00:12,272
-Just taking your bags,sir.
+Just taking your bags, sir.
 只是在拿你的包, 先生.
 
 3
 00:00:12,273 --> 00:00:14,418
-Ah...So,Mr.Yamamoto?
+Ah... So, Mr. Yamamoto?
 Ah...So, Yamamoto先生?
 
 4
 00:00:14,419 --> 00:00:15,270
-Yes,yes.
+Yes, yes.
 是的, 是的.
 
 5
@@ -35,7 +35,7 @@ The airport?
 
 8
 00:00:19,627 --> 00:00:22,068
-Well,no. The trolley's going outside to the shuttle bus.
+Well, no. The trolley's going outside to the shuttle bus.
 Well, 不. 手推车去外边的往返巴士上.
 
 9
@@ -80,7 +80,7 @@ Carl! Carl!
 
 17
 00:00:36,222 --> 00:00:38,870
-The bags go to Mr.Yamamoto's room!
+The bags go to Mr. Yamamoto's room!
 那些包去往Yamamoto先生的房间!
 
 18
@@ -120,7 +120,7 @@ What's happening now?
 
 25
 00:01:12,419 --> 00:01:15,359
-Mr.Yamamoto's bags are on their way to the airport..
+Mr. Yamamoto's bags are on their way to the airport..
 Yamamoto先生的行李 正在去往机场...
 
 26

@@ -1,16 +1,16 @@
 1
 00:00:09,039 --> 00:00:10,248
-Hey there.How are you doing?
+Hey there. How are you doing?
 Hey there. 你好吗?
 
 2
 00:00:10,601 --> 00:00:12,418
-Hi Pam.You know George,don't you?
+Hi Pam. You know George, don't you?
 Hi Pam. 你认识George, 对吗?
 
 3
 00:00:12,821 --> 00:00:13,240
-Sure.Hi.
+Sure. Hi.
 当然. 你好.
 
 4
@@ -25,22 +25,22 @@ Jarmusch下午给我放假.
 
 6
 00:00:16,916 --> 00:00:19,216
-We were working until 2a.m.last night.
+We were working until 2a. m. last night.
 昨晚我们一直工作到凌晨两点.
 
 7
 00:00:19,787 --> 00:00:20,860
-You weren't cooking,were you?
+You weren't cooking, were you?
 你们不是在烧菜吧?
 
 8
 00:00:21,374 --> 00:00:22,901
-No.We were finishing the new menu.
+No. We were finishing the new menu.
 No. 我们在拟定新菜单.
 
 9
 00:00:23,232 --> 00:00:26,480
-Jarmusch has changed everything.Now it's classic cuisine.
+Jarmusch has changed everything. Now it's classic cuisine.
 Jarmusch把什么都改变了. 现在是经典菜品.
 
 10
@@ -85,7 +85,7 @@ Jarmusch正在给Simon和Nino看呢,在我离开的时候.
 
 18
 00:00:43,026 --> 00:00:44,060
-Sharon asked for it,too.
+Sharon asked for it, too.
 Sharon也要求要看.
 
 19
@@ -95,7 +95,7 @@ Everyone has their two cents to put in.
 
 20
 00:00:46,607 --> 00:00:48,955
-So,who was cooking while you were planning?
+So, who was cooking while you were planning?
 那么, 你们在拟菜单的时候谁在做饭呢?
 
 21
@@ -115,6 +115,6 @@ Would you like to join us?
 
 24
 00:00:55,564 --> 00:00:59,266
-Thanks,but the last thing I want to do is look at a menu.
+Thanks, but the last thing I want to do is look at a menu.
 谢谢, 我现在最不愿意的事情就是看菜单了.
 

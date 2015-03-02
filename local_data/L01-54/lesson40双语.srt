@@ -51,7 +51,7 @@ Is this an emergency?
 11
 00:00:29,389 --> 00:00:31,996
 No,no.Nothing to worry about.Much.
-No,no. 不着急. 不是非常着急.
+No, no. 不着急. 不是非常着急.
 
 12
 00:00:35,074 --> 00:00:36,807

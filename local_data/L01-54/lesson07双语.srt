@@ -20,7 +20,7 @@ but vegetarian.
 
 5
 00:00:14,192 --> 00:00:15,542
-You're vegetarian,are you?
+You're vegetarian, are you?
 你是素食主义的，是吗？
 
 6
@@ -45,7 +45,7 @@ I don't like fish at all.
 
 10
 00:00:23,964 --> 00:00:27,186
-And I love bacon.It's my favorite breakfast.
+And I love bacon. It's my favorite breakfast.
 我爱培根.  它是我最爱的早餐
 
 11
@@ -75,7 +75,7 @@ She's just a picky eater.
 
 16
 00:00:40,264 --> 00:00:45,208
-Spinach,broccoli,and cauliflower. Ugh.
+Spinach, broccoli, and cauliflower. Ugh.
 菠菜(spinach), 西兰花(broccoli) 和菜花(cauliflower) Ugh.
 
 17
@@ -85,7 +85,7 @@ Do you eat cheese?
 
 18
 00:00:47,016 --> 00:00:48,688
-Kevin,I eat anything that can't look at me.
+Kevin, I eat anything that can't look at me.
 Kevin, 我吃任何东西  那些不能看着我的
 
 19
@@ -95,12 +95,12 @@ How about eggs?
 
 20
 00:00:51,984 --> 00:00:54,826
-Oh,I do not like eggs.
+Oh, I do not like eggs.
 Oh, 我不喜欢鸡蛋
 
 21
 00:00:54,827 --> 00:00:57,676
-Elena,what do you like?
+Elena, what do you like?
 Elena,你喜欢什么?
 
 22

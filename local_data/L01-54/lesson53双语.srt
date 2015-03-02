@@ -5,7 +5,7 @@ Can I help you?
 
 2
 00:00:12,696 --> 00:00:14,831
-Yes,please.We reserved some rooms.
+Yes, please. We reserved some rooms.
 Yes,please. 我们预定了些房间.
 
 3
@@ -35,7 +35,7 @@ Of course.
 
 8
 00:00:24,097 --> 00:00:25,920
-Away from traffic,and with nice views.
+Away from traffic, and with nice views.
 远离交通喧哗, 和好的视野.
 
 9
@@ -70,7 +70,7 @@ With bath.
 
 15
 00:00:37,693 --> 00:00:40,045
-Yes.And a king-size bed.
+Yes. And a king-size bed.
 Yes. 特大号床.
 
 16
@@ -105,7 +105,7 @@ Here is a list of our breakfast requirements.
 
 22
 00:00:49,121 --> 00:00:51,931
-Please warn the kitchen.Thank you.Good day.
+Please warn the kitchen. Thank you. Good day.
 请提醒厨房. 谢谢你 .再见.
 
 23

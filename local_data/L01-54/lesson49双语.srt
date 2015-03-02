@@ -1,6 +1,6 @@
 1
 00:00:10,655 --> 00:00:12,791
-Good afternoon.Do you speak English?
+Good afternoon. Do you speak English?
 下午好. 您说英语吗?
 
 2
@@ -15,12 +15,12 @@ I'm calling from the United States.
 
 4
 00:00:18,620 --> 00:00:21,228
-I'd like to speak with Milos Hermann,please.
+I'd like to speak with Milos Hermann, please.
 我想和Milos Hermann讲话, please.
 
 5
 00:00:23,238 --> 00:00:23,701
-Yes.Thank you.
+Yes. Thank you.
 Yes. 谢谢.
 
 6
@@ -30,17 +30,17 @@ Hello Milos!
 
 7
 00:00:30,792 --> 00:00:33,162
-This is Anne Holland,from the Sheraton Boston.
+This is Anne Holland, from the Sheraton Boston.
 我是Anne Holland, 来自波士顿的Sheraton.
 
 8
 00:00:36,511 --> 00:00:38,614
-Yes,me too.How are you?
+Yes, me too. How are you?
 是的, 我也是. 你好吗?
 
 9
 00:00:41,000 --> 00:00:41,873
-I'm very well,thank you.
+I'm very well, thank you.
 我很好, 谢谢.
 
 10
@@ -50,7 +50,7 @@ Excuse me?
 
 11
 00:00:46,332 --> 00:00:48,178
-No,I'm calling from Boston.
+No, I'm calling from Boston.
 不是, 我是从波士顿打来的.
 
 12
@@ -60,7 +60,7 @@ We'll have our arrival dates very soon.
 
 13
 00:00:52,522 --> 00:00:58,383
-Milos,I wonder if there's an interesting theatre or club we can go to while we're in Prague.
+Milos, I wonder if there's an interesting theatre or club we can go to while we're in Prague.
 Milos, 我想知道在布拉格(Prague)有没有好的剧院或俱乐部,我们到那儿时可以去.
 
 14
@@ -80,7 +80,7 @@ but then let's get into town for drinks and dinner.
 
 17
 00:01:17,680 --> 00:01:19,961
-Milos, tell me,is there a hair salon at the hotel?
+Milos, tell me, is there a hair salon at the hotel?
 Milos, 告诉我,饭店里有美发厅吗?
 
 18
@@ -110,7 +110,7 @@ OK then.
 
 23
 00:01:38,604 --> 00:01:41,652
-Yes. I look forward to it.Good bye.
+Yes. I look forward to it. Good bye.
 Yes. 我很期待去那儿.  再见.
 
 24
