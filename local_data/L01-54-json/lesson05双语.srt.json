@@ -4,7 +4,7 @@
       "chinese" : "那是星期四, 11月17日, 在酒店.",
       "sentenceNo" : 1,
       "timeline" : "00:00:08,797 --> 00:00:12,917",
-      "english" : "That's Thursday,November 17th,at the hotel."
+      "english" : "That's Thursday, November 17th, at the hotel."
    },
    {
       "lessonNo" : 5,
@@ -32,7 +32,7 @@
       "chinese" : "是的. 咖啡开始于8:30, 结束于9点.",
       "sentenceNo" : 5,
       "timeline" : "00:00:18,572 --> 00:00:21,800",
-      "english" : "Yes.Coffee starts at 8:30 and ends at 9."
+      "english" : "Yes. Coffee starts at 8:30 and ends at 9."
    },
    {
       "lessonNo" : 5,
@@ -144,7 +144,7 @@
       "chinese" : "没, 没. 事实呢, 是10:30.",
       "sentenceNo" : 21,
       "timeline" : "00:00:54,430 --> 00:00:57,063",
-      "english" : "No,no.Actually,it's 10:30."
+      "english" : "No, no. Actually, it's 10:30."
    },
    {
       "lessonNo" : 5,
@@ -158,13 +158,13 @@
       "chinese" : "你永远不迟到, 是吗?",
       "sentenceNo" : 23,
       "timeline" : "00:00:59,419 --> 00:01:00,728",
-      "english" : "You're never late,are you?"
+      "english" : "You're never late, are you?"
    },
    {
       "lessonNo" : 5,
       "chinese" : "永不. 我不能(迟到)!",
       "sentenceNo" : 24,
       "timeline" : "00:01:00,729 --> 00:01:02,575",
-      "english" : "Never.I can't be!"
+      "english" : "Never. I can't be!"
    }
 ]

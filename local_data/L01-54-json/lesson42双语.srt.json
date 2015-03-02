@@ -1,7 +1,7 @@
 [
    {
       "lessonNo" : 42,
-      "chinese" : "So,Kevin, 你认为怎么样?",
+      "chinese" : "So, Kevin, 你认为怎么样?",
       "sentenceNo" : 1,
       "timeline" : "00:00:23,756 --> 00:00:26,481",
       "english" : "So,Kevin,what do you think?"
@@ -64,7 +64,7 @@
    },
    {
       "lessonNo" : 42,
-      "chinese" : "Come on,Elena.",
+      "chinese" : "Come on, Elena.",
       "sentenceNo" : 10,
       "timeline" : "00:00:48,725 --> 00:00:49,750",
       "english" : "Come on,Elena."

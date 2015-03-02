@@ -4,21 +4,21 @@
       "chinese" : "Hey there. 你好吗?",
       "sentenceNo" : 1,
       "timeline" : "00:00:09,039 --> 00:00:10,248",
-      "english" : "Hey there.How are you doing?"
+      "english" : "Hey there. How are you doing?"
    },
    {
       "lessonNo" : 45,
       "chinese" : "Hi Pam. 你认识George, 对吗?",
       "sentenceNo" : 2,
       "timeline" : "00:00:10,601 --> 00:00:12,418",
-      "english" : "Hi Pam.You know George,don't you?"
+      "english" : "Hi Pam. You know George, don't you?"
    },
    {
       "lessonNo" : 45,
       "chinese" : "当然. 你好.",
       "sentenceNo" : 3,
       "timeline" : "00:00:12,821 --> 00:00:13,240",
-      "english" : "Sure.Hi."
+      "english" : "Sure. Hi."
    },
    {
       "lessonNo" : 45,
@@ -39,28 +39,28 @@
       "chinese" : "昨晚我们一直工作到凌晨两点.",
       "sentenceNo" : 6,
       "timeline" : "00:00:16,916 --> 00:00:19,216",
-      "english" : "We were working until 2a.m.last night."
+      "english" : "We were working until 2a. m. last night."
    },
    {
       "lessonNo" : 45,
       "chinese" : "你们不是在烧菜吧?",
       "sentenceNo" : 7,
       "timeline" : "00:00:19,787 --> 00:00:20,860",
-      "english" : "You weren't cooking,were you?"
+      "english" : "You weren't cooking, were you?"
    },
    {
       "lessonNo" : 45,
       "chinese" : "No. 我们在拟定新菜单.",
       "sentenceNo" : 8,
       "timeline" : "00:00:21,374 --> 00:00:22,901",
-      "english" : "No.We were finishing the new menu."
+      "english" : "No. We were finishing the new menu."
    },
    {
       "lessonNo" : 45,
       "chinese" : "Jarmusch把什么都改变了. 现在是经典菜品.",
       "sentenceNo" : 9,
       "timeline" : "00:00:23,232 --> 00:00:26,480",
-      "english" : "Jarmusch has changed everything.Now it's classic cuisine."
+      "english" : "Jarmusch has changed everything. Now it's classic cuisine."
    },
    {
       "lessonNo" : 45,
@@ -123,7 +123,7 @@
       "chinese" : "Sharon也要求要看.",
       "sentenceNo" : 18,
       "timeline" : "00:00:43,026 --> 00:00:44,060",
-      "english" : "Sharon asked for it,too."
+      "english" : "Sharon asked for it, too."
    },
    {
       "lessonNo" : 45,
@@ -137,7 +137,7 @@
       "chinese" : "那么, 你们在拟菜单的时候谁在做饭呢?",
       "sentenceNo" : 20,
       "timeline" : "00:00:46,607 --> 00:00:48,955",
-      "english" : "So,who was cooking while you were planning?"
+      "english" : "So, who was cooking while you were planning?"
    },
    {
       "lessonNo" : 45,
@@ -165,6 +165,6 @@
       "chinese" : "谢谢, 我现在最不愿意的事情就是看菜单了.",
       "sentenceNo" : 24,
       "timeline" : "00:00:55,564 --> 00:00:59,266",
-      "english" : "Thanks,but the last thing I want to do is look at a menu."
+      "english" : "Thanks, but the last thing I want to do is look at a menu."
    }
 ]
