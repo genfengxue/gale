@@ -23,7 +23,7 @@ createAll = (file) ->
   Sentence.createQ datas
   .then (results) ->
     logger.info "success: #{file}"
-    console.log results
+#    console.log results
   , (err) ->
     logger.info "fail: #{file}"
     logger.info err

@@ -26,7 +26,7 @@ for my $file (@files) {
     for my $snippet (@snippets) {
       if ($snippet =~ /^`(.+)`$/) {
         my $keyStr = $1;
-        $keyStr =~ s/[^a-zA-Z0-9'_-]+/ /g; #将非法单词字符都转为空格
+        $keyStr =~ s/[^a-zA-Z0-9'_:-]+/ /g; #将非法单词字符都转为空格
         $keyStr =~ s/^\s+|\s+$//g; #去掉首尾空白
         my @keys = split /\s+/, $keyStr; #根据空白切割成单词
         push @keyIndexes, ++$from for @keys; #将关键词对应的索引位置放到数组中去
@@ -34,7 +34,7 @@ for my $file (@files) {
 #          print "$_\n";
 #        }
       } else {
-        $snippet =~ s/[^a-zA-Z0-9'_-]+/ /g; #将非法单词字符都转为空格
+        $snippet =~ s/[^a-zA-Z0-9'_:-]+/ /g; #将非法单词字符都转为空格
         $snippet =~ s/^\s+|\s+$//g; #去掉首尾空白
         my @words = split /\s+/, $snippet;
         $from += scalar @words;
