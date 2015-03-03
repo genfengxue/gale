@@ -1,6 +1,6 @@
 1
 00:00:07,562 --> 00:00:09,805
-George,would you mind taking care of this for me?
+George, would you mind taking care of this for me?
 George, 请帮我处理这件事好吗?
 
 2
@@ -10,12 +10,12 @@ You did such a good job last time.
 
 3
 00:00:12,116 --> 00:00:14,633
-Sure.I'll do it as soon as I can.
+Sure. I'll do it as soon as I can.
 当然. 我会尽快做的.
 
 4
 00:00:15,027 --> 00:00:17,100
-Thanks ever so much.See you later.
+Thanks ever so much. See you later.
 太感谢了. 回头见
 
 5
@@ -40,12 +40,12 @@ What was that all about?
 
 9
 00:00:28,301 --> 00:00:32,504
-Oh!Sharon just wants me to arrange some transportation for a guest.
+Oh! Sharon just wants me to arrange some transportation for a guest.
 Oh! Sharon想让我为一位客人安排一下车.
 
 10
 00:00:33,519 --> 00:00:35,577
-Ah,that's not your job.
+Ah, that's not your job.
 Ah, 那不是你的工作.
 
 11
@@ -65,7 +65,7 @@ Well...
 
 14
 00:00:41,710 --> 00:00:43,567
-George,I don't think so.
+George, I don't think so.
 George, 我不这么认为.
 
 15
@@ -80,7 +80,7 @@ Right.
 
 17
 00:00:49,166 --> 00:00:52,611
-Next time,would you please tell her that you have your own work to do?
+Next time, would you please tell her that you have your own work to do?
 下次, 请你告诉她你有你自己的工作要做,好吗?
 
 18
@@ -95,6 +95,6 @@ But it won't be easy coming up against her southern charm.
 
 20
 00:00:58,341 --> 00:01:02,730
-George,why don't you just use that northern charm of yours?
+George, why don't you just use that northern charm of yours?
 George, 那你为什么不用一用你北方人的魅力呢?
 

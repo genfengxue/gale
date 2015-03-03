@@ -50,7 +50,7 @@ Yes, I have meetings there.
 
 11
 00:00:23, 405 --> 00:00:25, 395
-I'm Jim Bigelow, C.E.O. Sheraton.
+I'm Jim Bigelow, C. E. O. Sheraton.
 我是Jim Bigelow, Sheraton的总裁
 
 12
@@ -105,7 +105,7 @@ I live here in the city, so I walk everywhere.
 
 22
 00:00:46, 886 --> 00:00:51, 219
-Except when I skate. Or work,of course.
+Except when I skate. Or work, of course.
 除了当我滑冰时. 或(当我)工作时, 当然了.
 
 23

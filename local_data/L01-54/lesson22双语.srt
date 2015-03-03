@@ -5,7 +5,7 @@ Excuse me.
 
 2
 00:00:07, 740 --> 00:00:08, 610
-Hi.Can I help you?
+Hi. Can I help you?
 嗨. 我可以帮你吗?
 
 3
@@ -15,7 +15,7 @@ I have an appointment at the Blacksmith House Cafe in Cambridge.
 
 4
 00:00:11, 820 --> 00:00:12, 890
-How can I get there,please.
+How can I get there, please.
 我如何能到那里, 请问?
 
 5
@@ -55,12 +55,12 @@ Excuse me. Can you tell me where the Blacksmith House Cafe is?
 
 12
 00:00:47, 900 --> 00:00:49, 100
-Oh yeah.OK.
+Oh yeah. OK.
 Oh yeah.Ok.
 
 13
 00:00:49, 300 --> 00:00:52, 330
-Straight ahead to the end of the street,to the fork.Make a right.
+Straight ahead to the end of the street, to the fork. Make a right.
 沿着这条路直走走到头, 交叉路口向右转.
 
 14
@@ -105,12 +105,12 @@ opposite the drugstore.
 
 22
 00:02:10, 540 --> 00:02:12, 900
-Hi,Kasim! Was it difficult to get here?
+Hi, Kasim! Was it difficult to get here?
 嗨, Kasim! 到这里来困难吗?
 
 23
 00:02:13, 461 --> 00:02:14, 499
-No problem,Elliot.
+No problem, Elliot.
 不困难, Elliot.
 
 24

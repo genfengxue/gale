@@ -1,6 +1,6 @@
 1
 00:00:18, 566 --> 00:00:20, 880
-Psst. Wendy.Kevin.Come here.
+Psst. Wendy. Kevin. Come here.
 嘘(Psst). Wendy. Kevin. 过来这里.
 
 2
@@ -110,7 +110,7 @@ That's not Meredith Cain.
 
 23
 00:01:01, 598 --> 00:01:03, 464
-Hi.Can I help you?
+Hi. Can I help you?
 嗨. 我可以帮你吗?
 
 24
@@ -140,7 +140,7 @@ We were cheerleaders.
 
 29
 00:01:13, 152 --> 00:01:16, 372
-"Push'em back,push'em back,wa-ay back!"
+"Push'em back, push'em back, wa-ay back!"
 "Push'em back,push'em back,wa-ay back!"
 
 30

@@ -1,6 +1,6 @@
 1
 00:00:14, 360 --> 00:00:15, 480
-You look tired,Simon.
+You look tired, Simon.
 你看起来很累, Simon.
 
 2
@@ -70,7 +70,7 @@ I hit that ball.
 
 15
 00:00:49, 640 --> 00:00:51, 440
-It flew through the air,landed,
+It flew through the air, landed,
 它飞过空气, 落地,
 
 16
@@ -120,7 +120,7 @@ the lowest score ever.
 
 25
 00:01:12, 709 --> 00:01:15, 136
-Simon.What happened next?
+Simon. What happened next?
 Simon. 然后发生了什么?
 
 26

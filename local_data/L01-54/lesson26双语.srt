@@ -15,7 +15,7 @@ What's the score?
 
 4
 00:00:13, 740 --> 00:00:15, 000
-Zero-zero,so far.
+Zero-zero, so far.
 0比0, 截至目前.
 
 5
@@ -50,7 +50,7 @@ I think so.
 
 11
 00:00:41, 170 --> 00:00:49, 000
-And we need ... ...some fax paper.
+And we need ... ... some fax paper.
 并且我们需要... ...一些传真纸.
 
 12
@@ -60,7 +60,7 @@ How much?
 
 13
 00:00:51, 380 --> 00:00:52, 880
-Not much,I guess.
+Not much, I guess.
 不太多, 我想.
 
 14

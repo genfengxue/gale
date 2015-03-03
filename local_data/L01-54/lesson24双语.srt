@@ -15,7 +15,7 @@ My laundry...
 
 4
 00:00:13, 280 --> 00:00:14, 630
-Oh no no,you don't come here.
+Oh no no, you don't come here.
 Oh 不不, 你不用来这里.
 
 5
@@ -40,7 +40,7 @@ But this isn't mine.
 
 9
 00:00:18, 749 --> 00:00:20, 996
-Hm.What your room number?
+Hm. What your room number?
 Hm. 你的房间号是?
 
 10
@@ -80,7 +80,7 @@ Do you have a red shirt?
 
 17
 00:00:30, 570 --> 00:00:32, 040
-Yes,but this one doesn't belong to me.
+Yes, but this one doesn't belong to me.
 是的, 但是这件不是我的.
 
 18
@@ -90,12 +90,12 @@ What about blue pants?
 
 19
 00:00:34, 340 --> 00:00:36, 519
-Yes,they look like mine but they're not.
+Yes, they look like mine but they're not.
 是的, 他们看起来像我的 但是不是我的.
 
 20
 00:00:37, 920 --> 00:00:40, 510
-Mr.Davis. Your room number,your name.
+Mr. Davis. Your room number, your name.
 Mr. Davis, 你的房间号, 你的名字.
 
 21
@@ -115,11 +115,11 @@ Oh boy.
 
 24
 00:00:49, 700 --> 00:00:51, 610
-If this is mine,We have a small problem.
+If this is mine, We have a small problem.
 如果这是我的, 那么我们就有个小问题了
 
 25
 00:00:52, 495 --> 00:00:54, 528
-Small clothes,big problem.
+Small clothes, big problem.
 小衣服, 大问题.
 

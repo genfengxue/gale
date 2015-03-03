@@ -20,7 +20,7 @@ And there's a pharmacy just down the street.
 
 5
 00:00:16,841 --> 00:00:17,159
-OK,Thank you.
+OK, Thank you.
 OK, 谢谢,
 
 6
@@ -50,7 +50,7 @@ Is this an emergency?
 
 11
 00:00:29,389 --> 00:00:31,996
-No,no.Nothing to worry about.Much.
+No, no. Nothing to worry about. Much.
 No, no. 不着急. 不是非常着急.
 
 12
@@ -75,12 +75,12 @@ Restrooms?
 
 16
 00:00:47,647 --> 00:00:49,297
-Around the corner,by the phones.
+Around the corner, by the phones.
 拐角处的电话旁.
 
 17
 00:00:57,580 --> 00:01:00,147
-Sharon?Hi.It's William.
+Sharon? Hi. It's William.
 Sharon? 你好. 我是William.
 
 18
@@ -90,6 +90,6 @@ Where did you send the Engineer Society for lunch?
 
 19
 00:01:06,529 --> 00:01:10,979
-Aha.Maybe we shouldn't recommend it any more.
+Aha. Maybe we shouldn't recommend it any more.
 Aha. 也许今后我们不该再推荐那里了.
 

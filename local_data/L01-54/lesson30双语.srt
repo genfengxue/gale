@@ -1,6 +1,6 @@
 1
 00:00:06, 877 --> 00:00:07, 660
-How does it feel,Kevin?
+How does it feel, Kevin?
 你觉得怎么样, Kevin?
 
 2
@@ -20,7 +20,7 @@ Here's the turn.
 
 5
 00:00:17, 331 --> 00:00:19, 906
-OK.Get into the right-hand lane.
+OK. Get into the right-hand lane.
 OK. 进入右车道.
 
 6
@@ -30,7 +30,7 @@ When?
 
 7
 00:00:21, 612 --> 00:00:22, 773
-Now!We have to make a right!
+Now! We have to make a right!
 Now! 我们得向右转
 
 8
@@ -55,7 +55,7 @@ Here's the turn.
 
 12
 00:00:34, 704 --> 00:00:36, 698
-OK.Get into the left-hand lane.
+OK. Get into the left-hand lane.
 OK. 进入左车道.
 
 13
@@ -70,7 +70,7 @@ It is right.
 
 15
 00:00:40, 681 --> 00:00:42, 074
-Yes.Yes. I mean a right turn.
+Yes. Yes. I mean a right turn.
 Yes.Yes. 我的意思是向右拐.
 
 16
@@ -135,6 +135,6 @@ Kevin.
 
 28
 00:01:29, 111 --> 00:01:34, 579
-What?No Parking.
+What? No Parking.
 What?  "禁止停车"
 

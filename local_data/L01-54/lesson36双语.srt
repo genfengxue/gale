@@ -1,16 +1,16 @@
 1
 00:00:08,559 --> 00:00:09,114
-Thank you,Wendy.
+Thank you, Wendy.
 谢谢你, Wendy.
 
 2
 00:00:10,575 --> 00:00:12,287
-Yes,we've had a very good year.
+Yes, we've had a very good year.
 对, 我们这一年经营得很好.
 
 3
 00:00:12,829 --> 00:00:15,746
-We've managed to control our costs,as you can see.
+We've managed to control our costs, as you can see.
 我们设法控制了成本, 正如您所看到的那样.
 
 4
@@ -20,7 +20,7 @@ They're actually down 7%.
 
 5
 00:00:20,094 --> 00:00:22,483
-Not bad.But of course you're expected to do that.
+Not bad. But of course you're expected to do that.
 干得不错, 不过这是你们应该做到的.
 
 6
@@ -45,17 +45,17 @@ Not bad.
 
 10
 00:00:40,832 --> 00:00:44,793
-With the industry in its current state,I venture to say it's quite good.
+With the industry in its current state, I venture to say it's quite good.
 考虑到这个行业目前的状况, 我冒昧说一句, 这已经很好了.
 
 11
 00:00:45,250 --> 00:00:45,904
-Here's your water,sir.
+Here's your water, sir.
 先生. 您的水.
 
 12
 00:00:51,058 --> 00:00:53,574
-I'm not interestecd in the standard report,Anne.
+I'm not interestecd in the standard report, Anne.
 我对这种常规报告不感兴趣, Anne.
 
 13
@@ -75,12 +75,12 @@ Is there anything else I can answer for you then?
 
 16
 00:01:03,611 --> 00:01:05,229
-I've heard about the programs,Anne.
+I've heard about the programs, Anne.
 我听说了那些项目, Anne.
 
 17
 00:01:06,143 --> 00:01:07,735
-Employee groups,the marketing.
+Employee groups, the marketing.
 雇员小组和营销.
 
 18
@@ -95,7 +95,7 @@ I see.
 
 20
 00:01:19,582 --> 00:01:21,428
-We have many other hotels,you know.
+We have many other hotels, you know.
 你要知道,我们还有许多其他的饭店.
 
 21

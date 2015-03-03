@@ -1,21 +1,21 @@
 1
 00:00:23,756 --> 00:00:26,481
-So,Kevin,what do you think?
+So, Kevin, what do you think?
 So, Kevin, 你认为怎么样?
 
 2
 00:00:27,210 --> 00:00:29,772
-Elena,I haven't met her yet,have I?
+Elena, I haven't met her yet, have I?
 Elena, 我还没见过她呢!
 
 3
 00:00:30,234 --> 00:00:32,671
-I know.But does she sound interesting?
+I know. But does she sound interesting?
 我知道. 但她听起来是不是很有意思?
 
 4
 00:00:34,401 --> 00:00:37,896
-Yes.From what you've told me,she sounds lovely.
+Yes. From what you've told me, she sounds lovely.
 Yes. 从你说的来看, 她挺可爱的.
 
 5
@@ -40,22 +40,22 @@ What did you say?
 
 9
 00:00:46,658 --> 00:00:47,972
-Well,you know...
+Well, you know...
 Well, 你知道的...
 
 10
 00:00:48,725 --> 00:00:49,750
-Come on,Elena.
+Come on, Elena.
 Come on, Elena.
 
 11
 00:00:51,050 --> 00:00:55,765
-I said,"He's tall.He's good-looking.
+I said,"He's tall. He's good-looking.
 我说:"他个头高高的. 长的挺帅.
 
 12
 00:00:56,519 --> 00:00:59,477
-He's nice.And he's very funny."
+He's nice. And he's very funny."
 人不错. 而且非常有趣."
 
 13
@@ -70,17 +70,17 @@ Did you tell her I used to work as a physicist?
 
 15
 00:01:07,956 --> 00:01:08,604
-Good on you,mate.
+Good on you, mate.
 你太棒了,伙计.
 
 16
 00:01:09,306 --> 00:01:11,748
-Kevin,you used to be a physicist?
+Kevin, you used to be a physicist?
 Kevin, 你过去是物理学家吗?
 
 17
 00:01:12,384 --> 00:01:16,326
-No,but it sounds so impressive,doesn't it?
+No, but it sounds so impressive, doesn't it?
 不是, 但这样会让人印象很深刻,对不对?
 
 18
@@ -125,11 +125,11 @@ And you must be Heather.
 
 26
 00:01:28,660 --> 00:01:30,675
-Heather,this is Kevin.
+Heather, this is Kevin.
 Heather, 这是Kevin.
 
 27
 00:01:31,441 --> 00:01:34,399
-Right,the physicist.Nice to meet you.
+Right, the physicist. Nice to meet you.
 Right, 物理学家. 很高兴见到你.
 

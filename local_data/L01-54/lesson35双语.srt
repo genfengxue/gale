@@ -1,6 +1,6 @@
 1
 00:00:08,531 --> 00:00:10,853
-Hey William.Guess who's coming tomorrow?
+Hey William. Guess who's coming tomorrow?
 Hey William. 猜猜明天谁要来?
 
 2
@@ -10,17 +10,17 @@ Who?
 
 3
 00:00:12,356 --> 00:00:13,187
-Mr.Bigelow.
+Mr. Bigelow.
 Mr.Bigelow.
 
 4
 00:00:14,142 --> 00:00:16,504
-Jim Bigelow,our Chief Executive Officer?
+Jim Bigelow, our Chief Executive Officer?
 Jim Bigelow, 我们的执行总裁?
 
 5
 00:00:16,791 --> 00:00:18,949
-That's right.Mr.Big.
+That's right. Mr. Big.
 对. 正是"老大"先生.
 
 6
@@ -50,12 +50,12 @@ We need someone who will get the job done.
 
 11
 00:00:50,289 --> 00:00:54,501
-But we'd prefer someone presentable,with a pleasant manner.
+But we'd prefer someone presentable, with a pleasant manner.
 但我们更希望是一个长相不错, 言谈举止令人愉快的人
 
 12
 00:00:55,649 --> 00:01:00,411
-Someone hard-working, serious,yet cheerful.
+Someone hard-working, serious, yet cheerful.
 一个工作努力认真, 严谨但是欢快的人.
 
 13
@@ -70,11 +70,11 @@ but also likes to walk.
 
 15
 00:01:07,359 --> 00:01:11,125
-We want...someone like that man!
+We want... someone like that man!
 我们需要……一个像他那样的人!
 
 16
 00:01:16,083 --> 00:01:16,501
-Yes,sir!
+Yes, sir!
 是的. 先生!
 

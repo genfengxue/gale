@@ -1,6 +1,6 @@
 1
 00:00:06, 840 --> 00:00:09, 870
-Hey George.What are you doing?
+Hey George. What are you doing?
 嗨 George. 你在做什么?
 
 2
@@ -15,7 +15,7 @@ Making airline reservations for a guest.
 
 4
 00:00:16, 280 --> 00:00:17, 770
-Well.Just do it on the computer.
+Well. Just do it on the computer.
 Well. 在电脑上弄就行.
 
 5
@@ -30,7 +30,7 @@ Come here.
 
 7
 00:00:36, 020 --> 00:00:37, 690
-OK.We're booking a flight to where?
+OK. We're booking a flight to where?
 好的. 我们要订一个航班去哪?
 
 8
@@ -45,7 +45,7 @@ When?
 
 10
 00:00:40, 960 --> 00:00:42, 580
-Tuesday,September 14th.
+Tuesday, September 14th.
 周二, 9月14日.
 
 11
@@ -60,7 +60,7 @@ What time?
 
 13
 00:00:50, 420 --> 00:00:51, 660
-6 p.m.
+6 p. m.
 晚上6点.
 
 14
@@ -70,7 +70,7 @@ How long will it take?
 
 15
 00:00:57, 240 --> 00:01:00, 960
-About 7 hours. It arrives at 6:55 a.m.
+About 7 hours. It arrives at 6:55 a. m.
 需要7小时. 早上6:55抵达.
 
 16
@@ -80,7 +80,7 @@ That's good.
 
 17
 00:01:03, 580 --> 00:01:04, 930
-OK.For how many?
+OK. For how many?
 好的. 几个人?
 
 18
@@ -95,7 +95,7 @@ How long are they staying?
 
 20
 00:01:10, 340 --> 00:01:12, 860
-Ah.From the 14th untill the 28th.
+Ah. From the 14th untill the 28th.
 Ah. 从14号呆到28号.
 
 21
