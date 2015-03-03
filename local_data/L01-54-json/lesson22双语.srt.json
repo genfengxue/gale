@@ -11,7 +11,7 @@
       "chinese" : "嗨. 我可以帮你吗?",
       "sentenceNo" : 2,
       "timeline" : "00:00:07, 740 --> 00:00:08, 610",
-      "english" : "Hi.Can I help you?"
+      "english" : "Hi. Can I help you?"
    },
    {
       "lessonNo" : 22,
@@ -25,7 +25,7 @@
       "chinese" : "我如何能到那里, 请问?",
       "sentenceNo" : 4,
       "timeline" : "00:00:11, 820 --> 00:00:12, 890",
-      "english" : "How can I get there,please."
+      "english" : "How can I get there, please."
    },
    {
       "lessonNo" : 22,
@@ -81,14 +81,14 @@
       "chinese" : "Oh yeah.Ok.",
       "sentenceNo" : 12,
       "timeline" : "00:00:47, 900 --> 00:00:49, 100",
-      "english" : "Oh yeah.OK."
+      "english" : "Oh yeah. OK."
    },
    {
       "lessonNo" : 22,
       "chinese" : "沿着这条路直走走到头, 交叉路口向右转.",
       "sentenceNo" : 13,
       "timeline" : "00:00:49, 300 --> 00:00:52, 330",
-      "english" : "Straight ahead to the end of the street,to the fork.Make a right."
+      "english" : "Straight ahead to the end of the street, to the fork. Make a right."
    },
    {
       "lessonNo" : 22,
@@ -151,14 +151,14 @@
       "chinese" : "嗨, Kasim! 到这里来困难吗?",
       "sentenceNo" : 22,
       "timeline" : "00:02:10, 540 --> 00:02:12, 900",
-      "english" : "Hi,Kasim! Was it difficult to get here?"
+      "english" : "Hi, Kasim! Was it difficult to get here?"
    },
    {
       "lessonNo" : 22,
       "chinese" : "不困难, Elliot.",
       "sentenceNo" : 23,
       "timeline" : "00:02:13, 461 --> 00:02:14, 499",
-      "english" : "No problem,Elliot."
+      "english" : "No problem, Elliot."
    },
    {
       "lessonNo" : 22,

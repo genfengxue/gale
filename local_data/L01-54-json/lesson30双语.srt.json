@@ -4,7 +4,7 @@
       "chinese" : "你觉得怎么样, Kevin?",
       "sentenceNo" : 1,
       "timeline" : "00:00:06, 877 --> 00:00:07, 660",
-      "english" : "How does it feel,Kevin?"
+      "english" : "How does it feel, Kevin?"
    },
    {
       "lessonNo" : 30,
@@ -32,7 +32,7 @@
       "chinese" : "OK. 进入右车道.",
       "sentenceNo" : 5,
       "timeline" : "00:00:17, 331 --> 00:00:19, 906",
-      "english" : "OK.Get into the right-hand lane."
+      "english" : "OK. Get into the right-hand lane."
    },
    {
       "lessonNo" : 30,
@@ -46,7 +46,7 @@
       "chinese" : "Now! 我们得向右转",
       "sentenceNo" : 7,
       "timeline" : "00:00:21, 612 --> 00:00:22, 773",
-      "english" : "Now!We have to make a right!"
+      "english" : "Now! We have to make a right!"
    },
    {
       "lessonNo" : 30,
@@ -81,7 +81,7 @@
       "chinese" : "OK. 进入左车道.",
       "sentenceNo" : 12,
       "timeline" : "00:00:34, 704 --> 00:00:36, 698",
-      "english" : "OK.Get into the left-hand lane."
+      "english" : "OK. Get into the left-hand lane."
    },
    {
       "lessonNo" : 30,
@@ -102,7 +102,7 @@
       "chinese" : "Yes.Yes. 我的意思是向右拐.",
       "sentenceNo" : 15,
       "timeline" : "00:00:40, 681 --> 00:00:42, 074",
-      "english" : "Yes.Yes. I mean a right turn."
+      "english" : "Yes. Yes. I mean a right turn."
    },
    {
       "lessonNo" : 30,
@@ -193,6 +193,6 @@
       "chinese" : "What?  \"禁止停车\"",
       "sentenceNo" : 28,
       "timeline" : "00:01:29, 111 --> 00:01:34, 579",
-      "english" : "What?No Parking."
+      "english" : "What? No Parking."
    }
 ]
