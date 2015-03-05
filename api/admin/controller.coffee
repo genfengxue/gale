@@ -12,4 +12,12 @@ router.get "/", (req, res, next) ->
   .catch next
   .done()
 
+countWords = require '../../local_data/count_words/count_words_converted.json'
+sortedCountWords = countWords.sort (a, b) ->
+  return b.count - a.count
+
+router.get "/count_words", (req, res, next) ->
+#  res.send sortedCountWords
+  res.render 'count_words', {sortedCountWords: sortedCountWords}
+
 module.exports = router

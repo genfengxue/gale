@@ -1,0 +1,22 @@
+<h1>count words</h1>
+
+<table border=1>
+  <tr>
+    <th>word</th>
+    <th>count</th>
+    <th>sentences</th>
+  </tr>
+  <% _.each(sortedCountWords, function(countWord) { %>
+  <tr>
+    <td><%= countWord.word %></td>
+    <td><%= countWord.count %></td>
+    <td>
+    <% _.each(countWord.stats, function(one, index) { %>
+      <% if (index <= 5) { %>
+        <p><%= one.sentence + " " + one.lessonNo + " " + one.sentenceNo %></p>
+      <% } %>
+    <% }); %>
+    </td>
+  </tr>
+  <% }); %>
+</table>
