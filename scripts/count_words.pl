@@ -32,18 +32,19 @@ for my $file (@files) {
 #print Dumper $result;
 #write_file("../../$COUNT_WORDS_DIR/count_words.json", json_encode($result));
 
-my $convertedResult = {};
+my $convertedResult = [];
 for my $word (keys %$result) {
-  $convertedResult->{$word}->{count} = $result->{$word}->{count};
+  my $one = {word => $word, count => $result->{$word}->{count}};
   for my $lessonNo (keys %{ $result->{$word}->{stats} }) {
     for my $sentenceNo (keys %{ $result->{$word}->{stats}->{$lessonNo} }) {
-      push @{$convertedResult->{$word}->{stats}}, {
+      push @{ $one->{stats} }, {
         sentence => $result->{$word}->{stats}->{$lessonNo}->{$sentenceNo},
         lessonNo => $lessonNo,
         sentenceNo => $sentenceNo,
       }
     }
   }
+  push @{ $convertedResult }, $one;
 }
 print Dumper $convertedResult;
 write_file("../../$COUNT_WORDS_DIR/count_words_converted.json", json_encode($convertedResult));
