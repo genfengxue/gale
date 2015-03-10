@@ -24,12 +24,12 @@ my $objects = [];
 my $object = {};
 while (my $line = <$fh>) {
   $count++;
+  next if $count % 6 == 0;
   $line =~ s/^\s+|\s+$//g; #去掉首尾空白
-  if ($count % 6 == 0) {
-    push @{$objects}, {%$object};
-    next;
-  }
   $object->{ $map->{ $count % 6 } } = $line;
+  if ($count % 6 == 5) {
+    push @{$objects}, {%$object};
+  }
 }
 print Dumper $objects;
 write_file($outfile, json_encode( $objects ) );
