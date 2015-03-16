@@ -3,7 +3,9 @@ passport = require 'passport'
 LocalStrategy = require('passport-local').Strategy
 
 passport.use(new LocalStrategy(
-  (username, password, done) ->
+    usernameField : 'studentNo'
+    passwordField : 'password' # this is the virtual field on the model
+  , (username, password, done) ->
     console.log username, password
-    done null, {_id: username}
+    done null, {studentNo: username}
 ))
