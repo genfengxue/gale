@@ -5,13 +5,25 @@ auth = require '../../auth/auth.service'
 User = _u.getModel 'user'
 WrapRequest = new (require '../../utils/WrapRequest')(User)
 
-router.get "/", (req, res, next) ->
-  conditions = {}
-  conditions.courseNo = req.query.courseNo if req.query.courseNo
-  findParams =
-    conditions: conditions
-    options: {sort: {sentenceNo: 1, lessonNo: 1}}
+router.post "/changePassword", auth.isAuthenticated(), (req, res, next) ->
+  studentNo = req.user.studentNo
+  oldPass = req.body.oldPassword
+  newPass = req.body.newPassword
 
-  WrapRequest.wrapIndex req, res, next, findParams
+  user = req.user
+
+  if user.authenticate oldPass
+    user.password = newPass
+    user.saveQ()
+    .then (result) ->
+      logger.info result
+      res.sendStatus 200
+    , (err) ->
+      logger.info err
+  else
+    res.sendStatus 403
 
 module.exports = router
+
+# curl -d "password=xxxxx" http://localhost:9000/api/users/changePassword
+# curl -d "oldPassword=e45620&newPassword=e45620" http://localhost:9000/api/users/changePassword?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdHVkZW50Tm8iOjIwMTUwMDAxLCJpYXQiOjE0MjY1MTU2NzcsImV4cCI6MTQyNzEyMDQ3N30.6OdZwtxcbwaPn1XbsRFK7WLEn62JX-GbI0geZ56D4IM
