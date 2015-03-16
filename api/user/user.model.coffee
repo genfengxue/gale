@@ -17,6 +17,7 @@ exports.User = BaseModel.subclass
       nickname:
         type: String
         unique: true
+        sparse: true
       avatar:
         type: String
       email:
