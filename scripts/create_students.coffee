@@ -1,6 +1,5 @@
 require '../common/init'
 crypto = require 'crypto'
-User = _u.getModel 'user'
 
 start = 20150001
 end = 20150100
@@ -12,8 +11,16 @@ students = (
     password: (sha1Hash.update(i.toString()).digest('hex')).substr 0, 6
 )
 
-User.createQ students
-.then (docs) ->
-  logger.info _.pluck docs, 'studentNo'
-, (err) ->
-  logger.info err
+jsonPath = "local_data/others/students#{start}_#{end}.json"
+data = JSON.stringify students, null, 4
+fs = require 'fs'
+fs.writeFile jsonPath, data + "\n", (err) ->
+  if err then return logger.info err
+  logger.info "create #{jsonPath} success"
+
+#User = _u.getModel 'user'
+#User.createQ students
+#.then (docs) ->
+#  logger.info _.pluck docs, 'studentNo'
+#, (err) ->
+#  logger.info err
