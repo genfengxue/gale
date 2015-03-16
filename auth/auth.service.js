@@ -6,7 +6,7 @@ var passport = require('passport');
 var jwt = require('jsonwebtoken');
 var expressJwt = require('express-jwt');
 var compose = require('composable-middleware');
-//var User = _u.getModel("user");
+var User = _u.getModel("user");
 
 /**
  * Attaches the user object to the request if authenticated
@@ -26,7 +26,7 @@ function isAuthenticated(credentialsRequired) {
     // Attach user to request
     .use(function(req, res, next) {
       if (!req.user) return next();
-      User.findById(req.user._id, function (err, user) {
+      User.findOne({studentNo: req.user.studentNo}, function (err, user) {
         if (err) return next(err);
         if (!user) return res.send(401);
 
@@ -57,8 +57,8 @@ function hasRole(roleRequired) {
 /**
  * Returns a jwt token signed by the app secret
  */
-function signToken(id) {
-  return jwt.sign({ _id: id}, config.secrets.session, { expiresInMinutes: config.tokenExpiresInMinutes });
+function signToken(studentNo) {
+  return jwt.sign({studentNo: studentNo}, config.secrets.session, { expiresInMinutes: config.tokenExpiresInMinutes });
 }
 
 /**
