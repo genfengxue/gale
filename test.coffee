@@ -1,8 +1,10 @@
 require './common/init'
+moment = require 'moment'
 #json = require './local_data/key_point_json/Lesson12.txt.json'
 #console.log json[12][1]['garden salad'][0].replace /\\n/, '\n'
+console.log moment('2015-03-27 Z').toISOString()
 
-_u.getModel 'active_time'
+#_u.getModel 'active_time'
 #countWords = require './local_data/count_words/count_words_converted.json'
 #numWords = (_.pluck countWords, 'word').length
 #totalCount = _.reduce(countWords, (sum, ele) ->
