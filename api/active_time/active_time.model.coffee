@@ -15,6 +15,10 @@ exports.ActiveTime = BaseModel.subclass
       date:
         type: Date
         required: true
+      pronunciation: Number
+      vocabulary: Number
+      class: Number
+      input: Number
 
     @schema.index {studentNo: 1, date: 1}, {unique: true}
 
