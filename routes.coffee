@@ -4,5 +4,6 @@ module.exports = (app) ->
   app.use '/api/courses', require './api/course/controller'
   app.use '/api/lessons', require './api/lesson/controller'
   app.use '/api/users', require './api/user/controller'
+  app.use '/api/active_times', require './api/active_time/controller'
   app.use '/admin', require './api/admin/controller'
   app.use '/auth', require './auth'

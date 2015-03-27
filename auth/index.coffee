@@ -23,3 +23,5 @@ module.exports = router
 
 # curl -d 'studentNo=20150001&password=e45620' http://localhost:9000/auth/local
 # curl http://localhost:9000/auth?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdHVkZW50Tm8iOjIwMTUwMDAxLCJpYXQiOjE0MjY1MTU2NzcsImV4cCI6MTQyNzEyMDQ3N30.6OdZwtxcbwaPn1XbsRFK7WLEn62JX-GbI0geZ56D4IM
+
+# eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdHVkZW50Tm8iOjIwMTUwMDAxLCJpYXQiOjE0Mjc0NjcwNDEsImV4cCI6MTQyODA3MTg0MX0.JDmgWeco54p2BgHP1_MCmFqfsPqCEMSvNUbWdObtd38
