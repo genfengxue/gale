@@ -77,11 +77,15 @@ class WrapRequest
     .done()
 
 
-  wrapShow: (req, res, next, conditions, update) ->
-    logger.info 'show conditions:', conditions
+  wrapShow: (req, res, next, findParams = {}, update) ->
+    unless findParams.conditions then findParams.conditions = {}
+    unless findParams.selects    then findParams.selects = null
+    unless findParams.options    then findParams.options = {}
+
+    logger.info 'find conditions:', findParams.conditions
     mongoQuery = (
       if _.isEmpty update
-        @Model.findOne conditions
+        @Model.findOne findParams.conditions, findParams.selects, findParams.options
       else
         @Model.findOneAndUpdate conditions, update
     )
