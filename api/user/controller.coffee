@@ -23,6 +23,14 @@ router.post "/changePassword", auth.isAuthenticated(), (req, res, next) ->
   else
     res.sendStatus 403
 
+router.get "/:studentNo", (req, res, next) ->
+  findParams =
+    conditions: {studentNo: req.params.studentNo}
+    selects: '-salt -hashedPassword'
+
+  WrapRequest.wrapShow req, res, next, findParams
+
+
 module.exports = router
 
 # curl -d "password=xxxxx" http://localhost:9000/api/users/changePassword
