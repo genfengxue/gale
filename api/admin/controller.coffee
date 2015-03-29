@@ -23,6 +23,8 @@ router.post "/login", (req, res, next) ->
       res.redirect("/admin")
     else
       res.send {"msg": 'userNo和password不匹配'}
+  .catch next
+  .done()
 
 router.post "/add_user", auth.isAdmin(), (req, res, next) ->
   tmpResult = {}
