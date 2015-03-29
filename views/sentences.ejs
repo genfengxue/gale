@@ -1,0 +1,20 @@
+<h1>Sentences</h1>
+
+<table border=1>
+  <tr>
+    <th>lessonNo</th>
+    <th>sentenceNo</th>
+    <th>english</th>
+    <th>chinese</th>
+    <th>timeline</th>
+  </tr>
+  <% _.each(sentences, function(sentence) { %>
+  <tr>
+    <td><%= sentence.lessonNo %></td>
+    <td><%= sentence.sentenceNo %></td>
+    <td><%= sentence.english %></td>
+    <td><%= sentence.chinese %></td>
+    <td><%= sentence.timeline %></td>
+  </tr>
+  <% }); %>
+</table>

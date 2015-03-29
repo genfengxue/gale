@@ -4,11 +4,15 @@ router = express.Router()
 Sentence = _u.getModel 'sentence'
 
 router.get "/", (req, res, next) ->
+  res.send 'this is admin': 'xxxx'
+
+
+router.get "/sentences", (req, res, next) ->
   conditions = {}
   conditions.lessonNo = req.query.lessonNo if req.query.lessonNo
   Sentence.findQ conditions, null, {sort: {lessonNo: 1, sentenceNo: 1}}
   .then (sentences) ->
-    res.render 'index', {sentences: sentences}
+    res.render 'sentences', {sentences: sentences}
   .catch next
   .done()
 
