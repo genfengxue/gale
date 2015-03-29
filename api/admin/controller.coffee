@@ -4,7 +4,7 @@ router = express.Router()
 Sentence = _u.getModel 'sentence'
 
 router.get "/", (req, res, next) ->
-  res.send 'this is admin': 'xxxx'
+  res.render 'index', {}
 
 
 router.get "/sentences", (req, res, next) ->
