@@ -2,9 +2,17 @@ express = require("express")
 router = express.Router()
 
 Sentence = _u.getModel 'sentence'
+User = _u.getModel 'user'
 
 router.get "/", (req, res, next) ->
-  res.render 'index', {}
+  res.render 'index', {status: null}
+
+router.post "/add_user", (req, res, next) ->
+  User.countQ {}
+  .then (count) ->
+    res.send count: count
+  .catch next
+  .done()
 
 
 router.get "/sentences", (req, res, next) ->
