@@ -1,8 +1,14 @@
 require './common/init'
 moment = require 'moment'
+
+console.log Const
 #json = require './local_data/key_point_json/Lesson12.txt.json'
 #console.log json[12][1]['garden salad'][0].replace /\\n/, '\n'
-console.log moment('2015-03-27 Z').toISOString()
+#console.log moment('2015-03-27 Z').toISOString()
+#arr = ['a', 'b', 'c']
+#console.log arr['1']
+#arr.length = 0
+#console.log arr['1']
 
 #_u.getModel 'active_time'
 #countWords = require './local_data/count_words/count_words_converted.json'
