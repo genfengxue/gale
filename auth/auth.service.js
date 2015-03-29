@@ -36,6 +36,20 @@ function isAuthenticated(credentialsRequired) {
     });
 }
 
+function isAdmin() {
+  return compose()
+    .use(isAuthenticated())
+    .use(function meetsRequirements(req, res, next) {
+      if (req.user.role === Const.RoleMap['admin']) {
+        next();
+      }
+      else {
+        res.send(403);
+      }
+    });
+}
+exports.isAdmin = isAdmin;
+
 /**
  * Checks if the user role meets the minimum requirements of the route
  */
@@ -88,10 +102,11 @@ function verifyTokenCookie() {
     })
     .use(function(req, res, next) {
         if (req.user) {
-          User.findById(req.user._id, function (err, user) {
+          User.findOne({userNo: req.user.userNo}, function (err, user) {
             if (err) return next(err);
-            if (user) req.user = user;
+            if (!user) return res.send(401);
 
+            req.user = user;
             next();
           });
         } else {

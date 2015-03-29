@@ -1,14 +1,16 @@
 express = require("express")
 router = express.Router()
+auth = require '../../auth/auth.service'
 crypto = require 'crypto'
 
 Sentence = _u.getModel 'sentence'
 User = _u.getModel 'user'
 
 router.get "/", (req, res, next) ->
-  res.render 'index', {status: null}
+  res.render 'index', {user: req.user.userNo}
 
-router.post "/add_user", (req, res, next) ->
+
+router.post "/add_user", auth.isAdmin(), (req, res, next) ->
   tmpResult = {}
   User.countQ {}
   .then (count) ->
