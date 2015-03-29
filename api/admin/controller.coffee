@@ -7,7 +7,7 @@ Sentence = _u.getModel 'sentence'
 User = _u.getModel 'user'
 
 router.get "/", (req, res, next) ->
-  res.render 'index', {user: req.user.userNo}
+  res.render 'index', {user: null}
 
 
 router.post "/add_user", auth.isAdmin(), (req, res, next) ->

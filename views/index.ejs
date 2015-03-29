@@ -1,5 +1,12 @@
 <% include layout_header %>
 <h1>Admin Page</h1>
+<% if (!user) { %>
+<form action="/admin/login" method="post">
+  用户编号：<input type="text" name="userNo" /><br>
+  密码：<input type="text" name="password" /><br>
+  <input type="submit" value="提交" />
+</form>
+<% } else { %>
 <p>添加新用户</p>
 <form action="/admin/add_user" method="post">
   <input type="radio" name="role" value="1" checked="checked" />student<br>
@@ -7,7 +14,7 @@
   <input type="radio" name="role" value="20" />admin<br>
   <input type="submit" value="提交" />
 </form>
-<p><%= status %></p>
 <hr>
+<% } %>
 
 <% include layout_footer %>
