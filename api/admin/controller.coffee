@@ -6,9 +6,23 @@ crypto = require 'crypto'
 Sentence = _u.getModel 'sentence'
 User = _u.getModel 'user'
 
-router.get "/", (req, res, next) ->
-  res.render 'index', {user: null}
+router.get "/", auth.verifyTokenCookie(), (req, res, next) ->
+  token = null
+  if req.user
+    token = auth.signToken(req.user.userNo)
 
+  res.render 'index', {token: token}
+
+router.post "/login", (req, res, next) ->
+  console.log req.body
+  User.findOneQ userNo: req.body.userNo
+  .then (user) ->
+    if user.authenticate req.body.password
+      token = auth.signToken(user.userNo)
+      res.cookie('token', token)
+      res.redirect("/admin")
+    else
+      res.send {"msg": 'userNo和password不匹配'}
 
 router.post "/add_user", auth.isAdmin(), (req, res, next) ->
   tmpResult = {}

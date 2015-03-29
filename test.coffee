@@ -1,7 +1,9 @@
 require './common/init'
 moment = require 'moment'
 
-console.log Const
+auth = require './auth/auth.service'
+console.log auth.signToken 100
+console.log JSON.stringify auth.signToken 100
 #json = require './local_data/key_point_json/Lesson12.txt.json'
 #console.log json[12][1]['garden salad'][0].replace /\\n/, '\n'
 #console.log moment('2015-03-27 Z').toISOString()
