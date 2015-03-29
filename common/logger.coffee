@@ -38,16 +38,25 @@ log4js.configure
 #      type      : 'pattern'
 #      pattern   : "%m"
 #    category    : 'DATA'
+  ,
+    type        : 'file'
+    filename    : "/data/log/#{config.appName}.data.log"
+    layout      :
+      type      : 'pattern'
+      pattern   : "%m"
+    category    : 'DATA'
   ]
 
 logger = log4js.getLogger logCategory
 logger.setLevel 'INFO'
 
-#loggerD = log4js.getLogger 'DATA'
-#loggerD.setLevel 'TRACE'
-#loggerD.write = () ->
-#  Array::unshift.call arguments, new Date().toISOString()
-#  loggerD.trace Array::join.call arguments, '\t'
+write = () ->
+  Array::unshift.call arguments, new Date().toISOString()
+  @info Array::join.call arguments, '\t'
+
+loggerD = log4js.getLogger 'DATA'
+loggerD.setLevel 'INFO'
+loggerD.write = write
 
 exports.logger = logger
-#exports.loggerD = loggerD
+exports.loggerD = loggerD
