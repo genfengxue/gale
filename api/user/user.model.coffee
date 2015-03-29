@@ -10,10 +10,13 @@ exports.User = BaseModel.subclass
   classname: 'User'
   initialize: ($super) ->
     @schema = new Schema
-      studentNo:
+      userNo:
         type: Number
         required: true
         unique: true
+      role:
+        type: Number
+        required: true
       nickname:
         type: String
         unique: true
@@ -50,7 +53,8 @@ setupUserSchema = (UserSchema) ->
   UserSchema
   .virtual 'profile'
   .get () ->
-    studentNo: this.studentNo
+    userNo: this.userNo
+    role: this.role
     nickname: this.nickname
     avatar: this.avatar
     email: this.email
@@ -59,7 +63,8 @@ setupUserSchema = (UserSchema) ->
   UserSchema
   .virtual 'token'
   .get () ->
-    studentNo: this.studentNo
+    userNo: this.userNo
+    role: this.role
 
   # Validate empty password
   UserSchema

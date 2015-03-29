@@ -7,7 +7,7 @@ end = 20150100
 students = (
   for i in [start..end]
     sha1Hash = crypto.createHash('sha1')
-    studentNo: i
+    userNo: i
     password: (sha1Hash.update(i.toString()).digest('hex')).substr 0, 6
 )
 
@@ -23,6 +23,6 @@ students = (
 User = _u.getModel 'user'
 User.createQ students
 .then (docs) ->
-  logger.info _.pluck docs, 'studentNo'
+  logger.info _.pluck docs, 'userNo'
 , (err) ->
   logger.info err

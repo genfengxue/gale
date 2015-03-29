@@ -26,7 +26,7 @@ function isAuthenticated(credentialsRequired) {
     // Attach user to request
     .use(function(req, res, next) {
       if (!req.user) return next();
-      User.findOne({studentNo: req.user.studentNo}, function (err, user) {
+      User.findOne({userNo: req.user.userNo}, function (err, user) {
         if (err) return next(err);
         if (!user) return res.send(401);
 
@@ -57,8 +57,8 @@ function hasRole(roleRequired) {
 /**
  * Returns a jwt token signed by the app secret
  */
-function signToken(studentNo) {
-  return jwt.sign({studentNo: studentNo}, config.secrets.session, { expiresInMinutes: config.tokenExpiresInMinutes });
+function signToken(userNo) {
+  return jwt.sign({userNo: userNo}, config.secrets.session, { expiresInMinutes: config.tokenExpiresInMinutes });
 }
 
 /**

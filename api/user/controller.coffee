@@ -6,7 +6,7 @@ User = _u.getModel 'user'
 WrapRequest = new (require '../../utils/WrapRequest')(User)
 
 router.post "/changePassword", auth.isAuthenticated(), (req, res, next) ->
-  studentNo = req.user.studentNo
+  userNo = req.user.userNo
   oldPass = req.body.oldPassword
   newPass = req.body.newPassword
 
@@ -23,9 +23,9 @@ router.post "/changePassword", auth.isAuthenticated(), (req, res, next) ->
   else
     res.sendStatus 403
 
-router.get "/:studentNo", (req, res, next) ->
+router.get "/:userNo", (req, res, next) ->
   findParams =
-    conditions: {studentNo: req.params.studentNo}
+    conditions: {userNo: req.params.userNo}
     selects: '-salt -hashedPassword'
 
   WrapRequest.wrapShow req, res, next, findParams

@@ -9,7 +9,7 @@ exports.ActiveTime = BaseModel.subclass
   }
   initialize: ($super) ->
     @schema = new Schema
-      studentNo:
+      userNo:
         type: Number
         required: true
       date:
@@ -20,7 +20,7 @@ exports.ActiveTime = BaseModel.subclass
       class: Number
       input: Number
 
-    @schema.index {studentNo: 1, date: 1}, {unique: true}
+    @schema.index {userNo: 1, date: 1}, {unique: true}
 
     $super()
 
