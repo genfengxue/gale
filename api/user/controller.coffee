@@ -5,7 +5,7 @@ auth = require '../../auth/auth.service'
 User = _u.getModel 'user'
 WrapRequest = new (require '../../utils/WrapRequest')(User)
 
-router.post "/changePassword", auth.isAuthenticated(), (req, res, next) ->
+router.post "/change_password", auth.isAuthenticated(), (req, res, next) ->
   userNo = req.user.userNo
   oldPass = req.body.oldPassword
   newPass = req.body.newPassword
@@ -33,5 +33,5 @@ router.get "/:userNo", (req, res, next) ->
 
 module.exports = router
 
-# curl -d "password=xxxxx" http://localhost:9000/api/users/changePassword
-# curl -d "oldPassword=e45620&newPassword=e45620" http://localhost:9000/api/users/changePassword?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdHVkZW50Tm8iOjIwMTUwMDAxLCJpYXQiOjE0MjY1MTU2NzcsImV4cCI6MTQyNzEyMDQ3N30.6OdZwtxcbwaPn1XbsRFK7WLEn62JX-GbI0geZ56D4IM
+# curl -d "password=xxxxx" http://localhost:9000/api/users/change_password
+# curl -d "oldPassword=e45620&newPassword=e45620" http://localhost:9000/api/users/change_password?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdHVkZW50Tm8iOjIwMTUwMDAxLCJpYXQiOjE0MjY1MTU2NzcsImV4cCI6MTQyNzEyMDQ3N30.6OdZwtxcbwaPn1XbsRFK7WLEn62JX-GbI0geZ56D4IM
