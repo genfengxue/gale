@@ -1,1147 +1,606 @@
 unit 28
-NANCY:Good morning.
-
-RICHARD:Morning.Is there any coffee?
-
-NANCY:Mm-hm.I just made it.Do you want a muffin?
-
-RICHARD:No,thanks.I'll get something at work.Do you want a cup,Nancy?
-
-NANCY:Yes,please.
-
-NANCY:Is Beth awake?
-
-RICHARD:More or less.She'll be right down.I'm giving her a ride to school.
-
-NANCY:Very clever,Counselor Hobart.She will get out of bed for a lift.
-
-NANCY:What is your day like?
-
-RICHARD:I go to the office this morning.And I'm in court this afternoon.
-
+Good morning.
+Morning.Is there any coffee?
+Mm-hm.I just made it.Do you want a muffin?
+No,thanks.I'll get something at work.Do you want a cup,Nancy?
+Yes,please.
+Is Beth awake?
+More or less.She'll be right down.I'm giving her a ride to school.
+Very clever,Counselor Hobart.She will get out of bed for a lift.
+What is your day like?
+I go to the office this morning.And I'm in court this afternoon.
 I won't be home late-about 6:30.How about you?
-
-NANCY:Yvonne and I have a meeting with a client.
-
-RICHARD:Which client?
-
-NANCY:Bill Collins.We're almost finished with his condo.
-
+Yvonne and I have a meeting with a client.
+Which client?
+Bill Collins.We're almost finished with his condo.
 I'll show you pictures tonight.
-
-NANCY:Do you want a muffin?I will make you a muffin.
-
-RICHARD:No,no,no.This is fine.Good morning,Beth.
-
-NANCY:Hi honey.I'm very well this morning,thank you.
-
-Would you like a muffin?Do you want some yogurt?An egg?  BETH:Mom.
-
-RICHARD:Eggs are good.
-
-BETH:I'm not hungry.
-
-NANCY:Beth,you really must eat something.How about some cereal?
-
-BETH:Dad,make her stop.
-
-RICHARD:Breakfast is the most important meal of the day.Bye.
-
-NANCY:Bye.
-
-RICHARD:Bye.See you tonight.
-
-NANCY:Richard!
-
-NANCY:You were taking Beth to school!
-
-RICHARD:Oops.Well,then I will have a muffin.
-
-YVONNE:Good morning,Nancy.
-
-NANCY:Hi,Yvonne.What is that?
-
-YVONNE:It's box of donuts.
-
-NANCY:Yvonne.     YVONNE:What?
-
-NANCY:Donuts are bad for you.
-
-YVONNE:But they taste so good.Want one?
-
-NANCY:No,I do not want one.
-
-YVONNE:Not even a cream-filled donut with chocolate frosting?
-
+Do you want a muffin?I will make you a muffin.
+No,no,no.This is fine.Good morning,Beth.
+Hi honey.I'm very well this morning,thank you.
+Would you like a muffin?Do you want some yogurt?An egg?
+Mom.
+Eggs are good.
+I'm not hungry.
+Beth,you really must eat something.How about some cereal?
+Dad,make her stop.
+Breakfast is the most important meal of the day.Bye.
+Bye.
+Bye.See you tonight.
+Richard!
+You were taking Beth to school!
+Oops.Well,then I will have a muffin.
+Good morning,Nancy.
+Hi,Yvonne.What is that?
+It's box of donuts.
+Yvonne.
+What?
+Donuts are bad for you.
+But they taste so good.Want one?
+No,I do not want one.
+Not even a cream-filled donut with chocolate frosting?
 There's only one.I'll get a couple of plates.
-
-NANCY:Can you hear me?   YVONNE:Yes.
-
-NANCY:Libra.Be patient at work.The financial outlook is good.
-
-YVONNE:I like that.What's mine?
-
-NANCY:Aries.Stay healthy.Now is a good time for a dental check-up.
-
-YVONNE:A what?
-
-NANCY:A dental check-up.
-
-YVONNE:Who writes these things?
-
-NANCY:I don't know.
-
-NANCY:So how are you this morning?
-
-YVONNE:Fine,except I have to go to a business dinner tonight-
-
+Can you hear me?
+Yes.
+Libra.Be patient at work.The financial outlook is good.
+I like that.What's mine?
+Aries.Stay healthy.Now is a good time for a dental check-up.
+A what?
+A dental check-up.
+Who writes these things?
+I don't know.
+So how are you this morning?
+Fine,except I have to go to a business dinner tonight-
 with all of Douglas's real estate colleagues.
-
 Now,I love my husband.And his co-workers are very nice.
-
 But they are all...optimists.
-
-NANCY:And you're a poor,lonely pessimist.   YVONNE:No.
-
-NANCY:Well,I like those dinners.Potential clients.
-
-YVONNE:Oh,Douglas got us a referral.Klara Kovak.      NANCY:Great.
-
-YVONNE:She's Hungarian.     NANCY:OK.
-
-YVONNE:It could be a big job,Nancy.      NANCY:Great.
-
-YVONNE:She's an heiress.     NANCY:Great.
-
-TRISH:You're famous.
-
-RICHARD:I'm not famous.We are famous.The office is famous.
-
-TRISH:That's funny.I didn't see a picture of the office in the paper.
-
+And you're a poor,lonely pessimist.
+No.
+Well,I like those dinners.Potential clients.
+Oh,Douglas got us a referral.Klara Kovak.
+Great.
+She's Hungarian.
+OK.
+It could be a big job,Nancy.
+Great.
+She's an heiress.
+Great.
+You're famous.
+I'm not famous.We are famous.The office is famous.
+That's funny.I didn't see a picture of the office in the paper.
 I saw a picture of you.
-
-RICHARD:Is there a picture of me?    TRISH:Page 28.
-
-JOE:You're famous.
-
-RICHARD:This is terrible.
-
-JOE:What's terrible?
-
-RICHARD:Where did they get this picture?
-
-JOE:Ah,Richard,it's the price of fame.
-
-RICHARD:Joe,I'm not famous.But there are better pictures of me.
-
-JOE:An interview here.Another picture there.Soon you'll be on television.
-
-TRISH:Excellent.You can go on a talk show.
-
-JOE:Then comes the book.   TRISH:And the movie.
-
-JOE:An adoring public.     TRISH:Great parties.
-
-RICHARD:No privacy.A twenty-four-hour-a-day job.No normal life.
-
-JOE:Details.
-
-RICHARD:I don't beloieve this.Do you really want to be in the public eye?
-
-TRISH:I do.I want to go on a talk show.
-
-RICHARD:Joe.You're much more reserved than I am.
-
+Is there a picture of me?
+Page 28.
+You're famous.
+This is terrible.
+What's terrible?
+Where did they get this picture?
+Ah,Richard,it's the price of fame.
+Joe,I'm not famous.But there are better pictures of me.
+An interview here.Another picture there.Soon you'll be on television.
+Excellent.You can go on a talk show.
+Then comes the book.
+And the movie.
+An adoring public.
+Great parties.
+No privacy.A twenty-four-hour-a-day job.No normal life.
+Details.
+I don't beloieve this.Do you really want to be in the public eye?
+I do.I want to go on a talk show.
+Joe.You're much more reserved than I am.
 You don't want to be famous.
-
-JOE:No.Not me.I'm smarter than that.I want you to be famous.
-
-RICHARD:Yes,Trish?
-
-TRISH:It's the State Attorney General for you,Mr.Hobart.Line 2.
-
-RICHARD:Thank you.
-
-JOE:You're famous.
+No.Not me.I'm smarter than that.I want you to be famous.
+Yes,Trish?
+It's the State Attorney General for you,Mr.Hobart.Line 2.
+Thank you.
+You're famous.
 unit 29
-NANCY:Hi,Michael.Hi Danny.    MICHAEL:Hi,Nancy.
-
-NANCY:Yvonne,have you met our new tenants?
-
-YVONNE:Not yet.
-
-NANCY:Yvonne Washington,Michael Chung and Danny DeMarco.
-
+Hi,Michael.Hi Danny.
+Hi,Nancy.
+Yvonne,have you met our new tenants?
+Not yet.
+Yvonne Washington,Michael Chung and Danny DeMarco.
 They moved in last weekend.It was last weekend,right?
-
-DANNY:Just last Saturday.
-
-NANCY:Of course.How could I forget that sofa?
-
+Just last Saturday.
+Of course.How could I forget that sofa?
 How did you finally get it into the apartment?
-
-MICHAEL:Very slowly and very carefully.
-
-MICHAEL:Yvonne,do you live here too?
-
-YVONNE:No,no.Nancy and I are business partners,so I'm here quite a bit.
-
-DANNY:Oh.What kind of business?
-
-YVONNE:Interior design.Do you need help with your new place?
-
-DANNY:With our furniture?Impossible!
-
-YVONNE:Oh,I hardly think so.
-
-MICHAEL:You haven't seen the sofa.
-
-DANNY:Desides,I'm sure Lisa will help us redecorate.
-
-YVONNE:Lisa?
-
-MICHAEL:Lisa's my girlfriend.
-
-NANCY:Just getting home work,Danny?
-
-DANNY:Yeah.I'm beat.
-
-YVONNE:Where do you work?
-
-DANNY:Kinko's. The night shift.
-
-YVONNE:You too,Michael?
-
-DANNY:Oh no.Michael is a serious film maker.
-
-MICHAEL:Dannyl...
-
-YVONNE:Really?
-
-MICHAEL:I'm a graduate student in Film Studies.
+Very slowly and very carefully.
+Yvonne,do you live here too?
+No,no.Nancy and I are business partners,so I'm here quite a bit.
+Oh.What kind of business?
+Interior design.Do you need help with your new place?
+With our furniture?Impossible!
+Oh,I hardly think so.
+You haven't seen the sofa.
+Desides,I'm sure Lisa will help us redecorate.
+Lisa?
+Lisa's my girlfriend.
+Just getting home work,Danny?
+Yeah.I'm beat.
+Where do you work?
+Kinko's. The night shift.
+You too,Michael?
+Oh no.Michael is a serious film maker.
+Dannyl...
+Really?
+I'm a graduate student in Film Studies.
 And I do work at night,occasionally.
-
-NANCY:Actually,Yvonne,we've got to run.
-
+Actually,Yvonne,we've got to run.
 Everything OK in the apartment?
-
-MICHAEL:So far,so good.
-
-NANCY:Good.See you later.    YVONNE:Nice to meet you.
-
-MICHAEL AND DANNY:Bye.
-
-YVONNE:It must be hard to work all night.
-
-NANCY:Unless you sleep all day.
-
-MICHAEL:Look.Our first mail.Apply for your new credit card today!
-
+So far,so good.
+Good.See you later.
+Nice to meet you.
+Bye.
+It must be hard to work all night.
+Unless you sleep all day.
+Look.Our first mail.Apply for your new credit card today!
 Why are you getting these?
-
-DANNY:Because Michael,I am an ideal consumer.They drool over me.
-
+Because Michael,I am an ideal consumer.They drool over me.
 Under 30,underemployed,works at night for a minimum wage in a copy place.
-
 I don't have cash.I need their cards.
-
-DANNY:You want some?
-
-MICHAEL:Glad that's not scotch,What's got you so down?
-
-DANNY:Jeannette called me at work and broke up with me.
-
-MICHAEL:Ouch.
-
-DANNY:Yeah,well,between you and me,it was just a matter of time.
-
-MICHAEL:How come?
-
-DANNY:I'm not ambitious.I am going around in circles.
-
+You want some?
+Glad that's not scotch,What's got you so down?
+Jeannette called me at work and broke up with me.
+Ouch.
+Yeah,well,between you and me,it was just a matter of time.
+How come?
+I'm not ambitious.I am going around in circles.
 And I don't have a life plan.
-
-MICHAEL:Does Jeannette?
-
-DANNY:Oh,Jeannette has a very detailed schedule.
-
-DANNY:How's the movie?
-
-MICHAEL:Good.I'm just going out to shoot.
-
+Does Jeannette?
+Oh,Jeannette has a very detailed schedule.
+How's the movie?
+Good.I'm just going out to shoot.
 Listen,Danny,there's an experimental film at MIT on Saturday.
-
 Do you want to come aturday evening before you go to work?
-
-DANNY:Are you bringing Lisa?
-
-MICHAEL:Yep.
-
-DANNY:Does she have a friend?
-
-MICHAEL:How quickly they forget.
+Are you bringing Lisa?
+Yep.
+Does she have a friend?
+How quickly they forget.
 unit 30
-BETH:OK.Did Cavett say we would have any essay questions?
-
-JUSTINE:No.Just multiple choice.
-
-BETH:We must be sone.
-
-JUSTINE:We must be.I can't think of anything else to study.
-
-BETH:Great.      JUSTINE:Great.
-
-BETH:So the question is...
-
+OK.Did Cavett say we would have any essay questions?
+No.Just multiple choice.
+We must be sone.
+We must be.I can't think of anything else to study.
+Great.
+Great.
+So the question is...
 ...should I have  big party for my birthday?
-
-JUSTINE:Absolutely.Can I wear your red dress?
-
-BETH:Justine.The party may not even happen and you already want to wear my clothes.
-
-JUSTINE:But I look so good in that dress.Where is it?Here it is.
-
-BETH:Anyway,my parents would like to throw a party for me.
-
-JUSTINE:Uh huh?
-
-BETH:I don't know.Do you think it's stupid.Sweet sixteen?
-
-JUSTNE:Oh yeah.Sweet sixteen.Well,you don't have to wear a sign or anything.
-
-BETH:Yeah.We don't have to call it a sweet sixteen party.
-
+Absolutely.Can I wear your red dress?
+Justine.The party may not even happen and you already want to wear my clothes.
+But I look so good in that dress.Where is it?Here it is.
+Anyway,my parents would like to throw a party for me.
+Uh huh?
+I don't know.Do you think it's stupid.Sweet sixteen?
+Oh yeah.Sweet sixteen.Well,you don't have to wear a sign or anything.
+Yeah.We don't have to call it a sweet sixteen party.
 Try it with a necklace.
-
-JUSTINE:I like it with the necklace.
-
-JUSTINE:That tea party your mom did was great.
-
-BETH:Yeah,it could be really nice.
-
+I like it with the necklace.
+That tea party your mom did was great.
+Yeah,it could be really nice.
 On the other hand,a bunch of us could just go out.
-
-JUSTINE:That would be fun,too.Beth,your birthday's not for a few months,right?
-
-BETH:Six weeks.
-
-JUSTINE:So you have time to decide.You never wear this.I'm taking it.OK?
-
-BETH:OK.Are you hungry?
-
-JUSTINE:I could eat.
-
-BETH:So could I.Let's do it.
-NANCY:This article is so positive.It's glowing.
-
+That would be fun,too.Beth,your birthday's not for a few months,right?
+Six weeks.
+So you have time to decide.You never wear this.I'm taking it.OK?
+OK.Are you hungry?
+I could eat.
+So could I.Let's do it.
+This article is so positive.It's glowing.
 I can't believe I didn't notice it this morning.
-
 I love this part:
-
 "Some public servants do serve the public.State Prosecutor Hobart is one."Wow.
-
-RICHARD:What do you think?
-
-NANCY:What can I think?It says here,
-
+What do you think?
+What can I think?It says here,
 "Hobart won an important victory for public health in Massachusetts."
-
 You're my hero.
-
-RICHARD:Yeah?
-
-NANCY:I heard Beth boast about you to Justine.
-
+Yeah?
+I heard Beth boast about you to Justine.
 In a very cool way,of course.
-
-RICHARD:I impressed the house critic.That is impressive.
-
-NANCY:It's just the age,honey.It's her job to make us feel old and useless.
-
+I impressed the house critic.That is impressive.
+It's just the age,honey.It's her job to make us feel old and useless.
 You were fifteen once,don't you remember?
-
-RICHARD:I'm afraid that was a long time ago.And I was never...
-
-RICHARD:Did you hear her yesterday?
-
+I'm afraid that was a long time ago.And I was never...
+Did you hear her yesterday?
 She told someone on the phone,"My parents are so middle-class."
-
 What does that mean?
-
-NANCY:I'm sure we were just as bad.
-
-NANCY:So...
-
-RICHARD:Yes?
-
-NANCY:You do this fabulous job.You win this case.
-
-RICHARD:Mm-hmm.
-
-NANCY:People love you.You get glowing reviews.
-
+I'm sure we were just as bad.
+So...
+Yes?
+You do this fabulous job.You win this case.
+Mm-hmm.
+People love you.You get glowing reviews.
 You get praise from your colleagues.I have just one question.
-RICHARD:Yes?
-
-NANCY:Do you get a raise?
-
-DANNY:Come on,man.Help me do this.
-
-NATHAN:No,no.Let's get this straight.
-
+Yes?
+Do you get a raise?
+Come on,man.Help me do this.
+No,no.Let's get this straight.
 I am not going to help you leam you learn to juggle.
-
 I'm not going to waste my time.
-
-NATHAN:You don't listen.
-
-DANNY:What?
-
-NATHAN:See?You never listen.You're not really interested.
-
+You don't listen.
+What?
+See?You never listen.You're not really interested.
 Lately you're on some other planet,Danny.
-
 Your body is here,but your mind is on Pluto.
-
 I'd rather teach someone who wants to learn.
-
-DANNY:Nathan,it's not brain surgery.It's juggling.
-
-NATHAN:And guess what?You still can't do it.
-
-DANNY:OK,OK,OK.I'm sorry.I'll listen better.I'll work harder.
-
-DANNY:Oh no.It's the 2 am rush.
-
-NATHAN:Kinko's.This is Nathan.Can I help you?
-
+Nathan,it's not brain surgery.It's juggling.
+And guess what?You still can't do it.
+OK,OK,OK.I'm sorry.I'll listen better.I'll work harder.
+Oh no.It's the 2 am rush.
+Kinko's.This is Nathan.Can I help you?
 We're open all night.Yes,we do bulk copies.
-
 Sure.Let me get you the price list...
-
-DANNY:Ahh,tell them we're busy.We're swamped.Tell them to go away.
-
-NATHAN:You know what?It's your lucky night.
-
+Ahh,tell them we're busy.We're swamped.Tell them to go away.
+You know what?It's your lucky night.
 Let me hand you over to my colleague.
-
 He's our vice-president in charge of bulk copies and he can answer 
-
 all of your questions.His name is Danny.
-
-DANNY:Hello.Yep.7 cents.100.Sure.Yep.Bye.
+Hello.Yep.7 cents.100.Sure.Yep.Bye.
 unit 31
-NANCY:Here's a list of colors and materials.
-
+Here's a list of colors and materials.
 If you ever want to match something,take the list to the store.
-
-BILL:Thanks.
-
-YVONNE:And here's your final invoice.
-
-BILL:Fine.I can write a check now,if that's OK.
-
-YVONNE:Bill,you're my favorite client.
-
-BILL:I just wish I had more than two rooms for you to do.
-
-YVONNE:Just call us when you have a house,OK?
-
-BILL:I'm sure all your clients come back.
-
-NANCY:All but one.
-
-BILL:Oh,really?You have to tell me.I'm your favorite client.
-
-NANCY:He had no sense of color.
-
-YVONNE:One day last summer,we got a call.
+Thanks.
+And here's your final invoice.
+Fine.I can write a check now,if that's OK.
+Bill,you're my favorite client.
+I just wish I had more than two rooms for you to do.
+Just call us when you have a house,OK?
+I'm sure all your clients come back.
+All but one.
+Oh,really?You have to tell me.I'm your favorite client.
+He had no sense of color.
+One day last summer,we got a call.
 It was a doctor,a very successful surgeon..
-
-NANCY:...who wanted us to design his consulting offices.
-
+...who wanted us to design his consulting offices.
 And it was very important to the big surgeon...
-
-YVONNE:Nan.
-
-NANCY:...that the colors be soothing.
-
-BILL:Well,that makes sense.
-
-NANCY:I had no problem with that.
-
-YVONNE:However,the surgeon and my partner could not agree on green.
-
-BILL:Green is..green,right?
-
-NANCY:It was a very soft sea foam green,very gentle on the eyes.
-
+Nan.
+...that the colors be soothing.
+Well,that makes sense.
+I had no problem with that.
+However,the surgeon and my partner could not agree on green.
+Green is..green,right?
+It was a very soft sea foam green,very gentle on the eyes.
 What color is that?
-
-BILL:Green.
-
-NANCY:Thank you.
-
-YVONNE:Well,the surgeon said the green was yellowy-brown and not relaxing at all.
-
+Green.
+Thank you.
+Well,the surgeon said the green was yellowy-brown and not relaxing at all.
 In fact,he said the green was...what did he call it?
-
-NANCY:Institutional.Do you believe it?He gave me such a headache.
-
-YVONNE:Green,yellow,green,yellow.We finally went with a shade of pink...
-
-NANCY:Which he called violet.And the man is an eye surgeon!
-
-RICHARD:What's up for the weekend,Joe?
-
-JOE:We'll probably go sailing.The weather should be good.
-
+Institutional.Do you believe it?He gave me such a headache.
+Green,yellow,green,yellow.We finally went with a shade of pink...
+Which he called violet.And the man is an eye surgeon!
+What's up for the weekend,Joe?
+We'll probably go sailing.The weather should be good.
 At least that's what the weather report said.
-
-RICHARD:How's the boat?
-
-JOE:She needs a little work...a little work,a lot of cash.
-
+How's the boat?
+She needs a little work...a little work,a lot of cash.
 Ugh,this coffee's got sugar in it.This one must be yours.
-
-RICHARD:It gets expensive,doesn't it?
-
-JOE:Please.Marie reminds me the entire time we're on the boat.
-
+It gets expensive,doesn't it?
+Please.Marie reminds me the entire time we're on the boat.
 She says it's just a hole in the water you throw money into.
-
 I'm thinking of getting a smaller one,Richard-a one-man sailboat.
-
-JOE:Ugh,This one's got sugar in it too.Do you want it?
-
-RICHARD:No,thanks.Do you want this milk?  Sure.
-
-RICHARD:Beth used to take riding lessons.That wasn't cheap.
-
+Ugh,This one's got sugar in it too.Do you want it?
+No,thanks.Do you want this milk?  Sure.
+Beth used to take riding lessons.That wasn't cheap.
 I was relieved when she got tired of it.
-
 This isn't a ham sandwich.I'm not sure what it is.
-
-JOE:Egg salad.
-
-RICHARD:What's that one?
-
-JOE:Pastrami.Wrong order.
-
-RICHARD:Wrong order.
-
-RICHARD:The last couple of years,we've been skiing.
-
+Egg salad.
+What's that one?
+Pastrami.Wrong order.
+Wrong order.
+The last couple of years,we've been skiing.
 We go to Stowe Mountain in Vermont.
-
-JOE:Is that the one with the two mountains and all the trails?
-
-RICHARD:Yep.Downhill skiing.We can't pick an inexpensive sport,can we?
-
+Is that the one with the two mountains and all the trails?
+Yep.Downhill skiing.We can't pick an inexpensive sport,can we?
 Is there one?
-
-JOE:Skinnydipping.
-
-RICHARD:That would be a summer activity.
-
-JOE:Pretty much.
+Skinnydipping.
+That would be a summer activity.
+Pretty much.
 unit 32
-RICHARD:I can't meet them then.I'm in court.
-
-TRISH:You're in court the next day.
-
-RICHARD:Right.But I'm also in court on Wednesday.
-
-TRISH:The next day is Wednesday.
-
-RICHARD:Trish,we just started and we're already out of sync.
-
+I can't meet them then.I'm in court.
+You're in court the next day.
+Right.But I'm also in court on Wednesday.
+The next day is Wednesday.
+Trish,we just started and we're already out of sync.
 I cannot have all these meetings.There aren't enough hours in the day.
-
-TRISH:With all due respect,you don't write things down in the calendar.
-
+With all due respect,you don't write things down in the calendar.
 So I don't know how full your schedule is,
 which is why we still have these little meetings.
-
-RICHARD:Can we agree that the day after Wednesday is Thursday?
-
+Can we agree that the day after Wednesday is Thursday?
 That's a joke,Trish.A little joke.
-
-TRISH:May we start from the beginning?
-
-RICHARD:By all means.
-
-TRISH:The Credit Card Association would like to meet with you on Tuesday morning.
-
-RICHARD:Fine.I can do it in the morning.Afterwards,I'm in court.
-
-TRISH:Fine.Which case?
-
-RICHARD:People v.Kenton.
-
-RICHARD:We're talking about next week!  TRISH:We're talking about this week!
-
-RICHARD:Trish,I said,"Let's talk about next week."
-
-TRISH:You said it on Friday.Last week,"next week" means"this week"this week.
-
-RICHARD:You're going to make a very good attorney.
-
-LISA:Anybody home?
-
-MICHAEL:Hi.   LISA:Hi.Hi Danny.
-
-DANNY:How you doing.Lisa?
-
-LISA:I found that video.
-
-MICHAEL:"Mars Needs Women".Excellent.
-
-LISA:I looked everywhere for it,and I finally went to Video King.
-
+May we start from the beginning?
+By all means.
+The Credit Card Association would like to meet with you on Tuesday morning.
+Fine.I can do it in the morning.Afterwards,I'm in court.
+Fine.Which case?
+People v.Kenton.
+We're talking about next week!
+We're talking about this week!
+Trish,I said,"Let's talk about next week."
+You said it on Friday.Last week,"next week" means"this week"this week.
+You're going to make a very good attorney.
+Anybody home?
+Hi.
+Hi.Hi Danny.
+How you doing.Lisa?
+I found that video.
+"Mars Needs Women".Excellent.
+I looked everywhere for it,and I finally went to Video King.
 Michael,it is a great store.
-
-DANNY:Lisa,how long did you live in California?
-
-LISA:My whole life until college.Why?
-
-DANNY:I don't know.Maybe I should move to L.A.
-
-MICHAEL:What?Why?
-
-DANNY:They have an excellent football team.
-
-MICHAEL:You're pathetic.
-
-LISA:Danny,you don't want to live in California.It's one big disaster area.
-
-DANNY:So?So is my life.
-
-LISA:No.I mean things like floods.
-
+Lisa,how long did you live in California?
+My whole life until college.Why?
+I don't know.Maybe I should move to L.A.
+What?Why?
+They have an excellent football team.
+You're pathetic.
+Danny,you don't want to live in California.It's one big disaster area.
+So?So is my life.
+No.I mean things like floods.
 And if it isn't a flood,it's a fire-or an earthquake.Earthquakes,Danny.
-
-DANNY:Have you ever been is one?
-
-LISA:Plenty of times.Most of them are small;you don't feel them.
-
+Have you ever been is one?
+Plenty of times.Most of them are small;you don't feel them.
 But the one in 1990?I was going into the airport and the ground started to move.
-
 People didn't want to stay in the airport,obviously,
-
 so they started running out of it,crying and screaming.
-
-DANNY:So?
-
-LISA:The only disasters we have in New England are blizzards.
-
-MICHAEL:And hurricanes.
-
-LISA:And hurricanes.
-
-MICHAEL:And Danny's love life.
-
-LISA:Danny.Did you and Jeannette break up?
-
-DANNY:Yep.I dropped her like a hot potato.
-
-MICHAEL:"Typhoon Danny and his Storm of Love":a new film by Michael Chung.
-
+So?
+The only disasters we have in New England are blizzards.
+And hurricanes.
+And hurricanes.
+And Danny's love life.
+Danny.Did you and Jeannette break up?
+Yep.I dropped her like a hot potato.
+"Typhoon Danny and his Storm of Love":a new film by Michael Chung.
 I like it.
-
-DANNY:Yeah,well,I'm charging you a fortune for the rights.
-
-NANCY:Beth!We are waiting for you.The phone is driving me crazy.
-
-RICHARD:Let's unplug it.I'm starting.
-
-NANCY:Beth!
-
-BETH:Coming.Sorry.
-
-RICHARD:Hey didn't you have a soccer game today?What was the score?
-
-BETH:Four to...
-
-NANCY:Tell them you are eating dinner and will call back later.
-
+Yeah,well,I'm charging you a fortune for the rights.
+Beth!We are waiting for you.The phone is driving me crazy.
+Let's unplug it.I'm starting.
+Beth!
+Coming.Sorry.
+Hey didn't you have a soccer game today?What was the score?
+Four to...
+Tell them you are eating dinner and will call back later.
 Do you see what I mean?
-
-BETH:Dad!It's for you.
-
-RICHARD:Sorry.
-
-NANCY:The phone is driving me crazy.
-
-BETH:Mom,we should just turn on the answering machine.
-
-NANCY:I don't want to use it to screen calls.
-
+Dad!It's for you.
+Sorry.
+The phone is driving me crazy.
+Mom,we should just turn on the answering machine.
+I don't want to use it to screen calls.
 I don't think it's right.If we're home,we should answer the phone.
-
-BETH:But we're not screening calls.We just don't want to be interrupted.
-
+But we're not screening calls.We just don't want to be interrupted.
 If we were eating out,the machine would be on.
-
-NANCY:You have a point.
-
-BETH:So,let's use it during meals-or just during dinner.
-
-NANCY:Maybe.
-
-RICHARD:Sorry.That was Joe.
-
-NANCY:What did he want?
-
-BETH:The phone is driving you crazy.
-
-RICHARD:Nan!It's for you.
-
-
-
-
+You have a point.
+So,let's use it during meals-or just during dinner.
+Maybe.
+Sorry.That was Joe.
+What did he want?
+The phone is driving you crazy.
+Nan!It's for you.
 unit 33
-JOE:Are you working late tonight?
-
-RICHARD:Excuse me.Yes,Trish.Constanza Fuentes? Are you sure? OK.
-
+Are you working late tonight?
+Excuse me.Yes,Trish.Constanza Fuentes? Are you sure? OK.
 Hobart...Hello,Constanza...How are you? Fine,thank you.How can I help you?
-
 Uh huh....Yes...Excuse me?....No,I hadn't. I...uh...sure.
-
 I'd be happy to consider it.Lunch on Thursday. Fine.See you then.
-
-JOE:Constanza Fuentes?As in Party Chairwoman Fuentes?Well?
-
+Constanza Fuentes?As in Party Chairwoman Fuentes?Well?
 What did she want?
-
-RICHARD:She asked me if I had ever thought of rnning for public office.
-
-JOE:Any particular one?
-
-RICHARD:Attorney General of the State of Massachusetts.
-
-JOE:That's right Phil's retiring.
-
+She asked me if I had ever thought of rnning for public office.
+Any particular one?
+Attorney General of the State of Massachusetts.
+That's right Phil's retiring.
 What does our boss think about you taking his place?
-
-RICHARD:Constanza said Phil loves the idea.
-
-JOE:What else did she say?
-
-RICHARD:Not much.She said we are doing a great job 
+Constanza said Phil loves the idea.
+What else did she say?
+Not much.She said we are doing a great job 
 and I have a lot to offer and they need a candidate.
-
-JOE:So you said you'll think about it.
-
-RICHARD:Yeah.Am I crazy?Can I do this?
-
-JOE:If you want to.
-
-RICHARD:I have to tell Nancy what's going on.
-
-JOE:We can finish this later.
-
-YVONNE:This is a big job.
-
-NANCY:But we can do it.
-
-YVONNE:Klara Kovak,here we come.
-
-KLARA:Nancy,Yvonne.Do come in.It's nice,but it's not quite right.
-
+So you said you'll think about it.
+Yeah.Am I crazy?Can I do this?
+If you want to.
+I have to tell Nancy what's going on.
+We can finish this later.
+This is a big job.
+But we can do it.
+Klara Kovak,here we come.
+Nancy,Yvonne.Do come in.It's nice,but it's not quite right.
 We've had several decorators come in,but so far,it's been a disappointment.
-
 Notice the colors.They simply won't do.I can't bear to look at them...
-
-KLARA:Antonio and I hired a firm to fix the walls.
-
+Antonio and I hired a firm to fix the walls.
 Well,we came home to find the kitchen completely ruind.
-
 Do you know what they said to me?...
-
-KLARA:From then on,I watched the workmen do every little thing,no matter how small.
-
+From then on,I watched the workmen do every little thing,no matter how small.
 After all,how else will I know...And look at this carpet.
-
 I dont like carpets.You see people covring beautiful wood floors.
-
 It makes no sense whatsoever...
-
-KLARA:I'll have the architect send you plans.
-
-NANCY:Ms.Kovak...    KLARA:Oh,Klara.
-
-NANCY:Klara.I'm sorry.I thought the phone was off.Excuse me.
-
-KLARA:As I was saying....
-
-NANCY:Hello.Hi.I'm in a meeting,but keep talking.I need the break.
-
+I'll have the architect send you plans.
+Ms.Kovak...
+Oh,Klara.
+Klara.I'm sorry.I thought the phone was off.Excuse me.
+As I was saying....
+Hello.Hi.I'm in a meeting,but keep talking.I need the break.
 What's up?Who?She asked you what?What did you say?Wow.
-
 OK,honey.I'll see you tonight.
-
-YVONNE:We'd love you to come to our office.We'll call and arrange an appointment.
-
-YVONNE:Wow.
-
-NANCY:What were we dont in there?That house is fine.
-
-YVONNE:What did Klara say?"It's nice but it's not quite rigth."
-
+We'd love you to come to our office.We'll call and arrange an appointment.
+Wow.
+What were we dont in there?That house is fine.
+What did Klara say?"It's nice but it's not quite rigth."
 She wants us to make it right!Oh no!
 unit 34
-TONY:Danny?Danny DeMarco?      DANNY:Yeah?
-
-TONY:It's me.Tony.Tony Berelli.
-
-DANNY:Tony Berelli.Wow.        TONY:Yeah,yeah.
-
-DANNY:I haven't seen you in years.How are you doing?
-
-TONY:I'm doing fine...great.How about you?
-
-DANNY:Aah-you know.
-
-DANNY:Man,you look really different.What happened to the glasses?
-
-TONY:I got contact lenses.I took off a few pounds.
-
+Danny?Danny DeMarco?
+Yeah?
+It's me.Tony.Tony Berelli.
+Tony Berelli.Wow.
+Yeah,yeah.
+I haven't seen you in years.How are you doing?
+I'm doing fine...great.How about you?
+Aah-you know.
+Man,you look really different.What happened to the glasses?
+I got contact lenses.I took off a few pounds.
 I got in shape.Hey,do you want to keep on running? 
-
-DANNY:Yeah,absolutely.   TONY:Come on.
-DANNY:What are you doing these days?
-
-TONY:I manage one of my father's stores.You remember:radiow,stereos.
-
+Yeah,absolutely.
+Come on.
+What are you doing these days?
+I manage one of my father's stores.You remember:radiow,stereos.
 It's not bad.I've got flexible hours so I can work out when I want.
-
 Do you believe it,I lift weights now?
-
-DANNY:You'ra a new man,Tony.
-
-TONY:So,are you married?
-
-DANNY:No.No.No wife,no kids.As of two weeks ago,no airlfriend.You?
-
-TONY:Nah.Listen.We'll have wives and children and houses before we know it.
-
+You'ra a new man,Tony.
+So,are you married?
+No.No.No wife,no kids.As of two weeks ago,no airlfriend.You?
+Nah.Listen.We'll have wives and children and houses before we know it.
 So don't rush it.
-
-TONY:So,what's your story?
-
-DANNY:I'm still trying to figure out what I want to do,you know?
-
-TONY:Yeah.I know.
-
-DANNY:I work at Kinko's,nights.Actually today,I'm starting a second job.
-
+So,what's your story?
+I'm still trying to figure out what I want to do,you know?
+Yeah.I know.
+I work at Kinko's,nights.Actually today,I'm starting a second job.
 You know part-time,extra cash.
-
-TONY:What is it?
-
-DANNY:You know those guys that deliver telegrams and flowers?
-
-TONY:Really?       DANNY:Really.
-
-TONY:Well.It's a job.
-NANCY:Hi...Danny?
-
-DANNY:Hi Nancy.Hi.How are you?
-
-NANCY:Fine,thanks.Nice tuxedo.
-
-DANNY:I'm I'm I'm going to a wedding.
-
-NANCY:For a minute there,you looked like one of those balloon-delivery guys.
-
-DANNY:The balloons are for the wedding.  NANCY:Oh.
-
-DANNY:The couple is Danish,and the Danes have an old custom.
-
+What is it?
+You know those guys that deliver telegrams and flowers?
+Really?
+Really.
+Well.It's a job.
+Hi...Danny?
+Hi Nancy.Hi.How are you?
+Fine,thanks.Nice tuxedo.
+I'm I'm I'm going to a wedding.
+For a minute there,you looked like one of those balloon-delivery guys.
+The balloons are for the wedding.
+Oh.
+The couple is Danish,and the Danes have an old custom.
 Actually,it's not that old,but the balloons are part of it.
-
-NANCY:Part of the wedding.
-
-DANNY:Yes.
-
-NANCY:Everybody has something.
-
+Part of the wedding.
+Yes.
+Everybody has something.
 Americans throw birdseed.The Japanese have rubber cakes.
-
 In Liechtenstein.they kidnap the bride from the reception.
-
 ...or is that the Zimbabweans?
-
-DANNY:You know,Nancy.I was just on my way out.
-
-NANCY:Of course.Don't let me keep you.
-
+You know,Nancy.I was just on my way out.
+Of course.Don't let me keep you.
 You don't want to be late for a wedding,especially if you're in the bridal party.
-
 Are you the best man?
-
-DANNY:No.Yes.Sort of.Nice talking to you.Bye.
-
-
-
-
+No.Yes.Sort of.Nice talking to you.Bye.
 unit 35
-NANCY:What do you think?
-
-RICHARD:I think somethin's caught in here.
-
-NANCY:I mean,what do you think of running?
-
-RICHARD:For office?
-
-NANCY:No,the Boston marathon.Yes,for office.
-
-RICHARD:I'm not sure.I love my job.But,I've been there for eight years.
-
-Maybe it's time to move on.Maybe it's time for a new job.
-
-NANCY:Ah,but you won't know you have this job until the election.
-
-RICHARD:True.You know,the thought of public office never occurred to me.
-
-But ever since Constanza's phone call,it's been on my mind.
-
 What do you think?
-
-NANCY:I don't think that goes there.Isn't the belt supposed to go there?
-
+I think somethin's caught in here.
+I mean,what do you think of running?
+For office?
+No,the Boston marathon.Yes,for office.
+I'm not sure.I love my job.But,I've been there for eight years.
+Maybe it's time to move on.Maybe it's time for a new job.
+Ah,but you won't know you have this job until the election.
+True.You know,the thought of public office never occurred to me.
+But ever since Constanza's phone call,it's been on my mind.
+What do you think?
+I don't think that goes there.Isn't the belt supposed to go there?
 Well,I think it's very exciting.But I'm worred too.
-
 I mean,this will have an enormous effect on all of us.
-
 For instance,our lives will certainly change during a campaign.
-
-NANCY:Are you listening?
-
-RICHARD:For instance,our lives will certainly change during a campaign.
-
-NANCY:You're doing it again.
-
-RICHARD:What?
-
-NANCY:You repeat what I say,but you don't really hear it.
-
-RICHARD:Sweetheart,you think I can't hear unless I look at you.
-
+Are you listening?
+For instance,our lives will certainly change during a campaign.
+You're doing it again.
+What?
+You repeat what I say,but you don't really hear it.
+Sweetheart,you think I can't hear unless I look at you.
 But in fact,I use my ears to listen,not my eyes.
-
 I can even hear you with my eyes closed.Go ahead.Say something.
-
-NANCY:You're impossible.
-
-RICHARD:I'm impossible.See?
-
-BETH:What's on TV?
-
-JUSTINE:"I love Stuart Bonnett"starring Beth Hobart.
-
-BETH:Justine,don't rub it in.What is on TV?
-
-JUSTINE:Thriller Theater.Something called"The Jersey devil".
-
-BETH:Cool.
-
-JUSTINE:Is that about a couple on a date and they park in the woods or somehing?
-
-BETH:Well,according to the story I know,they run out of gas,
-
+You're impossible.
+I'm impossible.See?
+What's on TV?
+"I love Stuart Bonnett"starring Beth Hobart.
+Justine,don't rub it in.What is on TV?
+Thriller Theater.Something called"The Jersey devil".
+Cool.
+Is that about a couple on a date and they park in the woods or somehing?
+Well,according to the story I know,they run out of gas,
 and they're really nervous because there's an escaped monster in the woods too.
-
-JUSTINE:The Jersey devil.
-
-BETH:Right.
-
-BETH:They hear a noise and the guy gets out to look around
-
+The Jersey devil.
+Right.
+They hear a noise and the guy gets out to look around
 and the woman waits in the car like this.
-
 She hears scratching-behind the car,in front of the car,and against the roof.
-
 And she's scared because of the Jersey devil.
-
-JUSTINE:Now I remember.She finally gets out
-
+Now I remember.She finally gets out
 and sees that it was her boyfriend trying to get back into the car.
-
 But the Jersey devil got him.
-
-BETH:It' ssupposed to be true.
-
-JUSTINE:Did you hear the one about the baby-sitter and the phone calls?
-
-BETH:I think so.
-
-JUSTINE:The creep calls the baby-sitter and calls and calls
-
+It' ssupposed to be true.
+Did you hear the one about the baby-sitter and the phone calls?
+I think so.
+The creep calls the baby-sitter and calls and calls
 and won't let her alone,and she finally has the operator trace the phone lines.
-
-BETH:And the operator calls and says,"Get out now.
-
+And the operator calls and says,"Get out now.
 He's calling from a phone inside the house!"
-
-BETH AND JUSTINE:Ahhhgh!     BETH:Hello.
-
-YVONNE:Klara's coming here next week.Do we need a plan?
-
-NANCY:What kind of plan?
-
-YVONNE:How should we impress her?
-
-NANCY:We will impress her with our fine work.
-
-YVONNE:Nancy,I used to say that when I worked with your husband
-
+Ahhhgh!
+Hello.
+Klara's coming here next week.Do we need a plan?
+What kind of plan?
+How should we impress her?
+We will impress her with our fine work.
+Nancy,I used to say that when I worked with your husband
 and all the other lawyers in state government.
-
 But now,we are in the design business.
-
-NANCY:It could use a face lift.
-
-YVONNE:Look what I found.Wow!
-
-NANCY:I covered the chairs and moved the sofa in here.
-
-YVONNE:I picked up a new album for presenting our work.
-
-NANCY:Perfect.Hello.You bought a what?
-
-YVONNE:We needed something here anyway.
-
+It could use a face lift.
+Look what I found.Wow!
+I covered the chairs and moved the sofa in here.
+I picked up a new album for presenting our work.
+Perfect.Hello.You bought a what?
+We needed something here anyway.
 I called Klara,confirmed the time,gave her directions and  mailed her a map.
-
-NANCY:Is there anything else we can do?
-
-KLARA:This is all very charming.
-
-NANCY:Who could that be?
-
-YVONNE:I'll get it.Excuse me.
-
-NANCY:More tea,klara?
-
-KLARA:Yes.Thank you.You know it's not easy being gracious these days.
-
-NANCY:No,it isn't.
-
-YVONNE:Aren't they gorgeous.
-
-NANCY:Who sent them?
-
-YVONNE:Let's see.Thank you for making my home so beautiful.
-
+Is there anything else we can do?
+This is all very charming.
+Who could that be?
+I'll get it.Excuse me.
+More tea,klara?
+Yes.Thank you.You know it's not easy being gracious these days.
+No,it isn't.
+Aren't they gorgeous.
+Who sent them?
+Let's see.Thank you for making my home so beautiful.
 Best wishes,Janet Wu.
-
-NANCY:Janet Wu?
-
-YVONNE:Just one of our many satisfied customers.You were saying,Klara?
+Janet Wu?
+Just one of our many satisfied customers.You were saying,Klara?
 unit 36
-DOUGLAS:Richard?
-
-RICHARD:Over there is fine.
-
-NANCY:Yvonne!
-
-YVONNE:I'm almost finished!
-
-NANCY:Believe me,Douglas,yvonne promised she would take the day off.
-
+Richard?
+Over there is fine.
+Yvonne!
+I'm almost finished!
+Believe me,Douglas,yvonne promised she would take the day off.
 She said she had done enough work for one week.
-
 And now she is in there with a calculator.
-
-DOUGLAS:I know.I know.
-
-RICHARD:Douglas,don't be shy.
-
-DOUGLAS:This looks great.
-
-RICHARD:It smells fantastic.
-
-NANCY:Dig in.Yvonne!
-
-YVONNE:Two seconds!
-
-RICHARD:Douglas,Yvonne mentioned you were in Chicago.
-
-DOUGLAS:Yeah.For a seminar on selling commercial property.
-
+I know.I know.
+Douglas,don't be shy.
+This looks great.
+It smells fantastic.
+Dig in.Yvonne!
+Two seconds!
+Douglas,Yvonne mentioned you were in Chicago.
+Yeah.For a seminar on selling commercial property.
 It was just a couple of days.This is delicious.
-
 But the flight back was horrible.We flew through a huge storm.
-
-NANCY:I hate airplanes.
-
-RICHARD:You told me you were over that.
-
-NANCY:Not when I hear these stories.
-
-DOUGLAS:This was pretty bad.
-
+I hate airplanes.
+You told me you were over that.
+Not when I hear these stories.
+This was pretty bad.
 At one point,the flight attendants told us we had to take crash positions.
-
-NANCY:No.And then the pilot came on and said we couldn't land.
-
+No.And then the pilot came on and said we couldn't land.
 It was absolutely terrifying.
-
-RICHARD:Of course,statistically,it's very safe.
-
-NANCY:Tell that to the people in the crash position.
-
-DOUGLAS:Well to be fair,I lived to tell the story.I am here.
-
-NANCY:But your wife isn't.Yvonne!
-
-DOUGLAS:Yvonne,we ate all the food!
-
-RICHARD:There's nothing left.You missed it.
-
-DANNY:OK.I'll tell him you called.Hey,that was Lisa.
-
+Of course,statistically,it's very safe.
+Tell that to the people in the crash position.
+Well to be fair,I lived to tell the story.I am here.
+But your wife isn't.Yvonne!
+Yvonne,we ate all the food!
+There's nothing left.You missed it.
+OK.I'll tell him you called.Hey,that was Lisa.
 She said you were supposed to meet her.
-
-MICHAEL:I know.I was.Was she mad?
-
-DANNY:Was she mad!
-
-MICHAEL:Oh boy,I blew it.
-
-DANNY:Well,she said she was going home and she'd call you later.What happened?
-
-MICHAEL:I taped in the Square this morning.
-
+I know.I was.Was she mad?
+Was she mad!
+Oh boy,I blew it.
+Well,she said she was going home and she'd call you later.What happened?
+I taped in the Square this morning.
 Then I had a meething over at school with my advisor.
-
 First of all,he wea 45 minutes late.
-
 Then after a complete progress report,
 he decides to go over the whole project from the top.
-
-DANNY:Temper,Michael.He is your graduate advisor.
-
+Temper,Michael.He is your graduate advisor.
 Lisa will calm down.It's nothing a little gesture on your part won't fix.
-
-DANNY:Ask her to marry you.
-
-MICHAEL:Let's not go to extetremes.
-
-DANNY:Tell her it'll never happen again.
-
-MICHAEL:I told her that the last time.
-
-DANNY:Well well well,you do have a problem,don't you?
-
-MICHAEL:I could grovel.
-
-DANNY:Groveling is an option.Now,personally I don't grouvel.
-
+Ask her to marry you.
+Let's not go to extetremes.
+Tell her it'll never happen again.
+I told her that the last time.
+Well well well,you do have a problem,don't you?
+I could grovel.
+Groveling is an option.Now,personally I don't grouvel.
 I just inspire women to break upo with me.
-
-MICHAEL:Maybe you should try groveling.
+Maybe you should try groveling.

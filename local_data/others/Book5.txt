@@ -1,984 +1,528 @@
 unit 37
-ANNY:Kinko's.This is Danny.Can I help you?Sure.Yes we do.All night.Bye.
-
-NATHAN:My my,we are eager to answer the phone tonight.
-
+Kinko's.This is Danny.Can I help you?Sure.Yes we do.All night.Bye.
+My my,we are eager to answer the phone tonight.
 Do you think the owner's going to call?
-
 Danny,you can relax,man,because he's fast asleep.
-
-DANNY:Just serving the customer,Nathan.She had questions.I had answers.
-
-NATHAN:I don't suppose this new work ethic extends to the supply room,does it?
-
+Just serving the customer,Nathan.She had questions.I had answers.
+I don't suppose this new work ethic extends to the supply room,does it?
 We need some things.
-
-DANNY:No,thanks.I'll man the front desk.Answer the phones.
-
-NATHAN:I guess I should be glad you'll do anything.
-
-DANNY:Kinko's.This is Danny.Can I help you?
-
+No,thanks.I'll man the front desk.Answer the phones.
+I guess I should be glad you'll do anything.
+Kinko's.This is Danny.Can I help you?
 Hi.No,this is fine.Call me here for those early morning assignments.
-
 So,where do I go today?Wait,wait,wait.They want me to dress as a what?
-
 What do you mena,a prince?Listen,I'm not an actor.I'm a guy in a tuxedo.
-
 I don't have the costumes to be a prince.
-
 Or a king.Or a clown.Where do I pick them up? Downtown.Nine o'clock.Bye.
-
-NATHAN:Tough customer,huh?
-
-CONSTANZA:Richard!Hello.I hope I haven't kept you waiting very long.
-
-RICHARD:No,no.We just arrived.Nancy,this is Constanza Fuentes.
-
+Tough customer,huh?
+Richard!Hello.I hope I haven't kept you waiting very long.
+No,no.We just arrived.Nancy,this is Constanza Fuentes.
 Constanza,my wife Nancy.
-
-CONSTANZA:I am so pleased to meet you.
-
-CONSTANZ:Listen,let's go upstairs.I'd love to show you around.
-
+I am so pleased to meet you.
+Listen,let's go upstairs.I'd love to show you around.
 Is it Nancy Hobart,or did you keep your own name?
-
-NANCY:It's Hobart.I took Richard's name when we got married.
-
-CONSTANZA:Oh,I took my husband's name too.But that was a long time ago.
-
+It's Hobart.I took Richard's name when we got married.
+Oh,I took my husband's name too.But that was a long time ago.
 These days,many women don't.
-
-NANCY:At the time,it was more trouble to keep my own name tahn to change it to his.
-
+At the time,it was more trouble to keep my own name tahn to change it to his.
 So we gave mine to our daughter as a middle name.
-
-CONSTANZA:Your daughter is Beth,right?
-
-NANCY:Elizabeth Jane Ellis Hobart.
-
-CONSTANZA:Oh,it's beautiful.It sounds like an author's name,doesn't it?
-
-RICHARD:I think it sounds like an attorney's name.
-
-CONSTANZA:And what does Beth think?
-
-NANCY:She'd like to think it's the name of a great tennis player.
-
-CONSTANZA:I'm glad to hear it.
-
+Your daughter is Beth,right?
+Elizabeth Jane Ellis Hobart.
+Oh,it's beautiful.It sounds like an author's name,doesn't it?
+I think it sounds like an attorney's name.
+And what does Beth think?
+She'd like to think it's the name of a great tennis player.
+I'm glad to hear it.
 You know the families of candidates are often in the public eye.
-
 Some kids have a hard time with it.
-
 But perhaps that daughter of yours wouldn't mind it so much.
-
-NANCY:We'll see.It's all very new to her the idea of her father as a celebrity.
-
-RICHARD:Nancy....    NANCY:A minor celebrity.
-
-CONSTANZA:Oh,no,Nancy.If we are going to have a celebrity,
-
+We'll see.It's all very new to her the idea of her father as a celebrity.
+Nancy....
+A minor celebrity.
+Oh,no,Nancy.If we are going to have a celebrity,
 let's do it in a big way.Let's have a star!
 unit 38
-BETTY:Hello?Didn't you hear me knock?
-
-NANCY:Hi Mom.I'm sorry.I'm a little preoccupied.    BETTY:What's wrong?
-
-NANCY:I can't find my keys.I'm always losing them.
-
-BETTY:Do you remember what I did when you were little?
-
-NANCY:What?
-
-BETTY:In the winter,you were always losing your gloves.
-
+Hello?Didn't you hear me knock?
+Hi Mom.I'm sorry.I'm a little preoccupied.
+What's wrong?
+I can't find my keys.I'm always losing them.
+Do you remember what I did when you were little?
+What?
+In the winter,you were always losing your gloves.
 And so I would attach them to your sleeves with little clips.
-
 It generally worked,although sometimes you still managed to lose them.
-
 Don't ask me how.
-
-NANCY:I wish I could clip my keys to my sleeves.
-
-BETTY:Maybe you're pregnant.  NANCY:Mother.
-
-BETTY:I was always very absent-minded when I was pregnant.
-
-NANCY:I was not absent-minded.I constantly craved cheeseburgers.
-
-BETTY:That's right.
-
-BETH:Cheeseburgers?Hi Grammy.i didn't know you were here today.
-
-BETTY:Well,I usually get my hair done on Wednesdays.
-
+I wish I could clip my keys to my sleeves.
+Maybe you're pregnant.
+Mother.
+I was always very absent-minded when I was pregnant.
+I was not absent-minded.I constantly craved cheeseburgers.
+That's right.
+Cheeseburgers?Hi Grammy.i didn't know you were here today.
+Well,I usually get my hair done on Wednesdays.
 But my stylist is on vacation this week,so I decided to visit.
-
-MARIE:How can you be tired?You just took a nap.
-
-BETTY:Come here,sweetheart.How are you?  BETH:Good.
-
-BETTY:Have you decided what you want to do for your birthday?
-
-BETH:We're having a party here,then I'm going out with my friends.
-
-BETTY:That sounds terrific.
-
-BETH:Yeah.
-
-BETH:So are you staying for dinner?
-
-NANCY:Why don't you?We're planning to get take-out,if I can ever find my...
-
-BETH:Mom,why are your keys in the fruit bowl?
-MARIE:Where have you been?
-
-JOE:Right here.Where have you been?
-
-MARIE:Right here.By the entrance to Saks.Where we agreed to meet.
-
-JOE:We said near the entrance to Saks.On the other side.
-
-MARIE:That's not near the entrance.That's near the escalator.
-
-JOE:I was looking for you.
-
-MARIE:Yeah,yeah.You would have walked right by me if I hadn't seen you.
-
-MARIE:Here.Hold this.I want to check something.
-
-JOE:What am I,a closet?What,you buy everything but the kitchen sink...
-
-MARIE:Don't start,Joe.See?It fits.
-
+How can you be tired?You just took a nap.
+Come here,sweetheart.How are you?
+Good.
+Have you decided what you want to do for your birthday?
+We're having a party here,then I'm going out with my friends.
+That sounds terrific.
+Yeah.
+So are you staying for dinner?
+Why don't you?We're planning to get take-out,if I can ever find my...
+Mom,why are your keys in the fruit bowl?
+Where have you been?
+Right here.Where have you been?
+Right here.By the entrance to Saks.Where we agreed to meet.
+We said near the entrance to Saks.On the other side.
+That's not near the entrance.That's near the escalator.
+I was looking for you.
+Yeah,yeah.You would have walked right by me if I hadn't seen you.
+Here.Hold this.I want to check something.
+What am I,a closet?What,you buy everything but the kitchen sink...
+Don't start,Joe.See?It fits.
 It's very nice with your eyes.Are you satisfied?
-
-MARIE:So what did you do?
-
-JOE:I went up to the drugstore and...ah,had a blood pressure test.
-
-MARIE:Blood pressure?You think you have high blood pressure?
-
-JOE:Well,I've been wondering about it.Besides,the test was free.
-
-MARIE:Why do you think you have high blood pressure?
-
-JOE:Marie.
-
-MARIE:How long have you thought this?
-
+So what did you do?
+I went up to the drugstore and...ah,had a blood pressure test.
+Blood pressure?You think you have high blood pressure?
+Well,I've been wondering about it.Besides,the test was free.
+Why do you think you have high blood pressure?
+Marie.
+How long have you thought this?
 Why do you never tell me these things?
-
-JOE:Marie.
-
-MARIE:You didn't tell me about bi-focals.
-
+Marie.
+You didn't tell me about bi-focals.
 You don't tell me about your blood pressure.
-
 If you wore a hat,I wouldn't know you were bald.
-
-JOE:Let's go.I'm exhausted.
-
-MARIE:How can you be tired?You just took a nap.
+Let's go.I'm exhausted.
+How can you be tired?You just took a nap.
 unit 39
-NANCY:And she doesn't want any rugs.
-
+And she doesn't want any rugs.
 Yvonne,Klara may be our strangest client ever.
-
-YVONNE:She's not so bad.
-
-NANCY:You must be joking.
-
-YVONNE:Hey.She knows what she wants and she can pay for it.What's the problem?
-
-NANCY:She doesn't know what she wants.She can't have known.
-
+She's not so bad.
+You must be joking.
+Hey.She knows what she wants and she can pay for it.What's the problem?
+She doesn't know what she wants.She can't have known.
 She's been through a dozen designers.
-
-YVONNE:Nan,she's not that hard to read.
-
+Nan,she's not that hard to read.
 We may not like what we read.But she is the boss.
-
-NANCY:That's another thing.We're freelance.We're supposed to be our own bosses.
-
-YVONNE:Freelance just means everyone is your boss.
-
+That's another thing.We're freelance.We're supposed to be our own bosses.
+Freelance just means everyone is your boss.
 But I'm still glad I left my old job.
-
 I'd rather have a crazy rich lady tell me what to do,
-
 than an office full of state attorneys,thank you.
-
-NANCY:Richard was not a bad boss.
-
-YVONNE:No.But some of the others could have been prison guards.
-
+Richard was not a bad boss.
+No.But some of the others could have been prison guards.
 Anyway,who would you rather look at:a State House lawyer,or Antonio?
-
-NANCY:Please.Antonio is very strange.
-
-YVONNE:Nan.It's an iteresting project.She's paying us for our time.
-
+Please.Antonio is very strange.
+Nan.It's an iteresting project.She's paying us for our time.
 We'll do a good job.
-
-NANCY:I guarantee she will change her mind about what she wants.
-
-YVONNE:She might.
-
-NANCY:She will.
-HANNAH:Danny,this is a wonderful meal.Please come and live with me.
-
-MICHAEL:Do you think he does this all the time?
-
+I guarantee she will change her mind about what she wants.
+She might.
+She will.
+Danny,this is a wonderful meal.Please come and live with me.
+Do you think he does this all the time?
 Lisa,you see how we live.Ask Hannah if she wants to sink to our level.
-
-LISA:This is unusually civilized.
-
-DANNY:It's not often I make my sauce.
-
-TONY:I want to know if this is your mother's sauce.
-
-DANNY:The basic recipe is the same,
-
+This is unusually civilized.
+It's not often I make my sauce.
+I want to know if this is your mother's sauce.
+The basic recipe is the same,
 but I put in a few things my mother would not approve of.
-
 I broke a couple of the rules.
-
-HANNAH:Your mother has rules about spaghetti sauce?
-
-TONY AND DANNY:Of course!
-
-LISA:My mother's rules are about clothes.
-
-MICHAEL:Like what?
-
-LISA:Like skirt length.No minis.
-
-TONY:Bummer.      DANNY:Bummer.
-
-LISA:In high school she'd always ask me if I intended to leave the house that way.
-
-HANNAH:She must have been surprised  the first time you came home from college.
-
-LISA:Oh yes.
-
-DANNY:My parents sure were.My dad has one rule:be practical.
-
+Your mother has rules about spaghetti sauce?
+Of course!
+My mother's rules are about clothes.
+Like what?
+Like skirt length.No minis.
+Bummer.
+Bummer.
+In high school she'd always ask me if I intended to leave the house that way.
+She must have been surprised  the first time you came home from college.
+Oh yes.
+My parents sure were.My dad has one rule:be practical.
 And I had changed my major from business to theater arts.Oh well.
-
-TONY:Besides Danny,you're using that theatrical stuff in your job now.
-
-DANNY:Oh yeah,ha ha,it's always a show down at the copy place.
-
-HANNAH:How's your film coming,Michael?Are you breaking any rules?
-
-MICHAEL:I don't think so.My advisor asked me who my major influence has been.
-
+Besides Danny,you're using that theatrical stuff in your job now.
+Oh yeah,ha ha,it's always a show down at the copy place.
+How's your film coming,Michael?Are you breaking any rules?
+I don't think so.My advisor asked me who my major influence has been.
 I told him it changes every week.I haven't even found the rules yet.
-
-TONY:Well,you'll know what to do when you find them.
-
-ALL:Break'em!
-
-JOE:Richard,if your dinners are like this every night,
-
+Well,you'll know what to do when you find them.
+Break'em!
+Richard,if your dinners are like this every night,
 I'm going to be a very jealous man.
-
-RICHARD:Oh,absolutely.Five courses.Candlelight.
-
-NANCY:It is so easy to please Richard.
-
-YVONNE:Sorry guys.I've been here.I've seen the Chinese food cartons.
-
-NANCY:I told you he was easy to please.Any food will make Richard happy.
-
-MARIE:You're lucky,Nancy.I cook,and half the time he's too tired to eat.
-
-JOE:We eat too late.
-
-MARIE:You don't get home until 8 o'clock.
-
-DOUGLAS:So you guys have been putting in a lot of hours?
-
-RICHARD:Who isn't?
-
-YVONNE:Really.Well,I bought a lottery ticket.
-
-NANCY:Uh-oh.What happened to my practical partner?
-
-YVONNE:What do you all want when I win?
-
+Oh,absolutely.Five courses.Candlelight.
+It is so easy to please Richard.
+Sorry guys.I've been here.I've seen the Chinese food cartons.
+I told you he was easy to please.Any food will make Richard happy.
+You're lucky,Nancy.I cook,and half the time he's too tired to eat.
+We eat too late.
+You don't get home until 8 o'clock.
+So you guys have been putting in a lot of hours?
+Who isn't?
+Really.Well,I bought a lottery ticket.
+Uh-oh.What happened to my practical partner?
+What do you all want when I win?
 Douglas,honey,you and I are taking a cruise.
-
-JOE:Is it too much to ask for a new sailboat?
-
-YVONNE:You got it,Joe.
-
-RICHARD:I'll have one,too.
-
-DOUGLAS:No,no Richard.Yvonne should make a big contribution to your campaign.
-
-RICHARD:No,no,no,no,hey....We have not yet decided that.
-
-MARIE:What haven't you decided?
-
-NANCY:If Richard is going to run for Attorney General.
-
-MARIE:Oh.        JOE:Ow.
-
-MARIE:I'm sorry.I didn't know.I guess Joe was too busy to tell me.
-
-JOE:Ow.          MARIE:I'm sorry dear.Was that your foot?
+Is it too much to ask for a new sailboat?
+You got it,Joe.
+I'll have one,too.
+No,no Richard.Yvonne should make a big contribution to your campaign.
+No,no,no,no,hey....We have not yet decided that.
+What haven't you decided?
+If Richard is going to run for Attorney General.
+Oh.
+Ow.
+I'm sorry.I didn't know.I guess Joe was too busy to tell me.
+Ow.
+I'm sorry dear.Was that your foot?
 unit 40
-NANCY:That's it Klara.We hope you like it.
-
-KLARA:Wonderful.Thank you.I love what you've done.
-
-KLARA:Now there are a few things I've been thinking about.
-
+That's it Klara.We hope you like it.
+Wonderful.Thank you.I love what you've done.
+Now there are a few things I've been thinking about.
 Some of my original ideas were not quite right.
-
 For instance,the library as a gentlemen's club?
-
 I don't like that anymore.And the hallway furniture will have to change.
-
 The guest room,the maids'rooms,Antonio's dressing room...
-
-KLARA:And this color scheme strikes me as a little dull.
-
+And this color scheme strikes me as a little dull.
 Antonio's suggestion is to paint this...
-
 Now I know that today alone I have handed you two months'of work.
-
 But I do so want to stay on our original schedule.
-
 Could you come back in a few weeks?
-
-YVONNE:No problem!        NANCY:No problem!
-
-RICHARD:Let me get this straight.The comopany is selling vitamins.
-
-JOE:Right.
-
-RICHARD:And vitamins come from a natural source.
-
-JOE:No.Some vitamins do.These do not.But the label says they're natural.
-
-RICHARD:This sounds familiar.Didn't we have a case like it a couple of years ago?
-
-JOE:The bottled water comopany.
-
-RICHARD:Yeah.They were bottling tap water and calling it mineral water.
-
-JOE:It's the same company.
-
-RICHARD:What?We won that case.
-
-JOE:They're in a new business.Vitamins.
-
-RICHARD:No,no,no.Let's pursue this one and put an end to it.
-
+No problem!
+No problem!
+Let me get this straight.The comopany is selling vitamins.
+Right.
+And vitamins come from a natural source.
+No.Some vitamins do.These do not.But the label says they're natural.
+This sounds familiar.Didn't we have a case like it a couple of years ago?
+The bottled water comopany.
+Yeah.They were bottling tap water and calling it mineral water.
+It's the same company.
+What?We won that case.
+They're in a new business.Vitamins.
+No,no,no.Let's pursue this one and put an end to it.
 Companies that do this should not be in business.
-
-JOE:OK.That's it.Time to do home.
-
-RICHARD:Joe,one more thing.    JOE:Yes?
-
-RICHARD:Nancy and I have talked about it a lot and I am going to run for office.
-
+OK.That's it.Time to do home.
+Joe,one more thing.
+Yes?
+Nancy and I have talked about it a lot and I am going to run for office.
 I won't announce it for a while,but I wanted you to know.
-
-JOE:I appreciate that,Richard.Good luck.
-
-RICHARD:Don't forget to tell Marie.   JOE:Right.
-
-RICHARD:Are you surprised?
-
-JOE:No.But it won't be easy Richard.
-
+I appreciate that,Richard.Good luck.
+Don't forget to tell Marie.
+Right.
+Are you surprised?
+No.But it won't be easy Richard.
 I always say that leaders are born
 but elected officials are very carefully manufactured.
-
-RICHARD:Hmm.I know.  JOE:Let me know if there's anything I can do.
-
-RICHARD:Thanks,Joe.Manufactured,huh?      JOE:Nothing personal.
-
-NANCY:Hey you.You left laundry in the dryer.
-
+Hmm.I know.
+Let me know if there's anything I can do.
+Thanks,Joe.Manufactured,huh?
+Nothing personal.
+Hey you.You left laundry in the dryer.
 You're supposed to do the whole load yourself start to finish.
-
-BETH:I forgot.I'm sorry.
-
-NANCY:So,what do you think of Dad's plans?
-
-BETH:It's cool I guess.If he wants to do it.Why now?
-
-NANCY:Well,it happens when you make a name for yourself.
-
-BETH:But he was just doing his job,right?
-
-NANCY:Pretty funny,huh?He was doing it so well,he's on the news.
-
-BETH:Will we be no the news?
-
-NANCY:Yes,I think so at some point.
-
+I forgot.I'm sorry.
+So,what do you think of Dad's plans?
+It's cool I guess.If he wants to do it.Why now?
+Well,it happens when you make a name for yourself.
+But he was just doing his job,right?
+Pretty funny,huh?He was doing it so well,he's on the news.
+Will we be no the news?
+Yes,I think so at some point.
 And some people may ask you a lot of questions.
-
 You have to decide for yourself whether to answer them.
-
 But you can always come to us and talk about it.You know that,right?
-
-BETH:Yeah.I just hope they don't get totally invasive.
-
-NANCY:We'll keep things as normal as possible for ourselves.
-
+Yeah.I just hope they don't get totally invasive.
+We'll keep things as normal as possible for ourselves.
 At least here at home.Speaking of which,I am going to the pool tomorrow morning.
-
 Do you want to go swimming with me?
-
-BETH:Yes!Oh.What time?
-
-NANCY:Early,early,early.Oh,come on.It'll be fun.
-
+Yes!Oh.What time?
+Early,early,early.Oh,come on.It'll be fun.
 We can be in the water by 7:30 in the morning.
-
-BETH:Mom,you're crazy.
-
-NANCY:Don't make me go all by myself.
-
-BETH:Leave at ten and then I'll go with you.     Ten!
-
+Mom,you're crazy.
+Don't make me go all by myself.
+Leave at ten and then I'll go with you.     Ten!
 Eight o'clock.   Nine.
-
-NANCY:Eight-thirty.Final offer.And breakfast at the Tasty Diner afterwards.
-
-BETH:Deal.       NANCY:Good.Sleep tight.
+Eight-thirty.Final offer.And breakfast at the Tasty Diner afterwards.
+Deal.
+Good.Sleep tight.
 unit 41
-NANCY:Brr...It good cold so quickly.
-
-RICHARD:Three messages.
-
-NANCY:I'm going to heat up some apple cider.Do you want some?
-
-RICHARD:Yes,please.
-
-CONSTANZA:Hello Richard and Nancy.This is Constanza Fuentes calling.
-
+Brr...It good cold so quickly.
+Three messages.
+I'm going to heat up some apple cider.Do you want some?
+Yes,please.
+Hello Richard and Nancy.This is Constanza Fuentes calling.
 I wonder if you have plans for the evening of the 17th.
-
 We're having a get-together.Quite small.Give me a call at 555-8947.
-
-RICHARD:Do we have plans?
-
-NANCY:Now we do.
-
-JUSTINE:Beth.Are you there?Pick up.
-
+Do we have plans?
+Now we do.
+Beth.Are you there?Pick up.
 I have by far the best news for you,and his initials are S.B.Call me!
-
-RICHAD:Who was that?
-
-NANCY:Justine.Beth's friend.
-
-RICHARD:What is she...?
-
-NANCY:I'm fairly sure it has to do with a boy.
-
-HEATHER:Hello.This is message for Richard and Nancy Hobart.
-
+Who was that?
+Justine.Beth's friend.
+What is she...?
+I'm fairly sure it has to do with a boy.
+Hello.This is message for Richard and Nancy Hobart.
 Heather Vialo of WBNN here.We've heard a rather interesting rumor.
-
 I wonder if you'd like to give us your reaction.
-
 My number is 555-4424.Call anytime.
-
-NANCY:I'd rather not.It's all yours.
-
-DANNY:Nathan,did you read this story about brngee-jumping?
-
-NATHAN:No.I've been collating these papers since we got here.But I have done it?
-
-DANNY:Bungee-jumping?Are you kidding?
-
-NATHAN:A friend of mine dared me.He said if I actually did it,he'd pay for it.
-
-DANNY:So you've thrown yourself off a building with nothing
-
+I'd rather not.It's all yours.
+Nathan,did you read this story about brngee-jumping?
+No.I've been collating these papers since we got here.But I have done it?
+Bungee-jumping?Are you kidding?
+A friend of mine dared me.He said if I actually did it,he'd pay for it.
+So you've thrown yourself off a building with nothing
 but a big rubber band to hold you above the ground.
-
-NATHAN:Yes I have.But it was a bridge,not a building.
-
-DANNY:Do you do things like this all the time?
-
-NATHAN:Occasionally.
-
-DANNY:Don't you think it's strange?
-
-NATHAN:What?
-
-DANNY:That this is how you relax.
-
+Yes I have.But it was a bridge,not a building.
+Do you do things like this all the time?
+Occasionally.
+Don't you think it's strange?
+What?
+That this is how you relax.
 People in this article bungee-jump,and mountain climb and skydive.
-
 What happened to checkers?
-
-NATHAN:Haven't you ever done something just for the thrill of it?
-
-DANNY:Of course.But if I want to relax,I want it to be calm and peaceful.
-
-NATHAN:Let me ask you a question.
-
-DANNY:Yeah?
-
-NATHAN:Is your work here fast-paced?
-
-DANNY:No.
-
-NATHAN:Would you call your home life a thrill a minute?
-
-DANNY:No.
-
-NATHAN:How's the social life?
-
-DANNY:You've made your point,Nathan.
-
-NATHAN:Maybe you've had too much peace and quiet,Danny.
-
+Haven't you ever done something just for the thrill of it?
+Of course.But if I want to relax,I want it to be calm and peaceful.
+Let me ask you a question.
+Yeah?
+Is your work here fast-paced?
+No.
+Would you call your home life a thrill a minute?
+No.
+How's the social life?
+You've made your point,Nathan.
+Maybe you've had too much peace and quiet,Danny.
 Maybe you need to do something a little different.
-
-DANNY:Maybe.Nathan,I got to go.See you later.
-
-NATHAN:Danny.Man,I'll jump off a bridge,but you're the brave one.
+Maybe.Nathan,I got to go.See you later.
+Danny.Man,I'll jump off a bridge,but you're the brave one.
 unit 42
-RICHARD:Can I help you out there?
-
-CARRIER:That's very nice of you.Could you get thte ones in this hand.
-
+Can I help you out there?
+That's very nice of you.Could you get thte ones in this hand.
 Thanks.Great.176,176....
-RICHARD:Where's Madeleine?
-
-CARRIER:Oh,she's on vacation for a couple of weeks.I'm just the replacement.
-
+Where's Madeleine?
+Oh,she's on vacation for a couple of weeks.I'm just the replacement.
 Would you hold this for just a second?
-
 I thought I saw a big envelope in here for 176...
-
 I should probably check my bag.
-
-RICHARD:Here.Shall we just put these here for the time being?
-
-CARRIER:Thank you very much.
-
-CARRIER:You look very familiar to me.But I can't put my finger on it.
-
+Here.Shall we just put these here for the time being?
+Thank you very much.
+You look very familiar to me.But I can't put my finger on it.
 Do I look familiar to you?
-
-RICHARD:No,I can't say that you do.
-
-CARRIER:Then,where would I have seen you?
-
-RICHARD:Well,..I don't forget a face,but sometimes I forget where I saw the face.
-
-RICHARD:Maybe you saw...
-
-CARRIER:Wait.Let's just check the name.
-
+No,I can't say that you do.
+Then,where would I have seen you?
+Well,..I don't forget a face,but sometimes I forget where I saw the face.
+Maybe you saw...
+Wait.Let's just check the name.
 That's be the tip-off.Hobart.Hobart.Hobart.Wait!
-
 I've got it.You look just like my cousin.Chuck Dagger.
-
 He lives in Pittsburgh.Do you know him?
-
-RICHARD:Ah,no.
-
-CARRIER:I'm glad I figured that out.That would have bugged me all day.
-
+Ah,no.
+I'm glad I figured that out.That would have bugged me all day.
 Okeydoke.Here's your mail,Mr.Hobart of Number 176 Brook Street.
-
 I will see you tomorrow!
-RICHARD:Hey there.
-
-YVONNE:Hey yourself.
-
-RICHARD:Where's Nan?
-
-YVONNE:Beth needed a ride to the maol.Nancy'll be right back.
-
+Hey there.
+Hey yourself.
+Where's Nan?
+Beth needed a ride to the maol.Nancy'll be right back.
 Won't you be glad when Beth gets her driver's license?
-
-RICHARD:Are you kidding?My child out there on the roads by herself?
-
-YVONNE:Ah,well,your child asked me if she should look at cars with 6-cylinder engines.
-
+Are you kidding?My child out there on the roads by herself?
+Ah,well,your child asked me if she should look at cars with 6-cylinder engines.
 When the time comes.
-
-RICHARD:And she tells us not worry.
-
-YVONNE:That's nothing.Wait until she tells you not to wait up.
-
-RICHARD:Yesh.Yeah,Joe warned me about that.
-
-YVONNE:How is Joe?
-
-RICHARD:He's fine.Hey,did you know Sandra Copney when you worked with us?
-
-YVONNE:Oh yes.I was so happy to leave her behind when I quit.
-
-RICHARD:Well,she's leaving.
-
-YVONNE:For prison?
-
-RICHARD:What was that story?About coffee?
-
-YVONNE:The Battle of the Coffeemaker.
-
+And she tells us not worry.
+That's nothing.Wait until she tells you not to wait up.
+Yesh.Yeah,Joe warned me about that.
+How is Joe?
+He's fine.Hey,did you know Sandra Copney when you worked with us?
+Oh yes.I was so happy to leave her behind when I quit.
+Well,she's leaving.
+For prison?
+What was that story?About coffee?
+The Battle of the Coffeemaker.
 She would finish off a pot of coffee and not make more.That is so rude.
 One day I reminded her very nicely to make another pot.
-
 She said she didn't know how.I offered to teach her.
-
 And she told me not to bother because then she would have to do it.
-
 That's when I called her an arrogant little groundhog.
-
 I did.I said,"You arrogant little groundhog."
-
-RICHARD:Well,the groundhog is leaving.Excuse me.
-
-RICHARD:Hello?...Oh in Danny.What's up?...Oh yeah?...OK.
-
+Well,the groundhog is leaving.Excuse me.
+Hello?...Oh in Danny.What's up?...Oh yeah?...OK.
 I'll be right up.Plumbing problem.
-
-YVONNE:Have a good time.
-
-MICHAEL:It wasn't dripping this morning.
-
-DANNY:It just started.
-
-RICHARD:Is there anything wrong with the water pressure?
-
-MICHAEL:Not that I've noticed.
-
-DANNY:I wouldn't have noticed this except that I'm trying to fall asleep
-
+Have a good time.
+It wasn't dripping this morning.
+It just started.
+Is there anything wrong with the water pressure?
+Not that I've noticed.
+I wouldn't have noticed this except that I'm trying to fall asleep
 and the dripping drives me crazy.
-
-RICHARD:Well,it should be simple enough.
-
-DANNY:We would have fixed it,
+Well,it should be simple enough.
+We would have fixed it,
 but it days in the lease not to repair anything ourselves.
-
-RICHARD:That's right.
-
-DANNY:I feel stupid calling you up for this.
-
+That's right.
+I feel stupid calling you up for this.
 But trying to fall asleep,it was all could hear.
-
-RICHARD:Don't worry.It's nothing a little tightening won't fix.
-
-RICHARD:OK.First I'll take it apart and we'll examine it for crachs.
-
-MICHAEL:Is a crack causing it?
-
-RICHARD:We won't know until we check.
-
-DANNY:Maybe the washer is old or missing.
-
-RICHARD:Maybe.We'll check for that too.
+Don't worry.It's nothing a little tightening won't fix.
+OK.First I'll take it apart and we'll examine it for crachs.
+Is a crack causing it?
+We won't know until we check.
+Maybe the washer is old or missing.
+Maybe.We'll check for that too.
 Now is it turning clockwise that untightens it?
-
-MICHAEL:From abouve?Counter-clockwise.
-
-DANNY:Counter-clockwise. Counter-clockwise.  Wait.
-
-RICHARD AND MICHAEL:What?
-
-DANNY:Listne.The dripping's gone.It stopped.
-MICHAEL:No more dripping faucet.
-
-RICHARD:Well,that takes care of that.
-
-MICHAEL:Yeah.Thanks for coming up.
-
-RICHARD:No problem.I'm glad I could help.
+From abouve?Counter-clockwise.
+Counter-clockwise. Counter-clockwise.  Wait.
+What?
+Listne.The dripping's gone.It stopped.
+No more dripping faucet.
+Well,that takes care of that.
+Yeah.Thanks for coming up.
+No problem.I'm glad I could help.
 unit 43
-JOE:What's that statistic? I remember reading it years ago.
+What's that statistic? I remember reading it years ago.
 If you look at what the human body is made of,
 the materials are woth about 17 cents.
-
-RICHARD:It must be more now.We must be worth at least a couple of bucks.
-
-JOE:Well,think about it.We're mostly water and some protein,right?
-
+It must be more now.We must be worth at least a couple of bucks.
+Well,think about it.We're mostly water and some protein,right?
 Then there must be a mineral or two.
-
-RICHARD:Sure.There are minerals:some iron,some copper.But not much.
-
-JOE:So you've got some water and a couple of piles of...
-
-MARIE:Joe.We're eating.Could you pick a topic that is a little more appropriate.
-
-RICHARD:Uh oh.We're being censored.
-
-NANCY:Some topics are better than others over dinner,honey.
-
-JOE:Fine.Are there any other topics we should avoid?
-
-NANCY:Religion.
-
-MARIE:Sex.
-
-RICHARD:Politics.
-
-JOE:All the good stuff.
-
-NANCY:Come on Joe.
-
-MARIE:Forget it,Nancy.Some people have no imagination.
-
-NANCY:We can have a very nice conversation about something else.
-
-RICHARD:Like what?
-
-NANCY:Haircuts.
-
-MARIE:Flower arranging.
-
-NANCY:Modern dance.
-
-MARIE:How about knitting?         RICHARD:Please,please.We're eating!
-
-JOE:I lost my appetite.
-JUSTNE:Would you mind if I cheated off you on the biology test?
-
-BETH:Get a life.
-
-JUSTINE:I'm going to flunk it.I hate this DNA stuff.Who cares?
-
-BETH:You're not going to flunk anything.
-
+Sure.There are minerals:some iron,some copper.But not much.
+So you've got some water and a couple of piles of...
+Joe.We're eating.Could you pick a topic that is a little more appropriate.
+Uh oh.We're being censored.
+Some topics are better than others over dinner,honey.
+Fine.Are there any other topics we should avoid?
+Religion.
+Sex.
+Politics.
+All the good stuff.
+Come on Joe.
+Forget it,Nancy.Some people have no imagination.
+We can have a very nice conversation about something else.
+Like what?
+Haircuts.
+Flower arranging.
+Modern dance.
+How about knitting?
+Please,please.We're eating!
+I lost my appetite.
+Would you mind if I cheated off you on the biology test?
+Get a life.
+I'm going to flunk it.I hate this DNA stuff.Who cares?
+You're not going to flunk anything.
 We covered that whole section and you know it all.
-
-JUSTINE:You're lucky.You understand science.
-
+You're lucky.You understand science.
 You get it right away.
-
-BETH:Excuse me.Who is the language expert?Who gets me through Spanish?
-JUSTINE:That's easy.This is hard.
-
-JUSTINE:It's not fair.Just because colleges have these stupid requirements,
-
+Excuse me.Who is the language expert?Who gets me through Spanish?
+That's easy.This is hard.
+It's not fair.Just because colleges have these stupid requirements,
 we have to take subjects that we hate.
-
 Everybody knows they have to take four years of English,
 three years of math,four years of...
-
-BETH:Jus.There isn't anyone who loves every subject.
-
+Jus.There isn't anyone who loves every subject.
 I really do want to study,OK?
-
-JUSTINE:I talked to somebody you know last night.
-
-BETH:Who?
-
-JUSTINE:Stuart Bonnett.
-
-BETH:What?
-
-JUSTINE:But I know you want to study.We can discuss it some other time.
-
-BETH:Where did you see him,Justine?
-
-JUSTINE:At my brother's basketball game.He knows I know you.
-
-BETH:What did you say? Because I will kill you if you said anything.
-
-JUSTINE:You know,I,I think we should review Chapter 14.
+I talked to somebody you know last night.
+Who?
+Stuart Bonnett.
+What?
+But I know you want to study.We can discuss it some other time.
+Where did you see him,Justine?
+At my brother's basketball game.He knows I know you.
+What did you say? Because I will kill you if you said anything.
+You know,I,I think we should review Chapter 14.
 unit 44
-HEATHER:Mr.Hobart,please feel free to elaborate on anything you like.
-
+Mr.Hobart,please feel free to elaborate on anything you like.
 I want this interview to feel like a conversation.
-
-RICHARD:I'll do my best.
-
-HEATHER:Heather Vialo,WBNN,reporting from Richard Hobart's office.
-
+I'll do my best.
+Heather Vialo,WBNN,reporting from Richard Hobart's office.
 Thursday,October 12th.
-
 Richard Hobart,you're a highly respected and very popular attorney for the State.
-
-RICHARD:Thank you.
-
-HEATHER:Isn't that extremely unusual for a public employee?
-
-RICHARD:I don't know.There are competent civil servants,who do a good job.
-
+Thank you.
+Isn't that extremely unusual for a public employee?
+I don't know.There are competent civil servants,who do a good job.
 We don't hear very much about them in the media though.It's too bad.
-
-HEATHER:Sometimes the media discover a white knight.Is that how you feel?
-
-RICHARD:No.I feel that people greatly appreciate
-
+Sometimes the media discover a white knight.Is that how you feel?
+No.I feel that people greatly appreciate
 when their concerns have been addressed.
-
-HEATHER:Are you going to run for public office?
-
-RICHARD:I'm not running anywhere at the moment.
-
-HEATHER:All right.Are you considering entering a race?
-
-RICHARD:I consider any good opportunity that comes across my desk.Don't you?
-
-HEATHER:I certainly do.
-
-HEATHER:Who do you think your opponent will be?
-
-RICHARD:Have I said,"No comment"yet?
-
-HEATHER:Not in so many words.But you're good.
-
+Are you going to run for public office?
+I'm not running anywhere at the moment.
+All right.Are you considering entering a race?
+I consider any good opportunity that comes across my desk.Don't you?
+I certainly do.
+Who do you think your opponent will be?
+Have I said,"No comment"yet?
+Not in so many words.But you're good.
 It's very difficult to get answers to some of my questions.
-
-RICHARD:What can I say?
-
-HEATHER:"No comment,"evidently!
-
-YVONNE:I am exhausted.Are you?
-
-NANCY:We have been working almost three weeks without a break.We deserve a day off.
-
-YVONNE:A day off?Honey,we don't have time for a nap.
-
-NANCY:Do you want another cup of coffee?
-
-YVONNE:No thanks.I've been drinking so much,it's losing its effect.
-
-NANCY:You know what?Forget the coffee.
-
+What can I say?
+"No comment,"evidently!
+I am exhausted.Are you?
+We have been working almost three weeks without a break.We deserve a day off.
+A day off?Honey,we don't have time for a nap.
+Do you want another cup of coffee?
+No thanks.I've been drinking so much,it's losing its effect.
+You know what?Forget the coffee.
 Forget the nap.We need to get our blood moving.
-
-NANCY:Come on,take deep breaths.Do you remember when I quit drinking coffee?
-
-YVONNE:Yes.You were a monster.
-
-NANCY:Hey,I'd been drinking six cups a day when I quit.
+Come on,take deep breaths.Do you remember when I quit drinking coffee?
+Yes.You were a monster.
+Hey,I'd been drinking six cups a day when I quit.
 Then,when I had quit for...oh...eight months,I started drinking it again.
-
 And those first cups...wonderful.It was almost worth quitting.
-
-YVONNE:Please don't do it again.I can't take your withdrawal symptoms.
-
-NANCY:Let's try a little yoga.
-
-YVONNE:Oh god.What if we can't get out of these positions?
-
-NANCY:Take nice,deep breaths.
-
-YVONNE:I can just hear it on the news:"
+Please don't do it again.I can't take your withdrawal symptoms.
+Let's try a little yoga.
+Oh god.What if we can't get out of these positions?
+Take nice,deep breaths.
+I can just hear it on the news:"
 "Two Cambridge women had frozen in yoga positions,
-
 when their husbands found them tonight."
-
-NANCY:Deep,cleansing breaths.
-
-YVONNE:"Doctors at Boston Hospital have been trying to unknot them for six hours."
-
-NANCY:Feel your energy.
-
-YVONNE:Feel my energy?Nancy,I can't feel my legs!
+Deep,cleansing breaths.
+"Doctors at Boston Hospital have been trying to unknot them for six hours."
+Feel your energy.
+Feel my energy?Nancy,I can't feel my legs!
 unit 45
-RICHARD:My wife's not here right now.Are you sure she called?
-
-DELIVERY PERSON:Nancy Hobart.176 Brook Street.
-
+My wife's not here right now.Are you sure she called?
+Nancy Hobart.176 Brook Street.
 Pick up:one package,for delivery to Sampson Wall Coverings.
-
-RICHARD:Sounds like her.I wish I knew what it is.I wish I knew what it is.
-
+Sounds like her.I wish I knew what it is.I wish I knew what it is.
 Actually,I just wish she were here.
-
-DELIVERY PERSON:Well,look.She can call us back when she gets in...
-
-RICHARD:No,wait.Give me one minute.Here.Take a quick look through that pile.
-
+Well,look.She can call us back when she gets in...
+No,wait.Give me one minute.Here.Take a quick look through that pile.
 Do you see anything that looks like it's getting sent out?
-
 Um.A wrapped package?An address label?Do you have any idea what it is?
-
-DELIVERY PERSON:If only I did,mister.
-
+If only I did,mister.
 It could be anything from an envelope to a really big box.
-
-RICHARD:She's very organized in her own way.
-
+She's very organized in her own way.
 I just wish I understood her system.
-
-DELIVERY PERSON:Systems are very personal.
+Systems are very personal.
 One man's organization is another man's chaos.
-
-RICHARD:Then of course,there's just plain chaos.
-
-DELIVERY PERSON:Well,it's time I got going.
-
-RICHARD:This isn't good.
-
-NANCY:What happened?
-RICHARD:Hi honey.This is the delivery person you called for.
-
+Then of course,there's just plain chaos.
+Well,it's time I got going.
+This isn't good.
+What happened?
+Hi honey.This is the delivery person you called for.
 This is my wife Nancy.I'm sure she'll be able to help you.
-
 I wish I could stay and chat some more,but I've got...some..ah...Bye.
-
-DELIVERY PERSON:Thanks.      NANCY:Richard!
-
-LISA:So,what's wrong?
-
-MICHAEL:Danny's behaving very strangely.
-
-LISA:What a surprise.   MICHAEL:No,it's not the usual stuff.
-
-LISA:Really?Well,if he's having a serious problem,he'll talk to you of all peopple.
-
-MICHAEL:Maybe not.He's not talking to me very much at all.
-
-LISA:Michael,he's your best friend.
-
+Thanks.
+Richard!
+So,what's wrong?
+Danny's behaving very strangely.
+What a surprise.
+No,it's not the usual stuff.
+Really?Well,if he's having a serious problem,he'll talk to you of all peopple.
+Maybe not.He's not talking to me very much at all.
+Michael,he's your best friend.
 If he doesn't come to you,you'll go ask him what the matter is.Right?
-
-MICHAEL:What if I don't stop worrying about it,you'll go crazy.Just ask him.
-
-MICHAEL:He seems to be out a lot.I hardly see him at home anymore.
-
-LISA:Michael,do you think it's me?
-
-MICHAEL:You?
-
-LISA:Maybe I'm spending too much time at your apartment.
-
+What if I don't stop worrying about it,you'll go crazy.Just ask him.
+He seems to be out a lot.I hardly see him at home anymore.
+Michael,do you think it's me?
+You?
+Maybe I'm spending too much time at your apartment.
 You know,if you're not seeing anyone,
 it can be hard to have a couple around all the time.
-
-MICHAEL:He wants to get a pet.
-
-LISA:See?That's it.He's a lonely guy.
-
+He wants to get a pet.
+See?That's it.He's a lonely guy.
 If I'm feeling like that,I won't talk to anybody either.
-
-MICHAEL:You're right.If he doesn't seem better soon,I'll talk to him.
-
-DANNY:Please let me wear the tux.Why is this costume necessary?
+You're right.If he doesn't seem better soon,I'll talk to him.
+Please let me wear the tux.Why is this costume necessary?
 Do you hear my last shred of dignity flying away?
-
 If somebody I know sees me doing this,I'm coming after you.
-
-DANNY:The buzz is you're going away.We can't help wishing you'd stay.
-
+The buzz is you're going away.We can't help wishing you'd stay.
 We'll sure miss seeing your smile each day.And we wanted to thank you in every way.
-
-DANNY:You're sweet like honey from bees.On this we can agree.
-
+You're sweet like honey from bees.On this we can agree.
 You're our favorite retiree!We hate to see you leave.We hate to see you leave.
-
-Happy retirement,Blondie!    BUSINESSMAN:To Blondie. On to bigger and better things.
+Happy retirement,Blondie!
+To Blondie. On to bigger and better things.
