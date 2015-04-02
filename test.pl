@@ -3,7 +3,12 @@ use strict;
 #use Encode;
 #use Unicode::String;
 
-print lc 'xxX';
+my $snippet = '?';
+$snippet =~ s/[^a-zA-Z0-9'_:-]+/ /g; #将非法单词字符都转为空格
+$snippet =~ s/^\s+|\s+$//g; #去掉首尾空白
+my @words = split /\s+/, $snippet;
+print scalar @words;
+#print lc 'xxX';
 #while (<>) {
 #  print $ARGV;
 #}
