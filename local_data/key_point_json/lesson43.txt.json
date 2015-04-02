@@ -1,0 +1,42 @@
+{
+   "43" : {
+      "22" : {
+         "1,2" : [
+            "You didn't\n你没有!\n这是口语化的小句子, 表示你没有那么做吧, 其实是知道对方那么做了, 但是表示惊讶.\n\n-I used to work as a physicist\n-You didn't! I used to be a physicist(大忽悠碰到大忽悠)\n\n-I used to love windsurfing when I was a kid.\n-You didn't! That was my favorite thing to do.\n\n注意第一句必须是动词用了过去时, 第二句才能用didn't."
+         ]
+      },
+      "6" : {
+         "5,6" : [
+            "v-ing physicist\n做XX的物理学家\n\nEnglish speaking doctor\nbartending girl"
+         ],
+         "2,3,4" : [
+            "you're the first XX I've ever met\n你是我见过的第一个XX\n\nYou're the first bartending physicist I've ever met.\nYou're the first rollerblading doctor I've ever met.\n"
+         ]
+      },
+      "3" : {
+         "3,4" : [
+            "went straight from XX to YY\n从XX直接就去了YY\nstraight是副词\n\nI went straight from high school to work place.(读完高中直接工作)\nI went straight from Shang hai to Boston\nI went straight from a physicist to a bartender"
+         ]
+      },
+      "23" : {
+         "3,4,5" : [
+            "ask sb for sth\n问某人要\n\nask her for her phone number\nask Dean for advice on attracting younger customers"
+         ]
+      },
+      "12" : {
+         "1,2,3,4" : [
+            "bartend=v 照顾酒吧(bar)\nbartender=n 照顾酒吧的人\nbartending= v-ing"
+         ]
+      },
+      "15" : {
+         "3,4,5,6" : [
+            "I didn't mean any XX\n我没有XX的意思\n\nI didn't mean any disrespect(不尊重)\nI didn't mean anything(我没有任何意思, 我啥意思也没有, 你别乱想)"
+         ]
+      },
+      "5" : {
+         "1,2,3" : [
+            "no XX required\n不需要XX\n中间用名词或动名词.\n\nNo reservation required(不需要预定)\nNo booking required(不需要预定)"
+         ]
+      }
+   }
+}
