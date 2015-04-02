@@ -1,92 +1,250 @@
 1
-When are you going on your next trip?
-<k></k>
+`When are you` going on your next trip?
+<k>When are you doing
+你何时做某事, 现在进行时表将来
+
+When are you leaving?
+When are you coming in for a meeting?</k>
+
+1
+When are you `going on your next trip`?
+<k>go on+a trip/vocation/holiday
+
+注意这里介词必须是on
+
+Did you go on a city tour today?</k>
 
 2
-Pretty soon.It'll be to the Czech Republic.
-<k></k>
+`Pretty soon`.It'll be to the Czech Republic.
+<k>pretty+adj
+pretty表示very
+
+pretty good
+pretty cheap</k>
+
+2
+Pretty soon.`It'll be to` the Czech Republic.
+<k>It'll be to+spl.
+将会是去某地
+
+It'll be to China
+It'll be to Central America.</k>
+
+2
+Pretty soon.It'll be to `the Czech Republic`.
+<k>Czech Republic
+[tʃek]
+注意发音</k>
 
 3
-Oh,I'm dying to go to Central Europe.
-<k></k>
+Oh,`I'm dying to` go to Central Europe.
+<k>I'm dying to do
+我想做XX都快想死了, 我十分想做XX
+
+I'm dying to meet our Chief Executive Officer.
+I'm dying to go on a walking tour with Did.(Really?)</k>
+
+3
+Oh,I'm dying to go to `Central Europe`.
+<k>Central+国家名/洲名
+表示某国/某洲中部
+
+Central China
+Central America
+Central Asia</k>
 
 4
-I'm looking forward to it,
-<k></k>
+`I'm looking forward to` it,
+<k>I'm looking forward to sth
+注意这里to后边接名词或动名词.
+
+I'm looking forward to our meeting.
+I'm looking forward to meeting you again.</k>
 
 5
-but it will be so much work.
-<k></k>
+`but it will be` so much work.
+<k>but it will be...
+但是将会是
 
-6
-Why?
-<k></k>
+but it will be pretty high level
+but it will be pretty soon</k>
+
+5
+but it will be `so much work`.
+<k>so much+n
+很多XX
+
+so much anger
+so much joy</k>
 
 7
-Jim Bigelow wants the company's hotel in Prague to develope marketing plan just like ours.
-<k></k>
+`Jim Bigelow wants` the company's hotel in Prague to develope marketing plan just like ours.
+<k>Jim wants XXX to do
+Jim想让XXX做某事
 
-8
-Wow,great!
-<k></k>
+Jim wants them all to do as well as Anne's hotel.
+Jim wants William to teach him rollerblade(Really?)</k>
 
-9
-In three months.
-<k></k>
+7
+Jim Bigelow wants the company's hotel in `Prague` to develope marketing plan just like ours.
+<k>Prague=布拉格广场, 捷克首都
+[prɑ:ɡ]</k>
 
-10
-That is a lot of work.
-<k></k>
+7
+Jim Bigelow wants the company's hotel in Prague to `develope marketing plan` just like ours.
+<k>develop sth
+发展出XXX
+
+develop a scheme to attract younger customers.
+develop a sense of humor(幽默感)</k>
+
+7
+Jim Bigelow wants the company's hotel in Prague to develope marketing plan `just like ours`.
+<k>just like sth
+就像某人/某事
+just表示强调, 就, 恰恰.
+
+just like this hotel.
+just like this guy</k>
 
 11
-Anne,if I can do anything to help,
-<k></k>
+Anne,`if I can do anything to help`,
+<k>If I can do anything to help,...
+如果我能做任何可以帮到你的事情
+非常陈恳强烈地表示自己的希望帮助对方的愿望
+
+If I can do anything to help, just ask.
+If I can do anything to help, please tell me.</k>
 
 12
-please let me know.
-<k></k>
+`please let me know`.
+<k>please let me know
+请让我知道
+
+If you need anything, please let me know.
+If I did anything wrong, please let me know.</k>
 
 13
-I will.
-<k></k>
+`I will`.
+<k>I will
+我会那么做的.
+
+-Remember to drive on the right side of the street.
+-I will.
+
+-Remember to pick up a gift for Dean
+-I will</k>
 
 14
-And next time,take me with you.
-<k></k>
+And next time,`take me with you`.
+<k>take sb/sth with you
+带上某人/某事
+
+Take me with you to central Asia.
+Take this standard report with you so you can read it on plane.</k>
 
 15
-I want to sit in a cafe in the Old Town Square.
-<k></k>
+I want to sit in a cafe in `the Old Town Square`.
+<k>老城广场（Old Town Square）位于布拉格</k>
 
 16
-That is my favorite thing to do.
-<k></k>
+`That is my favorite thing to do`.
+<k>That is my favorite thing to do.
+那是我最喜欢做的
+
+-You like singing?
+-That is my favorite thing to do
+
+-You like speaking English?
+-That is my favorite thing to do.</k>
 
 17
-And I hear there's great jazz.
-<k></k>
+`And I hear` there's great jazz.
+<k>And I hear
+并且我听说
 
-18
-Oh yes.
-<k></k>
+And I hear our C.T.O. is coming tomorrow.
+And I hear our profit is up 7% this year.</k>
 
 19
-And serious shopping.Crystal...
-<k></k>
+And `serious shopping`.Crystal...
+<k>serious+n
+serious是严肃的意思, 理解为不跟你开玩笑, 正儿八经的很好的
+
+Have some serious fun there.
+That's some serious antique.
+
+这个含义不好驾驭, 先做到理解它吧</k>
+
+19
+And serious shopping.`Crystal`…
+<k>crystal
+['krɪstl]
+水晶</k>
 
 20
-I'll pick some up for you,if you like.
-<k></k>
+I'll `pick some up` for you,if you like.
+<k>pick sth up
+pick是拿起来, 拾起来的意思, 理解为我帮你拾起来一些, 就是我帮你挑选一些, 买一些.
+
+I'll pick some books up for you.
+I'll pick some lovely china for you.</k>
+
+20
+I'll pick some up for you,`if you like`.
+<k>if you like
+如果你喜欢的话
+
+You can call me Wind, if you like.
+I can tell you about our new marketing scheme, if you like.</k>
 
 21
-Antique glass...Embroidery...
-<k></k>
+`Antique glass`…Embroidery...
+<k>antique+n
+古董XXX
+[æn'tik]
+注意重音
+
+antique furniture
+antique china</k>
+
+21
+Antique glass…`Embroidery`…
+<k>embroidery
+[ɪm'brɔɪdəri]
+刺绣
+</k>
 
 22
-I've seen lovely china from there.
-<k></k>
+I've seen `lovely china` from there.
+<k>lovely china
+china是瓷器, 因为以前瓷器都来自中国, 所以外国人把瓷器就直接称为china, 注意不要大写首字母
+
+lovely antique glass
+lovely crystal
+</k>
+
+22
+I've seen lovely china `from there`.
+<k>from there
+来自那里
+
+一般我们讲there/here是副词, 前边不加介词, 这里是例外</k>
 
 23
-Nina,it'll be much easier if you just come along.
-<k></k>
+Nina,`it'll be much easier if you just` come along.
+<k>It'll be much easier if you just do
+如果你就直接做某事, 就容易的多了
+用来表示建议, 你要不干脆直接做某事吧
+
+It'll be much easier if I just show you.
+It'll be much easier if you just come with us</k>
+
+23
+Nina,it'll be much easier if you just `come along`.
+<k>come along
+along表示沿着, 随着, 这里理解为随着我, 跟着我.
+
+May I come along?(我可以一起去吗)
+You can come along , if you like.</k>
 

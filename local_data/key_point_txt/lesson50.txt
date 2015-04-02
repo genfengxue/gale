@@ -1,100 +1,52 @@
-1
-Well, gentlemen,
-<k></k>
-
-2
-how can I help you today?
-<k></k>
-
 3
-We're just looking, thanks.
-<k></k>
-
-4
-Very good, very good.
-<k></k>
-
-5
-Let me ask you a question.
-<k></k>
+`We're just looking`, thanks.
+<k>we're just looking我们只是看看, 并未打算买-Can I help you(店员问你要点什么)-I'm just looking.</k>
 
 6
-Are you interested in glamour?
-<k></k>
-
-7
-Or reliability?
-<k></k>
-
-8
-I'm interested in a car.
-<k></k>
-
-9
-Very good.
-<k></k>
-
-10
-What can you tell us about this one?
-<k></k>
+Are you interested in `glamour`?
+<k>glamour['ɡlæmə]迷人的美</k>
 
 11
-She's a beauty,isn't she?An 82.
-<k></k>
+She's a beauty,isn't she?`An 82`.
+<k>An 82一辆82年制造的车.I'd like a bottle of red wine. an 65 please.我要瓶红酒, 要65年的.</k>
 
 12
-Was it always this color?
-<k></k>
+`Was it always this color`?
+<k>Was it always this color?一直是这个颜色吗改为陈述句就是It was always this color.It was always blue.</k>
 
 13
-How many miles on it?
-<k></k>
+`How many miles on it`?
+<k>how many miles on it?跑了多少公里了.改为陈述句是It has XXX miles on it.介词必须是on</k>
 
 14
-162,000 happy miles.And many more to go,I'm sure.
-<k></k>
-
-15
-Was there only one owner?
-<k></k>
-
-16
-Ah,no. Several owners.Several very happy owners.
-<k></k>
+162,000 happy miles.And `many more to go`,I'm sure.
+<k>many more to go.还有很多里要跑.more是more miles的省略.I've visited a lot of places. There are many more to visit.I have much more to learn注意如果是不可数就用much more</k>
 
 17
-How often has it been serviced?
-<k></k>
+How often has it been `serviced`?
+<k>service=n 服务service=v 服务一辆车, 给车保养service a carhow often do you service your car?</k>
 
 18
-You know,the funny thing is,
-<k></k>
+You know,`the funny thing is`,
+<k>the funny thing is有趣的事情是, 常常用于插入语, 来表示后边要说的东西有趣.the funny thing is, he's very bad at math.</k>
 
 19
-this car ran so well,it hardly ever got serviced.
-<k></k>
+this car ran so well,`it hardly ever` got serviced.
+<k>it hardly ever did几乎从来没有做过XXIt hardly ever had a problem. He hardly ever missed a day of work.(从不请假)</k>
 
 20
-Except after one or two collisions.
-<k></k>
+`Except after` one or two collisions.
+<k>except after除了在XX之后以外,注意这里的介词after表示在...之后, 如果要表示的含义就换介词.I don't usually go to bars, except after a long day's work. I don't get up late, except on Sundays.</k>
 
 21
-Isn't that remarkable?
-<k></k>
-
-22
-I don't understand.
-<k></k>
-
-23
-How could the owners ever give it up?
-<k></k>
+Isn't that `remarkable`?
+<k>remark=n 评论remarkable=adj 值得评论的, 说明是很棒的</k>
 
 24
-Trade-in.They were moving up.
-<k></k>
+`Trade-in`.They were moving up.
+<k>trade-in=n  以旧换新trade in=v 以旧换新I'm planning to do a trade-in with my old carI'm planning to trade in my old car for a new one.</k>
 
 25
-Just like you Kevin.Moving up.
-<k></k>
+Just like you Kevin.`Moving up`.
+<k>move up向上移动He’s been moved up to the position of manager.Interest rates are beginning to move up.</k>
 

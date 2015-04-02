@@ -1,104 +1,40 @@
-1
-Jarmusch.
-<k></k>
+2
+`have you any` idea how hard I work to stay in shape?
+<k>have you any idea+how引起的句子你对于XX有任何了解吗?这里的idea不是指想法, 而是指了解的信息Have you any idea how much I love my job?Have you any idea how hard I practice every day?</k>
 
 2
-have you any idea how hard I work to stay in shape?
-<k></k>
+have you any idea `how hard I work` to stay in shape?
+<k>Have you any idea how hard I work注意从句中的语序, 如果你看不清, 请把复合句改为两个单独句来看Have you any idea?how hard do you work?疑问句语序, 做从句时需要改为陈述句的语序how hard you work.后边的how much work I have to do 也是同样道理</k>
 
-3
-No,Sharon.
-<k></k>
-
-4
-Have you any idea how much work I have to do today?
-<k></k>
-
-5
-See,on Mondays I go swimming.
-<k></k>
-
-6
-On Tuesdays,I lift weights at the gym.
-<k></k>
-
-7
-On Wednesdays....
-<k></k>
+2
+have you any idea how hard I work to `stay in shape`?
+<k>stay in shape留在形状里, 哪个形状里? 就是比较瘦, 比较美的这个体型里.Women like to stay in shapeI run every morning to stay in shape.</k>
 
 8
-Let me guess.You enter triathlons.
-<k></k>
+`Let me guess`.You enter triathlons.
+<k>let me guess让我猜猜这里是调侃, 讽刺对方的意思let me guess, Kevin, you're a rocket scientist today(你不是爱吹嘛)let me guess, you don't eat fat at all, Sharon.(你不是要保持体形嘛)</k>
 
-9
-I run on Wednesdays.
-<k></k>
-
-10
-Thursday mornings,I go back to the gym.
-<k></k>
-
-11
-And Fridays,I take a tennis lesson.
-<k></k>
-
-12
-Congratulations.
-<k></k>
+8
+Let me guess.You enter `triathlons`.
+<k>[traɪ'æθlən]三项全能</k>
 
 13
-All to maintain my youthful figure.
-<k></k>
-
-14
-Now,let's look at your new menu.
-<k></k>
-
-15
-Sharon...
-<k></k>
+All to `maintain my youthful figure`.
+<k>maintain my youthful figureyouth=n 年轻人youthful=adj 年轻的figure在这里和shape是一样的意思, 表示体型maintain=v 保持</k>
 
 16
-Jarmusch,there's cream and butter all over this thing.
-<k></k>
-
-17
-It's classic French cuisine.
-<k></k>
-
-18
-I like preparing it.
-<k></k>
-
-19
-Most people like eating it.
-<k></k>
+Jarmusch,there's cream and butter `all over this thing`.
+<k>all over this thing在这上边到处都是over表示在...上边这里不用onThis has your fingerprints all over it(这个东西有你的指纹上边到处都是, 这里指纹并不是实指, 而是指这事情一看就是你干的)He spilled red wine all over my shirt</k>
 
 20
-Man cannot live on lowfat milk alone.
-<k></k>
-
-21
-Pasta with triple cream sauce?
-<k></k>
+Man cannot `live on` lowfat milk alone.
+<k>cannot live on sth alone不能仅仅借助XX存活I live on government's allowance.我靠政府的补贴而存活They seem to live on nothing but chips and chocolate.</k>
 
 22
-Steak smothered in butter?
-<k></k>
-
-23
-Potatoes with cheese?
-<k></k>
-
-24
-Butter-cream chocolate?
-<k></k>
-
-25
-Excuse me.
-<k></k>
+`Steak smothered in butter`?
+<k>n+smothered in XX覆盖了XX的东西Meat smothered in thick sauce.</k>
 
 26
-Jarmusch,a word when you get a moment,please.
-<k></k>
+Jarmusch,`a word when you get a moment,please`.
+<k>a word when you get a moment, please等你有一点空闲的时候, 我想跟你说一句话</k>
 

@@ -1,108 +1,24 @@
-1
-So,Kevin,what do you think?
-<k></k>
-
-2
-Elena,I haven't met her yet,have I?
-<k></k>
-
-3
-I know.But does she sound interesting?
-<k></k>
-
 4
-Yes.From what you've told me,she sounds lovely.
-<k></k>
+Yes.`From what you've told me`,she sounds lovely.
+<k>from what you've told me,从你已经告诉我的来看,From what you've told me, Kevin sounds like an interesting guy.From what you've told me, this hotel had a very good year.</k>
 
 5
-She said the same thing about you.
-<k></k>
-
-6
-What?
-<k></k>
+She said `the same thing` about you.
+<k>the same thing同样的事情He did the same thing.He told me the same thing</k>
 
 7
-When I described you...
-<k></k>
-
-8
-What did you say?
-<k></k>
-
-9
-Well,you know...
-<k></k>
-
-10
-Come on,Elena.
-<k></k>
+`When I described` you...
+<k>When I did sth.当我做某事When I went to PragueWhen I developed our marketing plan.</k>
 
 11
-I said,"He's tall.He's good-looking.
-<k></k>
-
-12
-He's nice.And he's very funny."
-<k></k>
+I said,"He's tall.He's `good-looking`.
+<k>good-looking从字面意思即可理解, 好看的.可以修饰男人或女人</k>
 
 13
-If you can understand his accent.
-<k></k>
-
-14
-Did you tell her I used to work as a physicist?
-<k></k>
+`If you can understand his accent`.
+<k>If you can understand his accent如果你能够理解他的口音的话, (他是一个很幽默的人)当你说完了一个东西, 但是又想补充一点信息的话就可以这样去说.Our hotel did very well, if you consider the current state of the industry.Kevin is a very honest guy, if you forget he lied about being a physicist.</k>
 
 15
-Good on you,mate.
-<k></k>
-
-16
-Kevin,you used to be a physicist?
-<k></k>
-
-17
-No,but it sounds so impressive,doesn't it?
-<k></k>
-
-18
-Dean.
-<k></k>
-
-19
-Kevin.
-<k></k>
-
-20
-Elena.
-<k></k>
-
-21
-Elena!
-<k></k>
-
-22
-Heather!
-<k></k>
-
-23
-Dean!
-<k></k>
-
-24
-Heather!
-<k></k>
-
-25
-And you must be Heather.
-<k></k>
-
-26
-Heather,this is Kevin.
-<k></k>
-
-27
-Right,the physicist.Nice to meet you.
-<k></k>
+`Good on you`,mate.
+<k>good on you=good for you=good job(New England, UK, Australia, New Zealand) Well done; an exclamation of encouragement or congratulation.  You got married? Good on you!You passed the test? Good on you!</k>
 

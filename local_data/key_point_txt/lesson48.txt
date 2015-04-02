@@ -1,72 +1,20 @@
 1
-Let's get the show on the road.
-<k></k>
-
-2
-Camera,and action.
-<k></k>
-
-3
-Hello. I'm Nina Barrett,
-<k></k>
-
-4
-Director of Functions here at the Sheraton Boston.
-<k></k>
-
-5
-To plan the perfect event,
-<k></k>
+`Let's get the show on the road`.
+<k>let's get the show on the road.咱们把这个演出开始上路吧.rock star演出的时候都是巡回到各地去演出, 所以就是on the road.这里是虚指, 意思就是咱们开始吧.We have a two hour trip ahead of us. Let's get this show on the road.(咱们要开2小时的车, 现在就上路吧)You've prepared for a long time. Let's get this show on the road(准备得够久了, 开始吧)</k>
 
 6
-there are a couple of things you should keep in mind.
-<k></k>
-
-7
-Cut. Let's go again.
-<k></k>
-
-8
-A good hotel should be able to...
-<k></k>
-
-9
-Cut,and action.
-<k></k>
-
-10
-A good hotel should be able to
-<k></k>
+`there are a couple of things` you should keep in mind.
+<k>there are a couple of things+从句有几件XXX的事情, 从句修饰thingsThere are a couple of things you should know before we get this show on the road.There are a few things I want to tell you before we begin.</k>
 
 11
-plan around your needs and should stay within your budget.
-<k></k>
-
-12
-To make the best use of time and money,
-<k></k>
-
-13
-you should have a clear idea of what you want.
-<k></k>
-
-14
-Oh...
-<k></k>
-
-15
-Most important of all,
-<k></k>
+plan `around` your needs and should stay within your budget.
+<k>注意这里的介词around, 表示围绕着, 用for也勉强可以, 但是就完全没有这种一切围绕你的需求的感觉了</k>
 
 16
-you can expect the best from us and you shouldn't worry.
-<k></k>
-
-17
-Cut. Nice job,Nina.
-<k></k>
+you can expect the best from us and you `shouldn't` worry.
+<k>我读到这里觉得shouldn't怪怪的, 说成是you don't have to worry更恰当些.</k>
 
 18
-I should never go in front of a camera.
-<k></k>
+`I should never` go in front of a camera.
+<k>I should never do.我应该永远不做某事I should never give advice.I should never throw guitars into the crowd</k>
 

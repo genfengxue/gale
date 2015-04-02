@@ -1,116 +1,36 @@
 1
-Two suites for those dates are available.
-<k></k>
+Two `suites` for those dates are available.
+<k>suite套房注意发音是[swit], 不要和suit混淆</k>
 
 2
-Yes,I'll hold.
-<k></k>
+Yes,I'll `hold`.
+<k>I'll hold我会拿着, 拿着什么呢? 拿着这个电话听筒稍微等等你, 我先不挂, 等你.Please hold=请别挂I don't want to hold anymore=我不想等了</k>
 
 3
-Carl.Do rock stars ever stay here?
-<k></k>
+Carl.Do rock stars `ever` stay here?
+<k>ever=adv 曾经起到加强语气的作用Do rock stars stay here?=摇滚明星会住这里吗?Do rock stars ever stay here=有没有哪怕一个摇滚明星曾经住过这里呢?Do you say thank you when others help you.Do you ever say thank you when others help you.</k>
 
 4
-Every so often. The Crayfish did.
-<k></k>
+`Every so often`. The Crayfish did.
+<k>every so oftensometimes, but not frequentlyShe still calls me every so often.</k>
 
 5
-I have Slide on the phone.
-<k></k>
+`I have Slide on the phone`.
+<k>I have sb. on the phone.我有XXX在电话上I have an angry customer on the phone.I have our C.T.O on the phone.</k>
 
 6
-Do you think it could be the Slide?
-<k></k>
-
-7
-Is he the one who eats snakes?
-<k></k>
-
-8
-Snakes?
-<k></k>
-
-9
-Sorry. Yes,gladly.Uh huh.
-<k></k>
-
-10
-The restaurant closes at 2:00 a.m.
-<k></k>
+Do you think it could be `the Slide`?
+<k>the+sb/sth就是那个特定的, 有名的那个人或东西-I met Wind yesterday.-You mean the Wind?-I will go to Stanford graduate school.-You mean the Stanford?(斯坦福)</k>
 
 11
-but of course there is room service available at all times.
-<k></k>
+but of course there is `room service` available at all times.
+<k>room service=酒店的房间服务包括各种服务</k>
 
-12
-Yes,I'll hold.
-<k></k>
-
-13
-What was his name? Slide?
-<k></k>
-
-14
-Slide what? Slide where?
-<k></k>
-
-15
-Slide.
-<k></k>
-
-16
-Slide? Coming here?
-<k></k>
-
-17
-Is he the one who eats snakes?
-<k></k>
-
-18
-No. He's the one who throws his guitar into the audience.
-<k></k>
-
-19
-So, I don't know anything about him.
-<k></k>
-
-20
-Where's he from?
-<k></k>
-
-21
-He was born in the Yukno.
-<k></k>
-
-22
-Isn't that what they say?
-<k></k>
-
-23
-Is that why his name is so weird!
-<k></k>
-
-24
-Carl, I don't think it's his real name.
-<k></k>
-
-25
-James Slipper. His real name is James Slipp...
-<k></k>
+11
+but of course there is room service available `at all times`.
+<k>at all times=在所有的时候, 在一天的任何时刻I'll remember that at all timesYou can call me at all times.</k>
 
 26
-Yes.Yes. Confirm for those dates.
-<k></k>
-
-27
-Yes. We look forward to seeing you then.
-<k></k>
-
-28
-So,he throws his guitar into the audience.
-<k></k>
-
-29
-Very musical.
-<k></k>
+Yes.Yes. `Confirm for those dates`.
+<k>confirm for those dates确认 对于那些日期这里是confirm your booking for those dates.如果是confirm the dates就成了确认日期, 但是并非确认你要预定.for不能改为别的介词</k>
 

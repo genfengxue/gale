@@ -1,96 +1,28 @@
-1
-Good afternoon.Do you speak English?
-<k></k>
-
-2
-Wonderful.
-<k></k>
-
-3
-I'm calling from the United States.
-<k></k>
-
 4
-I'd like to speak with Milos Hermann,please.
-<k></k>
-
-5
-Yes.Thank you.
-<k></k>
-
-6
-Hello Milos!
-<k></k>
-
-7
-This is Anne Holland,from the Sheraton Boston.
-<k></k>
-
-8
-Yes,me too.How are you?
-<k></k>
-
-9
-I'm very well,thank you.
-<k></k>
+`I'd like to speak with` Milos Hermann,please.
+<k>I'd like to speak with/to sb.我想和某人讲话, 打电话时的常用语I'd like to speak with your boss.I'd like to speak to Jim Biglow.</k>
 
 10
-Excuse me?
-<k></k>
-
-11
-No,I'm calling from Boston.
-<k></k>
-
-12
-We'll have our arrival dates very soon.
-<k></k>
+`Excuse me`?
+<k>Excuse me抱歉, 原谅我, 我刚才没听懂, 你说了什么.新技能, 除了用来表示打断, 插话以外, excuse me还可以表示没听懂, 我也是第一次看到这么用</k>
 
 13
-Milos,I wonder if there's an interesting theatre or club we can go to while we're in Prague.
-<k></k>
-
-14
-We can? Excellent.
-<k></k>
+Milos,`I wonder if` there's an interesting theatre or club we can go to while we're in Prague.
+<k>I wonder if+从句我在想是否...注意从句的语序是陈述句的语序I wonder if you want to go with me to Prague.I wonder if you'd like to join us for lunch.</k>
 
 15
-Good idea. We can lunch at the hotel restaurant by all means,
-<k></k>
+Good idea. We can `lunch` at the hotel restaurant by all means,
+<k>lunch=v 吃午餐新技能get√</k>
 
-16
-but then let's get into town for drinks and dinner.
-<k></k>
+15
+Good idea. We can lunch at the hotel restaurant `by all means`,
+<k>by all means使用一切的途径, 随便怎么做.其实我还是头一回听到这么用它, 一般我听到的都是直接单独用by all means.</k>
 
 17
-Milos, tell me,is there a hair salon at the hotel?
-<k></k>
-
-18
-I see Hm.
-<k></k>
+Milos, tell me,is there `a hair salon` at the hotel?
+<k>hair salon美发厅[sə'lɑn] 另外beauty salon=美容院</k>
 
 19
-My hair doesn't travel very well.
-<k></k>
-
-20
-Yeah, hat shop is a solution...
-<k></k>
-
-21
-No, I don't think a wig is necessary.
-<k></k>
-
-22
-OK then.
-<k></k>
-
-23
-Yes. I look forward to it.Good bye.
-<k></k>
-
-24
-Maybe I do need a wig.
-<k></k>
+My hair doesn't `travel very well`.
+<k>travel very well旅行地好, 擅长旅行, 旅行的时候不出毛病.Antique china doesn't travel well(很容易碎掉)I don't travel well(我旅行容易身体不舒服)</k>
 
