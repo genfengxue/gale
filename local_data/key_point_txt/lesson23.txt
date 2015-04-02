@@ -1,0 +1,96 @@
+1
+Hey George.What are you doing?
+<k></k>
+
+2
+I'm doing a favor for Sharon.
+<k></k>
+
+3
+Making airline reservations for a guest.
+<k></k>
+
+4
+Well.Just do it on the computer.
+<k></k>
+
+5
+Let's do it on Nina's laptop.
+<k></k>
+
+6
+Come here.
+<k></k>
+
+7
+OK.We're booking a flight to where?
+<k></k>
+
+8
+Frankfurt.
+<k></k>
+
+9
+When?
+<k></k>
+
+10
+Tuesday,September 14th.
+<k></k>
+
+11
+There's a Lufthansa flight in the evening.
+<k></k>
+
+12
+What time?
+<k></k>
+
+13
+6 p.m.
+<k></k>
+
+14
+How long will it take?
+<k></k>
+
+15
+About 7 hours. It arrives at 6:55 a.m.
+<k></k>
+
+16
+That's good.
+<k></k>
+
+17
+OK.For how many?
+<k></k>
+
+18
+Two.
+<k></k>
+
+19
+How long are they staying?
+<k></k>
+
+20
+Ah.From the 14th untill the 28th.
+<k></k>
+
+21
+So return flight September 28th.
+<k></k>
+
+22
+Let's see the names.
+<k></k>
+
+23
+This is terrific.
+<k></k>
+
+24
+Yeah. It's better than this.
+<k></k>
+

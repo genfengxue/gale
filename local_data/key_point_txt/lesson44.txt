@@ -1,0 +1,128 @@
+1
+You see?These are too small.
+<k></k>
+
+2
+How big do you want them?
+<k></k>
+
+3
+Twelve inches by eighteen inches.
+<k></k>
+
+4
+Twelve by eighteen.Fine.
+<k></k>
+
+5
+And not this thin material.It doesn't last.
+<k></k>
+
+6
+I want thicker cloth.
+<k></k>
+
+7
+What about...
+<k></k>
+
+8
+And just plain white.No fancy designs.
+<k></k>
+
+9
+OK.
+<k></k>
+
+10
+And finished edges.
+<k></k>
+
+11
+Would you like anything else?
+<k></k>
+
+12
+Yes.I want a shipment of guest towels.
+<k></k>
+
+13
+200 towels.
+<k></k>
+
+14
+Sixteen inches by thirty inches.
+<k></k>
+
+15
+100%cotton.
+<k></k>
+
+16
+In"Warm Cream".With the hotel monogram.
+<k></k>
+
+17
+If you wish.
+<k></k>
+
+18
+I do wish.
+<k></k>
+
+19
+We have a new line of terrycloth robes.
+<k></k>
+
+20
+They're lighter.
+<k></k>
+
+21
+Very nice for the hot weather.
+<k></k>
+
+22
+Can you send me a sample?
+<k></k>
+
+23
+Of course.
+<k></k>
+
+24
+I'll decide then.
+<k></k>
+
+25
+Always a pleasure doing business with you,NuLa.
+<k></k>
+
+26
+Likewise,Vinny.
+<k></k>
+
+27
+I'll call again in two weeks.
+<k></k>
+
+28
+See you then.
+<k></k>
+
+29
+So long!
+<k></k>
+
+30
+Good bye!
+<k></k>
+
+31
+You always get the last word.
+<k></k>
+
+32
+Yes,I do.
+<k></k>
+
