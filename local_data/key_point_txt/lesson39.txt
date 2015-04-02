@@ -1,6 +1,9 @@
 1
-George,would you mind taking care of this for me?
-<k></k>
+George,`would you mind` taking care of this for me?
+<k>Would you mind doing sth
+你介意做某事吗
+
+Would you mind helping me with this?</k>
 
 2
 You did such a good job last time.
@@ -11,8 +14,10 @@ Sure.I'll do it as soon as I can.
 <k></k>
 
 4
-Thanks ever so much.See you later.
-<k></k>
+`Thanks ever so much`.See you later.
+<k>Thanks ever so much=非常感谢
+ever=有史以来的
+有史以来的最为感谢你的一次, 非常感谢</k>
 
 5
 Bye.
@@ -27,20 +32,28 @@ Yeah?
 <k></k>
 
 8
-What was that all about?
-<k></k>
+`What was that all about?`
+<k>what was that about=什么事
+what was that all about=那些全部都是什么事
+
+all, 加强了语气</k>
 
 9
-Oh!Sharon just wants me to arrange some transportation for a guest.
-<k></k>
+Oh!Sharon just wants me to arrange some `transportation` for a guest.
+<k>transportation=n 交通
+transport=v 运输</k>
 
 10
-Ah,that's not your job.
-<k></k>
+`Ah`,that's not your job.
+<k>Ah表示一种不满意的情绪
+
+-I have to take a day off tomorrow.
+-Ah. again?(又要请假)</k>
 
 11
-She just wants me to help her occasionally.
-<k></k>
+She just wants me to help her `occasionally`.
+<k>occasion=n 场合
+occasionally=n 在很少的场合下, 偶尔的</k>
 
 12
 She wants you to help her occasionally?
@@ -51,30 +64,58 @@ Well...
 <k></k>
 
 14
-George,I don't think so.
-<k></k>
+George,`I don't think so`.
+<k>I don't think so=我觉得不行
+
+-I just want to take a day off tomorrow.
+-I don't think so.</k>
 
 15
-I need you 100% in this office.
-<k></k>
+I `need you 100%` in this office.
+<k>need sb 100%+介词短语
+
+I need you 100% on this task.
+
+</k>
 
 16
 Right.
 <k></k>
 
 17
-Next time,would you please tell her that you have your own work to do?
-<k></k>
+Next time,`would you please` tell her that you have your own work to do?
+<k>Would you please do sth.
+请做某事
+
+Would you please help me find my stuff?</k>
 
 18
-I'd better do that now.
-<k></k>
+I'd better `do that` now.
+<k>这里的do that指代的是告诉她, 我没法帮助她了</k>
 
 19
-But it won't be easy coming up against her southern charm.
-<k></k>
+But `it won't be easy` coming up against her southern charm.
+<k>It won't be easy doing sth.
+做某事不会容易
+
+It won't be easy learning how to drive a car.</k>
+
+19
+But it won't be easy `coming up against` her southern charm.
+<k>come up against something to have to deal with something difficult or unpleasant
+In the first week, we came up against a pretty tricky problem.</k>
+
+19
+But it won't be easy coming up against her `southern charm`.
+<k>southern=南方的
+charm=魅力</k>
 
 20
-George,why don't you just use that northern charm of yours?
-<k></k>
+George,why don't you just use `that northern charm of yours`?
+<k>这里如果说Why don't you use your northern charm固然也是可以, 不过我们为了强调对方有对方的southern charm, 我们有我们的northern charm, 我们会把northern charm放在前边, 会说成是
+
+use that northern charm of yours.
+
+注意体会这一点
+</k>
 

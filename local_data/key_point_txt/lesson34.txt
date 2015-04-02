@@ -1,84 +1,192 @@
 1
-Paulo!No walking tour today?
-<k></k>
+Paulo!No `walking tour` today?
+<k>walking tour=徒步旅行
+walking修饰tour
+类似的结构比如
+a shopping trip
+a fishing experience.
+
+organize a walking tour
+组织一次徒步旅行
+He went on a walking tour with Didi</k>
 
 2
-Not for me.
-<k></k>
+`Not for me`.
+<k>not for me=不是对于我(我没去)
+类似的结构
+not for him
+not for us
+
+-Everyone loves walking tours.
+-Not for me.
+
+-Everyone loves beaches.
+-Not for me.</k>
 
 3
-Won't Didi miss you?
-<k></k>
+`Won't Didi` miss you?
+<k>Won't sb.+v=某人不会...吗?
+
+Won't Paulo join our walking tour today?
+
+Won't Didi notice you're not there?</k>
+
+3
+Won't Didi `miss` you?
+<k>miss=想念
+
+I miss my high school days.
+
+I miss my parents.
+
+Didi will miss you(调侃的说法, Didi并不是真的想念你, 而是会生气你没有去)
+
+注意miss另外一个含义: 错过.
+
+I missed the bus.
+
+I missed the class.</k>
 
 4
-Sh.Let them go.
-<k></k>
+Sh.`Let them go`.
+<k>let them go=让他们离去
+类似结构
+let him go 放他走
+let us welcome Didi
+let me introduce myself</k>
 
 5
-What about all the sights?
-<k></k>
+What about `all` the sights?
+<k>all=全部的
+带上all, 语气更强.
 
-6
-I've seen the sights.
-<k></k>
+What's this?=什么情况
+What's all this?=这全都是些什么情况
+</k>
+
+5
+What about all the `sights`?
+<k>sight=n 风景, 景点
+
+all the sights=全部的景点
+go sightseeing=去观光
+(sightseeing其实就是see all the sights)
+
+Did you go sightseeing today?
+Did you see the sights today?
+</k>
 
 7
-The gardens,the monuments,the famous halls.
-<k></k>
+The gardens,the `monuments`,the famous halls.
+<k>monument=纪念碑 ['mɑnjumənt]
 
-8
-They're all very interesting.
-<k></k>
+a monument is a statue(雕塑) usually used to honor a great person or dead solderers
 
-9
-But I'm very tired.
-<k></k>
+The Monument to the People's Heroes stands like a giant on Tiananmen Square.
+人民英雄纪念碑屹立在天安门广场上。</k>
+
+7
+The gardens,the monuments,the famous `halls`.
+<k>hall=礼堂, 大厅, 过道.
+
+我们有个说法叫做hall of fame=名人堂</k>
 
 10
-Didi does cover a lot of ground.
-<k></k>
+Didi `does` cover a lot of ground.
+<k>does=表示强调
 
-11
-The woman never stops moving.
-<k></k>
+Does does love walking.
+Anne does have a photographic memory
 
-12
-Today,it's museums.Tomorrow,famous libraries.
-<k></k>
+Please do go on.
+I do enjoy finger food.
+They do love their polka dot dresses.
+
+does用于第三人称单数的强调,
+do用于第一人称, 第二人称和第三人称复数的强调.
+
+强调句的结构为
+Does+v
+do +v</k>
+
+10
+Didi does `cover a lot of ground`.
+<k>cover a lot of ground=走很多陆地, 很能走
+ground=陆地
+cover=涉及
+
+We'll cover a lot of new phrases in this class.
+
+Wikipedia covers everything you can think of.
+</k>
 
 13
-The next day,I don't know,statues maybe.
-<k></k>
+`The next day`,I don't know,statues maybe.
+<k>the next day=接下来的一天
+注意不要丢掉the
 
-14
-I hate walking!Do you know what I like,Kevin?
-<k></k>
+The next day, they vanished.
+The next day, they went to Hong Kong.
 
-15
-Beaches.I like the beach.
-<k></k>
+the next day是表示在刚才的基础上, 再往后数一天. 不一定是后天.
 
-16
-For my vacation,I like to lie on the beach and relax.
-<k></k>
+后天我们一般说the day after tomorrow.</k>
+
+13
+The next day,I don't know,`statues` maybe.
+<k>statue=雕塑, 雕像
+['stætʃu]
+
+The Statue of Liberty=自由女神像</k>
 
 17
-You'd like Cape Cod then.
-<k></k>
+`You'd like` Cape Cod then.
+<k>You'd like=You would like
+你会喜欢...
+
+You'd like her. She's adorable.
+You'd like his class. He does know how to teach.
+
+推而广之
+You'd enjoy an order of spare ribs.
+You'd love the book. It's very interesting.
+
+You'd like/love/enjoy, 你会喜欢...的</k>
+
+17
+You'd like Cape Cod `then`.
+<k>then=那么说的话, 放在句子结尾
+
+He takes after you then.
+You're not coming on our walking tour today then.</k>
 
 18
-The Cape's got beautiful beaches and dunes and islands.
-<k></k>
+`The Cape's got` beautiful beaches and dunes and islands.
+<k>The Cape's got=The Cape has got=Cape有...
+注意这里虽然语法是现在完成时, 但是其实是表示"有"
+这是美式口语的一个特殊的用法
+
+We've got eggplant
+We have eggplant
+We have got eggplant</k>
+
+18
+The Cape's got beautiful beaches and `dunes` and islands.
+<k>dune=[dʊn]
+（由风吹积而成的）沙丘</k>
 
 19
-Is it far away?
-<k></k>
+Is it `far away`?
+<k>far away=远的.
 
-20
-By car?
-<k></k>
+America is far away.
+
+Beijing is far away.
+</k>
 
 21
-No,on foot.With Didi,we walk!
-<k></k>
+No,`on foot`.With Didi,we walk!
+<k>on foot=通过走路
+
+注意by bus, by train, by sea, by air, on foot</k>
 

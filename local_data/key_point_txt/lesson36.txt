@@ -3,20 +3,62 @@ Thank you,Wendy.
 <k></k>
 
 2
-Yes,we've had a very good year.
-<k></k>
+Yes,`we've had` a very good year.
+<k>we've had=we have had
+现在完成时
+have+动词过去分词
+
+I have had a good semester.
+I have had a pleasant stay at your hotel.</k>
+
+2
+Yes,we've had `a very good year`.
+<k>a very good year=一个很好的年份
+
+I had a very good year.
+
+we just had a  pretty bad year.
+
+</k>
 
 3
-We've managed to control our costs,as you can see.
-<k></k>
+`We've managed to` control our costs,as you can see.
+<k>We've managed to=We have managed to
+
+现在完成时
+have+动词过去分词
+
+I've manged to get the job done on time.
+
+I've managed to hire you some talent</k>
+
+3
+We've managed to control our costs,`as you can see`.
+<k>as you can see=如你所见到的
+as+一个句子
+
+The weather was really bad, as you can imagine.
+
+Our profits are up 10%, as you know.</k>
 
 4
-They're actually down 7%.
-<k></k>
+`They're actually down 7%`.
+<k>are down 7%=降低了7%
+我们学到了 be down+数字.
+
+Our revenue is up 10%.
+Our revenue was up 10,000 last month.
+</k>
 
 5
-Not bad.But of course you're expected to do that.
-<k></k>
+Not bad.But of course `you're expected to` do that.
+<k>you're expected to do that.=你们被期望做到那样.
+
+我们学到了sb is expected to do...
+
+I'm expected to get up early tomorrow.
+
+You're expected to hand in your homework on time.</k>
 
 6
 And we've changed our advertising.
@@ -35,28 +77,78 @@ Not bad.
 <k></k>
 
 10
-With the industry in its current state,I venture to say it's quite good.
-<k></k>
+`With the industry in its current state`,I venture to say it's quite good.
+<k>current=adj 现在的
+state=n 状态
+
+with the industry in its current state
+我们从中提炼出with sth+介词短语
+
+With Sharon at the front desk, I have nothing to worry about.
+
+With another meeting on the next day, I really need to sleep early.
+</k>
+
+10
+With the industry in its current state,`I venture to say` it's quite good.
+<k>venture to say=冒昧说一句
+
+我们学到venture to do...的用法
+
+to be brave enough to say something
+
+She would never venture to ask for a rise.
+</k>
 
 11
 Here's your water,sir.
 <k></k>
 
 12
-I'm not interestecd in the standard report,Anne.
-<k></k>
+I'm not `interestecd` in the standard report,Anne.
+<k>typo
+应该是interested</k>
+
+12
+I'm not interestecd in the `standard report`,Anne.
+<k>standard report=标准的报告
+
+我们学到standard+n的用法
+
+standard procedure(步骤)
+standard requirement(要求)</k>
 
 13
 I can read.
 <k></k>
 
 14
-By all means.
-<k></k>
+`By all means`.
+<k>by all means SPOKEN
+
+used for politely agreeing with someone, giving permission, or saying ‘yes’
+
+‘Do you mind if I invite a few friends?’ ‘By all means.’
+
+这样理解
+means表示手段, by all means表示随便用什么手段去做这件事, 就是随便你怎么做哈</k>
 
 15
-Is there anything else I can answer for you then?
-<k></k>
+Is there anything else `I can answer for you` then?
+<k>I can answer for you.
+这里的for可能让你觉得不舒服.
+
+我们先把句子调整回常规句式
+There's something else I can answer for you.
+
+There's a question I can answer for you.
+
+I can answer a question for you.
+
+answer a question for sb.
+
+经过这么一串分析, 你就看到, 其实是
+answer a question (for sb)这样一个结构.</k>
 
 16
 I've heard about the programs,Anne.
@@ -67,8 +159,13 @@ Employee groups,the marketing.
 <k></k>
 
 18
-And I want to know who's responsible.
-<k></k>
+And I want to know who's `responsible`.
+<k>responsible=负责的.
+可能是好事, 可能是坏事.
+
+I'm responsible for the loss.
+I'm responsible for our profit rise.
+</k>
 
 19
 I see.

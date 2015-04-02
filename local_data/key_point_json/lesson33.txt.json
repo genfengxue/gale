@@ -1,3 +1,86 @@
 {
-   "33" : {}
+   "33" : {
+      "11" : {
+         "3" : [
+            "air-condition=v 用空调制冷\n[kən'dɪʃən]\nThe room is air-conditioned\n\nair-conditioning=n 制冷系统\nWhat's wrong with the air-conditioning?\n\nair-conditioner=n 空调\n"
+         ]
+      },
+      "3" : {
+         "7,8" : [
+            "I hope=我希望, 位于句子结尾, 用逗号隔开\n\nAnne knows some Cantonese, I hope.\nAnne can come to  the banquet, I hope.\n"
+         ]
+      },
+      "7" : {
+         "8" : [
+            "美国人讲温度, 用华氏, Fahrenheit.\n85'=85华氏度=29.4摄氏度\n我们讲温度用摄氏, Celsius或centigrade.\n\n85华氏度=85 degrees Fahrenheit\n29.4摄氏度=29.4 degrees Celsius\n\n注意degree要加复数\ncentigrade['sɛntɪɡreɪd]\nCelsius ['sɛlsɪəs] \nFahrenheit/ˈfærənhaɪt/"
+         ],
+         "4,5" : [
+            "Some days=一些日子\nsome days可以表示过去的, 未来的, 一般性的一段时间.\n\nSome days the weather was miserable.\nSome days I wake up and feel miserable.\nI'll go live with my aunt for some days next month.\n\n\nsome day=someday, 表示未来的一段时间\nI’ll go back there some day.\n\n"
+         ]
+      },
+      "9" : {
+         "7" : [
+            "humidity=潮湿 [hju'mɪdəti] \n\nHumidity is a word you'll hear if you watch a weather report, and it's also something people love to complain about. When it's hot and there's a lot of humidity, people sweat a lot — it's uncomfortable, sticky\n\nIn some parts of the country, people have a saying about yucky summer weather: \"It's not the heat — it's the humidity.\""
+         ]
+      },
+      "12" : {
+         "8" : [
+            "Macau\n[mə'kaʊ]\n澳门"
+         ]
+      },
+      "2" : {
+         "7,8,9,10" : [
+            "this time of year=每年的这个时候\n\nThe papers say that business is slow (at) this time of year.\n报纸说，一年的这个时候商业不活跃。\n\nPrices tend to rise (at) this time of year.\n每年这个时候物价往往会上涨。\n"
+         ]
+      },
+      "15" : {
+         "5,6,7,8" : [
+            "get sb sth.=给某人弄到某个东西\n\nLet me get you a phrasebook.\nLet me get you a laptop.\n\n"
+         ]
+      },
+      "8" : {
+         "1" : [
+            "Whew\na way of writing the sound that you make when you are uncomfortable or surprised, or when you feel happy that something has finished. This sound is sometimes written as Phew\n\nWhew. That gotta hurt(不舒服)\nWhew, I’m glad he’s gone!(喜悦)\nWhew, what a thunderstorm(惊讶)\n\n惊讶, 不舒服, 喜悦都可以用它, 取决于你说话时的语调"
+         ]
+      },
+      "1" : {
+         "5,6,7" : [
+            "hand=手\nhandy=顺手的(形容一个东西) useful\n\nA handy gadget(一个好用的设备)\n\ncome in handy=派上用场\nto be useful in a particular situation\n\nI knew this jacket would come in handy one day.\n"
+         ]
+      },
+      "19" : {
+         "6" : [
+            "backwards=反过来的\nwith the back part at the front\n\nYou' ve put your hat on backwards.\n你把帽子戴反了。\nYour skirt is on backwards.\n你的裙子穿反了\n注意这2句中的on不可以丢掉.\n"
+         ]
+      },
+      "16" : {
+         "4,5,6,7" : [
+            "Macau is east of Hong Kong.(be east of spl.)\n\nJapan lies east of China.(lie east of spl.)\n日本位于中国以东。\n\na town east of shang hai.(east of spl.直接作为一个短语来修饰town)\n\n"
+         ]
+      },
+      "13" : {
+         "6" : [
+            "thunder=闪电\n你看迅雷软件就叫做thunder\nstorm=暴风雨\nthunderstorm=闪电暴风雨\n ['θʌndɚstɔrm]\n\n"
+         ],
+         "7,8,9" : [
+            "on the water=在水面上\n这里water可以指lake也可以指sea.\n\nThey are floating on the water.\n他们正在水上漂着。\n\nIce has formed on the water.\n水面已结冰。"
+         ],
+         "5" : [
+            " [fæn'tæstɪk]\nINFORMAL extremely large\nYou’ve all put in a fantastic amount of work.\n\nfantastic常用意思是非常好的, 在这里的意思是非常大的\n"
+         ]
+      },
+      "10" : {
+         "4" : [
+            "[jʌk]\nused for saying that you think someone or something is dirty, ugly, or unpleasant\n\nYuck! There 's a cockroach crawling along the wall !\n哇！ 有一只蟑螂在墙上爬着！\n\nYuck! Even my skin is starting to smell like chicken .\n哎！ 甚至连我的皮肤都开始有鸡肉味。\n"
+         ],
+         "3" : [
+            "拼写错误, 应该是humid\n\nhumid=adj hot and wet in a way that makes you feel uncomfortable\n\nhumidity=n 湿热的天气"
+         ]
+      },
+      "5" : {
+         "3" : [
+            "miserable=痛苦的, ['mɪzrəbl]\nMiserable goes way beyond sad.\nSomeone who's miserable feels absolutely awful.\n\nIf you were caught in the pouring rain, missed your own birthday party, and then got food poisoning, you wouldn't just feel bad. You'd be miserable — which means exceptionally unhappy.\n\nThe weather was miserable(修饰一个东西)\nI feel miserable(修饰一个人的感受)\nShe's a miserable person(她这个人就总是抱怨, 令人很不愉快)"
+         ]
+      }
+   }
 }

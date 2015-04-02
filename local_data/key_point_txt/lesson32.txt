@@ -1,100 +1,162 @@
-1
-How are you feeling?
-<k></k>
-
 2
-Great. Never better.
-<k></k>
+Great. `Never better`.
+<k>never better=从来没有更好过, 此时此刻是最好的
+
+-You alright?
+-Never better.
+
+-I'm sorry to hear Anne fired you.How are you feeling?
+-I've never felt better.
+
+往往提问的人是认为你可能此时并不太好, 但是你回复说, 其实我很好, 非常好, 从未如此好...
+注意我们并不会去说never worse表示从未如此之差, 这里不能举一反三哈.
+</k>
 
 3
-Aren't you suffering from jet lag?
-<k></k>
+`Aren't you` suffering from jet lag?
+<k>aren't you="你难道不..."
+
+Aren't you tired?
+Aren't you happy?
+Aren't you having a good time?
+Aren't you working right now?
+
+后边可以直接跟一个adj, 也可以跟一个v-ing
+</k>
+
+3
+Aren't you `suffering from` jet lag?
+<k>suffer from=忍受, 遭受
+
+The company suffered great financial loss.
+He suffered from insomnia(失眠).
+A lot of children are still suffering from poverty(贫困).
+I'm suffering from a great deal of noise.
+
+suffer from可以描述一个人,也可以是一个公司.
+suffer from可以指经济损失, 或疾病, 或其他让你不爽的东西.
+</k>
+
+3
+Aren't you suffering from `jet lag`?
+<k>jet=喷气式飞机
+lag=n&v 滞后
+jet lag=由于坐飞机横跨不同的时区, 身体感觉自己仍然在之前的那个时区, 还一时没适应新的时区.
+如果我们坐火车, 因为速度比较慢, 距离一般也较短, 所以不会有这种反应. 这种症状是jet发明之后人们才开始suffer的一种症状哈.
+</k>
 
 4
-Oh no.Besides,the afternoon meeting only lasted...What?...four hours?
-<k></k>
+Oh no.`Besides`,the afternoon meeting only lasted...What?...four hours?
+<k>besides其实就是be (on the) side, 在...旁边.
+你已经说了一个理由了, 在它旁边还有一个理由, 所以就是"而且"
+
+used when you are adding another stronger reason to support what you are saying
+
+I don't want to go shopping. Besides, I haven't got any money.
+I am not good at driving. Besides, I'm not used to driving on the right.
+</k>
+
+4
+Oh no.Besides,`the afternoon meeting` only lasted...What?...four hours?
+<k>举一反三得到
+morning meeting 早上的会
+evening meeting 晚上的会
+last week's meeting 上周的会
+Monday morning's meeting 周一上午的会
+</k>
+
+4
+Oh no.Besides,the afternoon meeting only lasted...`What`?...four hours?
+<k>what
+SPOKEN used when you pause to think because you are guessing a number or amount
+
+I bought my Cantonese phrasebook on...What?...December 3rd?
+My new polka-dot dress only cost me...What?...100 dollars?
+
+体会到了吗? 当你在回想到底是多久, 哪一天, 多少钱等时, 可以用what来把句子连起来.
+
+</k>
 
 5
-Yes,but we have another one early tomorrow morning.
-<k></k>
+Yes,but we have another one `early tomorrow morning`.
+<k>early tomorrow morning=明早很早的时候
+
+I have a flight to catch early tomorrow morning.
+I need to go shopping early tomorrow morning to get Dean a present.
+</k>
 
 6
-It will last all day.
-<k></k>
+It will last `all day`.
+<k>all day=一整天
+
+The American Library Association Conference will last all day.
+
+I will be on a city tour all day tomorrow
+</k>
 
 7
-We won't finish till six o'clock.
-<k></k>
+`We won't finish till` six o'clock.
+<k>won't...till...=不会做XXX, 直到XXX
 
-8
-Hm.
-<k></k>
+I won't be here until early tomorrow morning.(不会到这里, 直到明早)
+The banquet for you won't finish until late tomorrow evening.(不会结束, 直到明晚很晚)
+I won't quit learning English till I've tried everything I can(不会放弃, 直到用尽所有)
 
-9
-Are you worried about getting tired?
-<k></k>
+这里till=until
 
-10
-No.I wanted to do some shopping tomorrow.
-<k></k>
+注意对比下边的句子
+I played an amzing game until the 18th hole.(做XXX, 直到XXX)
+
+won't...till... 动词必须是一个短暂性动词, 比如finish
+...till... 动词必须是一个持续性动词, 比如play
+</k>
 
 11
-How late is Sogo open?
-<k></k>
+`How late is` Sogo open?
+<k>How late is...open?可以询问对方开门到几点.
 
-12
-Quite late.
-<k></k>
+How late is KFC open? (It's open until 10 p.m.)
+How late is the museum open?
+
+进一步拓展还可以用how late...来询问其他可以最晚到几点的东西
+How late can you stay? (I can stay unitl 11 p.m.)
+</k>
+
+11
+How late is `Sogo` open?
+<k>Sogo=香港铜锣湾的崇光百货（Sogo）是比较亲民的商场，在香港叫崇光，在上海叫久光。香港崇光百货原由日本总公司开设，是日本、香港及台湾一家大型百货公司。
+</k>
 
 13
-But don't forget,there is a banquet for you tomorrow night.
-<k></k>
+But don't forget,there is a `banquet` for you tomorrow night.
+<k>banquet=宴会 ['bæŋkwɪt]
 
-14
-Ah.How long does that last?
-<k></k>
+banquet来源于bench这个词, 最初banquet是指eat some snacks at a bench.
+后来也不知怎么滴就变成了正式宴会的含义.
 
-15
-They can take hours.
-<k></k>
+最为正式, 最为高大上, 最为奢华的宴会, 比如国宴, 就是用这个词, banquet.
+</k>
 
 16
-I'm afraid you won't be back at your hotel at least until midnight.
-<k></k>
+I'm afraid you `won't be back at` your hotel at least until midnight.
+<k>I won't be back in the office until the 27th.
+I got back to the hotel around midnight.
+I have an appointment back at the Children's center at 11 p.m.
 
-17
-Maybe later.
-<k></k>
-
-18
-Oh well.
-<k></k>
-
-19
-Wait...Sogo's is open tonight,isn't it?
-<k></k>
-
-20
-Yes.
-<k></k>
-
-21
-Well,can we go now?
-<k></k>
+back后边可以说back at/in/to
+back前边可以是be动词, 普通动词, 名词等
+</k>
 
 22
-Of course.The tram will take about thirty minutes.
-<k></k>
-
-23
-A taxi will be faster.
-<k></k>
-
-24
-Let's walk.It's a beautiful evening.
-<k></k>
+Of course.The `tram` will take about thirty minutes.
+<k>tram=电车</k>
 
 25
-I am amazed you're still going!
-<k></k>
+I am amazed `you're still going`!
+<k>...still going=仍然能走的动, 能正常的做事
+
+I can't believe you're still going after 4 hours' shopping.
+You're still going after a whole day's meeting and a 4 hour's banquet? You're amazing.
+
+虽然going我们认识, 但是这个用法其实是很不熟悉的, 那么就要细细体会.</k>
 

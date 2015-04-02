@@ -1,64 +1,178 @@
 1
-Hey William.Guess who's coming tomorrow?
-<k></k>
+Hey William.`Guess` who's coming tomorrow?
+<k>guess=v 猜
 
-2
-Who?
-<k></k>
+guess what? CEO is coming tomorrow.
+guess how I did this?
+guess when Nina will be here?
 
-3
-Mr.Bigelow.
-<k></k>
+从这里我们学到了 
+guess+who/how/what/when...的用法
+注意从句中的语序
+
+guess when will Nina be here是错误的语序
+</k>
 
 4
-Jim Bigelow,our Chief Executive Officer?
-<k></k>
+Jim Bigelow,our `Chief Executive Officer`?
+<k>Chief Executive Officer=首席执行官
+Chief Financial Officer=首席财务官
+Chief Technology Officer=首席 技术官
+
+C大头的表示公司最高一层的领导人</k>
 
 5
-That's right.Mr.Big.
-<k></k>
+That's right.`Mr.Big`.
+<k>这是Sharon在Jim Bigelow的名字上玩的一个小游戏.
+从Bigelow中拎出来Big.
+Big本身又有重要的意思.
 
-6
-Why?
-<k></k>
+Tomorrow will be a big day for us.
+I will have a big game tomorrow.</k>
 
 7
-He's coming in for a meeting with Anne.
-<k></k>
+He's `coming in for` a meeting with Anne.
+<k>come in for sth=来这里为某事
+
+I only come in for the meetings.
+
+I only come in when you need to fix your computers.
+
+注意这里in和for两个词连用, 你可能觉得奇怪, 因为in是副词, 后边不需要接任何东西
+
+好比我们说请进come in.
+超车 cut in</k>
 
 8
-Very high level.
-<k></k>
+`Very high level`.
+<k>high level=n&adj 高层, 高层的
+
+This is a very high level meeting.
+
+He's got some friends at high level
+</k>
 
 9
-What this organization needs is talent.
-<k></k>
+`What this organization needs is` talent.
+<k>organize=v 组织
+organization=n 组织机构
+organizer=n 组织者
+
+What this organizaiton needs is...
+我们从这个句子中可以提炼出如下用法
+What sb needs is
+
+What I need is my business cards.
+What I need is some understanding.
+注意既可以是具体的东西, 也可以是抽象的东西.
+
+推而广之得到What I want/need/like is
+What I want is some coffee.
+What I like is some quietness.
+</k>
+
+9
+What this organization needs is `talent`.
+<k>talent=人才 不可数
+We need to hire more talent.
+A company will only succeed if it has the talent.
+
+talent=才干, 才能
+I have a talent for music.
+Anne has a talent for remembering things.
+</k>
 
 10
-We need someone who will get the job done.
-<k></k>
+We need `someone who` will get the job done.
+<k>someone who+v
+我们提炼出以上的用法, someone后边跟了一个从句
+
+I want to hire someone who's serious yet cheerful.
+
+My ideal man is someone who's dependable and sensitive.
+
+</k>
+
+10
+We need someone who will `get the job done`.
+<k>get the job done=把工作搞定
+我们从中学到get sth v-ed的结构
+
+get this fish grilled
+
+get your room cleaned</k>
 
 11
-But we'd prefer someone presentable,with a pleasant manner.
-<k></k>
+But `we'd prefer` someone presentable,with a pleasant manner.
+<k>we'd prefer=we would prefer
+因为prefer在这里是原型, 我们就知道we'd是we would而不是we had.
+
+I'd prefer someone who's hardworking and reliable.
+
+I'd prefer casual dining.
+
+Young people would prefer low prices to large portions.</k>
+
+11
+But we'd prefer `someone presentable`,with a pleasant manner.
+<k>presentable=可以present给别人看的, 看起来还不错的
+good looking=长得好看的
+注意区别二者.
+
+someone presentable=的人, 就是长得还拿得出手.
+我们从中学到了someone+adj的表达
+
+Someone tall.
+someone talented.</k>
+
+11
+But we'd prefer someone presentable,`with a pleasant manner`.
+<k>pleasant=adj 令人愉快的
+manner=n 行为 举止 [SINGULAR]
+a way of behaving or speaking
+
+with a pleasant manner=有令人愉快的举止
+
+with a lovely view of the park
+with long blonde hair</k>
 
 12
-Someone hard-working, serious,yet cheerful.
-<k></k>
+Someone hard-working, serious,`yet` cheerful.
+<k>yet=表示转折
+我们从句子中学到了yet+adj的用法
+
+He's serious, yet adorable.
+
+yet也可以后边跟其他结构来表示专业.
+
+He's 26, yet he can't cook(跟一个句子)</k>
 
 13
-We want someone who can rollerblade,
-<k></k>
+We want someone who can `rollerblade`,
+<k>roll=v 滚, 滚动
+blade=n 刀片, 冰刀
+rollerblade=v 溜旱冰
+
+I love rollerblading.
+I don't know how to rollerblade</k>
 
 14
-but also likes to walk.
-<k></k>
+`but also likes to walk.`
+<k>注意这句话完整的是
+someone who can rollerblade, but who also likes to walk
+
+后半句省略了who, 因为前半句已经出现了who
+
+I want someone who can get the job done, but also knows how to have fun.
+
+</k>
 
 15
-We want...someone like that man!
-<k></k>
+We want...`someone like` that man!
+<k>someone like.
+我们学到了上边的这个用法
 
-16
-Yes,sir!
-<k></k>
+My ideal women is someone like Sherry.
+
+I want someone like William.</k>
 

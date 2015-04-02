@@ -1,3 +1,80 @@
 {
-   "38" : {}
+   "38" : {
+      "25" : {
+         "1,2" : [
+            "you should do=你应该做...\n\n-This passport has a lot of stamps on it.\n-You should see my old passport."
+         ],
+         "5" : [
+            "tip=n 小费"
+         ]
+      },
+      "6" : {
+         "1,2,3" : [
+            "he told me he did sth.\n他告诉我他做某事\n\nHe told me he didn't go to college.\n\nHe told me he was a virgo."
+         ]
+      },
+      "3" : {
+         "3" : [
+            "snob\nsomeone who thinks they are better than other people, usually because of their social class. This word shows that you do not like people like this."
+         ]
+      },
+      "7" : {
+         "5,6,7" : [
+            "run a company=运营一个公司\n\nrun=v 运营\n\nrun a business\nrun a  meeting\n"
+         ]
+      },
+      "9" : {
+         "1,2,3" : [
+            "That's the thing=那就是我们要说的, 那就是奇怪的地方\n\n注意本身没有奇怪二字, the就表示你想让它表示的任何意思.\n\n比如 The one with the hair, 不是说好头发, 坏头发, 而是就那个特别的头发.\n"
+         ]
+      },
+      "17" : {
+         "1" : [
+            "whatever=随便, 无所谓.\n\n当你不想继续讨论这个了, 就可以说它"
+         ]
+      },
+      "2" : {
+         "8" : [
+            "mean=adj 刻薄的, 不友好的"
+         ],
+         "1,2" : [
+            "at first=起初\n\nat first I thought it was hard.\n\nat first I didn't like English"
+         ]
+      },
+      "8" : {
+         "3,4,5" : [
+            "a ton of=一吨的, 很多的\nton=吨\n\nHe eats a ton of junk food every day\n"
+         ]
+      },
+      "4" : {
+         "4" : [
+            "though=表示转折, 放在句子结尾\n\nI am not good at math though\n\nI do enjoy speaking English though"
+         ]
+      },
+      "18" : {
+         "3,4,5" : [
+            "listen to this=听这个\n这是个固定的用法"
+         ]
+      },
+      "24" : {
+         "1,2,3,4" : [
+            "tell me about it\nused for saying that you already know about something unpleasant that someone has just described because you have experienced it yourself\n\n‘I’m so overworked.’ ‘Tell me about it!’"
+         ]
+      },
+      "23" : {
+         "4,5,6,7,8,9,10,11" : [
+            "can't do sth to save one's life\nSPOKEN\nto be very bad at doing something\n\nShe couldn’t play the piano to save her life!\n\n可以理解为\n即使是为了救自己的生命也无法做某事, 可见真的是无法做某事"
+         ]
+      },
+      "13" : {
+         "1,2,3" : [
+            "这里就是个小文字游戏\n\nmaths=数学 英式\nmath=数学 美式\n\n女生调侃英国人说数学要说maths, 一定是指各种各样的math"
+         ]
+      },
+      "5" : {
+         "1,2" : [
+            "he said he did sth.\n他说他做了某事\n\nHe said he went to Scotland to play golf.\n\nHe said he was really bad at math"
+         ]
+      }
+   }
 }

@@ -3,16 +3,34 @@ Can I help you?
 <k></k>
 
 2
-Where can I get some medicine for an upset stomach?
-<k></k>
+Where can I get some medicine for an `upset` stomach?
+<k>upset=adj 心情不舒服的
+I'm upset today.
+
+upset=adj 身体不舒服的
+My stomach is upset.</k>
 
 3
-We have some over-the-counter remedies in the hotel shop.
-<k></k>
+We have some `over-the-counter` remedies in the hotel shop.
+<k>over-the-counter, 缩写为OTC, 就是可以直接在柜台购买的药品, 不需要医生开处方的药品</k>
+
+3
+We have some over-the-counter `remedies` in the hotel shop.
+<k>remedy=n 
+
+a cure for pain or a minor illness
+
+Hot soup is a good remedy for a cold(感冒)</k>
 
 4
-And there's a pharmacy just down the street.
-<k></k>
+And there's a `pharmacy` just down the street.
+<k>pharmacy=n 药店</k>
+
+4
+And there's a pharmacy `just down the street`.
+<k>just down the street=就在这条街往下走不远
+
+注意这里的down没有高低之分, 只是沿着的意思.</k>
 
 5
 OK,Thank you.
@@ -35,20 +53,27 @@ Where can I find a doctor?
 <k></k>
 
 10
-Is this an emergency?
-<k></k>
+Is this an `emergency`?
+<k>emergency=n 紧急情况, 急诊</k>
 
 11
-No,no.Nothing to worry about.Much.
-<k></k>
+No,no.Nothing to worry about.`Much`.
+<k>much其实是nothing much的缩写.
+因为前边说了nothing to worry about, 但是又觉得还是有那么一丁点需要worry about的, 所以补充个much
+
+nothing much to worry about</k>
 
 12
-Here's our referral list.
-<k></k>
+Here's our `referral list`.
+<k>referral list=推荐的名单
+
+国外看病, 往往需要先跟医生预约, 酒店推荐你跟这些医生预约</k>
 
 13
-And that's a central number.
-<k></k>
+And that's a `central number`.
+<k>central number=总机, 居中的号码
+
+打这个就可以让他帮你转接其他的号码</k>
 
 14
 Thanks.
@@ -59,8 +84,11 @@ Restrooms?
 <k></k>
 
 16
-Around the corner,by the phones.
-<k></k>
+Around the corner,`by the phones`.
+<k>by=在..旁边
+
+a table by the window 
+a table by the wall</k>
 
 17
 Sharon?Hi.It's William.
@@ -71,6 +99,6 @@ Where did you send the Engineer Society for lunch?
 <k></k>
 
 19
-Aha.Maybe we shouldn't recommend it any more.
-<k></k>
+Aha.`Maybe we shouldn't recommend it any more`.
+<k>William这句话的意思是说, 这么多人都生病了, 似乎这个地方是有问题的, 所以不要推荐去那里吃了</k>
 

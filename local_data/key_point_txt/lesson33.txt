@@ -1,80 +1,192 @@
 1
-So,the Cantonese phrasebook came in handy.
-<k></k>
+So,the Cantonese phrasebook `came in handy`.
+<k>hand=手
+handy=顺手的(形容一个东西) useful
+
+A handy gadget(一个好用的设备)
+
+come in handy=派上用场
+to be useful in a particular situation
+
+I knew this jacket would come in handy one day.
+</k>
 
 2
-So what was the weather like this time of year?
-<k></k>
+So what was the weather like `this time of year`?
+<k>this time of year=每年的这个时候
+
+The papers say that business is slow (at) this time of year.
+报纸说，一年的这个时候商业不活跃。
+
+Prices tend to rise (at) this time of year.
+每年这个时候物价往往会上涨。
+</k>
 
 3
-Hong Kong was better than here,I hope.
-<k></k>
+Hong Kong was better than here,`I hope`.
+<k>I hope=我希望, 位于句子结尾, 用逗号隔开
 
-4
-Why?Did it rain?
-<k></k>
+Anne knows some Cantonese, I hope.
+Anne can come to  the banquet, I hope.
+</k>
 
 5
-Wet and miserable.
-<k></k>
+Wet and `miserable`.
+<k>miserable=痛苦的, ['mɪzrəbl]
+Miserable goes way beyond sad.
+Someone who's miserable feels absolutely awful.
 
-6
-Too bad.Hong Kong was hot.
-<k></k>
+If you were caught in the pouring rain, missed your own birthday party, and then got food poisoning, you wouldn't just feel bad. You'd be miserable — which means exceptionally unhappy.
+
+The weather was miserable(修饰一个东西)
+I feel miserable(修饰一个人的感受)
+She's a miserable person(她这个人就总是抱怨, 令人很不愉快)</k>
 
 7
-I loved it.Some days it reached 85'.
-<k></k>
+I loved it.`Some days` it reached 85'.
+<k>Some days=一些日子
+some days可以表示过去的, 未来的, 一般性的一段时间.
+
+Some days the weather was miserable.
+Some days I wake up and feel miserable.
+I'll go live with my aunt for some days next month.
+
+
+some day=someday, 表示未来的一段时间
+I’ll go back there some day.
+
+</k>
+
+7
+I loved it.Some days it reached `85'`.
+<k>美国人讲温度, 用华氏, Fahrenheit.
+85'=85华氏度=29.4摄氏度
+我们讲温度用摄氏, Celsius或centigrade.
+
+85华氏度=85 degrees Fahrenheit
+29.4摄氏度=29.4 degrees Celsius
+
+注意degree要加复数
+centigrade['sɛntɪɡreɪd]
+Celsius ['sɛlsɪəs] 
+Fahrenheit/ˈfærənhaɪt/</k>
 
 8
-Whew!Too hot for me.
-<k></k>
+`Whew`!Too hot for me.
+<k>Whew
+a way of writing the sound that you make when you are uncomfortable or surprised, or when you feel happy that something has finished. This sound is sometimes written as Phew
+
+Whew. That gotta hurt(不舒服)
+Whew, I’m glad he’s gone!(喜悦)
+Whew, what a thunderstorm(惊讶)
+
+惊讶, 不舒服, 喜悦都可以用它, 取决于你说话时的语调</k>
 
 9
-It's not the heat.It's the humidity.
-<k></k>
+It's not the heat.It's the `humidity`.
+<k>humidity=潮湿 [hju'mɪdəti] 
+
+Humidity is a word you'll hear if you watch a weather report, and it's also something people love to complain about. When it's hot and there's a lot of humidity, people sweat a lot — it's uncomfortable, sticky
+
+In some parts of the country, people have a saying about yucky summer weather: "It's not the heat — it's the humidity."</k>
 
 10
-Hot and humidy?Yuck.
-<k></k>
+Hot and `humidy`?Yuck.
+<k>拼写错误, 应该是humid
+
+humid=adj hot and wet in a way that makes you feel uncomfortable
+
+humidity=n 湿热的天气</k>
+
+10
+Hot and humidy?`Yuck`.
+<k>[jʌk]
+used for saying that you think someone or something is dirty, ugly, or unpleasant
+
+Yuck! There 's a cockroach crawling along the wall !
+哇！ 有一只蟑螂在墙上爬着！
+
+Yuck! Even my skin is starting to smell like chicken .
+哎！ 甚至连我的皮肤都开始有鸡肉味。
+</k>
 
 11
-Oh,everything's air-conditioned,anyway.
-<k></k>
+Oh,everything's `air-conditioned`,anyway.
+<k>air-condition=v 用空调制冷
+[kən'dɪʃən]
+The room is air-conditioned
+
+air-conditioning=n 制冷系统
+What's wrong with the air-conditioning?
+
+air-conditioner=n 空调
+</k>
 
 12
-One day,I went by boat to Macau,
-<k></k>
+One day,I went by boat to `Macau`,
+<k>Macau
+[mə'kaʊ]
+澳门</k>
 
 13
-and there was a fantastic thunderstorm on the water.
-<k></k>
+and there was a `fantastic` thunderstorm on the water.
+<k> [fæn'tæstɪk]
+INFORMAL extremely large
+You’ve all put in a fantastic amount of work.
 
-14
-Where's Macau?
-<k></k>
+fantastic常用意思是非常好的, 在这里的意思是非常大的
+</k>
+
+13
+and there was a fantastic `thunderstorm` on the water.
+<k>thunder=闪电
+你看迅雷软件就叫做thunder
+storm=暴风雨
+thunderstorm=闪电暴风雨
+ ['θʌndɚstɔrm]
+
+</k>
+
+13
+and there was a fantastic thunderstorm `on the water`.
+<k>on the water=在水面上
+这里water可以指lake也可以指sea.
+
+They are floating on the water.
+他们正在水上漂着。
+
+Ice has formed on the water.
+水面已结冰。</k>
 
 15
-George,we have to get you a map.
-<k></k>
+George,we have to `get you a map`.
+<k>get sb sth.=给某人弄到某个东西
+
+Let me get you a phrasebook.
+Let me get you a laptop.
+
+</k>
 
 16
-Ah,it's just east of Hong Kong.
-<k></k>
+Ah,it's just `east of Hong Kong`.
+<k>Macau is east of Hong Kong.(be east of spl.)
 
-17
--West.  -Hm?
-<k></k>
+Japan lies east of China.(lie east of spl.)
+日本位于中国以东。
 
-18
-Macau is west of Hong Kong.
-<k></k>
+a town east of shang hai.(east of spl.直接作为一个短语来修饰town)
+
+</k>
 
 19
-That's right.My map was backwards.
-<k></k>
+That's right.My map was `backwards`.
+<k>backwards=反过来的
+with the back part at the front
 
-20
-Well,it is on the other side of the world.
-<k></k>
+You' ve put your hat on backwards.
+你把帽子戴反了。
+Your skirt is on backwards.
+你的裙子穿反了
+注意这2句中的on不可以丢掉.
+</k>
 

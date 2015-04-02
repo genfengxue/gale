@@ -1,3 +1,40 @@
 {
-   "31" : {}
+   "31" : {
+      "8" : {
+         "11,12,13" : [
+            "on top of=在...的上边(字面意思)\n\nAnne's name card is on top of his Hong Kong files.\nAnne left her Cantonese phrasebook on top of the cabinet\n"
+         ],
+         "15" : [
+            "cabinet=柜子\ncabinet还有一个意思是内阁.\n\n你可以这么记忆\nThe cabinet always hold secret meetings in a cabinet.\n"
+         ]
+      },
+      "1" : {
+         "1" : [
+            "Debbie\n['debi] \n人名"
+         ]
+      },
+      "7" : {
+         "3,4,5" : [
+            "walk out of=走出去, 离开(引申义)\n\nwalk out of the room(走出去)\nwalk out of the company(离开)"
+         ],
+         "9,10,11,12" : [
+            "It has got to+v\n它必须得\n\n推而广之, 我们还可以说\nYou have got to=你必须得\nYou have got to stop calling me\n\ngot to常常缩略为gotta \n即You've gotta stop calling me.\n"
+         ]
+      },
+      "13" : {
+         "1,2,3" : [
+            "Who on earth=究竟谁, 到底谁.\nSPOKEN used for adding emphasis to questions\n\nWho on earth did this?\n拿掉on earth的话就是普通的疑问句Who did this?\n\n类似的短语如下\nwhat/why/how/where etc on earth \n\n"
+         ]
+      },
+      "10" : {
+         "1" : [
+            "vanish=v 消失 disappear\n\n你可以这么记忆\nHe got into that van and vanished.\n\n我们一般说He vanished, 而不说He is vanished.\n\n-Where is he?\n-He vanished\n\n我们也可以说He's vanished, 这时候He's=He has"
+         ]
+      },
+      "12" : {
+         "3" : [
+            "Cantonese=广州话\n[,kæntə'ni:z]\nI speak Cantonese and mandarin.(我会讲广东话和普通话)\n\n你可以这样记忆:\nCanton=广州\nCanton fair=广交会\n-ese是语言的词缀, 比如Chinese, Japanese.\n"
+         ]
+      }
+   }
 }

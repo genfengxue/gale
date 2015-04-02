@@ -3,36 +3,74 @@ He was talking to Anne.
 <k></k>
 
 2
-At first I thought he was so mean.
-<k></k>
+`At first` I thought he was so mean.
+<k>at first=起初
+
+at first I thought it was hard.
+
+at first I didn't like English</k>
+
+2
+At first I thought he was so `mean`.
+<k>mean=adj 刻薄的, 不友好的</k>
 
 3
-A real snob,you know?
-<k></k>
+A real `snob`,you know?
+<k>snob
+someone who thinks they are better than other people, usually because of their social class. This word shows that you do not like people like this.</k>
 
 4
-He is not,though.
-<k></k>
+He is not,`though`.
+<k>though=表示转折, 放在句子结尾
+
+I am not good at math though
+
+I do enjoy speaking English though</k>
 
 5
-He said he barely got through school.
-<k></k>
+`He said` he barely got through school.
+<k>he said he did sth.
+他说他做了某事
+
+He said he went to Scotland to play golf.
+
+He said he was really bad at math</k>
 
 6
-He told me he did really badly at university.
-<k></k>
+`He told me` he did really badly at university.
+<k>he told me he did sth.
+他告诉我他做某事
+
+He told me he didn't go to college.
+
+He told me he was a virgo.</k>
 
 7
-Well,he learned to run a company somewhere.
-<k></k>
+Well,he learned to `run a company` somewhere.
+<k>run a company=运营一个公司
+
+run=v 运营
+
+run a business
+run a  meeting
+</k>
 
 8
-He makes a ton of money.
-<k></k>
+He makes `a ton of` money.
+<k>a ton of=一吨的, 很多的
+ton=吨
+
+He eats a ton of junk food every day
+</k>
 
 9
-That's the thing.
-<k></k>
+`That's the thing`.
+<k>That's the thing=那就是我们要说的, 那就是奇怪的地方
+
+注意本身没有奇怪二字, the就表示你想让它表示的任何意思.
+
+比如 The one with the hair, 不是说好头发, 坏头发, 而是就那个特别的头发.
+</k>
 
 10
 He said he was bad at maths.
@@ -47,8 +85,13 @@ Maths.
 <k></k>
 
 13
-You mean math?
-<k></k>
+`You mean math`?
+<k>这里就是个小文字游戏
+
+maths=数学 英式
+math=数学 美式
+
+女生调侃英国人说数学要说maths, 一定是指各种各样的math</k>
 
 14
 We say maths.
@@ -63,12 +106,15 @@ Because I mean the one basic math.
 <k></k>
 
 17
-Whatever.
-<k></k>
+`Whatever`.
+<k>whatever=随便, 无所谓.
+
+当你不想继续讨论这个了, 就可以说它</k>
 
 18
-But Wendy,listen to this.
-<k></k>
+But Wendy,`listen to this`.
+<k>listen to this=听这个
+这是个固定的用法</k>
 
 19
 He told me making money is easy.
@@ -87,14 +133,31 @@ One per cent?You mean a hundred per cent.
 <k></k>
 
 23
-Right.The man can't figure a percentage to save his life.
-<k></k>
+Right.The man `can't figure a percentage to save his life`.
+<k>can't do sth to save one's life
+SPOKEN
+to be very bad at doing something
+
+She couldn’t play the piano to save her life!
+
+可以理解为
+即使是为了救自己的生命也无法做某事, 可见真的是无法做某事</k>
 
 24
-Tell me about it.
-<k></k>
+`Tell me about it`.
+<k>tell me about it
+used for saying that you already know about something unpleasant that someone has just described because you have experienced it yourself
+
+‘I’m so overworked.’ ‘Tell me about it!’</k>
 
 25
-You should see the tip he left me!
-<k></k>
+`You should` see the tip he left me!
+<k>you should do=你应该做...
+
+-This passport has a lot of stamps on it.
+-You should see my old passport.</k>
+
+25
+You should see the `tip` he left me!
+<k>tip=n 小费</k>
 

@@ -1,3 +1,70 @@
 {
-   "39" : {}
+   "39" : {
+      "11" : {
+         "8" : [
+            "occasion=n 场合\noccasionally=n 在很少的场合下, 偶尔的"
+         ]
+      },
+      "9" : {
+         "9" : [
+            "transportation=n 交通\ntransport=v 运输"
+         ]
+      },
+      "17" : {
+         "3,4,5" : [
+            "Would you please do sth.\n请做某事\n\nWould you please help me find my stuff?"
+         ]
+      },
+      "20" : {
+         "7,8,9,10,11" : [
+            "这里如果说Why don't you use your northern charm固然也是可以, 不过我们为了强调对方有对方的southern charm, 我们有我们的northern charm, 我们会把northern charm放在前边, 会说成是\n\nuse that northern charm of yours.\n\n注意体会这一点\n"
+         ]
+      },
+      "15" : {
+         "2,3,4" : [
+            "need sb 100%+介词短语\n\nI need you 100% on this task.\n\n"
+         ]
+      },
+      "14" : {
+         "2,3,4,5" : [
+            "I don't think so=我觉得不行\n\n-I just want to take a day off tomorrow.\n-I don't think so."
+         ]
+      },
+      "8" : {
+         "1,2,3,4,5" : [
+            "what was that about=什么事\nwhat was that all about=那些全部都是什么事\n\nall, 加强了语气"
+         ]
+      },
+      "1" : {
+         "2,3,4" : [
+            "Would you mind doing sth\n你介意做某事吗\n\nWould you mind helping me with this?"
+         ]
+      },
+      "4" : {
+         "1,2,3,4" : [
+            "Thanks ever so much=非常感谢\never=有史以来的\n有史以来的最为感谢你的一次, 非常感谢"
+         ]
+      },
+      "18" : {
+         "3,4" : [
+            "这里的do that指代的是告诉她, 我没法帮助她了"
+         ]
+      },
+      "19" : {
+         "6,7,8" : [
+            "come up against something to have to deal with something difficult or unpleasant\nIn the first week, we came up against a pretty tricky problem."
+         ],
+         "10,11" : [
+            "southern=南方的\ncharm=魅力"
+         ],
+         "2,3,4,5" : [
+            "It won't be easy doing sth.\n做某事不会容易\n\nIt won't be easy learning how to drive a car."
+         ]
+      },
+      "10" : {
+         "1" : [
+            "Ah表示一种不满意的情绪\n\n-I have to take a day off tomorrow.\n-Ah. again?(又要请假)"
+         ]
+      }
+   }
 }

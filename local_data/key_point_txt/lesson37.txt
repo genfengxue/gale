@@ -1,74 +1,201 @@
 1
-This is just what I needed.
-<k></k>
+`This is just what I needed`.
+<k>This is just what I needed.
+注意前边是is, 现在时;
+后边是needed, 过去时.
+
+这种主句是现在时, 从句是过去时的情况是ok的
+
+I want someone who worked in a hotel before.</k>
 
 2
 It is a lovely park,isn't it?
 <k></k>
 
 3
-So tell me,Simon,how did you wind up here, a restaurant manager in Boston?
-<k></k>
+`So tell me`,Simon,how did you wind up here, a restaurant manager in Boston?
+<k>So tell me=那么告诉我
+
+学到一个新表达.
+
+So tell me, what do you like?
+
+So tell me, why didn't you go on the walking tour today?</k>
+
+3
+So tell me,Simon,how did you `wind up here`, a restaurant manager in Boston?
+<k>wind up=最终处于某种状态
+注意wind的发音是/wɑɪnd/
+
+你可以理解为被风吹, 吹到某个地方, 吹成某种状态.
+
+ to be in a particular place or situation not because you choose to, but because of other things that have happened
+
+He wound up as a restaurant manager.
+
+He wound up in America after graduation.
+
+wound是wind的过去式, 读作[wund] 
+
+注意wind up后边不接宾语, 而是接here, as... in...等副词或介词短语</k>
+
+3
+So tell me,Simon,how did you wind up here, `a restaurant manager` in Boston?
+<k>restaurant manager=酒店经理
+类似的我们可以说
+a bookstore manager.
+a school teacher.
+
+如果你说成了a restaurant's manager, 也是对的, 不过表达的意思略略不同.
+
+restaurant manager强调一种工作, 可以是任何一家酒店的管理.
+
+restaurant's manager强调职位, 是这家酒店的经理.</k>
 
 4
-Ah!Well,that's a bit of a puzzle to me,as well.
-<k></k>
+`Ah`!Well,that's a bit of a puzzle to me,as well.
+<k>Ah!
+used for showing that you see or understand something
+
+Have you seen Jackie? Ah, there she is.
+
+Ah yes, I remember now.</k>
+
+4
+Ah!Well,that's `a bit of a puzzle` to me,as well.
+<k>puzzle=n 迷
+
+a bit of=一点点, 后边修饰单数名词的话, 注意语序
+
+He's a bit of a jerk.
+That's a bit of a problem for us, as well.</k>
+
+4
+Ah!Well,that's a bit of a puzzle to me,`as well`.
+<k>as well=也
+
+I don't like vegetables as well.
+
+I hate walking as well</k>
 
 5
-Was your training in restaurants?
-<k></k>
+Was your `training` in restaurants?
+<k>这里的training其实特指大学或学校所接受的training</k>
 
 6
-Oh no!After primary and secondary schools I went to university.
-<k></k>
+Oh no!After `primary and secondary schools` I went to university.
+<k>primary school=小学, 英式说法
+secondary school=初中+高中, 英式说法
+
+elementary school=小学, 美式说法
+junior high school=初中, 美式说法
+high school=高中 美式说法</k>
 
 7
 Manchester.Modern languages.
 <k></k>
 
 8
-That's a lot of tests.
-<k></k>
+`That's a lot of tests`.
+<k>that's a lot of tests.
+你注意到了吗, 前边是that is, 后边是tests
+怎么单复数不一致了呢?
+
+这就和我们说的Computers are a mystery是一个道理.
+
+主谓一致, 讲究主语和谓语一致, 不需要和宾语一致.
+
+这里不能说成是Those are a lot of tests. There are a lot of tests.
+
+这里的that指的是Modern languages这个学科</k>
 
 9
 Oh yes,I passed all kinds of exams.
 <k></k>
 
 10
-I was never any good at taking tests.
-<k></k>
+`I was never any good at` taking tests.
+<k>I was never any good at...
+我从未擅长过...
+
+I was never any good at telling lies.
+
+I was never any good at making money </k>
 
 11
-I barely got through elementary school.
-<k></k>
+`I barely` got through elementary school.
+<k>I bare did...
+我很勉强地做了...
+
+I barely got the job (得到工作).
+I barely got the job done(完成工作).
+</k>
+
+11
+I barely `got through` elementary school.
+<k>get through sth=通过, 完成
+through这个介词就有通过, 穿过的意思.
+
+I got through high school and learned nothing.
+
+I got through a lot of tests and finally landed this job(land=得到)</k>
 
 12
 High school was worse.
 <k></k>
 
 13
-And it was years before I went to college.
-<k></k>
+And `it was years before` I went to college.
+<k>It was years before I did sth.
+在...之前已经是很多年了
+
+It was years before I realized he was right.
+</k>
 
 14
-And I didn't do very well there either,I'm afraid.
-<k></k>
+And I didn't do very well there either,`I'm afraid`.
+<k>I'm afraid=我恐怕
+放在句子结尾, 用逗号隔开
+
+You won't make it, I'm afraid.
+
+You'll lose, I'm afraid.
+
+类似的结构
+I hope
+I guess
+I think.</k>
 
 15
 Oh,I did well,but there was something missing.
 <k></k>
 
 16
-At the end of the day,I wanted experience that was...
-<k></k>
+`At the end of the day`,I wanted experience that was...
+<k>at the end of the day=在一天结束时
+这里是虚指, 并不是指某一天结束时, 而是指当任意一天结束时.
+
+I used to work as a product manager. at the end of the day, I didn't feel happy 'cause that wasn't my passion.
+
+</k>
 
 17
-Hands-on.
-<k></k>
+`Hands-on`.
+<k>hands-on=adj 实践的  不要说成hand-on.
+
+hands-on experience or training involves you doing something rather than just reading about it or watching other people do it
+
+This class will be very hands-on.(你们需要实践很多)</k>
 
 18
-Exactly.
-<k></k>
+`Exactly`.
+<k>exactly=一点不错
+
+-Who wants to cover so much ground on foot for vocation?
+-exactly!
+
+-Who would have time for 3 meetings in one morning
+-Exactly!</k>
 
 19
 Find out the way it works in the real world.
@@ -79,8 +206,13 @@ Yes.
 <k></k>
 
 21
-So you got a job!
-<k></k>
+`So you` got a job!
+<k>So you did sth...
+注意是did, 不是do
+
+So you went back to school?
+
+So you told him how you felt?</k>
 
 22
 NO.I went back to business school for management studies.
