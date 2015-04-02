@@ -19,6 +19,8 @@ fs.readdir dataPath, (err, files) ->
     needToProcess = files
 
   for file in needToProcess
+#    console.log file
     datas = SentenceUtils.importKeyPoints file
 
 # coffee scripts/load_key_point_json_to_db.coffee
+# coffee scripts/load_key_point_json_to_db.coffee 41,42,43,44,45,46,47,48,49,50 #2015-04-02

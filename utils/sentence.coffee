@@ -13,7 +13,7 @@ class SentenceUtils
 
     Q.all promises
     .then () ->
-      logger.info "load success: #{file}"
+      logger.warn "load success: #{file}"
 
   importOneSentence: (lessonNo, sentenceNo, keyPointMap) ->
     promises = for key, texts of keyPointMap
