@@ -1,10 +1,19 @@
 5
 Jarmusch `gave me the afternoon off`.
-<k>gave sb. the afternoon off给某人放一下午的假My boss gave me the morning off.My boss gave me the day off.</k>
+<k>gave sb. the afternoon off
+给某人放一下午的假
+
+My boss gave me the morning off.
+My boss gave me the day off.</k>
 
 9
 Jarmusch has changed everything.Now it's classic `cuisine`.
-<k>cuisine[kwɪ'zin]精致的美食Chinese cuisine vs Chinese food前者指精致的中式美食, 后者就是泛指中国的食物</k>
+<k>cuisine
+[kwɪ'zin]
+精致的美食
+
+Chinese cuisine vs Chinese food
+前者指精致的中式美食, 后者就是泛指中国的食物</k>
 
 17
 Jarmusch was showing it to Simon and `Nino` when they left.
@@ -12,17 +21,33 @@ Jarmusch was showing it to Simon and `Nino` when they left.
 
 19
 Everyone has `their two cents` to put in.
-<k>one's two cents某人的两分钱当我们谦虚的我们自己的观点只是粗浅的观点, 只值两分钱的时候就可以用这个表达.That's just my two cents.Would you like to hear my two cents?</k>
+<k>one's two cents
+某人的两分钱
+当我们谦虚的我们自己的观点只是粗浅的观点, 只值两分钱的时候就可以用这个表达.
+
+That's just my two cents.
+Would you like to hear my two cents?</k>
 
 19
 Everyone has their two cents `to put in`.
-<k>have sth to do.有某事要去做I have a lot to tell youI have so much work to do</k>
+<k>have sth to do.
+有某事要去做
+
+I have a lot to tell you
+I have so much work to do</k>
 
 21
 Another `cook`!
-<k>cook=n 厨师cook=v 做饭cooker=n 厨具</k>
+<k>cook=n 厨师
+cook=v 做饭
+cooker=n 厨具</k>
 
 24
 Thanks,but `the last thing I want to do is` look at a menu.
-<k>the last thing I want to do is+v我想做的最后一件事是XX我最不想做的就是XXthe last thing I want to do is have another meeting.the last thing I want to do is go on a walking tour</k>
+<k>the last thing I want to do is+v
+我想做的最后一件事是XX
+我最不想做的就是XX
+
+the last thing I want to do is have another meeting.
+the last thing I want to do is go on a walking tour</k>
 

@@ -1,68 +1,137 @@
 2
 `How big do you want them`?
-<k>How big do you want them?你想要他们多大.如果你觉得读着不顺, 那么改为陈述句.I want them (to be) 12 inches by 18 inches.</k>
+<k>How big do you want them?
+你想要他们多大.
+
+如果你觉得读着不顺, 那么改为陈述句.
+I want them (to be) 12 inches by 18 inches.</k>
 
 5
 And not this thin material.It doesn't `last`.
-<k>last=v 持续Nothing ever lasts forever.This won't last long.</k>
+<k>last=v 持续
+
+Nothing ever lasts forever.
+This won't last long.</k>
 
 8
 And just `plain white`.No fancy designs.
-<k>plain+adjplain本意是平原, 理解为平平的, 平淡的, 不花哨的A plain design. A plain women(长得平淡的)</k>
+<k>plain+adj
+plain本意是平原, 理解为平平的, 平淡的, 不花哨的
+
+A plain design. 
+A plain women(长得平淡的)</k>
 
 10
 And `finished edges`.
-<k>finished edges已经完成的边, 即锁好的边</k>
+<k>finished edges
+已经完成的边, 即锁好的边</k>
 
 12
 Yes.I want `a shipment of` guest towels.
-<k>a shipment of...一批shipment, 用船运一批货物A shipment of cellphones.A shipment of modems. </k>
+<k>a shipment of...
+一批
+shipment, 用船运一批货物
+
+A shipment of cellphones.
+A shipment of modems. </k>
 
 12
 Yes.I want a shipment of `guest towels`.
-<k>guest towel['taʊəl]注意towel的发音, 不要和tower混淆guest+n给guest用的XXa guest roomguest account(电脑上的给游客登录的账户)</k>
+<k>guest towel
+['taʊəl]
+注意towel的发音, 不要和tower混淆
+
+guest+n
+给guest用的XX
+
+a guest room
+guest account(电脑上的给游客登录的账户)</k>
 
 16
 `In`"Warm Cream".With the hotel monogram.
-<k>in+颜色我们表示颜色的时候可以用in这个介词I want my towels in plain white.Do you have this hat in blue?</k>
+<k>in+颜色
+我们表示颜色的时候可以用in这个介词
+
+I want my towels in plain white.
+Do you have this hat in blue?</k>
 
 16
 In`"Warm Cream"`.With the hotel monogram.
-<k>warm creamwarm指暖一点的色调, 相应的cold表示冷一点的色调cream是指[UNCOUNTABLE] a yellowish-white colourNula英语还是挺牛叉的, 我觉得.</k>
+<k>warm cream
+warm指暖一点的色调, 相应的cold表示冷一点的色调
+cream是指[UNCOUNTABLE] a yellowish-white colour
+
+Nula英语还是挺牛叉的, 我觉得.</k>
 
 16
 In"Warm Cream".With the hotel `monogram`.
-<k>monogram['mɑnəɡræm]n. 交织文字；将姓名的首字母组成的组合图案</k>
+<k>monogram
+['mɑnəɡræm]
+n. 交织文字；将姓名的首字母组成的组合图案</k>
 
 17
 `If you wish`.
-<k>If you wish如果你想要的话类似if you like, 不过wish更显出对于对方的尊敬. 你看只要你wish一下(许个心愿), 我就帮你实现.We'll send you a shipment of plain white guest towels if you wish.We'll deliver the laundry to your room if you wish.</k>
+<k>If you wish
+如果你想要的话
+类似if you like, 不过wish更显出对于对方的尊敬. 你看只要你wish一下(许个心愿), 我就帮你实现.
+
+We'll send you a shipment of plain white guest towels if you wish.
+
+We'll deliver the laundry to your room if you wish.</k>
 
 18
 `I do wish`.
-<k>I do+v这里do表示强调I do want to buy some antiqueI do want to go to Czech Republic</k>
+<k>I do+v
+这里do表示强调
+
+I do want to buy some antique
+I do want to go to Czech Republic</k>
 
 19
 We have `a new line of` terrycloth robes.
-<k>a new line of一条新的产品线因为工厂里流水线上做出来的东西, 所以称为linea new line of mobile phones.a new line of hats</k>
+<k>a new line of
+一条新的产品线
+因为工厂里流水线上做出来的东西, 所以称为line
+
+a new line of mobile phones.
+a new line of hats</k>
 
 19
 We have a new line of `terrycloth robes`.
-<k>['tɛrɪklɔθ]n. 毛圈织物一种材料吧. 我也不认识.</k>
+<k>['tɛrɪklɔθ]
+n. 毛圈织物
+一种材料吧. 我也不认识.</k>
 
 25
 `Always a pleasure doing` business with you,NuLa.
-<k>a pleasure doing sth.做XX很愉快A pleasure talking to you.A pleasure meeting you.</k>
+<k>a pleasure doing sth.
+做XX很愉快
+
+A pleasure talking to you.
+A pleasure meeting you.</k>
 
 26
 `Likewise`,Vinny.
-<k>likewise我的感受也是相同的-I look forward to our next meeting-Likewise-Have a good weekend.-Likewise.</k>
+<k>likewise
+我的感受也是相同的
+
+-I look forward to our next meeting
+-Likewise
+
+-Have a good weekend.
+-Likewise.</k>
 
 29
 `So long`!
-<k>So long再见</k>
+<k>So long
+再见</k>
 
 31
 `You always get the last word`.
-<k>You always get the last word你总是得到最后一句话就好像我们开会, 总是老板最后总结一番, 作为last word既然你总是get the last word, 就说明你总是能在一次交谈, 讨论, 谈判等中最后加以总结, 说明你比较权威, 有影响力, 说话有分量.这个句子不好驾驭, 我们先努力理解它先</k>
+<k>You always get the last word
+你总是得到最后一句话
+就好像我们开会, 总是老板最后总结一番, 作为last word
+既然你总是get the last word, 就说明你总是能在一次交谈, 讨论, 谈判等中最后加以总结, 说明你比较权威, 有影响力, 说话有分量.
+
+这个句子不好驾驭, 我们先努力理解它先</k>
 
