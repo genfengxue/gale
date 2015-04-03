@@ -5,7 +5,7 @@ Can you turn it on? Fine.
 
 2
 00:00:22,458 --> 00:00:24,624
-First you turn the computer on.Like this.
+First you turn the computer on. Like this.
 首先你要打开电脑. 像这样.
 
 3
@@ -20,7 +20,7 @@ Then you turn on the printer.
 
 5
 00:00:37,467 --> 00:00:40,361
-So far,so good. Now,what?
+So far, so good. Now, what?
 到目前为止, 一切顺利. 现在,干什么?
 
 6
@@ -45,7 +45,7 @@ OK. 所以我点这儿来...
 
 10
 00:01:00,640 --> 00:01:02,018
-What happened? I lost it.It's gone.
+What happened? I lost it. It's gone.
 发生了什么? 我把它弄丢了. 不见了. 
 
 11
@@ -80,12 +80,12 @@ OK.
 
 17
 00:01:14,564 --> 00:01:16,346
-Go on.Hit those two keys.
+Go on. Hit those two keys.
 继续. 敲这两个键.
 
 18
 00:01:17,532 --> 00:01:22,605
-OK.I type the correct command,and...hey!
+OK. I type the correct command, and... hey!
 OK. 我敲入正确的指令, 然后...hey!
 
 19
@@ -100,7 +100,7 @@ Great.
 
 21
 00:01:26,591 --> 00:01:27,890
-That wasn't so hard,was it?
+That wasn't so hard, was it?
 并不太难, 对吗?
 
 22
@@ -115,6 +115,6 @@ Now just start at the beginning,
 
 24
 00:01:36,797 --> 00:01:40,954
-and work your way to the end.Good luck!
+and work your way to the end. Good luck!
 学完它. 祝你好运!
 

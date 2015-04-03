@@ -1,6 +1,6 @@
 1
 00:00:06,156 --> 00:00:08,160
-George!What are you doing?
+George! What are you doing?
 George! 你在干什么?
 
 2
@@ -15,7 +15,7 @@ Don't you hear the alarm?
 
 4
 00:00:10,985 --> 00:00:12,199
-Yes.It's horrible.
+Yes. It's horrible.
 Yes. 烦死人了.
 
 5
@@ -35,7 +35,7 @@ It's just a drill.
 
 8
 00:00:16,470 --> 00:00:18,375
-George,it is an emergency drill.
+George, it is an emergency drill.
 George, 这是应急演习.
 
 9
@@ -60,7 +60,7 @@ Read the instructions.
 
 13
 00:00:25,759 --> 00:00:29,752
-If you discover a fire,call 911.
+If you discover a fire, call 911.
 如果你发现着火, 拨打911.
 
 14
@@ -75,17 +75,17 @@ Give the address. Boston Sheraton Hotel,
 
 16
 00:00:35,615 --> 00:00:36,927
-They discovered the fire,NuLa.
+They discovered the fire, NuLa.
 他们发现火情了, NuLa.
 
 17
 00:00:36,928 --> 00:00:39,410
-The alarm's already on.What else?
+The alarm's already on. What else?
 警报已经拉响了. 还有什么?
 
 18
 00:00:39,411 --> 00:00:42,535
-Don't panic!Shut any open windows.
+Don't panic! Shut any open windows.
 不要惊慌! 关上任何打开的窗子.
 
 19

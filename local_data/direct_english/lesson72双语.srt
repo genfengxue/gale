@@ -1,6 +1,6 @@
 1
 00:00:10,300 --> 00:00:13,593
-Hey,Carl.Here's a postcard from Nina.
+Hey, Carl. Here's a postcard from Nina.
 Hey,Carl. 这是一张明信片 来自于Nina.
 
 2
@@ -15,12 +15,12 @@ I saw Nina here two minutes ago.
 
 4
 00:00:17,328 --> 00:00:18,969
-Oh,they've been back for days.
+Oh, they've been back for days.
 Oh, 她们已经回来好几天了.
 
 5
 00:00:19,226 --> 00:00:22,837
-She writes,"I miss my baby,but I'm glad I'm here."
+She writes,"I miss my baby, but I'm glad I'm here."
 她写道, "我想念我的孩子, 但是我很高兴我在这里."
 
 6
@@ -35,7 +35,7 @@ She says they've just arrived.
 
 8
 00:00:26,410 --> 00:00:28,884
-Boy,this took a long time to get here.
+Boy, this took a long time to get here.
 Boy,这个花了很长时间才寄到.
 
 9
@@ -50,7 +50,7 @@ I've never been.
 
 11
 00:00:33,611 --> 00:00:35,653
-Me,neither.She makes it sound great.
+Me, neither. She makes it sound great.
 我也没有. 她让那里听起来很棒.
 
 12
@@ -65,7 +65,7 @@ And she was going to do a lot more walking when she got back.
 
 14
 00:00:41,546 --> 00:00:45,147
-Let's see.It's a funny thing about travel.
+Let's see. It's a funny thing about travel.
 咱们看看, 它是件奇怪的事情 关于旅行.
 
 15
@@ -75,7 +75,7 @@ What?
 
 16
 00:00:46,401 --> 00:00:48,858
-People go all that way,to a completely new place.
+People go all that way, to a completely new place.
 人们走那么远, 到一个完全陌生的地方.
 
 17
@@ -105,6 +105,6 @@ Travel's a funny thing.
 
 22
 00:01:00,772 --> 00:01:02,145
-Have a good trip,sir.
+Have a good trip, sir.
 祝你旅途愉快, 先生.
 

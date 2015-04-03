@@ -30,7 +30,7 @@ Make sure you have the correct visa,
 
 7
 00:01:18,570 --> 00:01:20,885
-if needed,before you arrive.
+if needed, before you arrive.
 如果需要的话, 在你到达前.
 
 8
@@ -70,7 +70,7 @@ go through the red exit.
 
 15
 00:02:12,652 --> 00:02:16,514
-If not,go through the green exit.
+If not, go through the green exit.
 如果没有, 通过绿色通道.
 
 16

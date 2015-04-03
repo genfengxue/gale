@@ -1,6 +1,6 @@
 1
 00:00:06,260 --> 00:00:09,175
-5...4...3...
+5... 4... 3...
 5...4...3...
 
 2
@@ -15,12 +15,12 @@ They've been talking to our governor.
 
 4
 00:00:17,270 --> 00:00:19,494
-How are the talks going,Mr.Chang?
+How are the talks going, Mr. Chang?
 会谈进展怎么样, Mr.Chang?
 
 5
 00:00:19,495 --> 00:00:21,374
-Very,very well.
+Very, very well.
 非常非常好.
 
 6
@@ -50,12 +50,12 @@ For instance?
 
 11
 00:00:33,928 --> 00:00:35,900
-Inflation,of course.
+Inflation, of course.
 通货膨胀, 当然.
 
 12
 00:00:35,901 --> 00:00:39,343
-Here,compared with inflation in our country.
+Here, compared with inflation in our country.
 这里, 和我们国家的通货膨胀相比.
 
 13
@@ -80,12 +80,12 @@ Will there be a trade agreement?
 
 17
 00:00:50,986 --> 00:00:54,588
-Oh yes.We are making progress all the time.
+Oh yes. We are making progress all the time.
 Oh yes. 我们一直在取得进展.
 
 18
 00:00:54,835 --> 00:00:57,107
-Thank you for speaking with us,Mr.Chang.
+Thank you for speaking with us, Mr. Chang.
 谢谢你和我们谈话, Mr.Chang.
 
 19
@@ -95,7 +95,7 @@ My pleasure.
 
 20
 00:00:58,285 --> 00:01:01,177
-Sun Yu Chang,ending on a positive note.
+Sun Yu Chang, ending on a positive note.
 Sun Yu Chang, 结束在一个积极的音符上.
 
 21
@@ -110,12 +110,12 @@ for the Business Network.
 
 23
 00:01:07,712 --> 00:01:09,501
-OK.We're all set.
+OK. We're all set.
 OK. 我们完成了.
 
 24
 00:01:09,792 --> 00:01:11,080
-Thank you ,Mr.Chang.
+Thank you , Mr. Chang.
 谢谢你, Mr.Chang.
 
 

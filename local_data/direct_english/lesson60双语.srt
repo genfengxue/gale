@@ -1,11 +1,11 @@
 1
 00:00:11,609 --> 00:00:13,912
-This is it.It's four rooms and a bath.
+This is it. It's four rooms and a bath.
 就是这里. 有四个房间和一个卫生间.
 
 2
 00:00:14,767 --> 00:00:16,447
-This entrance hall is small,but look,
+This entrance hall is small, but look,
 这个门厅很小, 不过 你看,
 
 3
@@ -15,7 +15,7 @@ it leads to a nice big living room.
 
 4
 00:00:19,756 --> 00:00:22,986
-This side faces south.It gets a lot of light.
+This side faces south. It gets a lot of light.
 这一面朝南. 有充足的阳光.
 
 5
@@ -25,7 +25,7 @@ This is the dining room.
 
 6
 00:00:34,512 --> 00:00:36,257
-The woodwork's just lovely,isn't it?
+The woodwork's just lovely, isn't it?
 木头家具很漂亮, 不是吗?
 
 7

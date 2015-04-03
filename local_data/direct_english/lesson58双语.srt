@@ -30,7 +30,7 @@ Take the exit by Walgreens.
 
 7
 00:00:45,625 --> 00:00:49,599
-There are signs for Melrose and Stoneham.OK.
+There are signs for Melrose and Stoneham. OK.
 那儿有写着 Melrose and Stoneham. OK.
 
 8
@@ -50,7 +50,7 @@ Take the next right.
 
 11
 00:01:02,577 --> 00:01:08,183
-That's south on 1.back towards Boston.
+That's south on 1. back towards Boston.
 沿1号公路往南. 朝波士顿往回开.
 
 12
@@ -65,7 +65,7 @@ Ok great.
 
 14
 00:01:14,929 --> 00:01:16,863
-I'll see you there.Bye. 
+I'll see you there. Bye. 
 我会在那儿见你的. Bye.
 
 15
@@ -75,7 +75,7 @@ I'll see you there.Bye.
 
 16
 00:01:39,842 --> 00:01:48,865
-Route 1 North.Over the Tobin Bridge.
+Route 1 North. Over the Tobin Bridge.
 1号公路往北. 过托比(Tobin)桥
 
 17
@@ -85,7 +85,7 @@ oh 我喜欢这首歌.
 
 18
 00:02:29,017 --> 00:02:31,881
-Entering Saugus...so far,so good.
+Entering Saugus... so far, so good.
 正在进入Saugus...到目前为止, 一切顺利.
 
 19

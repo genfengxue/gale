@@ -5,7 +5,7 @@ Can I help you?
 
 2
 00:00:09,843 --> 00:00:12,763
-Yes.I'm looking for something for my wife,please.
+Yes. I'm looking for something for my wife, please.
 Yes. 我正在寻找点东西给我的妻子, please.
 
 3
@@ -20,17 +20,17 @@ I'm looking for a picture frame,
 
 5
 00:00:17,126 --> 00:00:20,505
-a very simple one.Nothing fancy.
+a very simple one. Nothing fancy.
 一个很简单那种. 不要花哨的.
 
 6
 00:00:20,506 --> 00:00:23,919
--In wood?Or silver?  -Silver.
+-In wood? Or silver?  -Silver.
 -木制的?还是银的?   -银的.
 
 7
 00:00:23,920 --> 00:00:25,781
-Fine.Let me take a look.
+Fine. Let me take a look.
 好. 让我看一看.
 
 8
@@ -60,7 +60,7 @@ So she can set it up on a table
 
 13
 00:01:31,473 --> 00:01:36,611
-Ah,very nice.Very nice.
+Ah, very nice. Very nice.
 Ah, 太好了. 真是太好了.
 
 14

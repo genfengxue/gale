@@ -1,6 +1,6 @@
 1
 00:00:06,826 --> 00:00:08,048
-Hello,Didi?
+Hello, Didi?
 你好, Didi?
 
 2
@@ -25,7 +25,7 @@ Great.
 
 6
 00:00:31,960 --> 00:00:34,073
-So,let me get this straight.
+So, let me get this straight.
 So, 让我直说吧.
 
 7
@@ -35,7 +35,7 @@ He doesn't want his regular suite at the hotel.
 
 8
 00:00:36,404 --> 00:00:38,898
-Right.It's too small for him this time.
+Right. It's too small for him this time.
 Right. 这次他嫌太小了.
 
 9
@@ -45,12 +45,12 @@ He wants to rent a house.
 
 10
 00:00:40,744 --> 00:00:44,037
-Yes.He wants a house with a garden.
+Yes. He wants a house with a garden.
 Yes. 他想要一个房子  带花园的.
 
 11
 00:00:44,038 --> 00:00:46,142
-With a garden.Why?
+With a garden. Why?
 带花园的, 为什么?
 
 12
@@ -60,7 +60,7 @@ And he wants a large kitchen,
 
 13
 00:00:52,460 --> 00:00:55,014
-living room,and dining room.
+living room, and dining room.
 起居室, 和餐厅.
 
 14
@@ -80,7 +80,7 @@ It must be near transportation,
 
 17
 00:01:05,392 --> 00:01:08,090
-shopping,and the river.
+shopping, and the river.
 购物, 和河.
 
 18
@@ -105,17 +105,17 @@ Nine bedrooms?
 
 22
 00:01:17,722 --> 00:01:20,649
-Who is this client,the Vienna Boy's Choir?
+Who is this client, the Vienna Boy's Choir?
 这个客人是谁, 维也纳少年合唱团(Vienna Boy's Choir)?
 
 23
 00:01:20,650 --> 00:01:23,633
-Maybe.He wants it for a song.
+Maybe. He wants it for a song.
 或许吧. 他说不要太贵.
 
 24
 00:01:24,568 --> 00:01:27,926
-Well,there is something in Boston that fits his needs.
+Well, there is something in Boston that fits his needs.
 Well, 在波士顿有个地方符合他的需求。
 
 25
@@ -125,7 +125,7 @@ Great.
 
 26
 00:01:28,951 --> 00:01:31,671
-Unfortunately,the mayor lives there.
+Unfortunately, the mayor lives there.
 不幸的是, 市长住在那儿.
 
 27

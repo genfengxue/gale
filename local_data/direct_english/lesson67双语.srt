@@ -5,7 +5,7 @@ Hello?
   
 2
 00:00:08,619 --> 00:00:10,477
-Dean,are you ready?
+Dean, are you ready?
 Dean, 你准备好了吗?
   
 3
@@ -15,7 +15,7 @@ I'll be right down.
   
 4
 00:00:12,202 --> 00:00:14,818
-Don't worry.We have plenty of time.
+Don't worry. We have plenty of time.
 不用担心. 我们有足够的时间.
   
 5
@@ -40,12 +40,12 @@ Do you mean the 1:25?
   
 9
 00:00:44,945 --> 00:00:46,357
-Yeah,that's it.
+Yeah, that's it.
 Yeah, 就是这个.
   
 10
 00:00:46,891 --> 00:00:50,052
-Kevin,that's a local.See?
+Kevin, that's a local. See?
 Kevin, 那是趟慢车. 看?
   
 11
@@ -65,7 +65,7 @@ It arrives in New York at 7:39 tonight!
   
 14
 00:00:57,436 --> 00:00:59,158
-Well,we don't want that.
+Well, we don't want that.
 Well, 我们不想要那个.
   
 15
@@ -75,7 +75,7 @@ Is there an express?
   
 16
 00:01:03,260 --> 00:01:05,131
-I see.They're in red.
+I see. They're in red.
 我看到了. 它们是红色的.
   
 17
@@ -100,7 +100,7 @@ The 1:10?
   
 21
 00:01:53,799 --> 00:01:57,021
-It's got a symbol beside it.A square.
+It's got a symbol beside it. A square.
 它有一个标记在它旁边. 一个正方形.
   
 22

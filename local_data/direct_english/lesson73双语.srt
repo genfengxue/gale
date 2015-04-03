@@ -1,11 +1,11 @@
 1
 00:00:18,095 --> 00:00:20,531
-Baseball.Tennis.
+Baseball. Tennis.
 棒球. 网球.
 
 2
 00:00:21,319 --> 00:00:24,743
--Look at that.Football.     -Yeah.
+-Look at that. Football.     -Yeah.
 -看那个. 橄榄球.      -Yeah.
 
 3
@@ -15,7 +15,7 @@ American football.
 
 4
 00:00:28,249 --> 00:00:30,469
-I couldn't agree with you more,Kevin.
+I couldn't agree with you more, Kevin.
 我完全同意你, Kevin.
 
 5
@@ -40,12 +40,12 @@ You don't see padding in rugby.
 
 9
 00:00:40,447 --> 00:00:45,696
-Now take baseball: a game of skill,finesse,strategy.
+Now take baseball: a game of skill, finesse, strategy.
 Now 比如说棒球吧: 一项技巧,灵巧性,战略的运动.
 
 10
 00:00:45,697 --> 00:00:47,773
-I don't agree with you there,Dean.
+I don't agree with you there, Dean.
 在那点上我就不同意你了, Dean.
 
 11
@@ -85,7 +85,7 @@ Now 那个是很无聊.
 
 18
 00:01:04,186 --> 00:01:06,126
-I say,let them use their hands.
+I say, let them use their hands.
 我说, 让他们用他们的双手吧.
 
 19
@@ -95,7 +95,7 @@ You're both very unreasonable.
 
 20
 00:01:08,533 --> 00:01:13,411
-Kev,name one sport more boring than soccer.
+Kev, name one sport more boring than soccer.
 Kev, 说出一个运动的名字 比足球还无聊的.
 
 21
