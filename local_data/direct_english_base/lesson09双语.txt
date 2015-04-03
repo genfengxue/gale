@@ -3,15 +3,15 @@ What are you doing?
 <k></k>
 
 2
-Just taking your bags,sir.
+Just taking your bags, sir.
 <k></k>
 
 3
-Ah...So,Mr.Yamamoto?
+Ah... So, Mr. Yamamoto?
 <k></k>
 
 4
-Yes,yes.
+Yes, yes.
 <k></k>
 
 5
@@ -27,7 +27,7 @@ The airport?
 <k></k>
 
 8
-Well,no. The trolley's going outside to the shuttle bus.
+Well, no. The trolley's going outside to the shuttle bus.
 <k></k>
 
 9
@@ -63,7 +63,7 @@ Carl! Carl!
 <k></k>
 
 17
-The bags go to Mr.Yamamoto's room!
+The bags go to Mr. Yamamoto's room!
 <k></k>
 
 18
@@ -95,7 +95,7 @@ What's happening now?
 <k></k>
 
 25
-Mr.Yamamoto's bags are on their way to the airport..
+Mr. Yamamoto's bags are on their way to the airport..
 <k></k>
 
 26

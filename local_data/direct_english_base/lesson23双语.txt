@@ -1,5 +1,5 @@
 1
-Hey George.What are you doing?
+Hey George. What are you doing?
 <k></k>
 
 2
@@ -11,7 +11,7 @@ Making airline reservations for a guest.
 <k></k>
 
 4
-Well.Just do it on the computer.
+Well. Just do it on the computer.
 <k></k>
 
 5
@@ -23,7 +23,7 @@ Come here.
 <k></k>
 
 7
-OK.We're booking a flight to where?
+OK. We're booking a flight to where?
 <k></k>
 
 8
@@ -35,7 +35,7 @@ When?
 <k></k>
 
 10
-Tuesday,September 14th.
+Tuesday, September 14th.
 <k></k>
 
 11
@@ -47,7 +47,7 @@ What time?
 <k></k>
 
 13
-6 p.m.
+6 p. m.
 <k></k>
 
 14
@@ -55,7 +55,7 @@ How long will it take?
 <k></k>
 
 15
-About 7 hours. It arrives at 6:55 a.m.
+About 7 hours. It arrives at 6:55 a. m.
 <k></k>
 
 16
@@ -63,7 +63,7 @@ That's good.
 <k></k>
 
 17
-OK.For how many?
+OK. For how many?
 <k></k>
 
 18
@@ -75,7 +75,7 @@ How long are they staying?
 <k></k>
 
 20
-Ah.From the 14th untill the 28th.
+Ah. From the 14th untill the 28th.
 <k></k>
 
 21

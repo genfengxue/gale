@@ -1,13 +1,13 @@
 1
-Thank you,Wendy.
+Thank you, Wendy.
 <k></k>
 
 2
-Yes,we've had a very good year.
+Yes, we've had a very good year.
 <k></k>
 
 3
-We've managed to control our costs,as you can see.
+We've managed to control our costs, as you can see.
 <k></k>
 
 4
@@ -15,7 +15,7 @@ They're actually down 7%.
 <k></k>
 
 5
-Not bad.But of course you're expected to do that.
+Not bad. But of course you're expected to do that.
 <k></k>
 
 6
@@ -35,15 +35,15 @@ Not bad.
 <k></k>
 
 10
-With the industry in its current state,I venture to say it's quite good.
+With the industry in its current state, I venture to say it's quite good.
 <k></k>
 
 11
-Here's your water,sir.
+Here's your water, sir.
 <k></k>
 
 12
-I'm not interestecd in the standard report,Anne.
+I'm not interestecd in the standard report, Anne.
 <k></k>
 
 13
@@ -59,11 +59,11 @@ Is there anything else I can answer for you then?
 <k></k>
 
 16
-I've heard about the programs,Anne.
+I've heard about the programs, Anne.
 <k></k>
 
 17
-Employee groups,the marketing.
+Employee groups, the marketing.
 <k></k>
 
 18
@@ -75,7 +75,7 @@ I see.
 <k></k>
 
 20
-We have many other hotels,you know.
+We have many other hotels, you know.
 <k></k>
 
 21

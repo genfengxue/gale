@@ -1,0 +1,116 @@
+1
+Carl's giving me a hard time.
+<k></k>
+
+2
+Why?
+<k></k>
+
+3
+He says I should be in better shape.
+<k></k>
+
+4
+What is he talking about?You look fine.
+<k></k>
+
+5
+Carl says he works out three times a week.
+<k></k>
+
+6
+He goes to a gym.
+<k></k>
+
+7
+So what?
+<k></k>
+
+8
+He says he does it for work.
+<k></k>
+
+9
+So he can lift the bags.
+<k></k>
+
+10
+Well,that's fine for him.
+<k></k>
+
+11
+That's not all.
+<k></k>
+
+12
+He says he quit smoking.
+<k></k>
+
+13
+Ah,except for the occasional cigarette he sneaks.
+<k></k>
+
+14
+He does?How do you know?
+<k></k>
+
+15
+I sneak with him.Occasionally.
+<k></k>
+
+16
+He told me he eats healthy,
+<k></k>
+
+17
+balanced meals.
+<k></k>
+
+18
+What?
+<k></k>
+
+19
+Carl"Make-That-A-Large-Pepperoni-Pizza"?
+<k></k>
+
+20
+"Apple-Pie-and-Ice-Cream"Carl?
+<k></k>
+
+21
+Peter.
+<k></k>
+
+22
+Carl never met a French fry he didn't like.
+<k></k>
+
+23
+But he said...
+<k></k>
+
+24
+Hi Carl!
+<k></k>
+
+25
+What have you got there?
+<k></k>
+
+26
+Hi.just a little lunch.
+<k></k>
+
+27
+Low fat yogurt.Tuna salad.
+<k></k>
+
+28
+Chocolate cake.
+<k></k>
+
+29
+Hey,a guy's got to eat.
+<k></k>
+

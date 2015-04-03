@@ -1,5 +1,5 @@
 1
-Paulo!No walking tour today?
+Paulo! No walking tour today?
 <k></k>
 
 2
@@ -11,7 +11,7 @@ Won't Didi miss you?
 <k></k>
 
 4
-Sh.Let them go.
+Sh. Let them go.
 <k></k>
 
 5
@@ -23,7 +23,7 @@ I've seen the sights.
 <k></k>
 
 7
-The gardens,the monuments,the famous halls.
+The gardens, the monuments, the famous halls.
 <k></k>
 
 8
@@ -43,23 +43,23 @@ The woman never stops moving.
 <k></k>
 
 12
-Today,it's museums.Tomorrow,famous libraries.
+Today, it's museums. Tomorrow, famous libraries.
 <k></k>
 
 13
-The next day,I don't know,statues maybe.
+The next day, I don't know, statues maybe.
 <k></k>
 
 14
-I hate walking!Do you know what I like,Kevin?
+I hate walking! Do you know what I like, Kevin?
 <k></k>
 
 15
-Beaches.I like the beach.
+Beaches. I like the beach.
 <k></k>
 
 16
-For my vacation,I like to lie on the beach and relax.
+For my vacation, I like to lie on the beach and relax.
 <k></k>
 
 17
@@ -79,6 +79,6 @@ By car?
 <k></k>
 
 21
-No,on foot.With Didi,we walk!
+No, on foot. With Didi, we walk!
 <k></k>
 

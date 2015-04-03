@@ -35,7 +35,7 @@ I want the eggplant.
 <k></k>
 
 10
-Mmm.  How about you,Kevin?
+Mmm.  How about you, Kevin?
 <k></k>
 
 11
@@ -43,11 +43,11 @@ I want the hamburger special.
 <k></k>
 
 12
-No offense,Dean.
+No offense, Dean.
 <k></k>
 
 13
-I'm the vegetarian,not you.
+I'm the vegetarian, not you.
 <k></k>
 
 14
@@ -55,7 +55,7 @@ What can I get for you?
 <k></k>
 
 15
-The eggplant,please.
+The eggplant, please.
 <k></k>
 
 16
@@ -75,15 +75,15 @@ That's fine.
 <k></k>
 
 20
-That please,with some rolls.
+That please, with some rolls.
 <k></k>
 
 21
-I want the hamburger special,please.
+I want the hamburger special, please.
 <k></k>
 
 22
-With onions and peppers,and some vinegar for the fries.
+With onions and peppers, and some vinegar for the fries.
 <k></k>
 
 23
@@ -107,7 +107,7 @@ Sure. Anything else?
 <k></k>
 
 28
-No,thanks.
+No, thanks.
 <k></k>
 
 29

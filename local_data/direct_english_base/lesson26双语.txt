@@ -11,7 +11,7 @@ What's the score?
 <k></k>
 
 4
-Zero-zero,so far.
+Zero-zero, so far.
 <k></k>
 
 5
@@ -39,7 +39,7 @@ I think so.
 <k></k>
 
 11
-And we need ... ...some fax paper.
+And we need ... ... some fax paper.
 <k></k>
 
 12
@@ -47,7 +47,7 @@ How much?
 <k></k>
 
 13
-Not much,I guess.
+Not much, I guess.
 <k></k>
 
 14

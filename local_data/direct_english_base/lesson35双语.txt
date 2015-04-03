@@ -1,5 +1,5 @@
 1
-Hey William.Guess who's coming tomorrow?
+Hey William. Guess who's coming tomorrow?
 <k></k>
 
 2
@@ -7,15 +7,15 @@ Who?
 <k></k>
 
 3
-Mr.Bigelow.
+Mr. Bigelow.
 <k></k>
 
 4
-Jim Bigelow,our Chief Executive Officer?
+Jim Bigelow, our Chief Executive Officer?
 <k></k>
 
 5
-That's right.Mr.Big.
+That's right. Mr. Big.
 <k></k>
 
 6
@@ -39,11 +39,11 @@ We need someone who will get the job done.
 <k></k>
 
 11
-But we'd prefer someone presentable,with a pleasant manner.
+But we'd prefer someone presentable, with a pleasant manner.
 <k></k>
 
 12
-Someone hard-working, serious,yet cheerful.
+Someone hard-working, serious, yet cheerful.
 <k></k>
 
 13
@@ -55,10 +55,10 @@ but also likes to walk.
 <k></k>
 
 15
-We want...someone like that man!
+We want... someone like that man!
 <k></k>
 
 16
-Yes,sir!
+Yes, sir!
 <k></k>
 

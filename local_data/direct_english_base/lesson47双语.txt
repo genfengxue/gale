@@ -3,11 +3,11 @@ Two suites for those dates are available.
 <k></k>
 
 2
-Yes,I'll hold.
+Yes, I'll hold.
 <k></k>
 
 3
-Carl.Do rock stars ever stay here?
+Carl. Do rock stars ever stay here?
 <k></k>
 
 4
@@ -31,11 +31,11 @@ Snakes?
 <k></k>
 
 9
-Sorry. Yes,gladly.Uh huh.
+Sorry. Yes, gladly. Uh huh.
 <k></k>
 
 10
-The restaurant closes at 2:00 a.m.
+The restaurant closes at 2:00 a. m.
 <k></k>
 
 11
@@ -43,7 +43,7 @@ but of course there is room service available at all times.
 <k></k>
 
 12
-Yes,I'll hold.
+Yes, I'll hold.
 <k></k>
 
 13
@@ -99,7 +99,7 @@ James Slipper. His real name is James Slipp...
 <k></k>
 
 26
-Yes.Yes. Confirm for those dates.
+Yes. Yes. Confirm for those dates.
 <k></k>
 
 27
@@ -107,7 +107,7 @@ Yes. We look forward to seeing you then.
 <k></k>
 
 28
-So,he throws his guitar into the audience.
+So, he throws his guitar into the audience.
 <k></k>
 
 29

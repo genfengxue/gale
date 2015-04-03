@@ -1,5 +1,5 @@
 1
-George,we can talk,but it can't take long.
+George, we can talk, but it can't take long.
 <k></k>
 
 2
@@ -55,7 +55,7 @@ I'm not an artist.
 <k></k>
 
 15
-Ok.so what's the idea?
+Ok. so what's the idea?
 <k></k>
 
 16
@@ -79,7 +79,7 @@ And that's us. We're the experts.
 <k></k>
 
 21
-It's a good thought,George.
+It's a good thought, George.
 <k></k>
 
 22

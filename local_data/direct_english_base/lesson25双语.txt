@@ -7,7 +7,7 @@ What does he like?
 <k></k>
 
 3
-He likes computers,sports.The usual.
+He likes computers, sports. The usual.
 <k></k>
 
 4
@@ -79,7 +79,7 @@ You think so?
 <k></k>
 
 21
-Yes.Are you going to get it?
+Yes. Are you going to get it?
 <k></k>
 
 22

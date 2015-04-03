@@ -15,7 +15,7 @@ And there's a pharmacy just down the street.
 <k></k>
 
 5
-OK,Thank you.
+OK, Thank you.
 <k></k>
 
 6
@@ -39,7 +39,7 @@ Is this an emergency?
 <k></k>
 
 11
-No,no.Nothing to worry about.Much.
+No, no. Nothing to worry about. Much.
 <k></k>
 
 12
@@ -59,11 +59,11 @@ Restrooms?
 <k></k>
 
 16
-Around the corner,by the phones.
+Around the corner, by the phones.
 <k></k>
 
 17
-Sharon?Hi.It's William.
+Sharon? Hi. It's William.
 <k></k>
 
 18
@@ -71,6 +71,6 @@ Where did you send the Engineer Society for lunch?
 <k></k>
 
 19
-Aha.Maybe we shouldn't recommend it any more.
+Aha. Maybe we shouldn't recommend it any more.
 <k></k>
 

@@ -1,5 +1,5 @@
 1
-Come in Dean.please sit down.
+Come in Dean. please sit down.
 <k></k>
 
 2
@@ -15,11 +15,11 @@ Sure.
 <k></k>
 
 5
-Can you use a word processor,Dean?
+Can you use a word processor, Dean?
 <k></k>
 
 6
-Yes,I can.
+Yes, I can.
 <k></k>
 
 7
@@ -55,7 +55,7 @@ I see.
 <k></k>
 
 15
-Well,you can't translate Spanish for us.
+Well, you can't translate Spanish for us.
 <k></k>
 
 16
@@ -67,7 +67,7 @@ I can do that.
 <k></k>
 
 18
-All right,Dean.Talk to William at the front desk.
+All right, Dean. Talk to William at the front desk.
 <k></k>
 
 19
@@ -79,7 +79,7 @@ Great.
 <k></k>
 
 21
-You can find your way,can't you?
+You can find your way, can't you?
 <k></k>
 
 22
@@ -87,7 +87,7 @@ Sure.
 <k></k>
 
 23
-Good luck.And welcome to the team.
+Good luck. And welcome to the team.
 <k></k>
 
 24

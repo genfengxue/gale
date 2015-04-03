@@ -1,5 +1,5 @@
 1
-You see?These are too small.
+You see? These are too small.
 <k></k>
 
 2
@@ -11,11 +11,11 @@ Twelve inches by eighteen inches.
 <k></k>
 
 4
-Twelve by eighteen.Fine.
+Twelve by eighteen. Fine.
 <k></k>
 
 5
-And not this thin material.It doesn't last.
+And not this thin material. It doesn't last.
 <k></k>
 
 6
@@ -27,7 +27,7 @@ What about...
 <k></k>
 
 8
-And just plain white.No fancy designs.
+And just plain white. No fancy designs.
 <k></k>
 
 9
@@ -43,7 +43,7 @@ Would you like anything else?
 <k></k>
 
 12
-Yes.I want a shipment of guest towels.
+Yes. I want a shipment of guest towels.
 <k></k>
 
 13
@@ -59,7 +59,7 @@ Sixteen inches by thirty inches.
 <k></k>
 
 16
-In"Warm Cream".With the hotel monogram.
+In "Warm Cream". With the hotel monogram.
 <k></k>
 
 17
@@ -95,11 +95,11 @@ I'll decide then.
 <k></k>
 
 25
-Always a pleasure doing business with you,NuLa.
+Always a pleasure doing business with you, NuLa.
 <k></k>
 
 26
-Likewise,Vinny.
+Likewise, Vinny.
 <k></k>
 
 27
@@ -123,6 +123,6 @@ You always get the last word.
 <k></k>
 
 32
-Yes,I do.
+Yes, I do.
 <k></k>
 

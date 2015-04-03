@@ -1,8 +1,8 @@
 require '../common/init'
 fs = require 'fs'
 
-dataPath = 'local_data/L01-54-json'
-outputDir = 'local_data/L01-54-base'
+dataPath = 'local_data/direct_english_json'
+outputDir = 'local_data/direct_english_base'
 
 list = process.argv[2]?.split ',' #可以传参数，逗号分隔，不含空格 28,29,32,33
 

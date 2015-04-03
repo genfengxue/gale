@@ -39,7 +39,7 @@ Yes, I have meetings there.
 <k></k>
 
 11
-I'm Jim Bigelow, C.E.O. Sheraton.
+I'm Jim Bigelow, C. E. O. Sheraton.
 <k></k>
 
 12
@@ -83,7 +83,7 @@ I live here in the city, so I walk everywhere.
 <k></k>
 
 22
-Except when I skate. Or work,of course.
+Except when I skate. Or work, of course.
 <k></k>
 
 23

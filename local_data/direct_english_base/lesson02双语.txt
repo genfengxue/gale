@@ -1,5 +1,5 @@
 1
-Dean,meet Sharon Solaye.
+Dean, meet Sharon Solaye.
 <k></k>
 
 2
@@ -11,11 +11,11 @@ Dean is our college intern for the summer.
 <k></k>
 
 4
-Nice to meet you,Dean.
+Nice to meet you, Dean.
 <k></k>
 
 5
-Hello.Goodbye.
+Hello. Goodbye.
 <k></k>
 
 6
@@ -23,15 +23,15 @@ Bye bye.
 <k></k>
 
 7
-William,this is Dean Johnson.
+William, this is Dean Johnson.
 <k></k>
 
 8
-He's the new intern.Dean,William.
+He's the new intern. Dean, William.
 <k></k>
 
 9
-Hi,Dean. Welcome to the ...
+Hi, Dean. Welcome to the ...
 <k></k>
 
 10
@@ -43,7 +43,7 @@ He isn't here.
 <k></k>
 
 12
-Hello.What's all this?
+Hello. What's all this?
 <k></k>
 
 13
@@ -67,7 +67,7 @@ How do you do?
 <k></k>
 
 18
-That's Kevin.He's our bartender.
+That's Kevin. He's our bartender.
 <k></k>
 
 19
@@ -83,7 +83,7 @@ Are you new?
 <k></k>
 
 22
-Yeah,I'm the new intern.
+Yeah, I'm the new intern.
 <k></k>
 
 23
@@ -95,10 +95,10 @@ Dean?
 <k></k>
 
 25
-Well,see you later...
+Well, see you later...
 <k></k>
 
 26
-I'm sorry,what's your name again?
+I'm sorry, what's your name again?
 <k></k>
 

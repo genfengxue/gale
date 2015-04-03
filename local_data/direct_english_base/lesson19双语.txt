@@ -59,7 +59,7 @@ Did you come straight to Boston?
 <k></k>
 
 16
-No,no,no.First San Francisco.Then Denver.
+No, no, no. First San Francisco. Then Denver.
 <k></k>
 
 17
@@ -67,11 +67,11 @@ Then Chattanooga, Tennessee.
 <k></k>
 
 18
-Now I live in Boston,Massachusetts.
+Now I live in Boston, Massachusetts.
 <k></k>
 
 19
-Well,we need someone with experience.
+Well, we need someone with experience.
 <k></k>
 
 20
@@ -99,7 +99,7 @@ Did you?
 <k></k>
 
 26
-Well,Nu La,when would you like to start?
+Well, Nu La, when would you like to start?
 <k></k>
 
 27

@@ -3,7 +3,7 @@ Let's get the show on the road.
 <k></k>
 
 2
-Camera,and action.
+Camera, and action.
 <k></k>
 
 3
@@ -31,7 +31,7 @@ A good hotel should be able to...
 <k></k>
 
 9
-Cut,and action.
+Cut, and action.
 <k></k>
 
 10
@@ -63,7 +63,7 @@ you can expect the best from us and you shouldn't worry.
 <k></k>
 
 17
-Cut. Nice job,Nina.
+Cut. Nice job, Nina.
 <k></k>
 
 18

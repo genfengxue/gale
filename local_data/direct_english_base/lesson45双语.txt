@@ -1,13 +1,13 @@
 1
-Hey there.How are you doing?
+Hey there. How are you doing?
 <k></k>
 
 2
-Hi Pam.You know George,don't you?
+Hi Pam. You know George, don't you?
 <k></k>
 
 3
-Sure.Hi.
+Sure. Hi.
 <k></k>
 
 4
@@ -19,19 +19,19 @@ Jarmusch gave me the afternoon off.
 <k></k>
 
 6
-We were working until 2a.m.last night.
+We were working until 2a. m. last night.
 <k></k>
 
 7
-You weren't cooking,were you?
+You weren't cooking, were you?
 <k></k>
 
 8
-No.We were finishing the new menu.
+No. We were finishing the new menu.
 <k></k>
 
 9
-Jarmusch has changed everything.Now it's classic cuisine.
+Jarmusch has changed everything. Now it's classic cuisine.
 <k></k>
 
 10
@@ -67,7 +67,7 @@ Jarmusch was showing it to Simon and Nino when they left.
 <k></k>
 
 18
-Sharon asked for it,too.
+Sharon asked for it, too.
 <k></k>
 
 19
@@ -75,7 +75,7 @@ Everyone has their two cents to put in.
 <k></k>
 
 20
-So,who was cooking while you were planning?
+So, who was cooking while you were planning?
 <k></k>
 
 21
@@ -91,6 +91,6 @@ Would you like to join us?
 <k></k>
 
 24
-Thanks,but the last thing I want to do is look at a menu.
+Thanks, but the last thing I want to do is look at a menu.
 <k></k>
 

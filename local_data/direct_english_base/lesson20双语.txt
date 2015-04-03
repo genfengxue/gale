@@ -1,5 +1,5 @@
 1
-Psst. Wendy.Kevin.Come here.
+Psst. Wendy. Kevin. Come here.
 <k></k>
 
 2
@@ -87,7 +87,7 @@ That's not Meredith Cain.
 <k></k>
 
 23
-Hi.Can I help you?
+Hi. Can I help you?
 <k></k>
 
 24
@@ -111,7 +111,7 @@ We were cheerleaders.
 <k></k>
 
 29
-"Push'em back,push'em back,wa-ay back!"
+"Push'em back, push'em back, wa-ay back!"
 <k></k>
 
 30

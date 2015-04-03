@@ -3,11 +3,11 @@ Quercio?
 <k></k>
 
 2
-Yes.Q-U-E-R-C-I-O.Quercio.
+Yes. Q-U-E-R-C-I-O. Quercio.
 <k></k>
 
 3
-Oh yes,here it is.
+Oh yes, here it is.
 <k></k>
 
 4
@@ -35,11 +35,11 @@ My name's Barbara Seaton.
 <k></k>
 
 10
-Barbara Seaton,of the New York Library?
+Barbara Seaton, of the New York Library?
 <k></k>
 
 11
--Tony Quercio,Watson's Bookstores?  -Yes.
+-Tony Quercio, Watson's Bookstores?  -Yes.
 <k></k>
 
 12
@@ -67,7 +67,7 @@ That's all right.
 <k></k>
 
 18
-Mr.Quercio.Room 412.
+Mr. Quercio. Room 412.
 <k></k>
 
 19
@@ -75,11 +75,11 @@ Mr.Quercio.Room 412.
 <k></k>
 
 20
-Carl? Room 412,please.
+Carl? Room 412, please.
 <k></k>
 
 21
-Well,I'll talk to you later,Barbara.
+Well, I'll talk to you later, Barbara.
 <k></k>
 
 22

@@ -7,7 +7,7 @@ have you any idea how hard I work to stay in shape?
 <k></k>
 
 3
-No,Sharon.
+No, Sharon.
 <k></k>
 
 4
@@ -15,11 +15,11 @@ Have you any idea how much work I have to do today?
 <k></k>
 
 5
-See,on Mondays I go swimming.
+See, on Mondays I go swimming.
 <k></k>
 
 6
-On Tuesdays,I lift weights at the gym.
+On Tuesdays, I lift weights at the gym.
 <k></k>
 
 7
@@ -27,7 +27,7 @@ On Wednesdays....
 <k></k>
 
 8
-Let me guess.You enter triathlons.
+Let me guess. You enter triathlons.
 <k></k>
 
 9
@@ -35,11 +35,11 @@ I run on Wednesdays.
 <k></k>
 
 10
-Thursday mornings,I go back to the gym.
+Thursday mornings, I go back to the gym.
 <k></k>
 
 11
-And Fridays,I take a tennis lesson.
+And Fridays, I take a tennis lesson.
 <k></k>
 
 12
@@ -51,7 +51,7 @@ All to maintain my youthful figure.
 <k></k>
 
 14
-Now,let's look at your new menu.
+Now, let's look at your new menu.
 <k></k>
 
 15
@@ -59,7 +59,7 @@ Sharon...
 <k></k>
 
 16
-Jarmusch,there's cream and butter all over this thing.
+Jarmusch, there's cream and butter all over this thing.
 <k></k>
 
 17
@@ -99,6 +99,6 @@ Excuse me.
 <k></k>
 
 26
-Jarmusch,a word when you get a moment,please.
+Jarmusch, a word when you get a moment, please.
 <k></k>
 

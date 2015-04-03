@@ -3,7 +3,7 @@ Can I help you?
 <k></k>
 
 2
-Yes,please.We reserved some rooms.
+Yes, please. We reserved some rooms.
 <k></k>
 
 3
@@ -27,7 +27,7 @@ Of course.
 <k></k>
 
 8
-Away from traffic,and with nice views.
+Away from traffic, and with nice views.
 <k></k>
 
 9
@@ -55,7 +55,7 @@ With bath.
 <k></k>
 
 15
-Yes.And a king-size bed.
+Yes. And a king-size bed.
 <k></k>
 
 16
@@ -83,7 +83,7 @@ Here is a list of our breakfast requirements.
 <k></k>
 
 22
-Please warn the kitchen.Thank you.Good day.
+Please warn the kitchen. Thank you. Good day.
 <k></k>
 
 23

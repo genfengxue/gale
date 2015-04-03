@@ -1,5 +1,5 @@
 1
-You look tired,Simon.
+You look tired, Simon.
 <k></k>
 
 2
@@ -55,7 +55,7 @@ I hit that ball.
 <k></k>
 
 15
-It flew through the air,landed,
+It flew through the air, landed,
 <k></k>
 
 16
@@ -95,7 +95,7 @@ the lowest score ever.
 <k></k>
 
 25
-Simon.What happened next?
+Simon. What happened next?
 <k></k>
 
 26

@@ -3,15 +3,15 @@ This is just what I needed.
 <k></k>
 
 2
-It is a lovely park,isn't it?
+It is a lovely park, isn't it?
 <k></k>
 
 3
-So tell me,Simon,how did you wind up here, a restaurant manager in Boston?
+So tell me, Simon, how did you wind up here, a restaurant manager in Boston?
 <k></k>
 
 4
-Ah!Well,that's a bit of a puzzle to me,as well.
+Ah! Well, that's a bit of a puzzle to me, as well.
 <k></k>
 
 5
@@ -19,11 +19,11 @@ Was your training in restaurants?
 <k></k>
 
 6
-Oh no!After primary and secondary schools I went to university.
+Oh no! After primary and secondary schools I went to university.
 <k></k>
 
 7
-Manchester.Modern languages.
+Manchester. Modern languages.
 <k></k>
 
 8
@@ -31,7 +31,7 @@ That's a lot of tests.
 <k></k>
 
 9
-Oh yes,I passed all kinds of exams.
+Oh yes, I passed all kinds of exams.
 <k></k>
 
 10
@@ -51,15 +51,15 @@ And it was years before I went to college.
 <k></k>
 
 14
-And I didn't do very well there either,I'm afraid.
+And I didn't do very well there either, I'm afraid.
 <k></k>
 
 15
-Oh,I did well,but there was something missing.
+Oh, I did well, but there was something missing.
 <k></k>
 
 16
-At the end of the day,I wanted experience that was...
+At the end of the day, I wanted experience that was...
 <k></k>
 
 17
@@ -83,7 +83,7 @@ So you got a job!
 <k></k>
 
 22
-NO.I went back to business school for management studies.
+NO. I went back to business school for management studies.
 <k></k>
 
 23

@@ -1,0 +1,92 @@
+1
+Hello?
+<k></k>
+
+2
+Dean,are you ready?
+<k></k>
+
+3
+I'll be right down.
+<k></k>
+
+4
+Don't worry.We have plenty of time.
+<k></k>
+
+5
+Hi.
+<k></k>
+
+6
+The train to New York doesn't leave till 1:30 or so.
+<k></k>
+
+7
+Let's see.
+<k></k>
+
+8
+Do you mean the 1:25?
+<k></k>
+
+9
+Yeah,that's it.
+<k></k>
+
+10
+Kevin,that's a local.See?
+<k></k>
+
+11
+It's in blue.
+<k></k>
+
+12
+It stops everywhere.
+<k></k>
+
+13
+It arrives in New York at 7:39 tonight!
+<k></k>
+
+14
+Well,we don't want that.
+<k></k>
+
+15
+Is there an express?
+<k></k>
+
+16
+I see.They're in red.
+<k></k>
+
+17
+The next one leaves at 1:10. Damn!
+<k></k>
+
+18
+-When's the next train after that? -4:15.
+<k></k>
+
+19
+It's not there.
+<k></k>
+
+20
+The 1:10?
+<k></k>
+
+21
+It's got a symbol beside it.A square.
+<k></k>
+
+22
+What does that mean?
+<k></k>
+
+23
+This train does not run on weekends.
+<k></k>
+

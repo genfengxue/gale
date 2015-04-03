@@ -3,7 +3,7 @@ Kevin. What's your ideal woman like?
 <k></k>
 
 2
-Oh,she's tall.Beautiful...
+Oh, she's tall. Beautiful...
 <k></k>
 
 3
@@ -27,7 +27,7 @@ Yes.
 <k></k>
 
 8
-Why,Wendy? What's your ideal man like?
+Why, Wendy? What's your ideal man like?
 <k></k>
 
 9
@@ -47,7 +47,7 @@ That's ah...
 <k></k>
 
 13
-79 kilos.I'm your man,Wendy.
+79 kilos. I'm your man, Wendy.
 <k></k>
 
 14
@@ -55,7 +55,7 @@ That's ah.. twelve and a half stone.
 <k></k>
 
 15
-I'm afraid that's me,Wendy.
+I'm afraid that's me, Wendy.
 <k></k>
 
 16

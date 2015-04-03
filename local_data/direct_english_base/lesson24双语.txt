@@ -11,7 +11,7 @@ My laundry...
 <k></k>
 
 4
-Oh no no,you don't come here.
+Oh no no, you don't come here.
 <k></k>
 
 5
@@ -31,7 +31,7 @@ But this isn't mine.
 <k></k>
 
 9
-Hm.What your room number?
+Hm. What your room number?
 <k></k>
 
 10
@@ -63,7 +63,7 @@ Do you have a red shirt?
 <k></k>
 
 17
-Yes,but this one doesn't belong to me.
+Yes, but this one doesn't belong to me.
 <k></k>
 
 18
@@ -71,11 +71,11 @@ What about blue pants?
 <k></k>
 
 19
-Yes,they look like mine but they're not.
+Yes, they look like mine but they're not.
 <k></k>
 
 20
-Mr.Davis. Your room number,your name.
+Mr. Davis. Your room number, your name.
 <k></k>
 
 21
@@ -91,10 +91,10 @@ Oh boy.
 <k></k>
 
 24
-If this is mine,We have a small problem.
+If this is mine, We have a small problem.
 <k></k>
 
 25
-Small clothes,big problem.
+Small clothes, big problem.
 <k></k>
 

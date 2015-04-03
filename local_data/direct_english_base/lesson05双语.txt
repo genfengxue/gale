@@ -1,5 +1,5 @@
 1
-That's Thursday,November 17th,at the hotel.
+That's Thursday, November 17th, at the hotel.
 <k></k>
 
 2
@@ -15,7 +15,7 @@ With coffee.
 <k></k>
 
 5
-Yes.Coffee starts at 8:30 and ends at 9.
+Yes. Coffee starts at 8:30 and ends at 9.
 <k></k>
 
 6
@@ -79,7 +79,7 @@ Is it eleven already?
 <k></k>
 
 21
-No,no.Actually,it's 10:30.
+No, no. Actually, it's 10:30.
 <k></k>
 
 22
@@ -87,10 +87,10 @@ I set my watch half an hour fast.
 <k></k>
 
 23
-You're never late,are you?
+You're never late, are you?
 <k></k>
 
 24
-Never.I can't be!
+Never. I can't be!
 <k></k>
 

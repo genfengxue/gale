@@ -1,5 +1,5 @@
 1
-How does it feel,Kevin?
+How does it feel, Kevin?
 <k></k>
 
 2
@@ -15,7 +15,7 @@ Here's the turn.
 <k></k>
 
 5
-OK.Get into the right-hand lane.
+OK. Get into the right-hand lane.
 <k></k>
 
 6
@@ -23,7 +23,7 @@ When?
 <k></k>
 
 7
-Now!We have to make a right!
+Now! We have to make a right!
 <k></k>
 
 8
@@ -43,7 +43,7 @@ Here's the turn.
 <k></k>
 
 12
-OK.Get into the left-hand lane.
+OK. Get into the left-hand lane.
 <k></k>
 
 13
@@ -55,7 +55,7 @@ It is right.
 <k></k>
 
 15
-Yes.Yes. I mean a right turn.
+Yes. Yes. I mean a right turn.
 <k></k>
 
 16
@@ -107,6 +107,6 @@ Kevin.
 <k></k>
 
 28
-What?No Parking.
+What? No Parking.
 <k></k>
 

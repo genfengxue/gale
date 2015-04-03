@@ -39,7 +39,7 @@ What can you tell us about this one?
 <k></k>
 
 11
-She's a beauty,isn't she?An 82.
+She's a beauty, isn't she? An 82.
 <k></k>
 
 12
@@ -51,7 +51,7 @@ How many miles on it?
 <k></k>
 
 14
-162,000 happy miles.And many more to go,I'm sure.
+162, 000 happy miles. And many more to go, I'm sure.
 <k></k>
 
 15
@@ -59,7 +59,7 @@ Was there only one owner?
 <k></k>
 
 16
-Ah,no. Several owners.Several very happy owners.
+Ah, no. Several owners. Several very happy owners.
 <k></k>
 
 17
@@ -67,11 +67,11 @@ How often has it been serviced?
 <k></k>
 
 18
-You know,the funny thing is,
+You know, the funny thing is,
 <k></k>
 
 19
-this car ran so well,it hardly ever got serviced.
+this car ran so well, it hardly ever got serviced.
 <k></k>
 
 20
@@ -91,10 +91,10 @@ How could the owners ever give it up?
 <k></k>
 
 24
-Trade-in.They were moving up.
+Trade-in. They were moving up.
 <k></k>
 
 25
-Just like you Kevin.Moving up.
+Just like you Kevin. Moving up.
 <k></k>
 

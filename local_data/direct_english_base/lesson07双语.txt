@@ -15,7 +15,7 @@ but vegetarian.
 <k></k>
 
 5
-You're vegetarian,are you?
+You're vegetarian, are you?
 <k></k>
 
 6
@@ -35,7 +35,7 @@ I don't like fish at all.
 <k></k>
 
 10
-And I love bacon.It's my favorite breakfast.
+And I love bacon. It's my favorite breakfast.
 <k></k>
 
 11
@@ -59,7 +59,7 @@ She's just a picky eater.
 <k></k>
 
 16
-Spinach,broccoli,and cauliflower. Ugh.
+Spinach, broccoli, and cauliflower. Ugh.
 <k></k>
 
 17
@@ -67,7 +67,7 @@ Do you eat cheese?
 <k></k>
 
 18
-Kevin,I eat anything that can't look at me.
+Kevin, I eat anything that can't look at me.
 <k></k>
 
 19
@@ -75,11 +75,11 @@ How about eggs?
 <k></k>
 
 20
-Oh,I do not like eggs.
+Oh, I do not like eggs.
 <k></k>
 
 21
-Elena,what do you like?
+Elena, what do you like?
 <k></k>
 
 22

@@ -1,5 +1,5 @@
 1
-Pam,give me a garden salad and a grilled fish appetizer.
+Pam, give me a garden salad and a grilled fish appetizer.
 <k></k>
 
 2
@@ -7,7 +7,7 @@ Right.
 <k></k>
 
 3
-Pam,please turn off that burner.
+Pam, please turn off that burner.
 <k></k>
 
 4
@@ -23,7 +23,7 @@ no cream.
 <k></k>
 
 7
-Hand me those bowls,please.
+Hand me those bowls, please.
 <k></k>
 
 8
@@ -35,7 +35,7 @@ I can't give a customer Alfredo sauce with no cream.
 <k></k>
 
 10
-Fettucine Alfredo: pasta with cream,cheese,pepper...
+Fettucine Alfredo: pasta with cream, cheese, pepper...
 <k></k>
 
 11
@@ -43,7 +43,7 @@ Use milk.
 <k></k>
 
 12
-For Alfredo sauce,I need cream.
+For Alfredo sauce, I need cream.
 <k></k>
 
 13
@@ -71,7 +71,7 @@ I am going to put extra cream in it.
 <k></k>
 
 19
-Oh.Do you want to give him high cholesterol?
+Oh. Do you want to give him high cholesterol?
 <k></k>
 
 20
@@ -91,6 +91,6 @@ What am I going to do with you?
 <k></k>
 
 24
-It's not me,Jarmusch. I like cream.
+It's not me, Jarmusch. I like cream.
 <k></k>
 

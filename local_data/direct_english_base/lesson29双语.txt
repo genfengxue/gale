@@ -1,13 +1,13 @@
 1
-Hi Nina.Do you need something?
+Hi Nina. Do you need something?
 <k></k>
 
 2
-Oh.Hi Nu La.I left you a note.
+Oh. Hi Nu La. I left you a note.
 <k></k>
 
 3
-Are these your children,Nu La?
+Are these your children, Nu La?
 <k></k>
 
 4
@@ -15,19 +15,19 @@ All of these?
 <k></k>
 
 5
-No,no.These are my children.
+No, no. These are my children.
 <k></k>
 
 6
-This is my older son.He's married.
+This is my older son. He's married.
 <k></k>
 
 7
-He has two little girls.Twins.
+He has two little girls. Twins.
 <k></k>
 
 8
-Oh my.He must be busy.
+Oh my. He must be busy.
 <k></k>
 
 9
@@ -35,15 +35,15 @@ Our hands are full with one little girl.
 <k></k>
 
 10
-Oh,he's always on the go.
+Oh, he's always on the go.
 <k></k>
 
 11
-He's like you,then.
+He's like you, then.
 <k></k>
 
 12
-Yes.He takes after me.
+Yes. He takes after me.
 <k></k>
 
 13
@@ -59,7 +59,7 @@ What's her name?
 <k></k>
 
 16
-Sothea.But we call her Sally.
+Sothea. But we call her Sally.
 <k></k>
 
 17
@@ -67,7 +67,7 @@ She looks like you.
 <k></k>
 
 18
-Yes,but she takes after her father.
+Yes, but she takes after her father.
 <k></k>
 
 19
@@ -75,7 +75,7 @@ She's very easy-going.
 <k></k>
 
 20
-And my younger son is divorced,but he has a son.
+And my younger son is divorced, but he has a son.
 <k></k>
 
 21
@@ -95,14 +95,14 @@ Thank you.
 <k></k>
 
 25
-Is this a relative,NuLa?
+Is this a relative, NuLa?
 <k></k>
 
 26
-No,no,no.
+No, no, no.
 <k></k>
 
 27
-That's Johnny Chen.He's a very famous actor.Very handsome.
+That's Johnny Chen. He's a very famous actor. Very handsome.
 <k></k>
 

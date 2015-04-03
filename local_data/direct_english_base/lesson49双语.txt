@@ -1,5 +1,5 @@
 1
-Good afternoon.Do you speak English?
+Good afternoon. Do you speak English?
 <k></k>
 
 2
@@ -11,11 +11,11 @@ I'm calling from the United States.
 <k></k>
 
 4
-I'd like to speak with Milos Hermann,please.
+I'd like to speak with Milos Hermann, please.
 <k></k>
 
 5
-Yes.Thank you.
+Yes. Thank you.
 <k></k>
 
 6
@@ -23,15 +23,15 @@ Hello Milos!
 <k></k>
 
 7
-This is Anne Holland,from the Sheraton Boston.
+This is Anne Holland, from the Sheraton Boston.
 <k></k>
 
 8
-Yes,me too.How are you?
+Yes, me too. How are you?
 <k></k>
 
 9
-I'm very well,thank you.
+I'm very well, thank you.
 <k></k>
 
 10
@@ -39,7 +39,7 @@ Excuse me?
 <k></k>
 
 11
-No,I'm calling from Boston.
+No, I'm calling from Boston.
 <k></k>
 
 12
@@ -47,7 +47,7 @@ We'll have our arrival dates very soon.
 <k></k>
 
 13
-Milos,I wonder if there's an interesting theatre or club we can go to while we're in Prague.
+Milos, I wonder if there's an interesting theatre or club we can go to while we're in Prague.
 <k></k>
 
 14
@@ -63,7 +63,7 @@ but then let's get into town for drinks and dinner.
 <k></k>
 
 17
-Milos, tell me,is there a hair salon at the hotel?
+Milos, tell me, is there a hair salon at the hotel?
 <k></k>
 
 18
@@ -87,7 +87,7 @@ OK then.
 <k></k>
 
 23
-Yes. I look forward to it.Good bye.
+Yes. I look forward to it. Good bye.
 <k></k>
 
 24
