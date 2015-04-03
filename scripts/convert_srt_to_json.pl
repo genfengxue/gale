@@ -4,8 +4,8 @@ use Data::Dumper;
 use Encode;
 use JSON;
 
-my $src_path = 'local_data/L01-54';
-my $dst_path = "../../$src_path-json";
+my $src_path = 'local_data/direct_english';
+my $dst_path = "../../${src_path}_json";
 chdir $src_path or die $!;
 
 my $map = {
