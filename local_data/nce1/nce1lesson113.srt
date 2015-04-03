@@ -1,0 +1,95 @@
+1
+00:00:00,550 --> 00:00:02,322
+Fares, please!
+请买票!
+
+2
+00:00:02,489 --> 00:00:05,255
+Trafalgar Square,please.
+请买一张到Trafalgar广场的票.
+
+3
+00:00:05,629 --> 00:00:11,539
+I'm sorry, sir. I can't change a ten-pound note.
+对不起,我找不开10英镑的钞票.
+
+4
+00:00:12,140 --> 00:00:16,019
+Haven't you got any small change?
+您没有零钱吗?
+
+5
+00:00:16,109 --> 00:00:20,234
+I've got no small change, I am afraid.
+我恐怕我没有零钱.
+
+6
+00:00:20,379 --> 00:00:23,615
+I'll ask some of the passengers.
+我来问问其他乘客.
+
+7
+00:00:23,832 --> 00:00:27,216
+Have you any small change, sir?
+先生,您有零钱吗?
+
+8
+00:00:28,086 --> 00:00:31,460
+I'm sorry. I've got none.
+对不起,我没有.
+
+9
+00:00:31,597 --> 00:00:34,663
+I haven't got any either.
+我也没有.
+
+10
+00:00:35,386 --> 00:00:40,075
+Can you change this ten-pound note, madam?
+夫人,您能把这10英镑的钞票换开吗?
+
+11
+00:00:40,260 --> 00:00:43,436
+I'm afraid I can't.
+恐怕不能.
+
+12
+00:00:43,437 --> 00:00:46,066
+Neither can I.
+我也不能.
+
+13
+00:00:46,483 --> 00:00:48,886
+I'm very sorry, sir.
+非常抱歉,先生.
+
+14
+00:00:48,887 --> 00:00:51,759
+You must get off the bus.
+您必须下车.
+
+15
+00:00:51,830 --> 00:00:56,878
+None of our passengers can change this note.
+我们的乘客中没人能换开这张钞票.
+
+16
+00:00:56,879 --> 00:00:59,399
+They're all millionaires!
+他们都是百万富翁!
+
+17
+00:00:59,796 --> 00:01:02,269
+Except us.
+我们俩除外.
+
+18
+00:01:02,335 --> 00:01:05,468
+I've got some small change.
+我有一些零钱.
+
+19
+00:01:05,469 --> 00:01:07,396
+So have I.
+我也有.
+

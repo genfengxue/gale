@@ -1,0 +1,85 @@
+1
+00:00:00,684 --> 00:00:04,107
+Do you like this dress,madam?
+女士,您喜欢这件衣服吗?
+
+2
+00:00:04,108 --> 00:00:07,586
+I like the colour very much.
+我很喜欢这颜色.
+
+3
+00:00:07,967 --> 00:00:13,750
+It's a lovely dress, but it's too small for me.
+这是件漂亮的衣服,可是对我来说太小了.
+
+4
+00:00:13,751 --> 00:00:19,162
+What about this one? It's a lovely dress.
+这件怎么样?这是件漂亮的衣服.
+
+5
+00:00:19,236 --> 00:00:21,500
+It's very smart.
+它很时髦.
+
+6
+00:00:21,893 --> 00:00:25,631
+Short skirts are in fashion now.
+短裙现在很流行.
+
+7
+00:00:25,711 --> 00:00:28,617
+Would you like to try it?
+您要试一试吗?
+
+8
+00:00:28,618 --> 00:00:30,192
+All right.
+好吧.
+
+9
+00:00:30,193 --> 00:00:37,366
+I'm afraid this green dress is too small for me as well.
+恐怕这件绿色的我穿着也太小了.
+
+10
+00:00:37,367 --> 00:00:41,389
+It's smaller than the blue one.
+它比那件蓝色的还要小.
+
+11
+00:00:41,442 --> 00:00:45,101
+I don't like the colour either.
+我也不喜欢这种颜色.
+
+12
+00:00:45,221 --> 00:00:49,122
+It doesn't suit me at all.
+它完全不适合我.
+
+13
+00:00:49,123 --> 00:00:53,579
+I think the blue dress is prettier.
+我认为那件蓝色的更漂亮些.
+
+14
+00:00:53,580 --> 00:00:58,021
+Could you show me another blue dress?
+您能再给我看一件蓝色的吗?
+
+15
+00:00:58,022 --> 00:01:05,037
+I want a dress like that one, but it must be my size.
+我想要一件和那件一样的,但必须是我的尺寸.
+
+16
+00:01:05,447 --> 00:01:10,650
+I'm afraid I haven't got a larger dress.
+恐怕没有更大的了.
+
+17
+00:01:11,217 --> 00:01:15,741
+This is the largest dress in the shop.
+这是店里最大的一件.
+

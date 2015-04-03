@@ -1,0 +1,100 @@
+1
+00:00:00,797 --> 00:00:04,538
+Two return tickets to London,please.
+两张到伦敦的往返票, 请.
+
+2
+00:00:04,992 --> 00:00:08,469
+What time will the next train leave?
+下一班火车什么时候开?
+
+3
+00:00:08,470 --> 00:00:11,730
+At nineteen minutes past eight.
+8点19分.
+
+4
+00:00:11,884 --> 00:00:13,802
+Which platform?
+在哪个站台?
+
+5
+00:00:14,145 --> 00:00:17,471
+Platform Two. Over the bridge.
+2号站台.过天桥.
+
+6
+00:00:17,472 --> 00:00:20,842
+What time will the next train leave?
+下一班火车什么时候开?
+
+7
+00:00:20,843 --> 00:00:23,447
+At eight nineteen.
+8点19分.
+
+8
+00:00:23,607 --> 00:00:26,417
+We've got plenty of time.
+我们的时间还很宽裕.
+
+9
+00:00:26,418 --> 00:00:29,965
+It's only three minutes to eight.
+现在才7点57分.
+
+10
+00:00:29,966 --> 00:00:32,924
+Let's go and have a drink.
+让我们去喝点东西吧,
+
+11
+00:00:33,078 --> 00:00:37,449
+There's a bar next door to the station.
+车站旁有一个酒吧.
+
+12
+00:00:37,590 --> 00:00:42,167
+We had better go back to the station now, Ken.
+Ken,我们现在最好回到车站去.
+
+13
+00:00:42,168 --> 00:00:44,624
+Tickets, please.
+请把车票拿出来.
+
+14
+00:00:44,754 --> 00:00:49,314
+We want to catch the eight nineteen to London.
+我们要乘8点19分的车去伦敦.
+
+15
+00:00:49,476 --> 00:00:52,076
+You've just missed it!
+你们刚好错过了那班车.
+
+16
+00:00:52,132 --> 00:00:56,583
+What! It's only eight fifteen.
+什么!现在只有8点15分.
+
+17
+00:00:56,584 --> 00:00:58,663
+I'm sorry, sir.
+对不起,先生,
+
+18
+00:00:58,664 --> 00:01:01,909
+That clock's ten minutes slow.
+那个钟慢了10分钟.
+
+19
+00:01:01,910 --> 00:01:04,136
+When's the next train?
+下一班车是什么时候?
+
+20
+00:01:04,137 --> 00:01:06,683
+In five hours' time!
+5个小时以后!
+

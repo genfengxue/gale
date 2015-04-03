@@ -1,0 +1,95 @@
+1
+00:00:01,430 --> 00:00:03,271
+Is that you, John?
+是你吗,John?
+
+2
+00:00:03,919 --> 00:00:05,791
+Yes, speaking.
+是我.
+
+3
+00:00:06,711 --> 00:00:11,108
+Tell Mary we'll be late for dinner this evening.
+你告诉Mary,今晚吃饭我们将晚到一会儿.
+
+4
+00:00:11,570 --> 00:00:14,787
+I'm afraid I don't understand.
+我恐怕我还不明白你的意思.
+
+5
+00:00:15,058 --> 00:00:17,591
+Hasn't Mary told you?
+Mary没有告诉你吗?
+
+6
+00:00:18,136 --> 00:00:22,539
+She invited Charlotte and me to dinner this evening.
+她邀请我和Charlotte今晚去吃饭.
+
+7
+00:00:22,950 --> 00:00:28,123
+I said I would be at your house at six o'clock,
+我说过我6点到你家,
+
+8
+00:00:28,768 --> 00:00:33,215
+but the boss wants me to do some extra work.
+但是老板想让我做点额外的工作.
+
+9
+00:00:33,499 --> 00:00:36,384
+I'll have to stay at the office.
+我不得不留在办公室,
+
+10
+00:00:36,655 --> 00:00:39,358
+I don't know when I'll finish.
+我不知道什么时候才能结束.
+
+11
+00:00:40,078 --> 00:00:47,478
+Oh, and by the way, my wife wants to know if Mary needs any help.
+Oh,顺便问一问,我妻子想知道Mary是否需要帮忙.
+
+12
+00:00:48,297 --> 00:00:52,029
+I don't know what you're talking about.
+我不知道你在说些什么.
+
+13
+00:00:52,326 --> 00:00:55,688
+That is John Smith, isn't it?
+你是John Smith,对吗?
+
+14
+00:00:56,006 --> 00:00:58,441
+Yes, I'm John Smith.
+是的,我是John Smith.
+
+15
+00:00:59,260 --> 00:01:04,153
+You are John Smith,the engineer,aren't you? 
+你是工程师John Smith,对吗?
+
+16
+00:01:04,544 --> 00:01:05,752
+That's right.
+对.
+
+17
+00:01:06,933 --> 00:01:12,619
+You work for the Overseas Engineering Company, don't you? 
+你在海外工程公司上班,是吗?
+
+18
+00:01:13,024 --> 00:01:19,244
+No, I don't. I'm John Smith the telephone engineer
+不,不是.我是电话工程师John Smith,
+
+19
+00:01:19,723 --> 00:01:23,421
+and I'm repairing your telephone line.
+我正在修理你的电话线.
+
