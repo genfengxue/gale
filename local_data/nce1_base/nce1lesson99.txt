@@ -1,0 +1,52 @@
+1
+Ow!
+<k></k>
+
+2
+What's the matter, Andy?
+<k></k>
+
+3
+I slipped and fell downstairs.
+<k></k>
+
+4
+Have you hurt yourself?
+<k></k>
+
+5
+Yes, I have. I think that I've hurt my back.
+<k></k>
+
+6
+Try and stand up.
+<k></k>
+
+7
+Can you stand up?
+<k></k>
+
+8
+Here. Let me help you.
+<k></k>
+
+9
+I'm sorry, Lucy.
+<k></k>
+
+10
+I think that the doctor had better see you.
+<k></k>
+
+11
+I'll phone Dr. Carter.
+<k></k>
+
+12
+The doctor says that he will come at once.
+<k></k>
+
+13
+I'm sure that you need an X-ray, Andy.
+<k></k>
+

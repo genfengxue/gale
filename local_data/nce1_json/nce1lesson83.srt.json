@@ -1,0 +1,163 @@
+[
+   {
+      "lessonNo" : 83,
+      "chinese" : "你好，萨姆。进来吧。",
+      "sentenceNo" : 1,
+      "timeline" : "00:00:01,230 --> 00:00:04,330",
+      "english" : "Hello, Sam. Come in."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "你好，萨姆。",
+      "sentenceNo" : 2,
+      "timeline" : "00:00:04,630 --> 00:00:06,060",
+      "english" : "Hi, Sam."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "我们正在吃午饭，",
+      "sentenceNo" : 3,
+      "timeline" : "00:00:06,060 --> 00:00:08,250",
+      "english" : "We're having lunch."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "你跟我们一起吃午饭好吗？",
+      "sentenceNo" : 4,
+      "timeline" : "00:00:08,520 --> 00:00:12,250",
+      "english" : "Do you want to have lunch with us?"
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "不，汤姆，谢谢。",
+      "sentenceNo" : 5,
+      "timeline" : "00:00:12,250 --> 00:00:14,610",
+      "english" : "No, thank you, Tom."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "我已经吃过饭了。",
+      "sentenceNo" : 6,
+      "timeline" : "00:00:14,610 --> 00:00:17,280",
+      "english" : "I've already had lunch."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "我在12点半吃的。",
+      "sentenceNo" : 7,
+      "timeline" : "00:00:17,280 --> 00:00:21,110",
+      "english" : "I had lunch at half past twelve."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "那么喝杯咖啡吧。",
+      "sentenceNo" : 8,
+      "timeline" : "00:00:21,170 --> 00:00:24,330",
+      "english" : "Have a cup of coffee then."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "我刚喝了一杯，谢谢。",
+      "sentenceNo" : 9,
+      "timeline" : "00:00:24,330 --> 00:00:27,820",
+      "english" : "I've just had a cup, thank you."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "我是在饭后喝的。",
+      "sentenceNo" : 10,
+      "timeline" : "00:00:28,050 --> 00:00:31,170",
+      "english" : "I had one after my lunch."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "我们到客厅里去吧，卡罗尔。",
+      "sentenceNo" : 11,
+      "timeline" : "00:00:31,170 --> 00:00:34,990",
+      "english" : "Let's go into the living room,Carol."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "我们可以在那里喝咖啡。",
+      "sentenceNo" : 12,
+      "timeline" : "00:00:34,990 --> 00:00:38,120",
+      "english" : "We can have our coffee there."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "屋子很乱，请原谅，萨姆。",
+      "sentenceNo" : 13,
+      "timeline" : "00:00:38,360 --> 00:00:41,600",
+      "english" : "Excuse the mess, Sam."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "房间里乱七八糟。",
+      "sentenceNo" : 14,
+      "timeline" : "00:00:41,700 --> 00:00:44,970",
+      "english" : "This room's very untidy."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "我们正在收拾手提箱。",
+      "sentenceNo" : 15,
+      "timeline" : "00:00:44,970 --> 00:00:48,060",
+      "english" : "We're packing our suitcases."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "明天我们就要走了。",
+      "sentenceNo" : 16,
+      "timeline" : "00:00:48,070 --> 00:00:51,900",
+      "english" : "We're going to leave tomorrow."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "我和汤姆准备去度假。",
+      "sentenceNo" : 17,
+      "timeline" : "00:00:52,080 --> 00:00:56,460",
+      "english" : "Tom and I are going to have a holiday."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "你们真幸运！",
+      "sentenceNo" : 18,
+      "timeline" : "00:00:56,760 --> 00:00:59,130",
+      "english" : "Aren't you lucky!"
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "萨姆，你准备什么时候去度假？",
+      "sentenceNo" : 19,
+      "timeline" : "00:00:59,610 --> 00:01:04,040",
+      "english" : "When are you going to have a holiday, Sam?"
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "我不知道。",
+      "sentenceNo" : 20,
+      "timeline" : "00:01:04,040 --> 00:01:05,940",
+      "english" : "I don't know."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "今年我已度过假了。",
+      "sentenceNo" : 21,
+      "timeline" : "00:01:07,090 --> 00:01:11,200",
+      "english" : "I've already had my holiday this year."
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "你去哪儿了？",
+      "sentenceNo" : 22,
+      "timeline" : "00:01:11,200 --> 00:01:13,530",
+      "english" : "Where did you go?"
+   },
+   {
+      "lessonNo" : 83,
+      "chinese" : "我呆在这里了！",
+      "sentenceNo" : 23,
+      "timeline" : "00:01:13,530 --> 00:01:15,560",
+      "english" : "I stayed at home!"
+   }
+]

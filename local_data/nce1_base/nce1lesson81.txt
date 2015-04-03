@@ -1,0 +1,92 @@
+1
+Hi, Carol! Where's Tom?
+<k></k>
+
+2
+He's upstairs.
+<k></k>
+
+3
+He's having a bath.
+<k></k>
+
+4
+Tom!
+<k></k>
+
+5
+Yes?
+<k></k>
+
+6
+Sam's here.
+<k></k>
+
+7
+I'm nearly ready.
+<k></k>
+
+8
+Hello, Sam.
+<k></k>
+
+9
+Have a cigarette.
+<k></k>
+
+10
+No, thanks, Tom.
+<k></k>
+
+11
+Have a glass of whisky then.
+<k></k>
+
+12
+OK. Thanks.
+<k></k>
+
+13
+Is dinner ready, Carol?
+<k></k>
+
+14
+It's nearly ready.
+<k></k>
+
+15
+We can have dinner at seven o'clock.
+<k></k>
+
+16
+Sam and I had lunch together today.
+<k></k>
+
+17
+We went to a restaurant.
+<k></k>
+
+18
+What did you have?
+<k></k>
+
+19
+We had roast beef and potatoes.
+<k></k>
+
+20
+Oh!
+<k></k>
+
+21
+What's the matter, Carol?
+<k></k>
+
+22
+Well, you're going to have
+<k></k>
+
+23
+ roast beef and potatoes again tonight!
+<k></k>
+

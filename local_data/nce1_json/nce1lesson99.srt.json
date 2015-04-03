@@ -1,0 +1,93 @@
+[
+   {
+      "lessonNo" : 99,
+      "chinese" : "Ow!",
+      "sentenceNo" : 1,
+      "timeline" : "00:00:00,652 --> 00:00:02,414",
+      "english" : "Ow!"
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "怎么了,Andy?",
+      "sentenceNo" : 2,
+      "timeline" : "00:00:02,663 --> 00:00:05,720",
+      "english" : "What's the matter, Andy?"
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "我滑了一跤,从楼梯上摔下来了.",
+      "sentenceNo" : 3,
+      "timeline" : "00:00:05,721 --> 00:00:09,332",
+      "english" : "I slipped and fell downstairs."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "你摔伤了自己吗?",
+      "sentenceNo" : 4,
+      "timeline" : "00:00:09,429 --> 00:00:12,313",
+      "english" : "Have you hurt yourself?"
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "是的,摔伤了.我想我把背摔坏了.",
+      "sentenceNo" : 5,
+      "timeline" : "00:00:12,314 --> 00:00:18,530",
+      "english" : "Yes, I have. I think that I've hurt my back."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "试试站起来.",
+      "sentenceNo" : 6,
+      "timeline" : "00:00:18,531 --> 00:00:21,293",
+      "english" : "Try and stand up."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "你能站起来吗?",
+      "sentenceNo" : 7,
+      "timeline" : "00:00:21,294 --> 00:00:23,772",
+      "english" : "Can you stand up?"
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "来,让我帮你.",
+      "sentenceNo" : 8,
+      "timeline" : "00:00:23,773 --> 00:00:26,738",
+      "english" : "Here. Let me help you."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "对不起,Lucy,",
+      "sentenceNo" : 9,
+      "timeline" : "00:00:26,739 --> 00:00:28,906",
+      "english" : "I'm sorry, Lucy."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "我想最好请医生来给你看一下.",
+      "sentenceNo" : 10,
+      "timeline" : "00:00:29,608 --> 00:00:34,485",
+      "english" : "I think that the doctor had better see you."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "我去给Carter医生打电话.",
+      "sentenceNo" : 11,
+      "timeline" : "00:00:34,486 --> 00:00:37,659",
+      "english" : "I'll phone Dr. Carter."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "医生说他马上就来.",
+      "sentenceNo" : 12,
+      "timeline" : "00:00:38,177 --> 00:00:43,014",
+      "english" : "The doctor says that he will come at once."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "Andy,我看你需要做一次X光透视.",
+      "sentenceNo" : 13,
+      "timeline" : "00:00:43,230 --> 00:00:48,368",
+      "english" : "I'm sure that you need an X-ray, Andy."
+   }
+]

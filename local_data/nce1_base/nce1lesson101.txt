@@ -1,0 +1,72 @@
+1
+Read Jimmy's card to me please, Penny.
+<k></k>
+
+2
+I have just arrived in Scotland and I'm staying at a Youth Hostel.'
+<k></k>
+
+3
+Eh?
+<k></k>
+
+4
+He says he's just arrived in Scotland.
+<k></k>
+
+5
+He says he's staying at a Youth Hostel.
+<k></k>
+
+6
+You know he's a member of the Y.H.A.
+<k></k>
+
+7
+The what?
+<k></k>
+
+8
+The Y.H.A., Mum. The Youth Hostels Association.
+<k></k>
+
+9
+What else does he say?
+<k></k>
+
+10
+I'll write a letter soon. I hope you are all well.'
+<k></k>
+
+11
+What? Speak up. Penny.
+<k></k>
+
+12
+I'm afraid I can't hear you.
+<k></k>
+
+13
+He say he'll write a letter soon.
+<k></k>
+
+14
+He hopes we are all well.
+<k></k>
+
+15
+Love, Jimmy.'
+<k></k>
+
+16
+Is that all?
+<k></k>
+
+17
+He doesn't say very much,does he?
+<k></k>
+
+18
+He can't write very much on a card, Mum.
+<k></k>
+

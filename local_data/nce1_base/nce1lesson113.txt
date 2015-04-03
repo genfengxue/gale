@@ -1,0 +1,76 @@
+1
+Fares, please!
+<k></k>
+
+2
+Trafalgar Square,please.
+<k></k>
+
+3
+I'm sorry, sir. I can't change a ten-pound note.
+<k></k>
+
+4
+Haven't you got any small change?
+<k></k>
+
+5
+I've got no small change, I am afraid.
+<k></k>
+
+6
+I'll ask some of the passengers.
+<k></k>
+
+7
+Have you any small change, sir?
+<k></k>
+
+8
+I'm sorry. I've got none.
+<k></k>
+
+9
+I haven't got any either.
+<k></k>
+
+10
+Can you change this ten-pound note, madam?
+<k></k>
+
+11
+I'm afraid I can't.
+<k></k>
+
+12
+Neither can I.
+<k></k>
+
+13
+I'm very sorry, sir.
+<k></k>
+
+14
+You must get off the bus.
+<k></k>
+
+15
+None of our passengers can change this note.
+<k></k>
+
+16
+They're all millionaires!
+<k></k>
+
+17
+Except us.
+<k></k>
+
+18
+I've got some small change.
+<k></k>
+
+19
+So have I.
+<k></k>
+

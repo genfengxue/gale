@@ -1,0 +1,72 @@
+1
+Where are you going to spend your holidays this year,Gary?
+<k></k>
+
+2
+We may go abroad.
+<k></k>
+
+3
+I'm not sure.
+<k></k>
+
+4
+My wife wants to go to Egypt.
+<k></k>
+
+5
+I'd like to go there, too.
+<k></k>
+
+6
+We can't make up our minds.
+<k></k>
+
+7
+Will you travel by sea or by air?
+<k></k>
+
+8
+We may travel by sea.
+<k></k>
+
+9
+It's cheaper, isn't it?
+<k></k>
+
+10
+I'm sure you'll enjoy yourselves.
+<k></k>
+
+11
+Don't be so sure.
+<k></k>
+
+12
+We might not go anywhere.
+<k></k>
+
+13
+My wife always worries too much.
+<k></k>
+
+14
+Who's going to look after the dog?
+<k></k>
+
+15
+Who's going to look after the house?
+<k></k>
+
+16
+Who's going to look after the garden?
+<k></k>
+
+17
+We have this problem every year.
+<k></k>
+
+18
+In the end, we stay at home and look after everything!
+<k></k>
+

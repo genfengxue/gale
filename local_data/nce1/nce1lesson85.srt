@@ -1,72 +1,90 @@
 1
 00:00:00,220 --> 00:00:01,940
 Hello, Ken.
+你好,Ken.
 
 2
 00:00:02,070 --> 00:00:03,870
 Hi, George.
+你好,George.
 
 3
 00:00:04,570 --> 00:00:07,620
 Have you just been to the cinema?
+你刚去过电影院吗?
 
 4
 00:00:07,620 --> 00:00:09,900
 Yes, I have.
+是的,我刚去过.
 
 5
 00:00:09,900 --> 00:00:11,420
 What's on?
+上映什么片子?
 
 6
 00:00:11,420 --> 00:00:13,750
 'Paris in the spring'.
+《巴黎之春》.
 
 7
 00:00:13,750 --> 00:00:16,940
 Oh, I've already seen it.
+噢,我已看过了.
 
 8
 00:00:16,940 --> 00:00:20,660
 I saw it on television last year.
+我是去年在电视上看的.
 
 9
 00:00:21,160 --> 00:00:24,990
 It's an old film, but it's very good.
+这是部老片子,但很好.
 
 10
 00:00:25,000 --> 00:00:28,170
 Paris is a beautiful city.
+巴黎是座美丽的城市.
 
 11
 00:00:28,170 --> 00:00:30,320
 I've never been there.
+我从未去过.
 
 12
 00:00:30,530 --> 00:00:33,480
 Have you ever been there, Ken?
+Ken,你去过吗?
 
 13
 00:00:33,490 --> 00:00:38,010
 Yes, I have. I was there in April.
+是的,我去过.4月份我在那儿.
 
 14
 00:00:38,020 --> 00:00:41,100
 Pairs in the spring, eh?
+那是巴黎之春,是吗?
 
 15
 00:00:41,140 --> 00:00:43,020
 It was spring,
+是春天,
 
 16
 00:00:43,030 --> 00:00:45,480
 but the weather was awful.
+但天气太糟了.
 
 17
 00:00:45,480 --> 00:00:48,310
 It rained all the time.
+一直在下雨.
 
 18
 00:00:48,480 --> 00:00:51,160
 Just like London!
+就像伦敦一样!
 

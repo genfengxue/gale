@@ -4,7 +4,7 @@ use Data::Dumper;
 use Encode;
 use JSON;
 
-my $src_path = 'local_data/direct_english';
+my $src_path = 'local_data/nce1';
 my $dst_path = "../../${src_path}_json";
 chdir $src_path or die $!;
 
@@ -46,7 +46,7 @@ for my $file (@files) {
 sub getLessonNo {
   my ($file) = @_;
 
-  if ($file =~ /^lesson(\d+)/i) {
+  if ($file =~ /lesson(\d+)/i) {
     return int($1);
   }
   die;#如果没匹配成功，就die

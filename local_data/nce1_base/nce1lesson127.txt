@@ -1,0 +1,84 @@
+1
+Can you recognize that woman,Liz?
+<k></k>
+
+2
+I think I can, Kate.
+<k></k>
+
+3
+It must be Karen Marsh,the actress.
+<k></k>
+
+4
+I thought so.
+<k></k>
+
+5
+Who's that beside her?
+<k></k>
+
+6
+That must be Conrad Reeves.
+<k></k>
+
+7
+Conrad Reeves, the actor?
+<k></k>
+
+8
+It can't be.
+<k></k>
+
+9
+Let me have another look.
+<k></k>
+
+10
+I think you're right!
+<k></k>
+
+11
+Isn't he her third husband?
+<k></k>
+
+12
+No. He must be her fourth or fifth.
+<k></k>
+
+13
+Doesn't Karen Marsh look old!
+<k></k>
+
+14
+She does, doesn't she!
+<k></k>
+
+15
+I read she's twenty-nine,
+<k></k>
+
+16
+but she must be at least forty.
+<k></k>
+
+17
+I'm sure she is.
+<k></k>
+
+18
+She was a famous actress When I was still at school.
+<k></k>
+
+19
+That was a long time ago, wasn't it?
+<k></k>
+
+20
+Not that long ago!
+<k></k>
+
+21
+I'm not more than twenty-nine myself.
+<k></k>
+

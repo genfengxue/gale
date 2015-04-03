@@ -1,0 +1,135 @@
+[
+   {
+      "lessonNo" : 139,
+      "chinese" : "是你吗,John?",
+      "sentenceNo" : 1,
+      "timeline" : "00:00:01,430 --> 00:00:03,271",
+      "english" : "Is that you, John?"
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "是我.",
+      "sentenceNo" : 2,
+      "timeline" : "00:00:03,919 --> 00:00:05,791",
+      "english" : "Yes, speaking."
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "你告诉Mary,今晚吃饭我们将晚到一会儿.",
+      "sentenceNo" : 3,
+      "timeline" : "00:00:06,711 --> 00:00:11,108",
+      "english" : "Tell Mary we'll be late for dinner this evening."
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "我恐怕我还不明白你的意思.",
+      "sentenceNo" : 4,
+      "timeline" : "00:00:11,570 --> 00:00:14,787",
+      "english" : "I'm afraid I don't understand."
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "Mary没有告诉你吗?",
+      "sentenceNo" : 5,
+      "timeline" : "00:00:15,058 --> 00:00:17,591",
+      "english" : "Hasn't Mary told you?"
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "她邀请我和Charlotte今晚去吃饭.",
+      "sentenceNo" : 6,
+      "timeline" : "00:00:18,136 --> 00:00:22,539",
+      "english" : "She invited Charlotte and me to dinner this evening."
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "我说过我6点到你家,",
+      "sentenceNo" : 7,
+      "timeline" : "00:00:22,950 --> 00:00:28,123",
+      "english" : "I said I would be at your house at six o'clock,"
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "但是老板想让我做点额外的工作.",
+      "sentenceNo" : 8,
+      "timeline" : "00:00:28,768 --> 00:00:33,215",
+      "english" : "but the boss wants me to do some extra work."
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "我不得不留在办公室,",
+      "sentenceNo" : 9,
+      "timeline" : "00:00:33,499 --> 00:00:36,384",
+      "english" : "I'll have to stay at the office."
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "我不知道什么时候才能结束.",
+      "sentenceNo" : 10,
+      "timeline" : "00:00:36,655 --> 00:00:39,358",
+      "english" : "I don't know when I'll finish."
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "Oh,顺便问一问,我妻子想知道Mary是否需要帮忙.",
+      "sentenceNo" : 11,
+      "timeline" : "00:00:40,078 --> 00:00:47,478",
+      "english" : "Oh, and by the way, my wife wants to know if Mary needs any help."
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "我不知道你在说些什么.",
+      "sentenceNo" : 12,
+      "timeline" : "00:00:48,297 --> 00:00:52,029",
+      "english" : "I don't know what you're talking about."
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "你是John Smith,对吗?",
+      "sentenceNo" : 13,
+      "timeline" : "00:00:52,326 --> 00:00:55,688",
+      "english" : "That is John Smith, isn't it?"
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "是的,我是John Smith.",
+      "sentenceNo" : 14,
+      "timeline" : "00:00:56,006 --> 00:00:58,441",
+      "english" : "Yes, I'm John Smith."
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "你是工程师John Smith,对吗?",
+      "sentenceNo" : 15,
+      "timeline" : "00:00:59,260 --> 00:01:04,153",
+      "english" : "You are John Smith,the engineer,aren't you?"
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "对.",
+      "sentenceNo" : 16,
+      "timeline" : "00:01:04,544 --> 00:01:05,752",
+      "english" : "That's right."
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "你在海外工程公司上班,是吗?",
+      "sentenceNo" : 17,
+      "timeline" : "00:01:06,933 --> 00:01:12,619",
+      "english" : "You work for the Overseas Engineering Company, don't you?"
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "不,不是.我是电话工程师John Smith,",
+      "sentenceNo" : 18,
+      "timeline" : "00:01:13,024 --> 00:01:19,244",
+      "english" : "No, I don't. I'm John Smith the telephone engineer"
+   },
+   {
+      "lessonNo" : 139,
+      "chinese" : "我正在修理你的电话线.",
+      "sentenceNo" : 19,
+      "timeline" : "00:01:19,723 --> 00:01:23,421",
+      "english" : "and I'm repairing your telephone line."
+   }
+]
