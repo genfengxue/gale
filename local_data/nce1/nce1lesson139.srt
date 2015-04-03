@@ -1,95 +1,95 @@
 1
 00:00:01,430 --> 00:00:03,271
 Is that you, John?
-ÊÇÄãÂğ,John?
+æ˜¯ä½ å—,John?
 
 2
 00:00:03,919 --> 00:00:05,791
 Yes, speaking.
-ÊÇÎÒ.
+æ˜¯æˆ‘.
 
 3
 00:00:06,711 --> 00:00:11,108
 Tell Mary we'll be late for dinner this evening.
-Äã¸æËßMary,½ñÍí³Ô·¹ÎÒÃÇ½«Ííµ½Ò»»á¶ù.
+ä½ å‘Šè¯‰Mary,ä»Šæ™šåƒé¥­æˆ‘ä»¬å°†æ™šåˆ°ä¸€ä¼šå„¿.
 
 4
 00:00:11,570 --> 00:00:14,787
 I'm afraid I don't understand.
-ÎÒ¿ÖÅÂÎÒ»¹²»Ã÷°×ÄãµÄÒâË¼.
+æˆ‘ææ€•æˆ‘è¿˜ä¸æ˜ç™½ä½ çš„æ„æ€.
 
 5
 00:00:15,058 --> 00:00:17,591
 Hasn't Mary told you?
-MaryÃ»ÓĞ¸æËßÄãÂğ?
+Maryæ²¡æœ‰å‘Šè¯‰ä½ å—?
 
 6
 00:00:18,136 --> 00:00:22,539
 She invited Charlotte and me to dinner this evening.
-ËıÑûÇëÎÒºÍCharlotte½ñÍíÈ¥³Ô·¹.
+å¥¹é‚€è¯·æˆ‘å’ŒCharlotteä»Šæ™šå»åƒé¥­.
 
 7
 00:00:22,950 --> 00:00:28,123
 I said I would be at your house at six o'clock,
-ÎÒËµ¹ıÎÒ6µãµ½Äã¼Ò,
+æˆ‘è¯´è¿‡æˆ‘6ç‚¹åˆ°ä½ å®¶,
 
 8
 00:00:28,768 --> 00:00:33,215
 but the boss wants me to do some extra work.
-µ«ÊÇÀÏ°åÏëÈÃÎÒ×öµã¶îÍâµÄ¹¤×÷.
+ä½†æ˜¯è€æ¿æƒ³è®©æˆ‘åšç‚¹é¢å¤–çš„å·¥ä½œ.
 
 9
 00:00:33,499 --> 00:00:36,384
 I'll have to stay at the office.
-ÎÒ²»µÃ²»ÁôÔÚ°ì¹«ÊÒ,
+æˆ‘ä¸å¾—ä¸ç•™åœ¨åŠå…¬å®¤,
 
 10
 00:00:36,655 --> 00:00:39,358
 I don't know when I'll finish.
-ÎÒ²»ÖªµÀÊ²Ã´Ê±ºò²ÅÄÜ½áÊø.
+æˆ‘ä¸çŸ¥é“ä»€ä¹ˆæ—¶å€™æ‰èƒ½ç»“æŸ.
 
 11
 00:00:40,078 --> 00:00:47,478
 Oh, and by the way, my wife wants to know if Mary needs any help.
-Oh,Ë³±ãÎÊÒ»ÎÊ,ÎÒÆŞ×ÓÏëÖªµÀMaryÊÇ·ñĞèÒª°ïÃ¦.
+Oh,é¡ºä¾¿é—®ä¸€é—®,æˆ‘å¦»å­æƒ³çŸ¥é“Maryæ˜¯å¦éœ€è¦å¸®å¿™.
 
 12
 00:00:48,297 --> 00:00:52,029
 I don't know what you're talking about.
-ÎÒ²»ÖªµÀÄãÔÚËµĞ©Ê²Ã´.
+æˆ‘ä¸çŸ¥é“ä½ åœ¨è¯´äº›ä»€ä¹ˆ.
 
 13
 00:00:52,326 --> 00:00:55,688
 That is John Smith, isn't it?
-ÄãÊÇJohn Smith,¶ÔÂğ?
+ä½ æ˜¯John Smith,å¯¹å—?
 
 14
 00:00:56,006 --> 00:00:58,441
 Yes, I'm John Smith.
-ÊÇµÄ,ÎÒÊÇJohn Smith.
+æ˜¯çš„,æˆ‘æ˜¯John Smith.
 
 15
 00:00:59,260 --> 00:01:04,153
 You are John Smith,the engineer,aren't you? 
-ÄãÊÇ¹¤³ÌÊ¦John Smith,¶ÔÂğ?
+ä½ æ˜¯å·¥ç¨‹å¸ˆJohn Smith,å¯¹å—?
 
 16
 00:01:04,544 --> 00:01:05,752
 That's right.
-¶Ô.
+å¯¹.
 
 17
 00:01:06,933 --> 00:01:12,619
 You work for the Overseas Engineering Company, don't you? 
-ÄãÔÚº£Íâ¹¤³Ì¹«Ë¾ÉÏ°à,ÊÇÂğ?
+ä½ åœ¨æµ·å¤–å·¥ç¨‹å…¬å¸ä¸Šç­,æ˜¯å—?
 
 18
 00:01:13,024 --> 00:01:19,244
 No, I don't. I'm John Smith the telephone engineer
-²»,²»ÊÇ.ÎÒÊÇµç»°¹¤³ÌÊ¦John Smith,
+ä¸,ä¸æ˜¯.æˆ‘æ˜¯ç”µè¯å·¥ç¨‹å¸ˆJohn Smith,
 
 19
 00:01:19,723 --> 00:01:23,421
 and I'm repairing your telephone line.
-ÎÒÕıÔÚĞŞÀíÄãµÄµç»°Ïß.
+æˆ‘æ­£åœ¨ä¿®ç†ä½ çš„ç”µè¯çº¿.
 

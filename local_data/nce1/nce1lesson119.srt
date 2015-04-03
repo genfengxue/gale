@@ -1,80 +1,80 @@
 1
 00:00:00,499 --> 00:00:03,260
 Do you like stories?
-ÄãÏ²»¶Ìý¹ÊÊÂÂð?
+ä½ å–œæ¬¢å¬æ•…äº‹å—?
 
 2
 00:00:03,784 --> 00:00:07,325
 I want to tell you a true story.
-ÎÒÏëÒª¸æËßÄãÒ»¸öÕæÊµµÄ¹ÊÊÂ.
+æˆ‘æƒ³è¦å‘Šè¯‰ä½ ä¸€ä¸ªçœŸå®žçš„æ•…äº‹.
 
 3
 00:00:08,088 --> 00:00:12,546
 It happened to a friend of mine a year ago.
-ÕâÊÇÒ»ÄêÇ°·¢ÉúÔÚÎÒµÄÒ»¸öÅóÓÑÉíÉÏµÄ¹ÊÊÂ.
+è¿™æ˜¯ä¸€å¹´å‰å‘ç”Ÿåœ¨æˆ‘çš„ä¸€ä¸ªæœ‹å‹èº«ä¸Šçš„æ•…äº‹.
 
 4
 00:00:12,997 --> 00:00:23,070
 While my friend, George, was reading in bed, two thieves climbed into his kitchen.
-µ±ÎÒµÄÅóGeorgeÖÎÔÚ´²ÉÏ¿´ÊéÊ±,Á½¸öÐ¡ÍµÅÀ½øÁËËûµÄ³ø·¿.
+å½“æˆ‘çš„æœ‹Georgeæ²»åœ¨åºŠä¸Šçœ‹ä¹¦æ—¶,ä¸¤ä¸ªå°å·çˆ¬è¿›äº†ä»–çš„åŽ¨æˆ¿.
 
 5
 00:00:23,487 --> 00:00:29,618
 After they had entered the house, they went into the dining room.
-ËûÃÇ½øµ½ÎÝÀïºó,×ß½øÁË·¹Ìü.
+ä»–ä»¬è¿›åˆ°å±‹é‡ŒåŽ,èµ°è¿›äº†é¥­åŽ….
 
 6
 00:00:29,634 --> 00:00:35,881
 It was very dark, so they turned on a torch.
-·¹ÌüÀïºÜ°µ,ÓÚÊÇËûÃÇ´ò¿ªÁËÊÖµçÍ².
+é¥­åŽ…é‡Œå¾ˆæš—,äºŽæ˜¯ä»–ä»¬æ‰“å¼€äº†æ‰‹ç”µç­’.
 
 7
 00:00:36,082 --> 00:00:41,139
 Suddenly, they heard a voice behind them.
-Í»È»ËûÃÇÌýµ½ÉíºóÓÐÉùÒô.
+çªç„¶ä»–ä»¬å¬åˆ°èº«åŽæœ‰å£°éŸ³.
 
 8
 00:00:41,445 --> 00:00:45,405
 What's up? What's up?' someone called.
-¡°Ê²Ã´ÊÂ?Ê²Ã´ÊÂ?¡±ÓÐÈË½Ð×Å.
+â€œä»€ä¹ˆäº‹?ä»€ä¹ˆäº‹?â€æœ‰äººå«ç€.
 
 9
 00:00:46,081 --> 00:00:54,002
 The thieves dropped the torch and ran away as quickly as they could.
-Ð¡ÍµÈÓÏÂÁËÊÖµçÍ²,ÒÔËûÃÇ×î¿ìµÄËÙ¶ÈÌÓ×ßÁË.
+å°å·æ‰”ä¸‹äº†æ‰‹ç”µç­’,ä»¥ä»–ä»¬æœ€å¿«çš„é€Ÿåº¦é€ƒèµ°äº†.
 
 10
 00:00:54,216 --> 00:00:59,816
 George heard the noise and came downstairs quickly.
-ÇÇÖÎÌýµ½ÁËÏìÉù,Ñ¸ËÙµØÏÂÁËÂ¥.
+ä¹”æ²»å¬åˆ°äº†å“å£°,è¿…é€Ÿåœ°ä¸‹äº†æ¥¼.
 
 11
 00:00:59,929 --> 00:01:04,817
 He turned on the light, but he couldn't see anyone.
-Ëû¿ªÁËµÆ,µ«²»¼ûÒ»¸öÈË.
+ä»–å¼€äº†ç¯,ä½†ä¸è§ä¸€ä¸ªäºº.
 
 12
 00:01:04,818 --> 00:01:08,045
 The thieves had already gone.
-Ð¡ÍµÃÇÒÑ¾­ÌÓ×ßÁË.
+å°å·ä»¬å·²ç»é€ƒèµ°äº†.
 
 13
 00:01:08,324 --> 00:01:13,048
 But George's parrot, Henry, was still there.
-µ«ÊÇGeorgeµÄðÐðÄHenryÈÔÔÚÄÇÀï.
+ä½†æ˜¯Georgeçš„é¹¦é¹‰Henryä»åœ¨é‚£é‡Œ.
 
 14
 00:01:13,049 --> 00:01:16,036
 What's up, George?' he called.
-¡°Ê²Ã´ÊÂ,George?¡±Ëü½Ð×Å.
+â€œä»€ä¹ˆäº‹,George?â€å®ƒå«ç€.
 
 15
 00:01:16,224 --> 00:01:20,724
 Nothing, Henry,' George said and smiled.
-¡°Ã»ÊÂ,Henry.¡± GeorgeÐ¦×ÅËµ,
+â€œæ²¡äº‹,Henry.â€ Georgeç¬‘ç€è¯´,
 
 16
 00:01:20,810 --> 00:01:22,760
 Go back to sleep.'
-¡°½Ó×ÅË¯¾õ°É.¡±
+â€œæŽ¥ç€ç¡è§‰å§.â€
 

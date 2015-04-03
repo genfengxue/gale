@@ -1,75 +1,75 @@
 1
 00:00:00,753 --> 00:00:06,653
 I bought two expensive dictionaries here half an hour ago,
-°ëÐ¡Ê±Ç°ÎÒÔÚÕâÀïÂòÁËÁ½±¾ºÜ¹óµÄ´Çµä,
+åŠå°æ—¶å‰æˆ‘åœ¨è¿™é‡Œä¹°äº†ä¸¤æœ¬å¾ˆè´µçš„è¾žå…¸,
 
 2
 00:00:07,314 --> 00:00:11,484
 but I forgot to take them with me.
-µ«ÊÇÎÒÍüÁË´ø×ßËûÃÇ.
+ä½†æ˜¯æˆ‘å¿˜äº†å¸¦èµ°ä»–ä»¬.
 
 3
 00:00:12,737 --> 00:00:15,085
 Who served you, sir?
-ÊÇË­·þÎñÄúµÄ,ÏÈÉú?
+æ˜¯è°æœåŠ¡æ‚¨çš„,å…ˆç”Ÿ?
 
 4
 00:00:15,501 --> 00:00:19,448
 The lady who is standing behind the counter.
-Õ¾ÔÚ¹ñÌ¨ºóÃæµÄÄÇÎ»Å®Ê¿.
+ç«™åœ¨æŸœå°åŽé¢çš„é‚£ä½å¥³å£«.
 
 5
 00:00:19,449 --> 00:00:22,063
 Which books did you buy?
-ÄúÂòµÄÊÇÁ½±¾Ê²Ã´Êé?
+æ‚¨ä¹°çš„æ˜¯ä¸¤æœ¬ä»€ä¹ˆä¹¦?
 
 6
 00:00:22,936 --> 00:00:26,217
 The books which are on the counter.
-¾ÍÊÇ¹ñÌ¨ÉÏµÄÄÇÁ½±¾.
+å°±æ˜¯æŸœå°ä¸Šçš„é‚£ä¸¤æœ¬.
 
 7
 00:00:26,804 --> 00:00:32,001
 Did you serve this gentleman half an hour ago, Caroline?
-Caroline,°ëÐ¡Ê±Ç°Äã·þÎñ¹ýÕâÎ»ÏÈÉúÂð?
+Caroline,åŠå°æ—¶å‰ä½ æœåŠ¡è¿‡è¿™ä½å…ˆç”Ÿå—?
 
 8
 00:00:32,494 --> 00:00:37,107
 He says he's the man who bought these books.
-ËûËµËû¾ÍÊÇÂòÕâÁ½±¾ÊéµÄÈË.
+ä»–è¯´ä»–å°±æ˜¯ä¹°è¿™ä¸¤æœ¬ä¹¦çš„äºº.
 
 9
 00:00:37,108 --> 00:00:40,044
 I can't remember.
-ÎÒ¼Ç²»ÆðÀ´ÁË.
+æˆ‘è®°ä¸èµ·æ¥äº†.
 
 10
 00:00:40,389 --> 00:00:45,276
 The man who I served was wearing a hat.
-ÎÒ·þÎñµÄÄÇ¸öÈË´÷×ÅÒ»¶¥Ã±×Ó.
+æˆ‘æœåŠ¡çš„é‚£ä¸ªäººæˆ´ç€ä¸€é¡¶å¸½å­.
 
 11
 00:00:45,477 --> 00:00:50,875
 Have you got a hat, sir? Yes, I have.
-ÏÈÉú,ÄúÓÐÃ±×ÓÂð?ÓÐµÄ,ÎÒÓÐÃ±×Ó.
+å…ˆç”Ÿ,æ‚¨æœ‰å¸½å­å—?æœ‰çš„,æˆ‘æœ‰å¸½å­.
 
 12
 00:00:51,314 --> 00:00:54,019
 Would you put it on, please? 
-ÇëÄú°ÑÃ±×Ó´÷ÉÏºÃÂð?
+è¯·æ‚¨æŠŠå¸½å­æˆ´ä¸Šå¥½å—?
 
 13
 00:00:54,020 --> 00:00:55,682
 All right.
-ºÃ°É.
+å¥½å§.
 
 14
 00:00:56,287 --> 00:01:00,431
 Is this the man that you served, Caroline?
-Caroline,Õâ¾ÍÊÇÄã½Ó·þÎñµÄÄÇ¸öÈËÂð?
+Caroline,è¿™å°±æ˜¯ä½ æŽ¥æœåŠ¡çš„é‚£ä¸ªäººå—?
 
 15
 00:01:00,780 --> 00:01:05,164
 Yes.I recognize him now.
-ÊÇËû.ÎÒÏÖÔÚÈÏ³öËûÀ´ÁË.
+æ˜¯ä»–.æˆ‘çŽ°åœ¨è®¤å‡ºä»–æ¥äº†.
 

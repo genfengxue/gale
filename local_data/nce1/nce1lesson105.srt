@@ -1,47 +1,47 @@
 1
 00:00:00,791 --> 00:00:03,227
 Where's Sandra, Bob?
-Bob,SandraÔÚÄÄ¶ù?
+Bob,Sandraåœ¨å“ªå„¿?
 
 2
 00:00:03,228 --> 00:00:04,795
 I want her.
-ÎÒÒªÕÒËý.
+æˆ‘è¦æ‰¾å¥¹.
 
 3
 00:00:04,911 --> 00:00:07,997
 Do you want to speak to her?
-ÄúÒªÍ¬ËýÌ¸»°Âð?
+æ‚¨è¦åŒå¥¹è°ˆè¯å—?
 
 4
 00:00:07,998 --> 00:00:13,600
 Yes, I do. I want her to come to my office.
-ÊÇµÄ,ÎÒÒªËýµ½ÎÒµÄ°ì¹«ÊÒÀ´.
+æ˜¯çš„,æˆ‘è¦å¥¹åˆ°æˆ‘çš„åŠžå…¬å®¤æ¥.
 
 5
 00:00:13,601 --> 00:00:16,731
 Tell her to come at once.
-½ÐËýÂíÉÏ¾ÍÀ´.
+å«å¥¹é©¬ä¸Šå°±æ¥.
 
 6
 00:00:16,732 --> 00:00:19,898
 Did you want to see me?
-ÄúÕÒÎÒÂð?
+æ‚¨æ‰¾æˆ‘å—?
 
 7
 00:00:19,899 --> 00:00:22,801
 Ah, yes, Sandra.
-°¡,ÊÇµÄ,Sandra.
+å•Š,æ˜¯çš„,Sandra.
 
 8
 00:00:22,919 --> 00:00:26,486
 How do you spell "intelligent'?
-¡°intelligent¡±ÔõÑùÆ´Ð´?
+â€œintelligentâ€æ€Žæ ·æ‹¼å†™?
 
 9
 00:00:26,487 --> 00:00:28,568
 Can you tell me?
-ÄãÄÜ¸æËßÎÒÂð?
+ä½ èƒ½å‘Šè¯‰æˆ‘å—?
 
 10
 00:00:28,802 --> 00:00:39,734
@@ -51,45 +51,45 @@ I-N-T-E-L-L-I-G-E-N-T.
 11
 00:00:39,735 --> 00:00:45,688
 That's right. You've typed it with only one 'L'.
-¶ÔµÄ.µ«ÄãÖ»´òÁËÒ»¸ö¡°L¡±.
+å¯¹çš„.ä½†ä½ åªæ‰“äº†ä¸€ä¸ªâ€œLâ€.
 
 12
 00:00:45,689 --> 00:00:49,501
 This letter's full of mistakes.
-Õâ·âÐÅÀï´íÎó°Ù³ö.
+è¿™å°ä¿¡é‡Œé”™è¯¯ç™¾å‡º.
 
 13
 00:00:49,502 --> 00:00:53,220
 I want you to type it again.
-ÎÒÒªÄãÖØ´òÒ»±é.
+æˆ‘è¦ä½ é‡æ‰“ä¸€é.
 
 14
 00:00:53,221 --> 00:00:56,172
 Yes, I'll do that.
-ÊÇµÄ,ÎÒÖØ´ò.
+æ˜¯çš„,æˆ‘é‡æ‰“.
 
 15
 00:00:56,438 --> 00:00:59,423
 I'm sorry about that.
-¶Ô´ËÎÒ¸Ðµ½ºÜ±§Ç¸.
+å¯¹æ­¤æˆ‘æ„Ÿåˆ°å¾ˆæŠ±æ­‰.
 
 16
 00:00:59,424 --> 00:01:02,856
 And here's a little present for you.
-ÕâÀïÓÐÒ»¼þÐ¡ÀñÎïËÍÄã.
+è¿™é‡Œæœ‰ä¸€ä»¶å°ç¤¼ç‰©é€ä½ .
 
 17
 00:01:02,857 --> 00:01:04,733
 What is it?
-ÊÇÊ²Ã´?
+æ˜¯ä»€ä¹ˆ?
 
 18
 00:01:04,734 --> 00:01:06,852
 It's a dictionary.
-ÊÇ±¾´Êµä.
+æ˜¯æœ¬è¯å…¸.
 
 19
 00:01:06,866 --> 00:01:09,107
 I hope it'll help you.
-ÎÒÏ£ÍûËüÄÜ¶ÔÄãÓÐËù°ïÖú.
+æˆ‘å¸Œæœ›å®ƒèƒ½å¯¹ä½ æœ‰æ‰€å¸®åŠ©.
 

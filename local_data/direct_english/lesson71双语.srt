@@ -1,135 +1,135 @@
 1
 00:00:06,826 --> 00:00:08,048
 Hello,Didi?
-ÄãºÃ, Didi?
+ä½ å¥½, Didi?
 
 2
 00:00:08,049 --> 00:00:10,830
 This is Sharon Solaye at the Sheraton Boston.
-ÕâÊÇSharon Solaye  ÔÚSheraton Boston.
+è¿™æ˜¯Sharon Solaye  åœ¨Sheraton Boston.
 
 3
 00:00:10,831 --> 00:00:13,099
 I have a special request.
-ÎÒÓÐ¸öÌØ±ðµÄÇëÇó.
+æˆ‘æœ‰ä¸ªç‰¹åˆ«çš„è¯·æ±‚.
 
 4
 00:00:13,100 --> 00:00:15,340
 I wonder if I could come over and talk to you about it?
-ÎÒÏëÖªµÀÎÒÄÜ¹ýÀ´ºÍÄãÌ¸Ì¸Âð?
+æˆ‘æƒ³çŸ¥é“æˆ‘èƒ½è¿‡æ¥å’Œä½ è°ˆè°ˆå—?
 
 5
 00:00:16,223 --> 00:00:17,499
 Great.
-ºÜ°ô.
+å¾ˆæ£’.
 
 6
 00:00:31,960 --> 00:00:34,073
 So,let me get this straight.
-So, ÈÃÎÒÖ±Ëµ°É.
+So, è®©æˆ‘ç›´è¯´å§.
 
 7
 00:00:34,074 --> 00:00:36,403
 He doesn't want his regular suite at the hotel.
-Ëû²»ÏëÒªËû¾ÆµêÀïµÄ³£¹æÌ×·¿.
+ä»–ä¸æƒ³è¦ä»–é…’åº—é‡Œçš„å¸¸è§„å¥—æˆ¿.
 
 8
 00:00:36,404 --> 00:00:38,898
 Right.It's too small for him this time.
-Right. Õâ´ÎËûÏÓÌ«Ð¡ÁË.
+Right. è¿™æ¬¡ä»–å«Œå¤ªå°äº†.
 
 9
 00:00:38,899 --> 00:00:40,736
 He wants to rent a house.
-ËûÏë×âÒ»¸ö·¿×Ó.
+ä»–æƒ³ç§Ÿä¸€ä¸ªæˆ¿å­.
 
 10
 00:00:40,744 --> 00:00:44,037
 Yes.He wants a house with a garden.
-Yes. ËûÏëÒªÒ»¸ö·¿×Ó  ´ø»¨Ô°µÄ.
+Yes. ä»–æƒ³è¦ä¸€ä¸ªæˆ¿å­  å¸¦èŠ±å›­çš„.
 
 11
 00:00:44,038 --> 00:00:46,142
 With a garden.Why?
-´ø»¨Ô°µÄ, ÎªÊ²Ã´?
+å¸¦èŠ±å›­çš„, ä¸ºä»€ä¹ˆ?
 
 12
 00:00:50,381 --> 00:00:52,459
 And he wants a large kitchen,
-²¢ÇÒËûÏëÒªÒ»¸öºÜ´óµÄ³ø·¿
+å¹¶ä¸”ä»–æƒ³è¦ä¸€ä¸ªå¾ˆå¤§çš„åŽ¨æˆ¿
 
 13
 00:00:52,460 --> 00:00:55,014
 living room,and dining room.
-Æð¾ÓÊÒ, ºÍ²ÍÌü.
+èµ·å±…å®¤, å’Œé¤åŽ….
 
 14
 00:00:55,627 --> 00:00:58,039
 It has to have plenty of light,
-Ëü±ØÐëÓÐ³ä×ãµÄ¹âÏß,
+å®ƒå¿…é¡»æœ‰å……è¶³çš„å…‰çº¿,
 
 15
 00:00:58,280 --> 00:01:00,784
 and central air conditioning.
-ºÍÖÐÑë¿Õµ÷.
+å’Œä¸­å¤®ç©ºè°ƒ.
 
 16
 00:01:02,870 --> 00:01:05,391
 It must be near transportation,
-Ëü±ØÐë¿¿½ü½»Í¨,
+å®ƒå¿…é¡»é è¿‘äº¤é€š,
 
 17
 00:01:05,392 --> 00:01:08,090
 shopping,and the river.
-¹ºÎï, ºÍºÓ.
+è´­ç‰©, å’Œæ²³.
 
 18
 00:01:10,106 --> 00:01:11,829
 How many bedrooms?
-¶àÉÙ¼äÎÔÊÒ?
+å¤šå°‘é—´å§å®¤?
 
 19
 00:01:11,830 --> 00:01:13,131
 Nine.
-9¼ä.
+9é—´.
 
 20
 00:01:13,132 --> 00:01:15,507
 Did I hear you correctly?
-ÎÒÌýµÄÊÇ¶ÔµÄÂð?
+æˆ‘å¬çš„æ˜¯å¯¹çš„å—?
 
 21
 00:01:15,825 --> 00:01:17,721
 Nine bedrooms?
-9¼äÎÔÊÒ?
+9é—´å§å®¤?
 
 22
 00:01:17,722 --> 00:01:20,649
 Who is this client,the Vienna Boy's Choir?
-Õâ¸ö¿ÍÈËÊÇË­, Î¬Ò²ÄÉÉÙÄêºÏ³ªÍÅ(Vienna Boy's Choir)?
+è¿™ä¸ªå®¢äººæ˜¯è°, ç»´ä¹Ÿçº³å°‘å¹´åˆå”±å›¢(Vienna Boy's Choir)?
 
 23
 00:01:20,650 --> 00:01:23,633
 Maybe.He wants it for a song.
-»òÐí°É. ËûËµ²»ÒªÌ«¹ó.
+æˆ–è®¸å§. ä»–è¯´ä¸è¦å¤ªè´µ.
 
 24
 00:01:24,568 --> 00:01:27,926
 Well,there is something in Boston that fits his needs.
-Well, ÔÚ²¨Ê¿¶ÙÓÐ¸öµØ·½·ûºÏËûµÄÐèÇó¡£
+Well, åœ¨æ³¢å£«é¡¿æœ‰ä¸ªåœ°æ–¹ç¬¦åˆä»–çš„éœ€æ±‚ã€‚
 
 25
 00:01:27,927 --> 00:01:28,950
 Great.
-ºÜ°ô.
+å¾ˆæ£’.
 
 26
 00:01:28,951 --> 00:01:31,671
 Unfortunately,the mayor lives there.
-²»ÐÒµÄÊÇ, ÊÐ³¤×¡ÔÚÄÇ¶ù.
+ä¸å¹¸çš„æ˜¯, å¸‚é•¿ä½åœ¨é‚£å„¿.
 
 27
 00:01:32,273 --> 00:01:34,924
 Do you think he'd mind moving out for a month?
-Äã¾õµÃËû»á½éÒâ°á³öÈ¥×¡Ò»¸öÔÂÂð?
+ä½ è§‰å¾—ä»–ä¼šä»‹æ„æ¬å‡ºåŽ»ä½ä¸€ä¸ªæœˆå—?
 
