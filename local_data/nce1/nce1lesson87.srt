@@ -80,7 +80,7 @@ Can your mechanics repair it?
 
 17
 00:00:54,580 --> 00:00:58,390
-Well, they're trying to repair it,sir.
+Well, they're trying to repair it, sir.
 啊,他们正设法修呢,先生.
 
 18

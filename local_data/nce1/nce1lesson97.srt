@@ -50,17 +50,17 @@ What's your name and address?
 
 11
 00:00:38,392 --> 00:00:43,047
-David Hall,83,Bridge Street.
+David Hall, 83, Bridge Street.
 David Hall,大桥路83号.
 
 12
 00:00:43,048 --> 00:00:49,720
-That's right. D.N. Hall, 83, Bridge Street.
+That's right. D. N. Hall, 83, Bridge Street.
 那就对了.D.N.Hall,大桥路83号.
 
 13
 00:00:49,843 --> 00:00:53,410
-Three pounds fifty pence,please.
+Three pounds fifty pence, please.
 请付3英镑50便士.
 
 14

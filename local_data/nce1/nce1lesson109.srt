@@ -1,11 +1,11 @@
 1
 00:00:00,765 --> 00:00:05,030
-我来煮点咖啡好吗,Jane?
+我来煮点咖啡好吗, Jane?
 Shall I make some coffee,Jane?
 
 2
 00:00:05,115 --> 00:00:08,992
-这是个好主意,Charlotte.
+这是个好主意, Charlotte.
 That's a good idea, Charlotte.
 
 3

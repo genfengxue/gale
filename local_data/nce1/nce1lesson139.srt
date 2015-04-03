@@ -70,7 +70,7 @@ Yes, I'm John Smith.
 
 15
 00:00:59,260 --> 00:01:04,153
-You are John Smith,the engineer,aren't you? 
+You are John Smith, the engineer, aren't you? 
 你是工程师John Smith,对吗?
 
 16

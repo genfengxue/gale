@@ -1,6 +1,6 @@
 1
 00:00:00,705 --> 00:00:05,214
-Can you recognize that woman,Liz?
+Can you recognize that woman, Liz?
 Liz,你能认出那个女人吗?
   
 2
@@ -10,7 +10,7 @@ I think I can, Kate.
   
 3
 00:00:08,643 --> 00:00:13,542
-It must be Karen Marsh,the actress.
+It must be Karen Marsh, the actress.
 那一定是女演员Karen Marsh.
   
 4

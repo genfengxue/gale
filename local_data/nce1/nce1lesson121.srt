@@ -70,6 +70,6 @@ Caroline,这就是你接服务的那个人吗?
 
 15
 00:01:00,780 --> 00:01:05,164
-Yes.I recognize him now.
+Yes. I recognize him now.
 是他.我现在认出他来了.
 

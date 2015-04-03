@@ -1,6 +1,6 @@
 1
 00:00:00,797 --> 00:00:04,538
-Two return tickets to London,please.
+Two return tickets to London, please.
 两张到伦敦的往返票, 请.
 
 2

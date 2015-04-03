@@ -1,6 +1,6 @@
 1
 00:00:01,440 --> 00:00:04,870
-Good morning. Mr.Croft.
+Good morning. Mr. Croft.
 早上好,Croft先生.
 
 2
@@ -10,7 +10,7 @@ Good morning, nurse.
 
 3
 00:00:07,440 --> 00:00:11,400
-I want to see the dentist,please.
+I want to see the dentist, please.
 我想见牙科医生.
 
 4
@@ -50,12 +50,12 @@ I have a terrible toothache.
 
 11
 00:00:30,910 --> 00:00:37,290
-Can you come at 10 a.m. on Monday, April 24th?
+Can you come at 10 a. m. on Monday, April 24th?
 您在4月24日星期一上午10点钟来行吗?
 
 12
 00:00:37,310 --> 00:00:42,330
-I must see the dentist now,nurse.
+I must see the dentist now, nurse.
 我必须现在就见牙科医生,护士.
 
 13
@@ -65,7 +65,7 @@ The dentist is very busy at the moment.
 
 14
 00:00:47,500 --> 00:00:51,080
-Can you come at 2 p.m.?
+Can you come at 2 p. m.?
 您下午两点钟来行吗?
 
 15
@@ -80,7 +80,7 @@ Can the dentist see me now?
 
 17
 00:00:57,390 --> 00:01:02,190
-I'm afraid that he can't,Mr. Croft.
+I'm afraid that he can't, Mr. Croft.
 恐怕不能,克罗夫特先生.
 
 18

@@ -1,6 +1,6 @@
 1
 00:00:00,684 --> 00:00:04,107
-Do you like this dress,madam?
+Do you like this dress, madam?
 女士,您喜欢这件衣服吗?
 
 2

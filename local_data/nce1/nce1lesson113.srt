@@ -5,7 +5,7 @@ Fares, please!
 
 2
 00:00:02,489 --> 00:00:05,255
-Trafalgar Square,please.
+Trafalgar Square, please.
 请买一张到Trafalgar广场的票.
 
 3
