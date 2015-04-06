@@ -4,7 +4,7 @@
       "chinese" : "Hey,Carl. 这是一张明信片 来自于Nina.",
       "sentenceNo" : 1,
       "timeline" : "00:00:10,300 --> 00:00:13,593",
-      "english" : "Hey,Carl.Here's a postcard from Nina."
+      "english" : "Hey, Carl. Here's a postcard from Nina."
    },
    {
       "lessonNo" : 72,
@@ -25,14 +25,14 @@
       "chinese" : "Oh, 她们已经回来好几天了.",
       "sentenceNo" : 4,
       "timeline" : "00:00:17,328 --> 00:00:18,969",
-      "english" : "Oh,they've been back for days."
+      "english" : "Oh, they've been back for days."
    },
    {
       "lessonNo" : 72,
       "chinese" : "她写道, \"我想念我的孩子, 但是我很高兴我在这里.\"",
       "sentenceNo" : 5,
       "timeline" : "00:00:19,226 --> 00:00:22,837",
-      "english" : "She writes,\"I miss my baby,but I'm glad I'm here.\""
+      "english" : "She writes,\"I miss my baby, but I'm glad I'm here.\""
    },
    {
       "lessonNo" : 72,
@@ -53,7 +53,7 @@
       "chinese" : "Boy,这个花了很长时间才寄到.",
       "sentenceNo" : 8,
       "timeline" : "00:00:26,410 --> 00:00:28,884",
-      "english" : "Boy,this took a long time to get here."
+      "english" : "Boy, this took a long time to get here."
    },
    {
       "lessonNo" : 72,
@@ -74,7 +74,7 @@
       "chinese" : "我也没有. 她让那里听起来很棒.",
       "sentenceNo" : 11,
       "timeline" : "00:00:33,611 --> 00:00:35,653",
-      "english" : "Me,neither.She makes it sound great."
+      "english" : "Me, neither. She makes it sound great."
    },
    {
       "lessonNo" : 72,
@@ -95,7 +95,7 @@
       "chinese" : "咱们看看, 它是件奇怪的事情 关于旅行.",
       "sentenceNo" : 14,
       "timeline" : "00:00:41,546 --> 00:00:45,147",
-      "english" : "Let's see.It's a funny thing about travel."
+      "english" : "Let's see. It's a funny thing about travel."
    },
    {
       "lessonNo" : 72,
@@ -109,7 +109,7 @@
       "chinese" : "人们走那么远, 到一个完全陌生的地方.",
       "sentenceNo" : 16,
       "timeline" : "00:00:46,401 --> 00:00:48,858",
-      "english" : "People go all that way,to a completely new place."
+      "english" : "People go all that way, to a completely new place."
    },
    {
       "lessonNo" : 72,
@@ -151,6 +151,6 @@
       "chinese" : "祝你旅途愉快, 先生.",
       "sentenceNo" : 22,
       "timeline" : "00:01:00,772 --> 00:01:02,145",
-      "english" : "Have a good trip,sir."
+      "english" : "Have a good trip, sir."
    }
 ]

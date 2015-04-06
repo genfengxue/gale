@@ -4,7 +4,7 @@
       "chinese" : "5...4...3...",
       "sentenceNo" : 1,
       "timeline" : "00:00:06,260 --> 00:00:09,175",
-      "english" : "5...4...3..."
+      "english" : "5... 4... 3..."
    },
    {
       "lessonNo" : 78,
@@ -25,14 +25,14 @@
       "chinese" : "会谈进展怎么样, Mr.Chang?",
       "sentenceNo" : 4,
       "timeline" : "00:00:17,270 --> 00:00:19,494",
-      "english" : "How are the talks going,Mr.Chang?"
+      "english" : "How are the talks going, Mr. Chang?"
    },
    {
       "lessonNo" : 78,
       "chinese" : "非常非常好.",
       "sentenceNo" : 5,
       "timeline" : "00:00:19,495 --> 00:00:21,374",
-      "english" : "Very,very well."
+      "english" : "Very, very well."
    },
    {
       "lessonNo" : 78,
@@ -74,14 +74,14 @@
       "chinese" : "通货膨胀, 当然.",
       "sentenceNo" : 11,
       "timeline" : "00:00:33,928 --> 00:00:35,900",
-      "english" : "Inflation,of course."
+      "english" : "Inflation, of course."
    },
    {
       "lessonNo" : 78,
       "chinese" : "这里, 和我们国家的通货膨胀相比.",
       "sentenceNo" : 12,
       "timeline" : "00:00:35,901 --> 00:00:39,343",
-      "english" : "Here,compared with inflation in our country."
+      "english" : "Here, compared with inflation in our country."
    },
    {
       "lessonNo" : 78,
@@ -116,14 +116,14 @@
       "chinese" : "Oh yes. 我们一直在取得进展.",
       "sentenceNo" : 17,
       "timeline" : "00:00:50,986 --> 00:00:54,588",
-      "english" : "Oh yes.We are making progress all the time."
+      "english" : "Oh yes. We are making progress all the time."
    },
    {
       "lessonNo" : 78,
       "chinese" : "谢谢你和我们谈话, Mr.Chang.",
       "sentenceNo" : 18,
       "timeline" : "00:00:54,835 --> 00:00:57,107",
-      "english" : "Thank you for speaking with us,Mr.Chang."
+      "english" : "Thank you for speaking with us, Mr. Chang."
    },
    {
       "lessonNo" : 78,
@@ -137,7 +137,7 @@
       "chinese" : "Sun Yu Chang, 结束在一个积极的音符上.",
       "sentenceNo" : 20,
       "timeline" : "00:00:58,285 --> 00:01:01,177",
-      "english" : "Sun Yu Chang,ending on a positive note."
+      "english" : "Sun Yu Chang, ending on a positive note."
    },
    {
       "lessonNo" : 78,
@@ -158,13 +158,13 @@
       "chinese" : "OK. 我们完成了.",
       "sentenceNo" : 23,
       "timeline" : "00:01:07,712 --> 00:01:09,501",
-      "english" : "OK.We're all set."
+      "english" : "OK. We're all set."
    },
    {
       "lessonNo" : 78,
       "chinese" : "谢谢你, Mr.Chang.",
       "sentenceNo" : 24,
       "timeline" : "00:01:09,792 --> 00:01:11,080",
-      "english" : "Thank you ,Mr.Chang."
+      "english" : "Thank you , Mr. Chang."
    }
 ]

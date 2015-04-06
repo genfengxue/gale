@@ -4,7 +4,8 @@ use Data::Dumper;
 use Encode;
 use JSON;
 
-my $src_path = 'local_data/nce1';
+my $type = 'direct_english';
+my $src_path = "local_data/$type";
 my $dst_path = "../../${src_path}_json";
 chdir $src_path or die $!;
 
