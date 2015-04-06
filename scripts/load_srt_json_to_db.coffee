@@ -2,7 +2,7 @@ require '../common/init'
 fs = require 'fs'
 
 Sentence = _u.getModel 'sentence'
-dataPath = 'local_data/L01-54-json'
+dataPath = 'local_data/direct_english_json'
 
 list = process.argv[2]?.split ',' #可以传参数，逗号分隔，不含空格 28,29,32,33
 
@@ -30,3 +30,4 @@ createAll = (file) ->
     process.exit 1
 
 # coffee scripts/load_srt_json_to_db.coffee 28,29,32,33 #2015-02-03
+# coffee scripts/load_srt_json_to_db.coffee 55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81 #2015-04-07
