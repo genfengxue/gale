@@ -10,7 +10,7 @@ my $KP_DIR = 'local_data/key_point_json';
 
 chdir $TXT_DIR or die $!;
 my @files = glob "*";
-@files = @files[30 .. 39];
+#@files = @files[60 .. 69];
 
 for my $file (@files) {
   my $lessonNo = Gale::getLessonNo($file);
