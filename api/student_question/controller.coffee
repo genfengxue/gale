@@ -40,7 +40,7 @@ router.post "/:id/msg", auth.isAuthenticated(), (req, res, next) ->
   .done()
 
 
-
+#TODO: select certain field
 router.get "/", (req, res, next) ->
   conditions = {}
   findParams =
@@ -48,5 +48,11 @@ router.get "/", (req, res, next) ->
     options: {}
 
   WrapRequest.wrapIndex req, res, next, findParams
+
+
+router.get "/:id", (req, res, next) ->
+  conditions = {_id: req.params.id}
+  WrapRequest.wrapShow req, res, next, conditions
+
 
 module.exports = router
