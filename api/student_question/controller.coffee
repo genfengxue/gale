@@ -2,7 +2,8 @@ express = require("express")
 router = express.Router()
 
 StudentQuestion = _u.getModel 'student_question'
-WrapRequest = new (require '../../utils/WrapRequest')(Course)
+WrapRequest = new (require '../../utils/WrapRequest')(StudentQuestion)
+auth = require '../../auth/auth.service'
 
 
 router.post "/", auth.isAuthenticated(),  (req, res, next) ->
