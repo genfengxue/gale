@@ -23,6 +23,19 @@ router.post "/change_password", auth.isAuthenticated(), (req, res, next) ->
   else
     res.sendStatus 403
 
+
+router.get '/me', auth.isAuthenticated(), (req, res, next) ->
+  userId = req.user.id
+  User.findOne
+    _id: userId
+    '-salt -hashedPassword'
+  .execQ()
+  .then (user) -> # donnot ever give out the password or salt
+    return res.send 401 if not user?
+    res.send user.profile
+  , next
+
+
 router.get "/:userNo", (req, res, next) ->
   findParams =
     conditions: {userNo: req.params.userNo}
