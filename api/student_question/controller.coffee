@@ -28,10 +28,12 @@ router.post "/:id/msg", auth.isAuthenticated(), (req, res, next) ->
   msg =
     msgType: req.body.msgType
     msgText: req.body.msgText
-    isTeacher: true
 
   if req.user.role == Const.RoleMap['student']
     msg.isTeacher = false
+  else
+    msg.isTeacher = true
+    msg.teacherNo = req.user.userNo
 
   StudentQuestion.findOneAndUpdateQ req.params.id, {$push: {msgList: msg}}
   .then (doc) ->
@@ -51,8 +53,9 @@ router.get "/", (req, res, next) ->
 
 
 router.get "/:id", (req, res, next) ->
-  conditions = {_id: req.params.id}
-  WrapRequest.wrapShow req, res, next, conditions
+  findParams =
+    conditions: {_id: req.params.id}
+  WrapRequest.wrapShow req, res, next, findParams
 
 
 module.exports = router
