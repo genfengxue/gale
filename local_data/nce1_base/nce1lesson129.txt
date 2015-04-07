@@ -1,84 +1,84 @@
 1
-瞧,Gary!
+Look, Gary!
 <k></k>
 
 2
-那个警察正朝你挥手呢.
+That policeman's waving to you.
 <k></k>
 
 3
-他想要你停下来.
+He wants you to stop.
 <k></k>
 
 4
-你认为你现在是在哪儿?
+Where do you think you are?
 <k></k>
 
 5
-在赛车道上吗?
+On a race track?
 <k></k>
 
 6
-你刚才一定是以每小时70英里的速度开车.
+You must have been driving at seventy miles an hour.
 <k></k>
 
 7
-我不可能开得那么快的.
+I can't have been.
 <k></k>
 
 8
-我是以每小时80英里的速度超过你的.
+I was doing eighty when I overtook you.
 <k></k>
 
 9
-难道你没看见限速牌吗?
+Didn't you see the speed limit?
 <k></k>
 
 10
-我恐怕我没有看见,警官.
+I'm afraid I didn't, officer.
 <k></k>
 
 11
-我一定思想开小差了.
+I must have been dreaming.
 <k></k>
 
 12
-警官,他思想没有开小差.
+He wasn't dreaming, officer.
 <k></k>
 
 13
-我刚才正告诉他开慢点.
+I was telling him to drive slowly.
 <k></k>
 
 14
-所以我才没看见那牌子.
+That's why I didn't see the sign.
 <k></k>
 
 15
-让我看一看你的驾驶执照.
+Let me see your driving licence.
 <k></k>
 
 16
-这次我就不罚你款了.
+I won't charge you this time.
 <k></k>
 
 17
-但你最好不要再犯.
+But you'd better not do it again!
 <k></k>
 
 18
-谢谢您.我以后一定会多加注意.
+Thank you. I'll certainly be more careful.
 <k></k>
 
 19
-Gary,我刚才叫你开慢点吧.
+I told you to drive slowly, Gary.
 <k></k>
 
 20
-你总是叫我开慢点,亲爱的.
+You always tell me to drive slowly, darling.
 <k></k>
 
 21
-Well,下次你最听从我的劝告!
+Well, next time you'd better take my advice!
 <k></k>
 

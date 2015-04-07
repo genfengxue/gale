@@ -1,5 +1,5 @@
 1
-Good morning. Mr.Croft.
+Good morning. Mr. Croft.
 <k></k>
 
 2
@@ -7,7 +7,7 @@ Good morning, nurse.
 <k></k>
 
 3
-I want to see the dentist,please.
+I want to see the dentist, please.
 <k></k>
 
 4
@@ -39,11 +39,11 @@ I have a terrible toothache.
 <k></k>
 
 11
-Can you come at 10 a.m. on Monday, April 24th?
+Can you come at 10 a. m. on Monday, April 24th?
 <k></k>
 
 12
-I must see the dentist now,nurse.
+I must see the dentist now, nurse.
 <k></k>
 
 13
@@ -51,7 +51,7 @@ The dentist is very busy at the moment.
 <k></k>
 
 14
-Can you come at 2 p.m.?
+Can you come at 2 p. m.?
 <k></k>
 
 15
@@ -63,7 +63,7 @@ Can the dentist see me now?
 <k></k>
 
 17
-I'm afraid that he can't,Mr. Croft.
+I'm afraid that he can't, Mr. Croft.
 <k></k>
 
 18

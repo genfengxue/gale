@@ -19,7 +19,7 @@ He says he's staying at a Youth Hostel.
 <k></k>
 
 6
-You know he's a member of the Y.H.A.
+You know he's a member of the Y. H. A.
 <k></k>
 
 7
@@ -27,7 +27,7 @@ The what?
 <k></k>
 
 8
-The Y.H.A., Mum. The Youth Hostels Association.
+The Y. H. A., Mum. The Youth Hostels Association.
 <k></k>
 
 9
@@ -63,7 +63,7 @@ Is that all?
 <k></k>
 
 17
-He doesn't say very much,does he?
+He doesn't say very much, does he?
 <k></k>
 
 18

@@ -55,6 +55,6 @@ Is this the man that you served, Caroline?
 <k></k>
 
 15
-Yes.I recognize him now.
+Yes. I recognize him now.
 <k></k>
 

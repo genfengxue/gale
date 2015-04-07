@@ -1,92 +1,92 @@
 1
-我来煮点咖啡好吗,Jane?
+Shall I make some coffee, Jane?
 <k></k>
 
 2
-这是个好主意,Charlotte.
+That's a good idea, Charlotte.
 <k></k>
 
 3
-咖啡好了,
+It's ready.
 <k></k>
 
 4
-你要放点奶吗?
+Do you want any milk?
 <k></k>
 
 5
-请稍加一点.
+Just a little, please.
 <k></k>
 
 6
-加些糖怎么样?
+What about some sugar?
 <k></k>
 
 7
-两茶匙行吗?
+Two teaspoonfuls?
 <k></k>
 
 8
-不,再少一些.
+No, less than that.
 <k></k>
 
 9
-请放一勺儿半.
+One and a half teaspoonfuls, please.
 <k></k>
 
 10
-那对我足够了.
+That's enough for me.
 <k></k>
 
 11
-太好了.
+That was very nice.
 <k></k>
 
 12
-你要再来点吗?
+Would you like some more?
 <k></k>
 
 13
-好的,请再来一点.
+Yes, please.
 <k></k>
 
 14
-我还想抽枝烟.
+I'd like a cigarette, too.
 <k></k>
 
 15
-可以给我一枝吗?
+May I have one?
 <k></k>
 
 16
-当然可以.
+Of course.
 <k></k>
 
 17
-我想那个盒子里有一些.
+I think there are a few in that box.
 <k></k>
 
 18
-我恐怕盒子是空的.
+I'm afraid it's empty.
 <k></k>
 
 19
-真遗憾!
+What a pity!
 <k></k>
 
 20
-没关系.
+It doesn't matter.
 <k></k>
 
 21
-那就吃块饼干吧.
+Have a biscuit instead.
 <k></k>
 
 22
-多吃点,少抽点!
+Eat more and smoke less!
 <k></k>
 
 23
-这是极好的忠告啊!
+That's very good advice!
 <k></k>
 

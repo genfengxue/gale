@@ -63,7 +63,7 @@ Can your mechanics repair it?
 <k></k>
 
 17
-Well, they're trying to repair it,sir.
+Well, they're trying to repair it, sir.
 <k></k>
 
 18

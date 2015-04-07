@@ -1,5 +1,5 @@
 1
-Can you recognize that woman,Liz?
+Can you recognize that woman, Liz?
 <k></k>
 
 2
@@ -7,7 +7,7 @@ I think I can, Kate.
 <k></k>
 
 3
-It must be Karen Marsh,the actress.
+It must be Karen Marsh, the actress.
 <k></k>
 
 4

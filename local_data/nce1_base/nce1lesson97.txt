@@ -39,15 +39,15 @@ What's your name and address?
 <k></k>
 
 11
-David Hall,83,Bridge Street.
+David Hall, 83, Bridge Street.
 <k></k>
 
 12
-That's right. D.N. Hall, 83, Bridge Street.
+That's right. D. N. Hall, 83, Bridge Street.
 <k></k>
 
 13
-Three pounds fifty pence,please.
+Three pounds fifty pence, please.
 <k></k>
 
 14

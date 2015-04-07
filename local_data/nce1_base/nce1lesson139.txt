@@ -55,7 +55,7 @@ Yes, I'm John Smith.
 <k></k>
 
 15
-You are John Smith,the engineer,aren't you?
+You are John Smith, the engineer, aren't you?
 <k></k>
 
 16

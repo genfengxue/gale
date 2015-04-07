@@ -35,7 +35,7 @@ Did she buy them here?
 <k></k>
 
 10
-No, she bought them in the U.S.
+No, she bought them in the U. S.
 <k></k>
 
 11

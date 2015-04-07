@@ -55,7 +55,7 @@ How much does this house cost?
 <k></k>
 
 15
-£68,500.
+£68, 500.
 <k></k>
 
 16
