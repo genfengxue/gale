@@ -1,68 +1,43 @@
-1
-What's the matter.Kevin?
-<k></k>
+11
+I `fell for my ex-husband` so fast my head was spinning.
+<k>fall for sb
+爱上某人
 
-2
-He's in love.
-<k></k>
-
-3
-I never said that.
-<k></k>
-
-4
-Oh.When did you meet her?
-<k></k>
-
-5
-Two weeks ago.Since he met her,
-<k></k>
-
-6
-he can't sleep and he can't eat.
-<k></k>
-
-7
-He can't talk.
-<k></k>
-
-8
-It's been nearly a month,actually.
-<k></k>
-
-9
--It sounds serious to me.  -Huh!
-<k></k>
-
-10
-I know how you feel,Kevin.
-<k></k>
+When did you fall for your husband?
+你什么时候爱上你老公的?</k>
 
 11
-I fell for my ex-husband so fast my head was spinning.
-<k></k>
+I fell for my ex-husband `so fast` my head was spinning.
+<k>so+adj (that)
+如此之XXX, 以至于....
 
-12
-When I met my husband we waited five years to get married.
-<k></k>
+He was so handsome that I fell for him before I even knew it.
+他如此英俊, 我还没意识到就爱上他了.</k>
 
-13
-Then we had a beautiful family.
-<k></k>
+11
+I fell for my ex-husband so fast my head was `spinning`.
+<k>spin
+[INTRANSITIVE] to turn round and round quickly
 
-14
-Five years?
-<k></k>
-
-15
-When I married him,I really knew him.
-<k></k>
+The Earth spins on its axis.
+The dancers were spinning in circles.</k>
 
 16
-No surprises.So,look before you leap.
-<k></k>
+No surprises.So,`look before you leap`.
+<k>look before you leap
+三思而后行
+这是固定的说法. 不能替换为别的词
+
+leap
+[INTRANSITIVE] to move somewhere suddenly and quickly
+</k>
 
 17
-NuLa.I think this boy's already leapt.
-<k></k>
+NuLa.I think this `boy's` already leapt.
+<k>这里Sharon调侃Kevn, 把他称为一个小男孩.</k>
 
+17
+NuLa.I think this boy's already `leapt`.
+<k>leap leapt leapt
+leapt是leap的过去式和过去分词
+[lept]</k>

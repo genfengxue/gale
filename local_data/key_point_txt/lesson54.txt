@@ -1,108 +1,66 @@
-1
-Hi George.
-<k></k>
-
-2
-Hi Deb.
-<k></k>
-
-3
-Is Nina around?
-<k></k>
-
-4
-She'll be right back.She's talking to Simon.
-<k></k>
-
 5
-Hm.Do you know her schedule by any chance?
-<k></k>
+Hm. Do you know her schedule `by any chance`?
+<k>by any chance
+碰巧, 用于疑问句
+chance是机会, 机会都是偶然碰到的, 而不是注定会有的, by any chance就是碰巧.
+这里的any不能丢掉
 
-6
-Sure.What do you need to know?
-<k></k>
+Do you remember our CEO's name, by any chance?
+Do you know Anne's birthday, by any chance?
 
-7
-I need to check something on her schedule.
-<k></k>
-
-8
-Will she be away at all in the next three weeks?
-<k></k>
-
-9
-No,she'll be here.
-<k></k>
+by chance
+碰巧, 用户肯定句和否定句
+I met Tom by chance yesterday.
+昨天我偶然遇见汤姆。
+I won purely by chance.
+我完全是侥幸赢的。
+</k>
 
 10
-She'll have a few meeting in town,but...
-<k></k>
+She'll have a few meeting `in town`, but...
+<k>town
+城里
+这里不是指和city相对应的那个县城town的意思
+the centre of a town/city where all the shops are
+
+We’re going into town this afternoon.
+</k>
 
 11
-Nina will travel for business,right?
-<k></k>
+Nina `will travel for business`, right?
+<k>will do sth
+会做某事
+这里的意思不是说将要做这件事, 而是说愿意做这件事, 这种事是可以做的
 
-12
-I mean,even though she has Sherise?
-<k></k>
-
-13
-Sure.She just arranges child care with her family.
-<k></k>
-
-14
-But she won't go away for long!
-<k></k>
+You will use an android phone right?
+你会用安卓手机的对吧(你不会非得用苹果手机拒绝使用安卓手机对吧)
+</k>
 
 15
-A few days,max.
-<k></k>
+`A few days, max`.
+<k>XXX, max
+最多不超过XXX
 
-16
-Why?What's going on?
-<k></k>
-
-17
-Anne wants her to go on this next trip.
-<k></k>
-
-18
-Where?
-<k></k>
-
-19
-Czech Republic.
-<k></k>
+-How long will the banquet last?
+-A few hours, max</k>
 
 20
-Oh man.I'll go.Send me.
-<k></k>
+`Oh man`. I'll go. Send me.
+<k>Oh, man
+奥, 我的天.
 
-21
-C'mon Debbie.
-<k></k>
+=Oh boy
+=Oh god.
 
-22
-Just switch the names on the tickets.No one will ever know.
-<k></k>
-
-23
-No,no.
-<k></k>
-
-24
-OK,OK.Don't switch the names.
-<k></k>
-
-25
-I'll wear a wig.
-<k></k>
-
-26
-I'll wear a dress.I'll...Nina!
-<k></k>
+不能说Oh woman, Oh girl.</k>
 
 27
-Don't ask!
-<k></k>
+`Don't ask`!
+<k>Don't ask
+不要问
+
+往往是这件事情比较尴尬, 所以就用这个说法.
+
+-Why do you have cream all over your face? (你脸上怎么到处都是奶油)
+-Don't ask.</k>
 

@@ -1,0 +1,80 @@
+1
+Two return tickets to London, please.
+<k></k>
+
+2
+What time will the next train leave?
+<k></k>
+
+3
+At nineteen minutes past eight.
+<k></k>
+
+4
+Which platform?
+<k></k>
+
+5
+Platform Two. Over the bridge.
+<k></k>
+
+6
+What time will the next train leave?
+<k></k>
+
+7
+At eight nineteen.
+<k></k>
+
+8
+We've got plenty of time.
+<k></k>
+
+9
+It's only three minutes to eight.
+<k></k>
+
+10
+Let's go and have a drink.
+<k></k>
+
+11
+There's a bar next door to the station.
+<k></k>
+
+12
+We had better go back to the station now, Ken.
+<k></k>
+
+13
+Tickets, please.
+<k></k>
+
+14
+We want to catch the eight nineteen to London.
+<k></k>
+
+15
+You've just missed it!
+<k></k>
+
+16
+What! It's only eight fifteen.
+<k></k>
+
+17
+I'm sorry, sir.
+<k></k>
+
+18
+That clock's ten minutes slow.
+<k></k>
+
+19
+When's the next train?
+<k></k>
+
+20
+In five hours' time!
+<k></k>
+

@@ -1,0 +1,137 @@
+1
+Can you `recognize` that woman,Liz?
+<k>recognize v. 
+['rekəɡnaɪz]	
+认出
+
+I recognized her by her red hat.
+我通过她的红帽子认出她来。
+</k>
+
+1
+Can you recognize that woman,`Liz`?
+<k>Liz
+[lɪz]
+利兹</k>
+
+2
+I think I can, `Kate`.
+<k>Kate
+[keit]
+凯特</k>
+
+3
+`It must be` Karen Marsh,the actress.
+<k>must be
+一定是
+
+You must be Professor Li.
+你一定是李教授了。</k>
+
+3
+It must be `Karen Marsh`,the actress.
+<k>Karen Marsh
+['karən] [mɑrʃ]
+凯伦.马什</k>
+
+3
+It must be Karen Marsh,the `actress`.
+<k>actress n.
+['æktrəs]
+女演员</k>
+
+4
+`I thought so`.
+<k>I thought so.
+我也这样想，我就知道。
+
+-I'm so tired.
+-我好累啊。
+-I thought so. You have been busy the whole day.
+-我就知道。你一整天都忙来忙去的。</k>
+
+5
+Who's that `beside` her?
+<k>beside prep.
+在...旁边
+
+I keep a dictionary beside me when I am learning English.
+学英语时我会放一本词典在旁边。</k>
+
+6
+That must be `Conrad Reeves`.
+<k>Conrad Reeves
+[ˈkɑnˌræd] [rɪvz]
+康拉德.里弗斯</k>
+
+7
+Conrad Reeves, the `actor`?
+<k>actor n.
+['æktər]	
+男演员</k>
+
+8
+`It can't be`.
+<k>It can't be.
+这不可能吧
+
+-Her parents must be divorced.
+-她的父母肯定离婚了。
+-It can't be. 
+-这不可能吧。</k>
+
+9
+Let me `have another look`.
+<k>have another look
+再看一下
+
+Liz, could you please have another look at my account?
+利兹，你能再看一下我的账户吗?</k>
+
+11
+`Isn't he` her third husband?
+<k>Isn't he...?
+难道他不是....吗?
+
+Isn't he cute?
+难道他不可爱吗？</k>
+
+12
+No. He must be her `fourth or fifth`.
+<k>fourth or fifth
+第四或第五（任丈夫），这里省略了丈夫。
+</k>
+
+15
+I `read` she's twenty-nine,
+<k>read v.
+这里指从某处读到. 注意是过去时
+
+read-read-read
+read的过去时仍然写做read, 但是发音变成了/red/</k>
+
+16
+but she must be `at least` forty.
+<k>at least
+至少
+
+He owes me at least 400 dollars.
+他至少欠我400美元。</k>
+
+18
+She was a famous actress `When I was still at school`.
+<k>when I was still at school
+当我还是学生时
+
+I didn't have time to travel around the world when I was still at school.
+当我还是学生时，我没时间环球旅行。</k>
+
+19
+`That was a long time ago`, wasn't it?
+<k>That was a long time ago.
+那是好久以前的事了。
+
+-Tell me about your first love.
+-跟我讲讲你的初恋。
+-That was a long time ago.
+-那是好久以前的事了。</k>

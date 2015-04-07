@@ -1,76 +1,84 @@
 1
-This is it.It's four rooms and a bath.
-<k></k>
+This is it.It's four rooms and a `bath`.
+<k>bath
+=bathroom
+浴室</k>
 
 2
-This entrance hall is small,but look,
-<k></k>
+This `entrance hall` is small,but look,
+<k>entrance
+['entrəns]
+入口
 
-3
-it leads to a nice big living room.
-<k></k>
+hall
+the area inside the front door of a house or other building that leads to other rooms
 
-4
-This side faces south.It gets a lot of light.
-<k></k>
-
-5
-This is the dining room.
-<k></k>
+entrance hall: The house has a large entrance hall with an open staircase.</k>
 
 6
-The woodwork's just lovely,isn't it?
-<k></k>
+The `woodwork's` just lovely,isn't it?
+<k>woodwork
+the wooden parts of a house or room, for example the doors, the frames around windows etc
+
+freshly painted woodwork</k>
 
 7
-You'll notice that all the floors are hardwood.
-<k></k>
+`You'll notice that` all the floors are hardwood.
+<k>you'll notice that
+你会注意到...
+
+You'll notice that he's been absent a lot lately.
+你会注意到他最近总是不在.</k>
+
+7
+You'll notice that all the floors are `hardwood`.
+<k>hardwood
+字面意思理解即可, hard strong wood</k>
 
 8
-The kitchen is through here.
-<k></k>
+The kitchen is `through` here.
+<k>through
+from one end or side of something to the other
 
-9
-Lots of cupboards.
-<k></k>
+这句话你也可以说You walk through this door, and you're in the kitchen.</k>
 
 10
-Dishwasher and disposal.
-<k></k>
+`Dishwasher` and disposal.
+<k>dish
+[COUNTABLE] an open container like a plate, but not as deep as a bowl, used for serving or cooking food
+
+washer
+洗...的设备
+
+dishwasher 洗碗机</k>
+
+10
+Dishwasher and `disposal`.
+<k>disposal
+[dɪ'spoʊzl]
+a piece of electrical equipment under your sink that crushes food so that it will go down a pipe
+
+也写作waste disposal或garbage disposal</k>
 
 11
-There's a washer dryer in the basement.
-<k></k>
-
-12
-You're allowed to use it.
-<k></k>
-
-13
-And this is the bedroom.
-<k></k>
-
-14
-Lots of closet space!
-<k></k>
+There's a `washer dryer` in the basement.
+<k>washer dryer
+a machine that washes and dries clothes</k>
 
 15
-The bathroom's right next door.
-<k></k>
+The bathroom's `right` next door.
+<k>right
+adv 恰恰就在
+
+Kevin met Heather right in front of  a restaurant.</k>
 
 16
-It's fully updated with new fixtures.
-<k></k>
+It's fully updated with new `fixtures`.
+<k>fixture
+a piece of furniture or equipment that is fixed in its place and is considered part of the building, and so you do not take it with you when you move.
 
-17
-And more closet space.
-<k></k>
-
-18
-What do you think?
-<k></k>
+We're going to be putting in new bathroom fixtures.</k>
 
 19
-I'm not doing all the laundry.
-<k></k>
-
+`I'm not doing all the laundry`.
+<k>现在进行时表示将来时</k>

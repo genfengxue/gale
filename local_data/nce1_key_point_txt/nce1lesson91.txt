@@ -1,0 +1,84 @@
+1
+Has Ian sold his house yet?
+<k></k>
+
+2
+Yes, he has.
+<k></k>
+
+3
+He sold it last week.
+<k></k>
+
+4
+Has he moved to his new house yet?
+<k></k>
+
+5
+No, not yet.
+<k></k>
+
+6
+He's still here.
+<k></k>
+
+7
+He's going to move tomorrow.
+<k></k>
+
+8
+When? Tomorrow morning?
+<k></k>
+
+9
+No. Tomorrow afternoon.
+<k></k>
+
+10
+I'll miss him.
+<k></k>
+
+11
+He has always been a good neighbour.
+<k></k>
+
+12
+He's a very nice person.
+<k></k>
+
+13
+We'll all miss him.
+<k></k>
+
+14
+When will the new people move into this house?
+<k></k>
+
+15
+I think that they'll move in the day after tomorrow.
+<k></k>
+
+16
+Will you see Ian today, Jenny?
+<k></k>
+
+17
+Yes, I will.
+<k></k>
+
+18
+Please give him my regards.
+<k></k>
+
+19
+Poor Ian!
+<k></k>
+
+20
+He didn't want to leave this house.
+<k></k>
+
+21
+No, he didn't want to leave. but his wife did!
+<k></k>
+

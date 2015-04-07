@@ -1,3 +1,19 @@
 {
-   "56" : {}
+   "56" : {
+      "22" : {
+         "1" : [
+            "except (that)\n除了...\n\n-I'm offering you a job as a reporter\n-Great!\n-Except you're going to be on radio.\n-Oh."
+         ]
+      },
+      "11" : {
+         "8,9,10" : [
+            "all the time\n全部时间, 注意前边不加for\n\nDid you have to work all the time when you were in Prague?"
+         ]
+      },
+      "14" : {
+         "7,8" : [
+            "在这里science是一个比较大的概念, 就是指搞科研做实验."
+         ]
+      }
+   }
 }

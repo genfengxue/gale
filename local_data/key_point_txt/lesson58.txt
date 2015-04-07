@@ -1,88 +1,72 @@
-1
-How do I get there? Right.
-<k></k>
-
 2
-Drive north on Route 93.
-<k></k>
+Drive north on `Route 93`.
+<k>Route+数字
+Route used with a number as the name of a major road between cities in the US
+
+We turned off Route 66 onto a remote road.
+我们从Route66拐下来, 拐到一条小路上.</k>
 
 3
-Take Route 1 north.
-<k></k>
+`Take Route 1 north`.
+<k>take+路名+方向
+沿着XX公路超某方向走
+
+Take Route 5 south and you'll see a big sign that says: welcome to Boston.
+沿着5号公路往南走, 你会看到一个巨大的标志上边写着: 欢迎来到波士顿.</k>
 
 4
-Go over the Tobin Bridge.
-<k></k>
+`Go over the Tobin Bridge`.
+<k>go over a bridge=通过一座桥
+cross a river=穿过一条河
+
+over表示从上边通过.</k>
 
 5
-Keep on the 1 until you get to Saugus.
-<k></k>
+`Keep on the` 1 until you get to Saugus.
+<k>keep on+路名
+继续沿着XX路走.
+
+Keep on Route 1 until you see a bridge. Go over that bridge and you'll get there.
+继续沿着1号公路走, 你会看到一座桥. 通过那座桥, 你就达到目的地了.
+
+这里the 1是Route 1的简称, 因为上文提到了Route 1, 所以这里直接说the 1, 两人知道所指的就是Route 1.</k>
+
+5
+Keep on the 1 until you get to `Saugus`.
+<k>Saugus
+['sɔ:ɡəs]
+地名</k>
 
 6
-Take the exit by Walgreens.
-<k></k>
+`Take the exit` by Walgreens.
+<k>take the exit
+用那个出口.
 
-7
-There are signs for Melrose and Stoneham.OK.
-<k></k>
+这里动词必须用take, 不能用go, make, get. 而use也不太好</k>
+
+6
+Take the exit by `Walgreens`.
+<k>Walgreens
+/'wɔlgrinz/
+地名</k>
 
 8
-Go up the ramp,
-<k></k>
+Go up the `ramp`,
+<k>ramp
+a road that you use to drive onto or off a motorway
+
+motorway
+A motorway is a type of highway which has been designed for high-speed vehicular traffic, with all traffic flow and ingress/egress regulated. also referred to as freeway.
+
+就是普通公路和高速公路之间相连接的那个小坡</k>
 
 9
-that's back over the bridge across Route 1.
-<k></k>
+`that's back over the bridge across Route 1`.
+<k>这句话我其实也没有很好的理解. 
+单单从字面意思看的话, back over the bridge指的是返回来, 过桥. 
+across Route 1指的是横穿过1号公路.</k>
 
 10
-Take the next right.
-<k></k>
-
-11
-That's south on 1.back towards Boston.
-<k></k>
-
-12
-Then it's just down the highway about 300 feet on the right.
-<k></k>
-
-13
-Ok great.
-<k></k>
-
-14
-I'll see you there.Bye.
-<k></k>
-
-15
-93 North. Excellent. Uh oh.
-<k></k>
-
-16
-Route 1 North.Over the Tobin Bridge.
-<k></k>
-
-17
-Oh I love this song.
-<k></k>
-
-18
-Entering Saugus...so far,so good.
-<k></k>
-
-19
-Take the exit for Melrose.
-<k></k>
-
-20
-Back across Route 1.
-<k></k>
-
-21
-South to Boston.
-<k></k>
-
-22
-Hi! I made it!
-<k></k>
-
+`Take the next right`.
+<k>补全了是take the next right turn.
+这里动词take最佳, 换别的都不好.</k>

@@ -1,0 +1,92 @@
+1
+Hello, Sam. Come in.
+<k></k>
+
+2
+Hi, Sam.
+<k></k>
+
+3
+We're having lunch.
+<k></k>
+
+4
+Do you want to have lunch with us?
+<k></k>
+
+5
+No, thank you, Tom.
+<k></k>
+
+6
+I've already had lunch.
+<k></k>
+
+7
+I had lunch at half past twelve.
+<k></k>
+
+8
+Have a cup of coffee then.
+<k></k>
+
+9
+I've just had a cup, thank you.
+<k></k>
+
+10
+I had one after my lunch.
+<k></k>
+
+11
+Let's go into the living room, Carol.
+<k></k>
+
+12
+We can have our coffee there.
+<k></k>
+
+13
+Excuse the mess, Sam.
+<k></k>
+
+14
+This room's very untidy.
+<k></k>
+
+15
+We're packing our suitcases.
+<k></k>
+
+16
+We're going to leave tomorrow.
+<k></k>
+
+17
+Tom and I are going to have a holiday.
+<k></k>
+
+18
+Aren't you lucky!
+<k></k>
+
+19
+When are you going to have a holiday, Sam?
+<k></k>
+
+20
+I don't know.
+<k></k>
+
+21
+I've already had my holiday this year.
+<k></k>
+
+22
+Where did you go?
+<k></k>
+
+23
+I stayed at home!
+<k></k>
+

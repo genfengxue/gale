@@ -1,0 +1,76 @@
+1
+Is my car ready yet?
+<k></k>
+
+2
+I don't know. sir.
+<k></k>
+
+3
+What's the number of your car?
+<k></k>
+
+4
+It is LFZ 312G.
+<k></k>
+
+5
+When did you bring it to us?
+<k></k>
+
+6
+I brought it here three days ago.
+<k></k>
+
+7
+Ah, yes, I remember now.
+<k></k>
+
+8
+Have your mechanics finished yet?
+<k></k>
+
+9
+No, they're still working on it.
+<k></k>
+
+10
+Let's go into the garage and have a look at it.
+<k></k>
+
+11
+Isn't that your car?
+<k></k>
+
+12
+Well, it was my car.
+<k></k>
+
+13
+Didn't you have a crash?
+<k></k>
+
+14
+That's right.
+<k></k>
+
+15
+I drove it into a lamp-post.
+<k></k>
+
+16
+Can your mechanics repair it?
+<k></k>
+
+17
+Well, they're trying to repair it, sir.
+<k></k>
+
+18
+But to tell you the truth.
+<k></k>
+
+19
+you need a new car!
+<k></k>
+

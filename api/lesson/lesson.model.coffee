@@ -23,6 +23,8 @@ exports.Lesson = BaseModel.subclass
         required: true
       imageUrl:
         type: String
+      videoUrl:
+        type: String
 
     @schema.index {courseNo: 1, lessonNo: 1}, {unique: true}
 

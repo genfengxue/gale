@@ -1,0 +1,80 @@
+1
+Do you have any shoes like these?
+<k></k>
+
+2
+What size?
+<k></k>
+
+3
+Size five.
+<k></k>
+
+4
+what color?
+<k></k>
+
+5
+Black.
+<k></k>
+
+6
+I'm sorry.
+<k></k>
+
+7
+We don't have any.
+<k></k>
+
+8
+But my sister bought this pair last month.
+<k></k>
+
+9
+Did she buy them here?
+<k></k>
+
+10
+No, she bought them in the U. S.
+<k></k>
+
+11
+We had some shoes like those a month ago,
+<k></k>
+
+12
+but we don't have any now.
+<k></k>
+
+13
+Can you get a pair for me, please?
+<k></k>
+
+14
+I'm afraid that I can't.
+<k></k>
+
+15
+They were in fashion last year and the year before last.
+<k></k>
+
+16
+But they're not in fashion this year.
+<k></k>
+
+17
+These shoes are in fashion now.
+<k></k>
+
+18
+They look very uncomfortable.
+<k></k>
+
+19
+They are very uncomfortable.
+<k></k>
+
+20
+But women always wear uncomfortable shoes!
+<k></k>
+

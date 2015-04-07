@@ -1,96 +1,44 @@
-1
-Can you turn it on? Fine.
-<k></k>
-
-2
-First you turn the computer on.Like this.
-<k></k>
-
 3
-Then you turn on the monitor.
-<k></k>
+Then you turn on the `monitor`.
+<k>monitor
+a computer screen, or the part of a computer that contains the screen
 
-4
-Then you turn on the printer.
-<k></k>
+a 17-inch colour monitor</k>
 
 5
-So far,so good. Now,what?
-<k></k>
+`So far,so good`. Now,what?
+<k>so far, so good
+used for saying that someone or something has been successful up to this point
 
-6
-You open the program.
-<k></k>
-
-7
-Either click on the icon,
-<k></k>
+so far so good. I love the living room and kitchen, but let's see the bedroom before I make a decision.
+到目前为止很好, 我喜欢客厅和厨房. 咱们看看卧室, 我再做决定</k>
 
 8
-or type the command on the keyboard.
-<k></k>
+or type the `command` on the keyboard.
+<k>A command is an order that you have to follow, as long as the person who gives it has authority over you. 
+
+What's your command, sir?
+你的命令是什么, 先生?</k>
 
 9
-OK. So I hit here to...
-<k></k>
+OK. So I `hit` here to...
+<k>hit
+[INTRANSITIVE/TRANSITIVE] to move quickly onto an object or surface, touching it with force
 
-10
-What happened? I lost it.It's gone.
-<k></k>
-
-11
-Relax. When that happens.
-<k></k>
+If you hit that red button, you will turn the machine off.
+如果你按下那个红色的按钮, 你会关掉机器.</k>
 
 12
-just hit these two keys.
-<k></k>
+just hit these two `keys`.
+<k>key
+one of the parts that you press on a keyboard to make it produce letters, numbers etc
 
-13
-Why?
-<k></k>
-
-14
-Well. It says to the computer,
-<k></k>
-
-15
-"Don't do what I just told you to do."
-<k></k>
-
-16
-OK.
-<k></k>
-
-17
-Go on.Hit those two keys.
-<k></k>
-
-18
-OK.I type the correct command,and...hey!
-<k></k>
-
-19
-You're in the program.
-<k></k>
-
-20
-Great.
-<k></k>
-
-21
-That wasn't so hard,was it?
-<k></k>
-
-22
-Nope. What's next?
-<k></k>
-
-23
-Now just start at the beginning,
-<k></k>
+Which key will allow me to save the file?</k>
 
 24
-and work your way to the end.Good luck!
-<k></k>
+and `work your way to the end`.Good luck!
+<k>work one's way to the end.
+从头做到尾
 
+Read this book. and If you can work your way to the end, I guarantee that you will learn the computer skills.
+读这一本书, 如果你能够从头做到尾, 我保证你可以学会电脑技术.</k>

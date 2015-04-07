@@ -1,0 +1,89 @@
+
+1
+`Can't you` come in and have tea now, Peter?
+<k>Can't you + v.?
+(难道)你就不能...吗？
+
+Can't you just leave me alone?
+你就不能让我一个人静静吗?</k>
+
+1
+Can't you come in and have tea now, `Peter`?
+<k>Peter
+['pitər]
+彼得</k>
+
+2
+`Not yet`.
+<k>not yet.
+现在还不行，还没完成。
+
+-Have you finished your homework?
+你做完功课了吗？
+-Not yet.
+还没。</k>
+
+3
+I must `water the garden` first.
+<k>water the garden
+给花园浇水
+
+Watering the garden is my job.
+给花园浇水是我的工作。</k>
+
+7
+It's `terribly` dry.
+<k>terribly adv.
+非常(糟糕)
+
+She was terribly shocked by the crash.
+她被车祸吓坏了。</k>
+
+8
+What a `nuisance`!
+<k>nuisance n.
+['njusns]
+麻烦事
+
+I've forgotten my umbrella - what a nuisance!
+我忘记我的伞了 - 真是个麻烦事！</k>
+
+10
+`Don't you remember`?
+<k>Don't you remember?
+(难道)你不记得了吗？
+
+Don't you remember Yuhe Xia from Daming Lake, your majesty?
+皇上，难道你不记得大明湖畔的夏雨荷了吗？(还珠格格)</k>
+
+12
+Well, I'll have tea `by myself`.
+<k>by myself
+独自一人
+
+I watered the plants by myself. 
+我自己一个人给植物浇水了。</k>
+
+15
+Yes. `Look out of the window`.
+<k>look out of
+朝...外边看
+
+Look out of the window and you'll see a beautiful lake.
+朝窗外看, 你会看到一个美丽的湖.</k>
+
+18
+That was `a pleasant surprise`.
+<k>a pleasant surprise
+愉快的惊喜
+
+You are back! What a pleasant surprise!
+你回来了！真是一个愉快的惊喜！</k>
+
+19
+It means I can have tea, `instead`.
+<k>instead adv.
+代替，更换
+
+We've got no coffee. Would you like tea instead? 
+我们没有咖啡了. 改喝茶好么? </k>
