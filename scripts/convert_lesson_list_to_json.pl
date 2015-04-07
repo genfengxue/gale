@@ -17,7 +17,6 @@ my $map = {
 
 my @files = glob "$src_path/*";
 #print "@files";
-#@files = @files[10 .. 53];
 
 for my $file (@files) {
   my $courseNo = getCourseNo($file);
@@ -35,8 +34,8 @@ for my $file (@files) {
       push @{$objects}, {%$object};
     }
   }
-  print Dumper $objects;
-#  write_file("$dst_path/$courseNo.json", json_encode( $objects ) );
+#  print Dumper $objects;
+  write_file("$dst_path/$courseNo.json", json_encode( $objects ) );
 }
 
 sub getCourseNo {

@@ -9,7 +9,7 @@ router.get "/", (req, res, next) ->
   conditions.courseNo = req.query.courseNo if req.query.courseNo
   findParams =
     conditions: conditions
-    options: {sort: {sentenceNo: 1, lessonNo: 1}}
+    options: {sort: {courseNo: 1, lessonNo: 1}}
 
   WrapRequest.wrapIndex req, res, next, findParams
 

@@ -30,4 +30,4 @@ createAll = (file) ->
     logger.info err
     process.exit 1
 
-# coffee scripts/load_lesson_list_json_to_db.coffee 28,29,32,33 #2015-03-10
+# coffee scripts/load_lesson_list_json_to_db.coffee
