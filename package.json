@@ -38,6 +38,7 @@
     "passport": "^0.2.1",
     "passport-local": "^1.0.0",
     "q": "^1.1.2",
+    "qn": "^1.0.1",
     "serve-favicon": "^2.2.0",
     "stack-trace": "0.0.9",
     "underscore.string": "^3.0.1"
