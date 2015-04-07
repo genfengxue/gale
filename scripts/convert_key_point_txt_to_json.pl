@@ -5,8 +5,10 @@ use lib 'scripts';
 use Data::Dumper;
 use Gale qw/read_file write_file json_encode/;
 
-my $TXT_DIR = 'local_data/key_point_txt';
-my $KP_DIR = 'local_data/key_point_json';
+my $type = $ARGV[0] or 'direct_english';
+
+my $TXT_DIR = "local_data/${type}_key_point_txt";
+my $KP_DIR  = "local_data/${type}_key_point_json";
 
 chdir $TXT_DIR or die $!;
 my @files = glob "*";

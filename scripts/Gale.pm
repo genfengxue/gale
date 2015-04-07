@@ -64,7 +64,7 @@ sub json_encode {
 sub getLessonNo {
   my ($file) = @_;
 
-  if ($file =~ /^lesson(\d+)/i) {
+  if ($file =~ /lesson(\d+)/i) {
     return int($1);
   }
   die;#如果没匹配成功，就die

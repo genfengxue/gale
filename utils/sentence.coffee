@@ -5,7 +5,7 @@ KeyPoint = _u.getModel 'key_point'
 
 class SentenceUtils
   importKeyPoints: (file) ->
-    json = require "../local_data/key_point_json/#{file}"
+    json = require "../local_data/nce1_key_point_json/#{file}"
     promises = []
     for lessonNo, sentences of json
       for sentenceNo, keyPointMap of sentences
