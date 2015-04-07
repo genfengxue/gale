@@ -1,0 +1,36 @@
+3
+I'll `be right down`.
+<k>be down
+下来, 下楼来
+
+I'll be down in 2 minutes
+两分钟之后我下楼.</k>
+
+6
+The train to New York doesn't leave till 1:30 `or so`.
+<k>or so
+大约
+
+This computer cost me $1000 or so.
+这台电脑花费了我大概1000元美金</k>
+
+8
+Do you mean `the 1:25`?
+<k>the 1:25
+1点25分的那一趟列车, the不能省略</k>
+
+10
+Kevin,that's `a local`.See?
+<k>local (train)
+a bus or train that stops at all places on the route</k>
+
+15
+Is there `an express`?
+<k>express
+(also express train) [countable] a fast train that does not stop at many places</k>
+
+21
+It's got a symbol `beside` it.A square.
+<k>beside  在...旁边(具体的)
+besides  另外(抽象的)
+</k>

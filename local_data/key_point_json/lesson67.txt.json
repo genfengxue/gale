@@ -1,0 +1,34 @@
+{
+   "67" : {
+      "8" : {
+         "4,5" : [
+            "the 1:25\n1点25分的那一趟列车, the不能省略"
+         ]
+      },
+      "6" : {
+         "10,11" : [
+            "or so\n大约\n\nThis computer cost me $1000 or so.\n这台电脑花费了我大概1000元美金"
+         ]
+      },
+      "21" : {
+         "5" : [
+            "beside  在...旁边(具体的)\nbesides  另外(抽象的)\n"
+         ]
+      },
+      "3" : {
+         "2,3,4" : [
+            "be down\n下来, 下楼来\n\nI'll be down in 2 minutes\n两分钟之后我下楼."
+         ]
+      },
+      "10" : {
+         "3,4" : [
+            "local (train)\na bus or train that stops at all places on the route"
+         ]
+      },
+      "15" : {
+         "3,4" : [
+            "express\n(also express train) [countable] a fast train that does not stop at many places"
+         ]
+      }
+   }
+}
