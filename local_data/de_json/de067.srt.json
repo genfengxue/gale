@@ -1,0 +1,186 @@
+[
+   {
+      "lessonNo" : 67,
+      "chinese" : "Hello?",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:07,579 --> 00:00:08,618",
+      "english" : "Hello?"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "Dean, 你准备好了吗?",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:08,619 --> 00:00:10,477",
+      "english" : "Dean, are you ready?"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "我马上就下来.",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:10,514 --> 00:00:11,997",
+      "english" : "I'll be right down."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "不用担心. 我们有足够的时间.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:12,202 --> 00:00:14,818",
+      "english" : "Don't worry. We have plenty of time."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "嗨!",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:30,414 --> 00:00:31,917",
+      "english" : "Hi."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "去纽约的火车不会离开 直到1:30左右.",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:31,918 --> 00:00:35,697",
+      "english" : "The train to New York doesn't leave till 1:30 or so."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "我们看看.",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:35,698 --> 00:00:37,131",
+      "english" : "Let's see."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "你的意思是1:25这趟?",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:41,559 --> 00:00:43,847",
+      "english" : "Do you mean the 1:25?"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "Yeah, 就是这个.",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:44,945 --> 00:00:46,357",
+      "english" : "Yeah, that's it."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "Kevin, 那是趟慢车. 看?",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:00:46,891 --> 00:00:50,052",
+      "english" : "Kevin, that's a local. See?"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "它是用蓝色标记的.",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:00:50,623 --> 00:00:51,694",
+      "english" : "It's in blue."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "它到处停.",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:00:51,695 --> 00:00:53,210",
+      "english" : "It stops everywhere."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "它到纽约 在今晚的7:39!",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:00:53,211 --> 00:00:57,435",
+      "english" : "It arrives in New York at 7:39 tonight!"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "Well, 我们不想要那个.",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:00:57,436 --> 00:00:59,158",
+      "english" : "Well, we don't want that."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "有快车吗?",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:00:59,159 --> 00:01:00,818",
+      "english" : "Is there an express?"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "我看到了. 它们是红色的.",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:01:03,260 --> 00:01:05,131",
+      "english" : "I see. They're in red."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "下一趟1:10离开. Damn!",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:01:06,065 --> 00:01:12,459",
+      "english" : "The next one leaves at 1:10. Damn!"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "-那趟车之后的下一趟什么时候呢? -4:15",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:01:15,369 --> 00:01:17,924",
+      "english" : "-When's the next train after that? -4:15."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "它不在那儿.",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:01:43,534 --> 00:01:45,159",
+      "english" : "It's not there."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "1:10开的那趟?",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:01:45,160 --> 00:01:46,618",
+      "english" : "The 1:10?"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "它有一个标记在它旁边. 一个正方形.",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:01:53,799 --> 00:01:57,021",
+      "english" : "It's got a symbol beside it. A square."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "那是什么意思?",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:01:57,431 --> 00:01:59,009",
+      "english" : "What does that mean?"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "这趟火车周末不开.",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:02:00,404 --> 00:02:03,634",
+      "english" : "This train does not run on weekends."
+   }
+]

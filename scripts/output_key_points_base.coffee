@@ -1,11 +1,15 @@
 require '../common/init'
 fs = require 'fs'
 
-type = 'nce1'
+# coffee scripts/output_key_points_base.coffee de
+# coffee scripts/output_key_points_base.coffee nceone
+# coffee scripts/output_key_points_base.coffee de/nceone [28,29,32,33] #方括号表示可选参数
+
+type = process.argv[2] or process.exit 1
 dataPath = "local_data/#{type}_json"
 outputDir = "local_data/#{type}_base"
 
-list = process.argv[2]?.split ',' #可以传参数，逗号分隔，不含空格 28,29,32,33
+list = process.argv[3]?.split ',' #可以传参数，逗号分隔，不含空格 28,29,32,33
 
 fs.readdir dataPath, (err, files) ->
   needToProcess = []
@@ -34,5 +38,3 @@ buildStringFromJson = (file) ->
         process.exit 1
 
       console.log "write success: #{newName}"
-
-# coffee scripts/output_key_points_base.coffee [28,29,32,33] #方括号表示可选参数

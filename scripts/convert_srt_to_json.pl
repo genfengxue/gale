@@ -4,18 +4,20 @@ use Data::Dumper;
 use Encode;
 use JSON;
 
+use lib 'scripts';
+use Gale qw/getLessonNo write_file json_encode/;
 
-# perl scripts/convert_srt_to_json.pl nce1
-# perl scripts/convert_srt_to_json.pl direct_english
+# perl scripts/convert_srt_to_json.pl nceone
+# perl scripts/convert_srt_to_json.pl de
 
-my $type = $ARGV[0] or 'direct_english';
+my $type = $ARGV[0] or die "you must give one parameter";
 my $src_path = "local_data/$type";
 my $dst_path = "../../${src_path}_json";
 chdir $src_path or die $!;
 
 my $courseMap = {
-  nce1           => 1,
-  direct_english => 2,
+  nceone => 1,
+  de     => 2,
 };
 
 my $courseNo = $courseMap->{$type} or die;
@@ -23,7 +25,7 @@ my $courseNo = $courseMap->{$type} or die;
 my $map = {
   1 => 'timeline',
   2 => 'english',
-  3 => 'chinese'
+  3 => 'chinese',
 };
 
 my @files = glob "*";
@@ -53,26 +55,4 @@ for my $file (@files) {
   }
 #  print json_encode( $objects );
   write_file("$dst_path/$file.json", json_encode( $objects ) );
-}
-
-sub getLessonNo {
-  my ($file) = @_;
-
-  if ($file =~ /lesson(\d+)/i) {
-    return int($1);
-  }
-  die;#如果没匹配成功，就die
-}
-
-sub write_file {
-    my ($file, $text) = @_;
-    open my $fh, '>', $file or die "$!";
-    print $fh $text;
-    close $fh;
-}
-
-sub json_encode {
-    my ($json_obj) = @_;
-    my $JSON = JSON->new->allow_nonref;
-    return $JSON->pretty->encode($json_obj);
 }

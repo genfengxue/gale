@@ -1,0 +1,124 @@
+1
+What are you doing?
+<k></k>
+
+2
+Just taking your bags, sir.
+<k></k>
+
+3
+Ah... So, Mr. Yamamoto?
+<k></k>
+
+4
+Yes, yes.
+<k></k>
+
+5
+Where is that trolley going?
+<k></k>
+
+6
+To the airport.
+<k></k>
+
+7
+The airport?
+<k></k>
+
+8
+Well, no. The trolley's going outside to the shuttle bus.
+<k></k>
+
+9
+The shuttle's going to the airport.
+<k></k>
+
+10
+But I'm just checking in!
+<k></k>
+
+11
+That's right sir.
+<k></k>
+
+12
+Do you have any bags?
+<k></k>
+
+13
+They're going to the airport!
+<k></k>
+
+14
+What?
+<k></k>
+
+15
+The porter is putting my bags on the shuttle!
+<k></k>
+
+16
+Carl! Carl!
+<k></k>
+
+17
+The bags go to Mr. Yamamoto's room!
+<k></k>
+
+18
+What's going on?
+<k></k>
+
+19
+-His bags are going to the airport! -My bags are going to the airport!
+<k></k>
+
+20
+I hope you had a pleasant stay.
+<k></k>
+
+21
+This isn't happening.
+<k></k>
+
+22
+Don't worry. I'm calling.
+<k></k>
+
+23
+I'm calling.
+<k></k>
+
+24
+What's happening now?
+<k></k>
+
+25
+Mr. Yamamoto's bags are on their way to the airport..
+<k></k>
+
+26
+So?
+<k></k>
+
+27
+I'm trying to get them back.
+<k></k>
+
+28
+Why?
+<k></k>
+
+29
+Our guest is just checking in.
+<k></k>
+
+30
+Uh oh!
+<k></k>
+
+31
+Not without my bags!
+<k></k>
+

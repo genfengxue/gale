@@ -1,0 +1,194 @@
+[
+   {
+      "lessonNo" : 57,
+      "chinese" : "你会开机吗? 没事.",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:17,788 --> 00:00:21,007",
+      "english" : "Can you turn it on? Fine."
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "首先你要打开电脑. 像这样.",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:22,458 --> 00:00:24,624",
+      "english" : "First you turn the computer on. Like this."
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "然后你打开显示器.",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:27,397 --> 00:00:28,587",
+      "english" : "Then you turn on the monitor."
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "再然后你打开打印机.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:33,389 --> 00:00:34,339",
+      "english" : "Then you turn on the printer."
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "到目前为止, 一切顺利. 现在,干什么?",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:37,467 --> 00:00:40,361",
+      "english" : "So far, so good. Now, what?"
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "你打开程序.",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:41,313 --> 00:00:42,461",
+      "english" : "You open the program."
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "可以用鼠标点击图标,",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:43,247 --> 00:00:44,388",
+      "english" : "Either click on the icon,"
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "或者敲入命令 用键盘.",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:46,196 --> 00:00:50,122",
+      "english" : "or type the command on the keyboard."
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "OK. 所以我点这儿来...",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:56,857 --> 00:01:00,203",
+      "english" : "OK. So I hit here to..."
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "发生了什么? 我把它弄丢了. 不见了.",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:01:00,640 --> 00:01:02,018",
+      "english" : "What happened? I lost it. It's gone."
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "放松. 这种时候,",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:01:02,372 --> 00:01:04,648",
+      "english" : "Relax. When that happens."
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "只需要敲这两个键.",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:01:04,865 --> 00:01:05,985",
+      "english" : "just hit these two keys."
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "Why?",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:01:06,370 --> 00:01:06,666",
+      "english" : "Why?"
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "Well. 这是在告诉计算机,",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:01:08,035 --> 00:01:09,145",
+      "english" : "Well. It says to the computer,"
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "\"不要做我刚刚要你做的\"",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:01:09,429 --> 00:01:11,148",
+      "english" : "\"Don't do what I just told you to do.\""
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "OK.",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:01:12,740 --> 00:01:13,133",
+      "english" : "OK."
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "继续. 敲这两个键.",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:01:14,564 --> 00:01:16,346",
+      "english" : "Go on. Hit those two keys."
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "OK. 我敲入正确的指令, 然后...hey!",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:01:17,532 --> 00:01:22,605",
+      "english" : "OK. I type the correct command, and... hey!"
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "你进入程序了.",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:01:23,470 --> 00:01:24,372",
+      "english" : "You're in the program."
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "太棒了.",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:01:25,092 --> 00:01:25,523",
+      "english" : "Great."
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "并不太难, 对吗?",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:01:26,591 --> 00:01:27,890",
+      "english" : "That wasn't so hard, was it?"
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "Nope. 下一步是什么?",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:01:28,237 --> 00:01:29,703",
+      "english" : "Nope. What's next?"
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "现在只要从头开始.",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:01:33,629 --> 00:01:35,346",
+      "english" : "Now just start at the beginning,"
+   },
+   {
+      "lessonNo" : 57,
+      "chinese" : "学完它. 祝你好运!",
+      "sentenceNo" : 24,
+      "courseNo" : 2,
+      "timeline" : "00:01:36,797 --> 00:01:40,954",
+      "english" : "and work your way to the end. Good luck!"
+   }
+]

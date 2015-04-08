@@ -1,0 +1,116 @@
+1
+Good morning... Nu La?
+<k></k>
+
+2
+Yes. Hello.
+<k></k>
+
+3
+Please sit down.
+<k></k>
+
+4
+Thank you.
+<k></k>
+
+5
+You're interested in a job here?
+<k></k>
+
+6
+As housekeeping Manager?
+<k></k>
+
+7
+Yes, thank you.
+<k></k>
+
+8
+Where are you from, Nu La?
+<k></k>
+
+9
+I come from Cambodia.
+<k></k>
+
+10
+I come from Phnom Penh.
+<k></k>
+
+11
+When did you come to the United States?
+<k></k>
+
+12
+A year ago.
+<k></k>
+
+13
+Well, you speak good English.
+<k></k>
+
+14
+Thank you.
+<k></k>
+
+15
+Did you come straight to Boston?
+<k></k>
+
+16
+No, no, no. First San Francisco. Then Denver.
+<k></k>
+
+17
+Then Chattanooga, Tennessee.
+<k></k>
+
+18
+Now I live in Boston, Massachusetts.
+<k></k>
+
+19
+Well, we need someone with experience.
+<k></k>
+
+20
+What was your work in Phnom Penh?
+<k></k>
+
+21
+The same! Head housekeeper.
+<k></k>
+
+22
+Ah yes.
+<k></k>
+
+23
+In a big hotel. Fifty people worked for me.
+<k></k>
+
+24
+I made them clean like crazy.
+<k></k>
+
+25
+Did you?
+<k></k>
+
+26
+Well, Nu La, when would you like to start?
+<k></k>
+
+27
+Today! Thank you!
+<k></k>
+
+28
+Today?
+<k></k>
+
+29
+Yes. Strike while the iron is hot!
+<k></k>
+

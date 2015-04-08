@@ -1,0 +1,96 @@
+1
+Come in Dean. please sit down.
+<k></k>
+
+2
+Thanks.
+<k></k>
+
+3
+Now we can go over your job description.
+<k></k>
+
+4
+Sure.
+<k></k>
+
+5
+Can you use a word processor, Dean?
+<k></k>
+
+6
+Yes, I can.
+<k></k>
+
+7
+Other computer programs?
+<k></k>
+
+8
+Databases? Spreadsheets?
+<k></k>
+
+9
+I can work with computers very well.
+<k></k>
+
+10
+Good.
+<k></k>
+
+11
+Can you speak any foreign languages?
+<k></k>
+
+12
+Not really. I speak a little Spanish,
+<k></k>
+
+13
+but I can't understand a word.
+<k></k>
+
+14
+I see.
+<k></k>
+
+15
+Well, you can't translate Spanish for us.
+<k></k>
+
+16
+But maybe you can help us understand our computers.
+<k></k>
+
+17
+I can do that.
+<k></k>
+
+18
+All right, Dean. Talk to William at the front desk.
+<k></k>
+
+19
+You can work with him today.
+<k></k>
+
+20
+Great.
+<k></k>
+
+21
+You can find your way, can't you?
+<k></k>
+
+22
+Sure.
+<k></k>
+
+23
+Good luck. And welcome to the team.
+<k></k>
+
+24
+Thanks.
+<k></k>
+

@@ -1,0 +1,108 @@
+1
+Hi George.
+<k></k>
+
+2
+Hi Deb.
+<k></k>
+
+3
+Is Nina around?
+<k></k>
+
+4
+She'll be right back. She's talking to Simon.
+<k></k>
+
+5
+Hm. Do you know her schedule by any chance?
+<k></k>
+
+6
+Sure. What do you need to know?
+<k></k>
+
+7
+I need to check something on her schedule.
+<k></k>
+
+8
+Will she be away at all in the next three weeks?
+<k></k>
+
+9
+No, she'll be here.
+<k></k>
+
+10
+She'll have a few meeting in town, but...
+<k></k>
+
+11
+Nina will travel for business, right?
+<k></k>
+
+12
+I mean, even though she has Sherise?
+<k></k>
+
+13
+Sure. She just arranges child care with her family.
+<k></k>
+
+14
+But she won't go away for long!
+<k></k>
+
+15
+A few days, max.
+<k></k>
+
+16
+Why? What's going on?
+<k></k>
+
+17
+Anne wants her to go on this next trip.
+<k></k>
+
+18
+Where?
+<k></k>
+
+19
+Czech Republic.
+<k></k>
+
+20
+Oh man. I'll go. Send me.
+<k></k>
+
+21
+C'mon Debbie.
+<k></k>
+
+22
+Just switch the names on the tickets. No one will ever know.
+<k></k>
+
+23
+No, no.
+<k></k>
+
+24
+OK, OK. Don't switch the names.
+<k></k>
+
+25
+I'll wear a wig.
+<k></k>
+
+26
+I'll wear a dress. I'll... Nina!
+<k></k>
+
+27
+Don't ask!
+<k></k>
+

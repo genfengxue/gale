@@ -1,0 +1,250 @@
+[
+   {
+      "lessonNo" : 4,
+      "chinese" : "嗨 Sherise. 哈喽 Sherise.",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:08,997 --> 00:00:13,190",
+      "english" : "Hi Sherise. Hello Sherise."
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "Sherise在哪里?",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:13,549 --> 00:00:15,812",
+      "english" : "Where's Sherise?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "Sherise去看电影了吗?",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:15,824 --> 00:00:18,233",
+      "english" : "Has Sherise gone to the movies?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "不, 她没有.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:18,674 --> 00:00:21,115",
+      "english" : "No, she hasn't."
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "她就在这里! wuh wuh wuh...",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:21,116 --> 00:00:25,364",
+      "english" : "She's right here! Wuh wuh wuh..."
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "打搅一下?",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:25,365 --> 00:00:26,442",
+      "english" : "Excuse me?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "Oh, 早安.",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:26,443 --> 00:00:28,073",
+      "english" : "Oh! Good morning."
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "早安, Wendy. 你朋友?",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:28,074 --> 00:00:31,230",
+      "english" : "Good morning, Wendy. Friend of yours?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : " 那是Sherise.",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:31,231 --> 00:00:33,243",
+      "english" : "That's Sherise."
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : " Sherise在哪里?",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:00:33,622 --> 00:00:36,044",
+      "english" : "Where's Sherise?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "Sherise在餐厅里",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:00:36,045 --> 00:00:38,393",
+      "english" : "Sherise is in the restaurant."
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : " 问题是, Sherise是谁?",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:00:38,404 --> 00:00:41,506",
+      "english" : "The question is, who is Sherise?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "Nina的宝宝",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:00:41,507 --> 00:00:42,908",
+      "english" : "Nina's baby."
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : " Oh.那么Nina在哪里?",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:00:42,909 --> 00:00:45,308",
+      "english" : "Oh. And where is Nina?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "她在开会.",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:00:45,739 --> 00:00:48,364",
+      "english" : "She's at a meeting."
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : " 会议在哪里?",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:00:48,532 --> 00:00:50,609",
+      "english" : "And where's the meeting?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "在儿童中心.",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:00:50,967 --> 00:00:54,575",
+      "english" : "At the Children's Center."
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "Nina(已经)去开会了 在儿童中心,",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:00:54,576 --> 00:00:57,209",
+      "english" : "Nina's gone to a meeting at the Children's Center,"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "她的宝宝在这里?",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:00:57,210 --> 00:00:59,013",
+      "english" : "and her baby is here?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "对的",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:00:59,364 --> 00:01:01,594",
+      "english" : "That's right."
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : " Sherise去开会了吗?",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:01:01,727 --> 00:01:04,738",
+      "english" : "Has Sherise gone to the meeting?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "不, 她没有",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:01:04,801 --> 00:01:07,245",
+      "english" : "No, she hasn't."
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "为什么Sherise没有在儿童中心?",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:01:07,246 --> 00:01:09,761",
+      "english" : "Why isn't Sherise at the Children's Center?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "或在家, 在Sherise的房子里?",
+      "sentenceNo" : 24,
+      "courseNo" : 2,
+      "timeline" : "00:01:09,762 --> 00:01:12,166",
+      "english" : "Or at home, at Sherise's house?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "Nina的保姆生病了,ok?",
+      "sentenceNo" : 25,
+      "courseNo" : 2,
+      "timeline" : "00:01:12,526 --> 00:01:15,478",
+      "english" : "Nina's baby sitter is sick, OK?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "Oh,so 保姆(已经)回家去了.",
+      "sentenceNo" : 26,
+      "courseNo" : 2,
+      "timeline" : "00:01:15,479 --> 00:01:18,450",
+      "english" : "Oh, so the baby sitter's gone home."
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "但Sherise没有! Sherise在工作.",
+      "sentenceNo" : 27,
+      "courseNo" : 2,
+      "timeline" : "00:01:18,451 --> 00:01:22,499",
+      "english" : "But not Sherise! Sherise is at work."
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : " 打搅一下?",
+      "sentenceNo" : 28,
+      "courseNo" : 2,
+      "timeline" : "00:01:22,500 --> 00:01:23,658",
+      "english" : "Excuse me?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "是.我可以帮...? 我可以帮你吗?",
+      "sentenceNo" : 29,
+      "courseNo" : 2,
+      "timeline" : "00:01:23,659 --> 00:01:27,867",
+      "english" : "Yes. Can I help...? Can I help you?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : " 你知道儿童中心在哪吗?",
+      "sentenceNo" : 30,
+      "courseNo" : 2,
+      "timeline" : "00:01:27,868 --> 00:01:30,181",
+      "english" : "Do you know where the Children's center is?"
+   },
+   {
+      "lessonNo" : 4,
+      "chinese" : "Why,yes.",
+      "sentenceNo" : 31,
+      "courseNo" : 2,
+      "timeline" : "00:01:32,000 --> 00:01:33,556",
+      "english" : "Why, yes."
+   }
+]

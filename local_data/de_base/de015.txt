@@ -1,0 +1,104 @@
+1
+Now, this one's very nice.
+<k></k>
+
+2
+What's it made of?
+<k></k>
+
+3
+It's made of leather.
+<k></k>
+
+4
+But leather is too heavy for me.
+<k></k>
+
+5
+And it's too expensive.
+<k></k>
+
+6
+How about this one? This isn't heavy.
+<k></k>
+
+7
+This is plastic.
+<k></k>
+
+8
+It's lighter, but it's too light.
+<k></k>
+
+9
+It can't take the battering.
+<k></k>
+
+10
+And look. it's too small.
+<k></k>
+
+11
+Oh.
+<k></k>
+
+12
+Now this. This is a new design.
+<k></k>
+
+13
+It's a good size.
+<k></k>
+
+14
+24 inches by 14 inches by 10 inches.
+<k></k>
+
+15
+It's made of strong nylon.
+<k></k>
+
+16
+It's light, but not too light.
+<k></k>
+
+17
+How much does it weigh?
+<k></k>
+
+18
+Not more than five pounds.
+<k></k>
+
+19
+It's small enough to go under a seat on a plane,
+<k></k>
+
+20
+yet big enough to carry a suit, a few shirts... and a computer notebook.
+<k></k>
+
+21
+Wow.
+<k></k>
+
+22
+It's got a handle. It's got wheels.
+<k></k>
+
+23
+How much does it cost? Is it expensive?
+<k></k>
+
+24
+Not too expensive. $120.
+<k></k>
+
+25
+So you recommend this one?
+<k></k>
+
+26
+Recommend it? I have one just like it!
+<k></k>
+

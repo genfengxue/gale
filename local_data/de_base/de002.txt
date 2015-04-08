@@ -1,0 +1,104 @@
+1
+Dean, meet Sharon Solaye.
+<k></k>
+
+2
+She's our concierge.
+<k></k>
+
+3
+Dean is our college intern for the summer.
+<k></k>
+
+4
+Nice to meet you, Dean.
+<k></k>
+
+5
+Hello. Goodbye.
+<k></k>
+
+6
+Bye bye.
+<k></k>
+
+7
+William, this is Dean Johnson.
+<k></k>
+
+8
+He's the new intern. Dean, William.
+<k></k>
+
+9
+Hi, Dean. Welcome to the ...
+<k></k>
+
+10
+Nice to meet you.
+<k></k>
+
+11
+He isn't here.
+<k></k>
+
+12
+Hello. What's all this?
+<k></k>
+
+13
+There you are. Meet our new intern.
+<k></k>
+
+14
+My name's Dean Johnson.
+<k></k>
+
+15
+I'm Simon Wilkinson,
+<k></k>
+
+16
+manager of the restaurant.
+<k></k>
+
+17
+How do you do?
+<k></k>
+
+18
+That's Kevin. He's our bartender.
+<k></k>
+
+19
+Kev! this is Dean.
+<k></k>
+
+20
+Hi.  -Hi.
+<k></k>
+
+21
+Are you new?
+<k></k>
+
+22
+Yeah, I'm the new intern.
+<k></k>
+
+23
+Have you met everybody?
+<k></k>
+
+24
+Dean?
+<k></k>
+
+25
+Well, see you later...
+<k></k>
+
+26
+I'm sorry, what's your name again?
+<k></k>
+

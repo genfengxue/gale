@@ -1,0 +1,104 @@
+1
+George! What are you doing?
+<k></k>
+
+2
+I'm working.
+<k></k>
+
+3
+Don't you hear the alarm?
+<k></k>
+
+4
+Yes. It's horrible.
+<k></k>
+
+5
+Is there any way we can turn it off?
+<k></k>
+
+6
+Turn it off?
+<k></k>
+
+7
+It's just a drill.
+<k></k>
+
+8
+George, it is an emergency drill.
+<k></k>
+
+9
+It's important.
+<k></k>
+
+10
+What do I have to do?
+<k></k>
+
+11
+It's all here.
+<k></k>
+
+12
+Read the instructions.
+<k></k>
+
+13
+If you discover a fire, call 911.
+<k></k>
+
+14
+Give the address. Boston Sheraton Hotel,
+<k></k>
+
+15
+39 Dalton Street.
+<k></k>
+
+16
+They discovered the fire, NuLa.
+<k></k>
+
+17
+The alarm's already on. What else?
+<k></k>
+
+18
+Don't panic! Shut any open windows.
+<k></k>
+
+19
+Leave your office.
+<k></k>
+
+20
+Shut all the doors behind you.
+<k></k>
+
+21
+Go to your nearest exit.
+<k></k>
+
+22
+Do not use the elevator.
+<k></k>
+
+23
+Use the stairs.
+<k></k>
+
+24
+Leave the building.
+<k></k>
+
+25
+Women and children first.
+<k></k>
+
+26
+It doesn't say that.
+<k></k>
+

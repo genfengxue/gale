@@ -1,0 +1,84 @@
+1
+Good afternoon.
+<k></k>
+
+2
+I believe that this house is for sale.
+<k></k>
+
+3
+That's right.
+<k></k>
+
+4
+May I have a look at it, please?
+<k></k>
+
+5
+Yes, of course. Come in.
+<k></k>
+
+6
+How long have you lived here?
+<k></k>
+
+7
+I've live here for twenty years.
+<k></k>
+
+8
+Twenty years!
+<k></k>
+
+9
+That's a long time.
+<k></k>
+
+10
+Yes, I've been here since 1976.
+<k></k>
+
+11
+Then why do you want to sell it?
+<k></k>
+
+12
+Because I've just retired.
+<k></k>
+
+13
+I want to buy a small house in the country.
+<k></k>
+
+14
+How much does this house cost?
+<k></k>
+
+15
+£68, 500.
+<k></k>
+
+16
+That's a lot of money.
+<k></k>
+
+17
+It's worth every penny of it.
+<k></k>
+
+18
+Well, I like the house,
+<k></k>
+
+19
+but I can't decide yet.
+<k></k>
+
+20
+My wife must see it first.
+<k></k>
+
+21
+Women always have the last word.
+<k></k>
+

@@ -1,0 +1,80 @@
+1
+George, would you mind taking care of this for me?
+<k></k>
+
+2
+You did such a good job last time.
+<k></k>
+
+3
+Sure. I'll do it as soon as I can.
+<k></k>
+
+4
+Thanks ever so much. See you later.
+<k></k>
+
+5
+Bye.
+<k></k>
+
+6
+George?
+<k></k>
+
+7
+Yeah?
+<k></k>
+
+8
+What was that all about?
+<k></k>
+
+9
+Oh! Sharon just wants me to arrange some transportation for a guest.
+<k></k>
+
+10
+Ah, that's not your job.
+<k></k>
+
+11
+She just wants me to help her occasionally.
+<k></k>
+
+12
+She wants you to help her occasionally?
+<k></k>
+
+13
+Well...
+<k></k>
+
+14
+George, I don't think so.
+<k></k>
+
+15
+I need you 100% in this office.
+<k></k>
+
+16
+Right.
+<k></k>
+
+17
+Next time, would you please tell her that you have your own work to do?
+<k></k>
+
+18
+I'd better do that now.
+<k></k>
+
+19
+But it won't be easy coming up against her southern charm.
+<k></k>
+
+20
+George, why don't you just use that northern charm of yours?
+<k></k>
+

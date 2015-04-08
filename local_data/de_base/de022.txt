@@ -1,0 +1,96 @@
+1
+Excuse me.
+<k></k>
+
+2
+Hi. Can I help you?
+<k></k>
+
+3
+I have an appointment at the Blacksmith House Cafe in Cambridge.
+<k></k>
+
+4
+How can I get there, please.
+<k></k>
+
+5
+Do you know where in Cambridge?
+<k></k>
+
+6
+It's in Harvard Square.
+<k></k>
+
+7
+OK. Down the street to the right is our subway.
+<k></k>
+
+8
+Take the green line to Park Street.
+<k></k>
+
+9
+Thank you.
+<k></k>
+
+10
+Go down these stairs to transfer...
+<k></k>
+
+11
+Excuse me. Can you tell me where the Blacksmith House Cafe is?
+<k></k>
+
+12
+Oh yeah. OK.
+<k></k>
+
+13
+Straight ahead to the end of the street, to the fork. Make a right.
+<k></k>
+
+14
+See the brick building? With the cafe sign?
+<k></k>
+
+15
+Yes?
+<k></k>
+
+16
+That's not it.
+<k></k>
+
+17
+Blacksmith House Cafe?
+<k></k>
+
+18
+Yeah. Cross the next street on your left.
+<k></k>
+
+19
+It's past the Indian restaurant,
+<k></k>
+
+20
+next to the shoe store,
+<k></k>
+
+21
+opposite the drugstore.
+<k></k>
+
+22
+Hi, Kasim! Was it difficult to get here?
+<k></k>
+
+23
+No problem, Elliot.
+<k></k>
+
+24
+No problem at all.
+<k></k>
+

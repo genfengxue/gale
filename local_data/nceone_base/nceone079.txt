@@ -1,0 +1,80 @@
+1
+What are you doing, Carol?
+<k></k>
+
+2
+I'm making a shopping list, Tom.
+<k></k>
+
+3
+What do we need?
+<k></k>
+
+4
+We need a lot of things this week.
+<k></k>
+
+5
+I must go to the grocer's.
+<k></k>
+
+6
+We haven't got much tea or coffee,
+<k></k>
+
+7
+and we haven't got any sugar or jam.
+<k></k>
+
+8
+What about vegetables?
+<k></k>
+
+9
+I must go to the greengrocer's.
+<k></k>
+
+10
+We haven't got many tomatoes,
+<k></k>
+
+11
+but we've got a lot of potatoes.
+<k></k>
+
+12
+I must go to the butcher's, too.
+<k></k>
+
+13
+We need some meat.
+<k></k>
+
+14
+We haven't got any meat at all.
+<k></k>
+
+15
+Have we got any beer and wine?
+<k></k>
+
+16
+No, we haven't.
+<k></k>
+
+17
+And I'm not going to get any!
+<k></k>
+
+18
+I hope that you've got some money.
+<k></k>
+
+19
+I haven't got much.
+<k></k>
+
+20
+Well, I haven't got much either!
+<k></k>
+

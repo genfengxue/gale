@@ -1,0 +1,108 @@
+1
+Do you work for the news?
+<k></k>
+
+2
+Yes. I do. I'm a reporter.
+<k></k>
+
+3
+Where's the camera?
+<k></k>
+
+4
+Oh, I'm not a TV reporter.
+<k></k>
+
+5
+-I'm a radio reporter. -Oh.
+<k></k>
+
+6
+Are you disappointed?
+<k></k>
+
+7
+Did something happen?
+<k></k>
+
+8
+Do you mean, like a fire?
+<k></k>
+
+9
+No. I'm doing an interview.
+<k></k>
+
+10
+That's part of my job, too.
+<k></k>
+
+11
+How come you're a reporter?
+<k></k>
+
+12
+Oh, I like this job.
+<k></k>
+
+13
+I used to work in an office. I hated that.
+<k></k>
+
+14
+Yeah?
+<k></k>
+
+15
+Yeah. I worked in the mailroom.
+<k></k>
+
+16
+I was in that one room all day, you know?
+<k></k>
+
+17
+So I quit that job.
+<k></k>
+
+18
+Guess what I did next.
+<k></k>
+
+19
+What?
+<k></k>
+
+20
+I worked in a place where they raised rats for laboratories.
+<k></k>
+
+21
+Really?
+<k></k>
+
+22
+Yeah.
+<k></k>
+
+23
+Cool.
+<k></k>
+
+24
+Then I went to college. Then I got this job.
+<k></k>
+
+25
+How does that work?
+<k></k>
+
+26
+Do you want me to show you?
+<k></k>
+
+27
+Come on. We'll do an interview.
+<k></k>
+

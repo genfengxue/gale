@@ -1,0 +1,202 @@
+[
+   {
+      "lessonNo" : 25,
+      "chinese" : "我需要寻找一个Dean的生日礼物.",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:12, 620 --> 00:00:15, 120",
+      "english" : "I need to look for Dean's birthday present."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "他喜欢什么?",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:15, 820 --> 00:00:16, 840",
+      "english" : "What does he like?"
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "他喜欢电脑,运动,常规的(男人喜欢的东西).",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:18, 300 --> 00:00:22, 840",
+      "english" : "He likes computers, sports. The usual."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "看看那个帽子.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:25, 400 --> 00:00:27, 560",
+      "english" : "Look at that hat."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "很漂亮.",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:28, 060 --> 00:00:29, 140",
+      "english" : "It's beautiful."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "你想试试吗?",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:29, 640 --> 00:00:30, 850",
+      "english" : "Do you want to try it on?"
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "是的.",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:32, 100 --> 00:00:32, 600",
+      "english" : "Yeah."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "他喜欢什么运动?",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:37, 160 --> 00:00:39, 120",
+      "english" : "So what sports does he like?"
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "棒球.",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:39, 700 --> 00:00:40, 590",
+      "english" : "Baseball."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "你喜欢棒球吗?",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:00:42, 160 --> 00:00:43, 540",
+      "english" : "Do you like baseball?"
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "我喜欢, 但是我不是个狂热的粉丝.",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:00:44, 840 --> 00:00:47, 020",
+      "english" : "I enjoy it. But I'm not a maniac."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "So, 你觉得如何?",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:00:49, 520 --> 00:00:50, 980",
+      "english" : "So, what do you think?"
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "样式棒极了,",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:00:53, 480 --> 00:00:55, 240",
+      "english" : "The style is terrific,"
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "但是我不喜欢颜色.",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:00:56, 100 --> 00:00:57, 210",
+      "english" : "but I don't like the color."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "他会喜欢棒球帽吗?",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:01:02, 060 --> 00:01:03, 620",
+      "english" : "Would he like a baseball cap?"
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "他有很多(棒球帽).",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:01:04, 180 --> 00:01:05, 550",
+      "english" : "He has a lot of those."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "一件夹克如何?",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:01:06, 960 --> 00:01:08, 200",
+      "english" : "What about a jacket?"
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "那是个很棒的想法.",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:01:09, 700 --> 00:01:11, 720",
+      "english" : "That's a fantastic idea."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "那个很漂亮, Wendy.",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:01:15, 540 --> 00:01:17, 240",
+      "english" : "That's pretty, Wendy."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "你觉得(漂亮)?",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:01:17, 500 --> 00:01:18, 470",
+      "english" : "You think so?"
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "是的. 你打算买它吗?",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:01:19, 220 --> 00:01:21, 580",
+      "english" : "Yes. Are you going to get it?"
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "我要买这个.",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:01:23, 560 --> 00:01:24, 640",
+      "english" : "I'm going to buy this."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "好的.",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:01:25, 240 --> 00:01:25, 700",
+      "english" : "OK."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "然后我真地想找一件棒球夹克衫.",
+      "sentenceNo" : 24,
+      "courseNo" : 2,
+      "timeline" : "00:01:26, 180 --> 00:01:28, 580",
+      "english" : "And then I really want to look for a baseball jacket."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "但是首先我需要一件连衣裙可以搭配这个帽子",
+      "sentenceNo" : 25,
+      "courseNo" : 2,
+      "timeline" : "00:01:30, 140 --> 00:01:33, 440",
+      "english" : "But first I need a dress to go with the hat."
+   }
+]

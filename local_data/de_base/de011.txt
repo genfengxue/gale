@@ -1,0 +1,64 @@
+1
+Kevin. What's your ideal woman like?
+<k></k>
+
+2
+Oh, she's tall. Beautiful...
+<k></k>
+
+3
+With long blonde hair... Blue eyes...
+<k></k>
+
+4
+Dresses well...
+<k></k>
+
+5
+I can't believe you two.
+<k></k>
+
+6
+Is that all you think about?
+<k></k>
+
+7
+Yes.
+<k></k>
+
+8
+Why, Wendy? What's your ideal man like?
+<k></k>
+
+9
+He's generous and intelligent
+<k></k>
+
+10
+and kind and sensitive and dependable.
+<k></k>
+
+11
+He's medium height and weighs not one ounce over 175 pounds.
+<k></k>
+
+12
+That's ah...
+<k></k>
+
+13
+79 kilos. I'm your man, Wendy.
+<k></k>
+
+14
+That's ah.. twelve and a half stone.
+<k></k>
+
+15
+I'm afraid that's me, Wendy.
+<k></k>
+
+16
+You two. And you're both so modest.
+<k></k>
+

@@ -1,0 +1,120 @@
+1
+Psst. Wendy. Kevin. Come here.
+<k></k>
+
+2
+What is it?
+<k></k>
+
+3
+Who is that woman? I know her.
+<k></k>
+
+4
+Which one?
+<k></k>
+
+5
+The one in the polka-dot dress.
+<k></k>
+
+6
+The one with the hair?
+<k></k>
+
+7
+The one in the red hat?
+<k></k>
+
+8
+Yes. She looks so familiar.
+<k></k>
+
+9
+She does.
+<k></k>
+
+10
+She looks like Meredith Cain.
+<k></k>
+
+11
+Of course! That's her. Don't look.
+<k></k>
+
+12
+Who's Meredith Cain?
+<k></k>
+
+13
+She's an actress.
+<k></k>
+
+14
+She was in that movie 'Danger Street'.
+<k></k>
+
+15
+She's very famous.
+<k></k>
+
+16
+I don't know her.
+<k></k>
+
+17
+You come from Australia.
+<k></k>
+
+18
+I can't believe she's here.
+<k></k>
+
+19
+She looks plain.
+<k></k>
+
+20
+You're joking.
+<k></k>
+
+21
+Here she comes. Shh.
+<k></k>
+
+22
+That's not Meredith Cain.
+<k></k>
+
+23
+Hi. Can I help you?
+<k></k>
+
+24
+Sharon? Sharon Solaye!
+<k></k>
+
+25
+Yes?
+<k></k>
+
+26
+It's me. Betsy Milller.
+<k></k>
+
+27
+Andrew Jackson Junior High?
+<k></k>
+
+28
+We were cheerleaders.
+<k></k>
+
+29
+"Push'em back, push'em back, wa-ay back!"
+<k></k>
+
+30
+I still don't know her.
+<k></k>
+

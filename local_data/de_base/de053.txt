@@ -1,0 +1,92 @@
+1
+Can I help you?
+<k></k>
+
+2
+Yes, please. We reserved some rooms.
+<k></k>
+
+3
+What's the name?
+<k></k>
+
+4
+We're with the International Summer Basketball League.
+<k></k>
+
+5
+Oh yes.
+<k></k>
+
+6
+We prefer rooms high up.
+<k></k>
+
+7
+Of course.
+<k></k>
+
+8
+Away from traffic, and with nice views.
+<k></k>
+
+9
+I think you'll be pleased with these.
+<k></k>
+
+10
+-You've reserved six double rooms. -Yes.
+<k></k>
+
+11
+-With bath. -Yes.
+<k></k>
+
+12
+-And twin beds? -Yes.
+<k></k>
+
+13
+-And one single room. -Yes.
+<k></k>
+
+14
+With bath.
+<k></k>
+
+15
+Yes. And a king-size bed.
+<k></k>
+
+16
+That's right.
+<k></k>
+
+17
+Good.
+<k></k>
+
+18
+Is breakfast included?
+<k></k>
+
+19
+I'm afraid not.
+<k></k>
+
+20
+Ah well.
+<k></k>
+
+21
+Here is a list of our breakfast requirements.
+<k></k>
+
+22
+Please warn the kitchen. Thank you. Good day.
+<k></k>
+
+23
+Jarmusch? We have to talk.
+<k></k>
+

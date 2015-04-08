@@ -1,0 +1,186 @@
+[
+   {
+      "lessonNo" : 14,
+      "chinese" : "George, 你是什么星座(sign)?",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:06,678 --> 00:00:08,286",
+      "english" : "George, what sign are you?"
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "处女座(Virgo) 9月19日, 对吗?",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:08,997 --> 00:00:11,864",
+      "english" : "Virgo. September 19th, right?"
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "是的",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:12,154 --> 00:00:12,924",
+      "english" : "Yes."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "我不知道什么时间.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:13,358 --> 00:00:14,707",
+      "english" : "I don't know what time."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "1:53a.m. 我是在大半夜出生的.",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:15,724 --> 00:00:20,086",
+      "english" : "1:53 a. m. I was born in the middle of the night."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "你人很好并且非常勤奋.",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:20,626 --> 00:00:22,217",
+      "english" : "You're nice and hard-working."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "你和摩羯座(Capricorns)相处得很好. 比如Nina",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:22,439 --> 00:00:24,583",
+      "english" : "You get along with Capricorns. Like Nina."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "Anna, 你是如何...",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:24,989 --> 00:00:26,157",
+      "english" : "Anne, how do you..."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "1月7日, 19..",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:26,329 --> 00:00:27,276",
+      "english" : "January 7, 19..."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "Uh-uh.",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:00:27,529 --> 00:00:28,480",
+      "english" : "Uh-uh."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "谨慎的, 可靠地, 有艺术气息的...",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:00:29,812 --> 00:00:32,395",
+      "english" : "Prudent, raliable, artistic,..."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "关于我呢, Anne?",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:00:32,922 --> 00:00:34,522",
+      "english" : "What about me, Anne?"
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "你是有活力的, 因为你是一个狮子座(Leo)",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:00:34,741 --> 00:00:36,688",
+      "english" : "You're dynamic, because you're a Leo."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "并且明年8月, 你就\"合法了\".",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:00:37,056 --> 00:00:38,627",
+      "english" : "And next August, You're \"legal\"."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "Huh?",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:00:39,200 --> 00:00:39,514",
+      "english" : "Huh?"
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "我21岁 在8月4日.",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:00:40,211 --> 00:00:41,898",
+      "english" : "I'm 21 on August 4th."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "自从何时, 你有这些奇异的能力?",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:00:42,571 --> 00:00:45,467",
+      "english" : "Since when do you have these strange powers?"
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "我没有奇异的能力",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:00:45,705 --> 00:00:46,720",
+      "english" : "I have no strange powers."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "我有一个如照相机一般的记忆.",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:00:47,005 --> 00:00:48,050",
+      "english" : "I have a photographic memory."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "So?",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:00:48,303 --> 00:00:48,991",
+      "english" : "So?"
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "So, 我是人事主管 3年了.",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:00:49,286 --> 00:00:51,231",
+      "english" : "So, I was personnel director for three years."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "而Dean, 我雇佣了你.",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:00:51,593 --> 00:00:52,964",
+      "english" : "And Dean, I hired you."
+   },
+   {
+      "lessonNo" : 14,
+      "chinese" : "我当然知道你的生日啦!",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:00:53,562 --> 00:00:55,055",
+      "english" : "Of course I know your birthdays!"
+   }
+]

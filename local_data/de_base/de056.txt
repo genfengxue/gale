@@ -1,0 +1,88 @@
+1
+So, where are your father and sister?
+<k></k>
+
+2
+Mom, listen.
+<k></k>
+
+3
+She interviewed me. But not for television.
+<k></k>
+
+4
+She's only on the radio.
+<k></k>
+
+5
+Who's on the radio?
+<k></k>
+
+6
+The reporter. She told me she's on the radio.
+<k></k>
+
+7
+And you know what?
+<k></k>
+
+8
+She said she quit her job because she hated it.
+<k></k>
+
+9
+As a reporter?
+<k></k>
+
+10
+No. In an office.
+<k></k>
+
+11
+She had to stay in one room all the time.
+<k></k>
+
+12
+And then, you won't believe this.
+<k></k>
+
+13
+-She said she fed rats. -What?
+<k></k>
+
+14
+You know the rats they use in science?
+<k></k>
+
+15
+Yes.
+<k></k>
+
+16
+Those rats. She fed them. She told me.
+<k></k>
+
+17
+But Mom, isn't that so cool?
+<k></k>
+
+18
+I want to do that.
+<k></k>
+
+19
+Feed rats?
+<k></k>
+
+20
+No. Be a reporter.
+<k></k>
+
+21
+Mm. That's good, honey.
+<k></k>
+
+22
+Except I'm going to be on TV.
+<k></k>
+

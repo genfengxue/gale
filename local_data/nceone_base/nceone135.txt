@@ -1,0 +1,80 @@
+1
+Are you really going to retire, Miss Marsh?
+<k></k>
+
+2
+I may.
+<k></k>
+
+3
+I can't make up my mind.
+<k></k>
+
+4
+I will have to ask my future husband.
+<k></k>
+
+5
+He won't let me make another film.
+<k></k>
+
+6
+Your future husband, Miss Marsh?
+<k></k>
+
+7
+Yes. Let me introduce him to you.
+<k></k>
+
+8
+His name is Carlos.
+<k></k>
+
+9
+We're going to get married next week.
+<k></k>
+
+10
+Look, Liz!
+<k></k>
+
+11
+Here's another report about Karen Marsh.
+<k></k>
+
+12
+Listen:'Karen Marsh: The latest.
+<k></k>
+
+13
+At her London Hotel today Miss Marsh told reporters she might retire.
+<k></k>
+
+14
+She said she couldn't make up her mind.
+<k></k>
+
+15
+She said she would have to ask her future husband.
+<k></k>
+
+16
+She said her future husband would not let her make another film.
+<k></k>
+
+17
+Then she introduced us to Carlos and told us they would get married next week.'
+<k></k>
+
+18
+That's sensational news, isn't it, Kate?
+<k></k>
+
+19
+It certainly is.
+<k></k>
+
+20
+He'll be her sixth husband!
+<k></k>
+

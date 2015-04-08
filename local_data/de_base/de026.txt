@@ -1,0 +1,108 @@
+1
+Hi. What can I get you?
+<k></k>
+
+2
+This is for Anne Holland...
+<k></k>
+
+3
+What's the score?
+<k></k>
+
+4
+Zero-zero, so far.
+<k></k>
+
+5
+She needs some paper for the printer.
+<k></k>
+
+6
+Letter-size.
+<k></k>
+
+7
+How much?
+<k></k>
+
+8
+A lot.
+<k></k>
+
+9
+Will five packs be OK?
+<k></k>
+
+10
+I think so.
+<k></k>
+
+11
+And we need ... ... some fax paper.
+<k></k>
+
+12
+How much?
+<k></k>
+
+13
+Not much, I guess.
+<k></k>
+
+14
+She doesn't say.
+<k></k>
+
+15
+A couple of rolls'll be OK.
+<k></k>
+
+16
+Check that.
+<k></k>
+
+17
+Oh and some envelopes.
+<k></k>
+
+18
+How many?
+<k></k>
+
+19
+She's sending out rejection letters to job applicants.
+<k></k>
+
+20
+A lot.
+<k></k>
+
+21
+I'll give you a couple of hundred.
+<k></k>
+
+22
+And some computer disks.
+<k></k>
+
+23
+Not too many.
+<k></k>
+
+24
+Ten?
+<k></k>
+
+25
+Great.
+<k></k>
+
+26
+Thanks!
+<k></k>
+
+27
+Nice talking to you.
+<k></k>
+

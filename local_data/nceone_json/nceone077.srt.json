@@ -1,0 +1,154 @@
+[
+   {
+      "lessonNo" : 77,
+      "chinese" : "早上好,Croft先生.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:01,440 --> 00:00:04,870",
+      "english" : "Good morning. Mr. Croft."
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "早上好,护士.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:04,870 --> 00:00:07,130",
+      "english" : "Good morning, nurse."
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "我想见牙科医生.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:07,440 --> 00:00:11,400",
+      "english" : "I want to see the dentist, please."
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "您约好了吗?",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:11,470 --> 00:00:14,890",
+      "english" : "Do you have an appointment?"
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "没有.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:14,890 --> 00:00:17,230",
+      "english" : "No, I don't."
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "急吗?",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:17,230 --> 00:00:19,590",
+      "english" : "Is it urgent?"
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "是的,",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:19,730 --> 00:00:22,050",
+      "english" : "Yes, it is."
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "很急.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:22,050 --> 00:00:24,560",
+      "english" : "It's very urgent."
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "我难受极了,",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:24,560 --> 00:00:27,000",
+      "english" : "I feel awful."
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "牙痛得要命.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:27,000 --> 00:00:30,910",
+      "english" : "I have a terrible toothache."
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "您在4月24日星期一上午10点钟来行吗?",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:30,910 --> 00:00:37,290",
+      "english" : "Can you come at 10 a. m. on Monday, April 24th?"
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "我必须现在就见牙科医生,护士.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:37,310 --> 00:00:42,330",
+      "english" : "I must see the dentist now, nurse."
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "牙科医生这会儿很忙.",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:42,650 --> 00:00:47,500",
+      "english" : "The dentist is very busy at the moment."
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "您下午两点钟来行吗?",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:47,500 --> 00:00:51,080",
+      "english" : "Can you come at 2 p. m.?"
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "那就太晚了.",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:51,090 --> 00:00:54,030",
+      "english" : "That's very late."
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "牙科医生现在就不能给我看一下吗?",
+      "sentenceNo" : 16,
+      "courseNo" : 1,
+      "timeline" : "00:00:54,030 --> 00:00:57,390",
+      "english" : "Can the dentist see me now?"
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "恐怕不能,克罗夫特先生.",
+      "sentenceNo" : 17,
+      "courseNo" : 1,
+      "timeline" : "00:00:57,390 --> 00:01:02,190",
+      "english" : "I'm afraid that he can't, Mr. Croft."
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "您就不能等到今天下午吗?",
+      "sentenceNo" : 18,
+      "courseNo" : 1,
+      "timeline" : "00:01:02,210 --> 00:01:06,250",
+      "english" : "Can't you wait till this afternoon?"
+   },
+   {
+      "lessonNo" : 77,
+      "chinese" : "我倒是可以等.可是我的牙痛等不了啊!",
+      "sentenceNo" : 19,
+      "courseNo" : 1,
+      "timeline" : "00:01:06,250 --> 00:01:11,200",
+      "english" : "I can wait, but my toothache can't!"
+   }
+]

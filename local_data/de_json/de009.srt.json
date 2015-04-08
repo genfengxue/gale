@@ -1,0 +1,250 @@
+[
+   {
+      "lessonNo" : 9,
+      "chinese" : "你在做什么?",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:09,642 --> 00:00:10,771",
+      "english" : "What are you doing?"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "只是在拿你的包, 先生.",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:10,772 --> 00:00:12,272",
+      "english" : "Just taking your bags, sir."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "Ah...So, Yamamoto先生?",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:12,273 --> 00:00:14,418",
+      "english" : "Ah... So, Mr. Yamamoto?"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "是的, 是的.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:14,419 --> 00:00:15,270",
+      "english" : "Yes, yes."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "那个手推车要去哪?",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:15,271 --> 00:00:16,907",
+      "english" : "Where is that trolley going?"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "去机场.",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:16,908 --> 00:00:18,277",
+      "english" : "To the airport."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "机场?",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:18,278 --> 00:00:19,626",
+      "english" : "The airport?"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "Well, 不. 手推车去外边的往返巴士上.",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:19,627 --> 00:00:22,068",
+      "english" : "Well, no. The trolley's going outside to the shuttle bus."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "往返巴士去机场.",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:22,069 --> 00:00:24,091",
+      "english" : "The shuttle's going to the airport."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "但是我刚刚登记入住呀!",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:00:24,092 --> 00:00:25,694",
+      "english" : "But I'm just checking in!"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "没错, 先生.",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:00:25,695 --> 00:00:27,246",
+      "english" : "That's right sir."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "你有任何包包吗?",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:00:27,247 --> 00:00:28,525",
+      "english" : "Do you have any bags?"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "他们正去往机场.",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:00:28,526 --> 00:00:30,742",
+      "english" : "They're going to the airport!"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "什么?",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:00:30,746 --> 00:00:31,813",
+      "english" : "What?"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "行李员正把我的包放到往返巴士上!",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:00:31,814 --> 00:00:34,397",
+      "english" : "The porter is putting my bags on the shuttle!"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "Carl! Carl!",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:00:34,398 --> 00:00:36,221",
+      "english" : "Carl! Carl!"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "那些包去往Yamamoto先生的房间!",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:00:36,222 --> 00:00:38,870",
+      "english" : "The bags go to Mr. Yamamoto's room!"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "怎么了?",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:00:41,317 --> 00:00:42,558",
+      "english" : "What's going on?"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "-他的行李正在去往机场! - 我的行李正在去往机场.",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:00:42,559 --> 00:00:44,841",
+      "english" : "-His bags are going to the airport! -My bags are going to the airport!"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "我希望你在这里住的愉快.",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:00:44,894 --> 00:00:47,173",
+      "english" : "I hope you had a pleasant stay."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "这并非(真地)在发生.",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:00:47,174 --> 00:00:49,042",
+      "english" : "This isn't happening."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "别担心. 我在打电话.",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:01:06,808 --> 00:01:09,035",
+      "english" : "Don't worry. I'm calling."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "我在打电话.",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:01:09,443 --> 00:01:10,826",
+      "english" : "I'm calling."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "发生什么了现在?",
+      "sentenceNo" : 24,
+      "courseNo" : 2,
+      "timeline" : "00:01:10,827 --> 00:01:12,418",
+      "english" : "What's happening now?"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "Yamamoto先生的行李 正在去往机场...",
+      "sentenceNo" : 25,
+      "courseNo" : 2,
+      "timeline" : "00:01:12,419 --> 00:01:15,359",
+      "english" : "Mr. Yamamoto's bags are on their way to the airport.."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "那怎么了?",
+      "sentenceNo" : 26,
+      "courseNo" : 2,
+      "timeline" : "00:01:15,360 --> 00:01:16,458",
+      "english" : "So?"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "我在试着把它们弄回来",
+      "sentenceNo" : 27,
+      "courseNo" : 2,
+      "timeline" : "00:01:16,459 --> 00:01:18,329",
+      "english" : "I'm trying to get them back."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "为什么?",
+      "sentenceNo" : 28,
+      "courseNo" : 2,
+      "timeline" : "00:01:18,330 --> 00:01:19,513",
+      "english" : "Why?"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "咱们的客人正在登记入住.",
+      "sentenceNo" : 29,
+      "courseNo" : 2,
+      "timeline" : "00:01:19,514 --> 00:01:22,117",
+      "english" : "Our guest is just checking in."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "Uh oh!",
+      "sentenceNo" : 30,
+      "courseNo" : 2,
+      "timeline" : "00:01:22,118 --> 00:01:23,754",
+      "english" : "Uh oh!"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "不能(入住)没有我的行李(的话)",
+      "sentenceNo" : 31,
+      "courseNo" : 2,
+      "timeline" : "00:01:24,014 --> 00:01:26,066",
+      "english" : "Not without my bags!"
+   }
+]

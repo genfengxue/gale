@@ -1,0 +1,226 @@
+[
+   {
+      "lessonNo" : 30,
+      "chinese" : "你觉得怎么样, Kevin?",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:06, 877 --> 00:00:07, 660",
+      "english" : "How does it feel, Kevin?"
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "你喜欢靠右驾驶吗?",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:08, 475 --> 00:00:09, 822",
+      "english" : "Do you like driving on the right side?"
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "有点儿不习惯.",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:11, 172 --> 00:00:12, 039",
+      "english" : "It's a little strange."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "要转弯了.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:15, 962 --> 00:00:16, 398",
+      "english" : "Here's the turn."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "OK. 进入右车道.",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:17, 331 --> 00:00:19, 906",
+      "english" : "OK. Get into the right-hand lane."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "什么时候?",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:20, 497 --> 00:00:20, 737",
+      "english" : "When?"
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "Now! 我们得向右转",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:21, 612 --> 00:00:22, 773",
+      "english" : "Now! We have to make a right!"
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "但我不能超车...",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:25, 349 --> 00:00:26, 431",
+      "english" : "But I mustn't just cut in..."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "我们错过机会了.",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:28, 114 --> 00:00:28, 644",
+      "english" : "We missed it."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "我们得兜个圈子了.",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:00:30, 312 --> 00:00:31, 213",
+      "english" : "We have to go around."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "要转弯了.",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:00:33, 397 --> 00:00:33, 777",
+      "english" : "Here's the turn."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "OK. 进入左车道.",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:00:34, 704 --> 00:00:36, 698",
+      "english" : "OK. Get into the left-hand lane."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "Left? 我还以为是右边.",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:00:37, 333 --> 00:00:39, 048",
+      "english" : "Left? I thought it was right."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "是右边.",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:00:39, 586 --> 00:00:40, 110",
+      "english" : "It is right."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "Yes.Yes. 我的意思是向右拐.",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:00:40, 681 --> 00:00:42, 074",
+      "english" : "Yes. Yes. I mean a right turn."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "我们错过机会了.",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:00:44, 071 --> 00:00:44, 619",
+      "english" : "We missed it."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "我们得兜个圈子了.",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:00:46, 877 --> 00:00:47, 420",
+      "english" : "We have to go around."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "\"禁止左拐\".",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:00:50, 159 --> 00:00:50, 872",
+      "english" : "No left turn."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "\"禁止拐弯\".",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:00:56, 016 --> 00:00:56, 542",
+      "english" : "No turns."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "我们试试这个路口.",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:01:01, 910 --> 00:01:02, 611",
+      "english" : "Let's try this one."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "No Kevin.",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:01:03, 154 --> 00:01:03, 497",
+      "english" : "No Kevin."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "你不能从这里进.",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:01:03, 878 --> 00:01:04, 291",
+      "english" : "You can't go in here."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "\"不准进入\".",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:01:05, 975 --> 00:01:06, 772",
+      "english" : "Do not enter."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "我们得兜个圈子了.",
+      "sentenceNo" : 24,
+      "courseNo" : 2,
+      "timeline" : "00:01:07, 249 --> 00:01:07, 966",
+      "english" : "We have to go around."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "总算成功了.",
+      "sentenceNo" : 25,
+      "courseNo" : 2,
+      "timeline" : "00:01:14, 123 --> 00:01:14, 652",
+      "english" : "Finally."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "我们下车吧.",
+      "sentenceNo" : 26,
+      "courseNo" : 2,
+      "timeline" : "00:01:17, 240 --> 00:01:18, 903",
+      "english" : "Let's get out of this car."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "Kevin.",
+      "sentenceNo" : 27,
+      "courseNo" : 2,
+      "timeline" : "00:01:27, 192 --> 00:01:27, 543",
+      "english" : "Kevin."
+   },
+   {
+      "lessonNo" : 30,
+      "chinese" : "What?  \"禁止停车\"",
+      "sentenceNo" : 28,
+      "courseNo" : 2,
+      "timeline" : "00:01:29, 111 --> 00:01:34, 579",
+      "english" : "What? No Parking."
+   }
+]

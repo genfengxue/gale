@@ -1,0 +1,202 @@
+[
+   {
+      "lessonNo" : 50,
+      "chinese" : "Well, 先生们,",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:09,118 --> 00:00:09,510",
+      "english" : "Well, gentlemen,"
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "今天我能为你们做些什么?",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:10,063 --> 00:00:10,850",
+      "english" : "how can I help you today?"
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "我们只是看看, 谢谢.",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:11,844 --> 00:00:12,843",
+      "english" : "We're just looking, thanks."
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "很好, 很好.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:13,627 --> 00:00:14,928",
+      "english" : "Very good, very good."
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "让我问你一个问题.",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:15,622 --> 00:00:16,421",
+      "english" : "Let me ask you a question."
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "你是对引人注目的外表(glamour)感兴趣呢?",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:17,147 --> 00:00:18,358",
+      "english" : "Are you interested in glamour?"
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "还是对可靠性感兴趣?",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:18,804 --> 00:00:19,123",
+      "english" : "Or reliability?"
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "我对汽车感兴趣.",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:20,535 --> 00:00:22,296",
+      "english" : "I'm interested in a car."
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "很好.",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:22,889 --> 00:00:23,248",
+      "english" : "Very good."
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "你能向我们介绍一下这辆车吗?",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:00:24,553 --> 00:00:26,141",
+      "english" : "What can you tell us about this one?"
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "她简直是位美人儿, 是不是? 1982年的.",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:00:26,876 --> 00:00:28,775",
+      "english" : "She's a beauty, isn't she? An 82."
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "它一直是这个颜色吗?",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:00:30,179 --> 00:00:31,104",
+      "english" : "Was it always this color?"
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "它跑了多少英里了?",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:00:32,260 --> 00:00:33,187",
+      "english" : "How many miles on it?"
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "顺顺当当地跑了16万2千英里. 还可以跑许多英里, 我敢保证.",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:00:34,270 --> 00:00:38,163",
+      "english" : "162, 000 happy miles. And many more to go, I'm sure."
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "以前它只有一个车主吗?",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:00:39,033 --> 00:00:40,213",
+      "english" : "Was there only one owner?"
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "Ah,no. 有过几个了. 几个十分满意的主人.",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:00:40,675 --> 00:00:43,669",
+      "english" : "Ah, no. Several owners. Several very happy owners."
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "它多长时间维修一次?",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:00:44,100 --> 00:00:45,901",
+      "english" : "How often has it been serviced?"
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "你知道, 有趣的事情是,",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:00:46,368 --> 00:00:47,713",
+      "english" : "You know, the funny thing is,"
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "这车跑得非常好, 它几乎从未维修过.",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:00:48,166 --> 00:00:50,714",
+      "english" : "this car ran so well, it hardly ever got serviced."
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "除了一两次撞车后.",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:00:51,205 --> 00:00:53,011",
+      "english" : "Except after one or two collisions."
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "是不是很棒?",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:00:53,934 --> 00:00:54,636",
+      "english" : "Isn't that remarkable?"
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "我不明白.",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:00:55,613 --> 00:00:56,490",
+      "english" : "I don't understand."
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "那些车主怎么会不要它了?",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:00:57,160 --> 00:00:59,204",
+      "english" : "How could the owners ever give it up?"
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "以旧换新嘛. 他们都升级了.",
+      "sentenceNo" : 24,
+      "courseNo" : 2,
+      "timeline" : "00:01:00,174 --> 00:01:01,931",
+      "english" : "Trade-in. They were moving up."
+   },
+   {
+      "lessonNo" : 50,
+      "chinese" : "就像你一样, Kevin. 也升级了.",
+      "sentenceNo" : 25,
+      "courseNo" : 2,
+      "timeline" : "00:01:02,587 --> 00:01:05,002",
+      "english" : "Just like you Kevin. Moving up."
+   }
+]

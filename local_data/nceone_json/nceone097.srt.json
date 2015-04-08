@@ -1,0 +1,154 @@
+[
+   {
+      "lessonNo" : 97,
+      "chinese" : "几天前我把一只手提箱忘在开往伦敦的火车上了.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,530 --> 00:00:05,992",
+      "english" : "I left a suitcase on the train to London the other day."
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "先生,您能描述一下它吗?",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:06,230 --> 00:00:08,930",
+      "english" : "Can you describe it, sir?"
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "是只蓝色的小箱子,上面有拉链.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:09,185 --> 00:00:15,107",
+      "english" : "It's a small blue case and it's got a zip."
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "箱把上有一个标签,上面写着我的姓名和住址.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:15,180 --> 00:00:21,237",
+      "english" : "There's a label on the handle with my name and address on it."
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "这箱子是您的吗?",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:21,394 --> 00:00:24,083",
+      "english" : "Is this case yours?"
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "不,那不是我的.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:24,556 --> 00:00:27,220",
+      "english" : "No, that's not mine."
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "这只是不是?",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:27,354 --> 00:00:29,838",
+      "english" : "What about this one?"
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "这只箱子有张标签.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:29,839 --> 00:00:32,424",
+      "english" : "This one's got a label."
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "让我看看.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:32,425 --> 00:00:34,899",
+      "english" : "Let me see it."
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "您的姓名和住址?",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:34,900 --> 00:00:37,985",
+      "english" : "What's your name and address?"
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "David Hall,大桥路83号.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:38,392 --> 00:00:43,047",
+      "english" : "David Hall, 83, Bridge Street."
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "那就对了.D.N.Hall,大桥路83号.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:43,048 --> 00:00:49,720",
+      "english" : "That's right. D. N. Hall, 83, Bridge Street."
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "请付3英镑50便士.",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:49,843 --> 00:00:53,410",
+      "english" : "Three pounds fifty pence, please."
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "给你.",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:53,506 --> 00:00:55,509",
+      "english" : "Here you are."
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "谢谢您.",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:55,671 --> 00:00:57,069",
+      "english" : "Thank you."
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "嗨!",
+      "sentenceNo" : 16,
+      "courseNo" : 1,
+      "timeline" : "00:00:57,193 --> 00:00:58,567",
+      "english" : "Hey!"
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "怎么回事?",
+      "sentenceNo" : 17,
+      "courseNo" : 1,
+      "timeline" : "00:00:58,657 --> 00:01:00,454",
+      "english" : "What's the matter?"
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "这箱子不是我的!",
+      "sentenceNo" : 18,
+      "courseNo" : 1,
+      "timeline" : "00:01:00,455 --> 00:01:04,154",
+      "english" : "This case doesn't belong to me!"
+   },
+   {
+      "lessonNo" : 97,
+      "chinese" : "你给错了!",
+      "sentenceNo" : 19,
+      "courseNo" : 1,
+      "timeline" : "00:01:04,155 --> 00:01:07,695",
+      "english" : "You've given me the wrong case!"
+   }
+]

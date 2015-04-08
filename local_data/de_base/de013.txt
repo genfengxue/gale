@@ -1,0 +1,64 @@
+1
+Good evening. Welcome back.
+<k></k>
+
+2
+Were you on a city tour today?
+<k></k>
+
+3
+Did you go to the Public Gardens? And to Charles Street?
+<k></k>
+
+4
+Did you go to City Hall? And to ...
+<k></k>
+
+5
+Oh, it was a big day.
+<k></k>
+
+6
+First, we went down to the river.
+<k></k>
+
+7
+Then we went to Paul Revere's house.
+<k></k>
+
+8
+We were at Bunker Hill.
+<k></k>
+
+9
+And then we went to Cambridge and Harvard.
+<k></k>
+
+10
+And then it was lunch, wasn't it?
+<k></k>
+
+11
+You've been everywhere!
+<k></k>
+
+12
+In the afternoon we went to the waterfront, across the South Shore..
+<k></k>
+
+13
+Didi, is there anywhere left to visit?
+<k></k>
+
+14
+Sure. Tomorrow we go wherever we want.
+<k></k>
+
+15
+Paulo, where would you like to go next?
+<k></k>
+
+16
+To my room, please. Just to my room!
+<k></k>
+
