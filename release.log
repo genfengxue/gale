@@ -3,3 +3,12 @@
 mongo gale
 //为sentence增加courseNo字段
 db.sentences.update({}, {$set: {courseNo: 2}}, {multi: true});
+
+#导入de 54-60
+coffee scripts/load_key_point_json_to_db.coffee de 54,55,56,57,58,59,60
+
+#导入全部nceone sentence
+coffee scripts/load_srt_json_to_db.coffee nceone
+
+#导入指定lesson的知识点
+coffee scripts/load_key_point_json_to_db.coffee nceone 121,123,125,127,129

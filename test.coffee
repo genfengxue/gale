@@ -5,6 +5,12 @@ moment = require 'moment'
 #console.log auth.signToken 100
 #console.log JSON.stringify auth.signToken 100
 console.log [54..60].join ','
+
+#_u.getNeedToProcessFiles 'de', 'KeyPoint', (err, files) ->
+#  console.log files
+
+#_u.getNeedToProcessFiles 'nceone', 'KeyPoint', (err, files) ->
+#  console.log files
 #json = require './local_data/key_point_json/Lesson12.txt.json'
 #console.log json[12][1]['garden salad'][0].replace /\\n/, '\n'
 #console.log moment('2015-03-27 Z').toISOString()
