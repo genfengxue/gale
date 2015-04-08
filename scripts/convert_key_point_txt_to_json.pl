@@ -5,7 +5,10 @@ use lib 'scripts';
 use Data::Dumper;
 use Gale qw/read_file write_file json_encode/;
 
-my $type = $ARGV[0] or 'direct_english';
+# perl scripts/convert_key_point_txt_to_json.pl nceone
+# perl scripts/convert_key_point_txt_to_json.pl de
+
+my $type = $ARGV[0] or die "you must give one parameter";
 
 my $TXT_DIR = "local_data/${type}_key_point_txt";
 my $KP_DIR  = "local_data/${type}_key_point_json";
@@ -64,12 +67,3 @@ for my $file (@files) {
   die if $shouldDie;
   write_file("../../$KP_DIR/$file.json", json_encode($result));
 }
-
-__END__
-#  print $lessonNo;
-
-#    print "*" x 20, "\n";
-#    print "$1#####$2#####$3\n";
-#    print "#" x 20, "\n";
-# Pam,give me a `.garden .sal-ad.` and `a gril-led fish.` appetizer.
-#    print join "\n", @snippets;

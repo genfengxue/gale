@@ -1,33 +1,14 @@
 require '../common/init'
 fs = require 'fs'
 
-Sentence = _u.getModel 'sentence'
-dataPath = 'local_data/direct_english_json'
+SentenceUtils = _u.getUtils 'sentence'
 
-list = process.argv[2]?.split ',' #可以传参数，逗号分隔，不含空格 28,29,32,33
+courseName = process.argv[2] or process.exit 1
+unless Const.Course[courseName]
+  logger.error 'wrong courseName, you should input de or nceone'
+  process.exit 1
 
-fs.readdir dataPath, (err, files) ->
-  needToProcess = []
-  if list
-    _.each list, (index) ->
-      needToProcess.push files[~~index - 1]
-  else
-    needToProcess = files
-
-  for file in needToProcess
-#    console.log file
-    createAll file
-
-createAll = (file) ->
-  datas = require "../#{dataPath}/#{file}"
-  Sentence.createQ datas
-  .then (results) ->
-    logger.info "success: #{file}"
-#    console.log results
-  , (err) ->
-    logger.info "fail: #{file}"
-    logger.info err
-    process.exit 1
-
-# coffee scripts/load_srt_json_to_db.coffee 28,29,32,33 #2015-02-03
-# coffee scripts/load_srt_json_to_db.coffee 55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81 #2015-04-07
+fileType = 'Sentence'
+_u.getNeedToProcessFiles courseName, fileType, (err, needToProcessFiles) ->
+  for file in needToProcessFiles
+    SentenceUtils.loadSentences courseName, file
