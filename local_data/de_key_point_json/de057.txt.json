@@ -1,0 +1,34 @@
+{
+   "57" : {
+      "8" : {
+         "4" : [
+            "A command is an order that you have to follow, as long as the person who gives it has authority over you. \n\nWhat's your command, sir?\n你的命令是什么, 先生?"
+         ]
+      },
+      "3" : {
+         "6" : [
+            "monitor\na computer screen, or the part of a computer that contains the screen\n\na 17-inch colour monitor"
+         ]
+      },
+      "24" : {
+         "2,3,4,5,6,7" : [
+            "work one's way to the end.\n从头做到尾\n\nRead this book. and If you can work your way to the end, I guarantee that you will learn the computer skills.\n读这一本书, 如果你能够从头做到尾, 我保证你可以学会电脑技术."
+         ]
+      },
+      "9" : {
+         "4" : [
+            "hit\n[INTRANSITIVE/TRANSITIVE] to move quickly onto an object or surface, touching it with force\n\nIf you hit that red button, you will turn the machine off.\n如果你按下那个红色的按钮, 你会关掉机器."
+         ]
+      },
+      "12" : {
+         "5" : [
+            "key\none of the parts that you press on a keyboard to make it produce letters, numbers etc\n\nWhich key will allow me to save the file?"
+         ]
+      },
+      "5" : {
+         "1,2,3,4" : [
+            "so far, so good\nused for saying that someone or something has been successful up to this point\n\nso far so good. I love the living room and kitchen, but let's see the bedroom before I make a decision.\n到目前为止很好, 我喜欢客厅和厨房. 咱们看看卧室, 我再做决定"
+         ]
+      }
+   }
+}
