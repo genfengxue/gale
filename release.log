@@ -1,3 +1,9 @@
+2015-04-08 21:41:56
+mongo gale
+//给lessonNo增加300，临时方案，未来引入courseNo之后，再减去300
+db.sentences.update({courseNo: 1}, {$inc: {lessonNo: 300}}, {multi: true});
+
+
 2015-04-08
 
 mongo gale
