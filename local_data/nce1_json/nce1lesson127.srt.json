@@ -3,6 +3,7 @@
       "lessonNo" : 127,
       "chinese" : "Liz,你能认出那个女人吗?",
       "sentenceNo" : 1,
+      "courseNo" : 1,
       "timeline" : "00:00:00,705 --> 00:00:05,214",
       "english" : "Can you recognize that woman, Liz?"
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 127,
       "chinese" : "我想我认得出来,Kate.",
       "sentenceNo" : 2,
+      "courseNo" : 1,
       "timeline" : "00:00:05,386 --> 00:00:08,611",
       "english" : "I think I can, Kate."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 127,
       "chinese" : "那一定是女演员Karen Marsh.",
       "sentenceNo" : 3,
+      "courseNo" : 1,
       "timeline" : "00:00:08,643 --> 00:00:13,542",
       "english" : "It must be Karen Marsh, the actress."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 127,
       "chinese" : "我也这样想.",
       "sentenceNo" : 4,
+      "courseNo" : 1,
       "timeline" : "00:00:13,543 --> 00:00:15,462",
       "english" : "I thought so."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 127,
       "chinese" : "她旁边的那个人是谁?",
       "sentenceNo" : 5,
+      "courseNo" : 1,
       "timeline" : "00:00:15,463 --> 00:00:18,384",
       "english" : "Who's that beside her?"
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 127,
       "chinese" : "一定是Conrad Reeves.",
       "sentenceNo" : 6,
+      "courseNo" : 1,
       "timeline" : "00:00:18,515 --> 00:00:22,427",
       "english" : "That must be Conrad Reeves."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 127,
       "chinese" : "Conrad Reeves,那个男演员吗?",
       "sentenceNo" : 7,
+      "courseNo" : 1,
       "timeline" : "00:00:22,428 --> 00:00:25,612",
       "english" : "Conrad Reeves, the actor?"
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 127,
       "chinese" : "不可能是.",
       "sentenceNo" : 8,
+      "courseNo" : 1,
       "timeline" : "00:00:25,613 --> 00:00:27,424",
       "english" : "It can't be."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 127,
       "chinese" : "让我再看一看.",
       "sentenceNo" : 9,
+      "courseNo" : 1,
       "timeline" : "00:00:27,910 --> 00:00:30,751",
       "english" : "Let me have another look."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 127,
       "chinese" : "我想你是对的.",
       "sentenceNo" : 10,
+      "courseNo" : 1,
       "timeline" : "00:00:30,752 --> 00:00:33,026",
       "english" : "I think you're right!"
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 127,
       "chinese" : "他不是她的第3个丈夫吗?",
       "sentenceNo" : 11,
+      "courseNo" : 1,
       "timeline" : "00:00:33,137 --> 00:00:36,784",
       "english" : "Isn't he her third husband?"
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 127,
       "chinese" : "不,他一定是她的第4个或第5个丈夫.",
       "sentenceNo" : 12,
+      "courseNo" : 1,
       "timeline" : "00:00:36,858 --> 00:00:42,559",
       "english" : "No. He must be her fourth or fifth."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 127,
       "chinese" : "Karen Marsh看上去不显老嘛!",
       "sentenceNo" : 13,
+      "courseNo" : 1,
       "timeline" : "00:00:42,756 --> 00:00:46,224",
       "english" : "Doesn't Karen Marsh look old!"
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 127,
       "chinese" : "是的,谁说不是呢!",
       "sentenceNo" : 14,
+      "courseNo" : 1,
       "timeline" : "00:00:46,337 --> 00:00:49,447",
       "english" : "She does, doesn't she!"
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 127,
       "chinese" : "我从报上看到她是29岁,",
       "sentenceNo" : 15,
+      "courseNo" : 1,
       "timeline" : "00:00:49,606 --> 00:00:53,234",
       "english" : "I read she's twenty-nine,"
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 127,
       "chinese" : "但她一定至少有40岁了.",
       "sentenceNo" : 16,
+      "courseNo" : 1,
       "timeline" : "00:00:53,235 --> 00:00:56,984",
       "english" : "but she must be at least forty."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 127,
       "chinese" : "我肯定她是的.",
       "sentenceNo" : 17,
+      "courseNo" : 1,
       "timeline" : "00:00:56,985 --> 00:00:59,639",
       "english" : "I'm sure she is."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 127,
       "chinese" : "当我还是学生时,她就是个著名的演员了.",
       "sentenceNo" : 18,
+      "courseNo" : 1,
       "timeline" : "00:00:59,777 --> 00:01:05,485",
       "english" : "She was a famous actress When I was still at school."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 127,
       "chinese" : "那是好久以前的事了.是吗?",
       "sentenceNo" : 19,
+      "courseNo" : 1,
       "timeline" : "00:01:05,896 --> 00:01:10,210",
       "english" : "That was a long time ago, wasn't it?"
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 127,
       "chinese" : "不,没有那么久.",
       "sentenceNo" : 20,
+      "courseNo" : 1,
       "timeline" : "00:01:10,211 --> 00:01:13,062",
       "english" : "Not that long ago!"
    },
@@ -143,6 +163,7 @@
       "lessonNo" : 127,
       "chinese" : "我自己现在还没29岁呢.",
       "sentenceNo" : 21,
+      "courseNo" : 1,
       "timeline" : "00:01:13,147 --> 00:01:17,676",
       "english" : "I'm not more than twenty-nine myself."
    }

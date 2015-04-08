@@ -3,6 +3,7 @@
       "lessonNo" : 65,
       "chinese" : "Carl's让我很难受.",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:06,697 --> 00:00:08,348",
       "english" : "Carl's giving me a hard time."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 65,
       "chinese" : "为什么?",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:08,482 --> 00:00:09,617",
       "english" : "Why?"
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 65,
       "chinese" : "他说我需要更好的身材.",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:10,027 --> 00:00:11,598",
       "english" : "He says I should be in better shape."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 65,
       "chinese" : "他在说些什么啊? 你看起来很好.",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:11,806 --> 00:00:14,372",
       "english" : "What is he talking about? You look fine."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 65,
       "chinese" : "Carl说他一个星期锻炼三次.",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:14,512 --> 00:00:17,224",
       "english" : "Carl says he works out three times a week."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 65,
       "chinese" : "他去健身房.",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:17,507 --> 00:00:18,997",
       "english" : "He goes to a gym."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 65,
       "chinese" : "那又怎么样?",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:19,151 --> 00:00:20,292",
       "english" : "So what?"
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 65,
       "chinese" : "他说他做这些是为了工作.",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:20,457 --> 00:00:21,803",
       "english" : "He says he does it for work."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 65,
       "chinese" : "So 他能举起行李.",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:21,940 --> 00:00:23,190",
       "english" : "So he can lift the bags."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 65,
       "chinese" : "Well, 他那样做是可以的.",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:23,328 --> 00:00:24,852",
       "english" : "Well, that's fine for him."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 65,
       "chinese" : "那还不是全部.",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:25,144 --> 00:00:26,499",
       "english" : "That's not all."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 65,
       "chinese" : "他说他戒烟了.",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:26,668 --> 00:00:29,679",
       "english" : "He says he quit smoking."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 65,
       "chinese" : "Ah, 除了偶尔他会偷偷抽几根.",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:00:30,038 --> 00:00:33,841",
       "english" : "Ah, except for the occasional cigarette he sneaks."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 65,
       "chinese" : "他有吗? 你怎么知道?",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:00:33,981 --> 00:00:36,332",
       "english" : "He does? How do you know?"
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 65,
       "chinese" : "我跟他一起偷着抽. 偶尔.",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:00:36,475 --> 00:00:39,060",
       "english" : "I sneak with him. Occasionally."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 65,
       "chinese" : "他告诉我他吃健康,",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:00:39,193 --> 00:00:41,798",
       "english" : "He told me he eats healthy,"
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 65,
       "chinese" : "营养均衡的食品.",
       "sentenceNo" : 17,
+      "courseNo" : 2,
       "timeline" : "00:00:41,931 --> 00:00:43,328",
       "english" : "balanced meals."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 65,
       "chinese" : "What?",
       "sentenceNo" : 18,
+      "courseNo" : 2,
       "timeline" : "00:00:44,184 --> 00:00:45,358",
       "english" : "What?"
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 65,
       "chinese" : "\"把它弄成大号意大利辣香肠披萨\"的Carl?",
       "sentenceNo" : 19,
+      "courseNo" : 2,
       "timeline" : "00:00:45,491 --> 00:00:48,744",
       "english" : "Carl\"Make-That-A-Large-Pepperoni-Pizza\"?"
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 65,
       "chinese" : "\"苹果派加冰淇淋\"的Carl?",
       "sentenceNo" : 20,
+      "courseNo" : 2,
       "timeline" : "00:00:49,118 --> 00:00:51,350",
       "english" : "\"Apple-Pie-and-Ice-Cream\" Carl?"
    },
@@ -143,6 +163,7 @@
       "lessonNo" : 65,
       "chinese" : "Peter.",
       "sentenceNo" : 21,
+      "courseNo" : 2,
       "timeline" : "00:00:51,998 --> 00:00:52,768",
       "english" : "Peter."
    },
@@ -150,6 +171,7 @@
       "lessonNo" : 65,
       "chinese" : "Carl从来没遇到过他不喜欢的炸薯条.",
       "sentenceNo" : 22,
+      "courseNo" : 2,
       "timeline" : "00:00:52,899 --> 00:00:55,458",
       "english" : "Carl never met a French fry he didn't like."
    },
@@ -157,6 +179,7 @@
       "lessonNo" : 65,
       "chinese" : "但是他说...",
       "sentenceNo" : 23,
+      "courseNo" : 2,
       "timeline" : "00:00:55,597 --> 00:00:56,467",
       "english" : "But he said..."
    },
@@ -164,6 +187,7 @@
       "lessonNo" : 65,
       "chinese" : "Hi Carl!",
       "sentenceNo" : 24,
+      "courseNo" : 2,
       "timeline" : "00:00:56,594 --> 00:00:57,654",
       "english" : "Hi Carl!"
    },
@@ -171,6 +195,7 @@
       "lessonNo" : 65,
       "chinese" : "你那儿拿了些什么?",
       "sentenceNo" : 25,
+      "courseNo" : 2,
       "timeline" : "00:00:57,801 --> 00:00:58,848",
       "english" : "What have you got there?"
    },
@@ -178,6 +203,7 @@
       "lessonNo" : 65,
       "chinese" : "Hi.一点儿午餐而已.",
       "sentenceNo" : 26,
+      "courseNo" : 2,
       "timeline" : "00:00:59,025 --> 00:01:01,280",
       "english" : "Hi. just a little lunch."
    },
@@ -185,6 +211,7 @@
       "lessonNo" : 65,
       "chinese" : "低脂酸奶. 金枪鱼沙拉.",
       "sentenceNo" : 27,
+      "courseNo" : 2,
       "timeline" : "00:01:01,739 --> 00:01:05,403",
       "english" : "Low fat yogurt. Tuna salad."
    },
@@ -192,6 +219,7 @@
       "lessonNo" : 65,
       "chinese" : "巧克力蛋糕.",
       "sentenceNo" : 28,
+      "courseNo" : 2,
       "timeline" : "00:01:07,678 --> 00:01:09,405",
       "english" : "Chocolate cake."
    },
@@ -199,6 +227,7 @@
       "lessonNo" : 65,
       "chinese" : "Hey, 一个人总得吃东西呀!",
       "sentenceNo" : 29,
+      "courseNo" : 2,
       "timeline" : "00:01:10,038 --> 00:01:12,294",
       "english" : "Hey, a guy's got to eat."
    }

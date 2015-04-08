@@ -3,6 +3,7 @@
       "lessonNo" : 123,
       "chinese" : "看,这是我到澳大利亚旅行时拍的一张照片.",
       "sentenceNo" : 1,
+      "courseNo" : 1,
       "timeline" : "00:00:03,891 --> 00:00:09,964",
       "english" : "Look, Scott. This is a photograph I took during my trip to Australia."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 123,
       "chinese" : "让我看看,Mike.",
       "sentenceNo" : 2,
+      "courseNo" : 1,
       "timeline" : "00:00:10,248 --> 00:00:12,738",
       "english" : "Let me see it, Mike."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 123,
       "chinese" : "这是一张很好的照片.",
       "sentenceNo" : 3,
+      "courseNo" : 1,
       "timeline" : "00:00:12,838 --> 00:00:15,795",
       "english" : "This is a good photograph."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 123,
       "chinese" : "这些人是谁?",
       "sentenceNo" : 4,
+      "courseNo" : 1,
       "timeline" : "00:00:15,796 --> 00:00:18,263",
       "english" : "Who are these people?"
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 123,
       "chinese" : "他们是我旅行时认识的人.",
       "sentenceNo" : 5,
+      "courseNo" : 1,
       "timeline" : "00:00:18,596 --> 00:00:22,909",
       "english" : "They're people I met during the trip."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 123,
       "chinese" : "那是我们所乘的那条船.",
       "sentenceNo" : 6,
+      "courseNo" : 1,
       "timeline" : "00:00:22,985 --> 00:00:25,971",
       "english" : "That's the ship we travelled on."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 123,
       "chinese" : "多漂亮的船啊!",
       "sentenceNo" : 7,
+      "courseNo" : 1,
       "timeline" : "00:00:26,021 --> 00:00:28,716",
       "english" : "What a beautiful ship!"
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 123,
       "chinese" : "这是谁?",
       "sentenceNo" : 8,
+      "courseNo" : 1,
       "timeline" : "00:00:28,717 --> 00:00:30,547",
       "english" : "Who's this?"
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 123,
       "chinese" : "这就是我跟你说过的那个人.",
       "sentenceNo" : 9,
+      "courseNo" : 1,
       "timeline" : "00:00:30,874 --> 00:00:34,094",
       "english" : "That's the man I told you about."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 123,
       "chinese" : "还记得吗?",
       "sentenceNo" : 10,
+      "courseNo" : 1,
       "timeline" : "00:00:34,095 --> 00:00:35,428",
       "english" : "Remember?"
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 123,
       "chinese" : "啊,记得.",
       "sentenceNo" : 11,
+      "courseNo" : 1,
       "timeline" : "00:00:35,429 --> 00:00:37,382",
       "english" : "Ah yes."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 123,
       "chinese" : "就是给你提供了一份在澳大利亚的工作的那个人.",
       "sentenceNo" : 12,
+      "courseNo" : 1,
       "timeline" : "00:00:38,008 --> 00:00:42,441",
       "english" : "The one who offered you a job in Australia."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 123,
       "chinese" : "对.",
       "sentenceNo" : 13,
+      "courseNo" : 1,
       "timeline" : "00:00:42,498 --> 00:00:44,391",
       "english" : "That's right."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 123,
       "chinese" : "这是谁?",
       "sentenceNo" : 14,
+      "courseNo" : 1,
       "timeline" : "00:00:44,392 --> 00:00:46,420",
       "english" : "Who's this?"
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 123,
       "chinese" : "你猜!",
       "sentenceNo" : 15,
+      "courseNo" : 1,
       "timeline" : "00:00:46,421 --> 00:00:48,028",
       "english" : "Guess!"
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 123,
       "chinese" : "这不是你,对吗?",
       "sentenceNo" : 16,
+      "courseNo" : 1,
       "timeline" : "00:00:48,029 --> 00:00:50,656",
       "english" : "It's not you, is it?"
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 123,
       "chinese" : "是我.",
       "sentenceNo" : 17,
+      "courseNo" : 1,
       "timeline" : "00:00:50,858 --> 00:00:52,939",
       "english" : "That's right."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 123,
       "chinese" : "我在旅行时留了胡子,",
       "sentenceNo" : 18,
+      "courseNo" : 1,
       "timeline" : "00:00:53,568 --> 00:00:56,663",
       "english" : "I grew a beard during the trip."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 123,
       "chinese" : "但我回到家时把它刮了.",
       "sentenceNo" : 19,
+      "courseNo" : 1,
       "timeline" : "00:00:56,966 --> 00:01:00,860",
       "english" : "but I shaved it off when I came home."
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 123,
       "chinese" : "你为什么把它刮了?",
       "sentenceNo" : 20,
+      "courseNo" : 1,
       "timeline" : "00:01:01,168 --> 00:01:03,924",
       "english" : "Why did you shave it off?"
    },
@@ -143,6 +163,7 @@
       "lessonNo" : 123,
       "chinese" : "我妻子不喜欢它!",
       "sentenceNo" : 21,
+      "courseNo" : 1,
       "timeline" : "00:01:03,930 --> 00:01:06,639",
       "english" : "My wife didn't like it!"
    }

@@ -3,6 +3,7 @@
       "lessonNo" : 101,
       "chinese" : "请把吉米的明信片念给我听听,Penny.",
       "sentenceNo" : 1,
+      "courseNo" : 1,
       "timeline" : "00:00:00,667 --> 00:00:05,069",
       "english" : "Read Jimmy's card to me please, Penny."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 101,
       "chinese" : "“我刚到苏格兰,我现住在一家青年招待所.”",
       "sentenceNo" : 2,
+      "courseNo" : 1,
       "timeline" : "00:00:05,333 --> 00:00:14,113",
       "english" : "I have just arrived in Scotland and I'm staying at a Youth Hostel.'"
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 101,
       "chinese" : "Eh?",
       "sentenceNo" : 3,
+      "courseNo" : 1,
       "timeline" : "00:00:14,114 --> 00:00:15,558",
       "english" : "Eh?"
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 101,
       "chinese" : "他说他刚到苏格兰.",
       "sentenceNo" : 4,
+      "courseNo" : 1,
       "timeline" : "00:00:15,559 --> 00:00:20,585",
       "english" : "He says he's just arrived in Scotland."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 101,
       "chinese" : "他说他现住在一家青年招待所.",
       "sentenceNo" : 5,
+      "courseNo" : 1,
       "timeline" : "00:00:20,586 --> 00:00:26,364",
       "english" : "He says he's staying at a Youth Hostel."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 101,
       "chinese" : "您知道,他是“青招协”的一个成员.",
       "sentenceNo" : 6,
+      "courseNo" : 1,
       "timeline" : "00:00:26,701 --> 00:00:32,722",
       "english" : "You know he's a member of the Y. H. A."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 101,
       "chinese" : "什么?",
       "sentenceNo" : 7,
+      "courseNo" : 1,
       "timeline" : "00:00:32,723 --> 00:00:34,320",
       "english" : "The what?"
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 101,
       "chinese" : "“青招协”,妈妈.青年招待所协会.",
       "sentenceNo" : 8,
+      "courseNo" : 1,
       "timeline" : "00:00:34,540 --> 00:00:41,395",
       "english" : "The Y. H. A., Mum. The Youth Hostels Association."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 101,
       "chinese" : "他还说了些什么?",
       "sentenceNo" : 9,
+      "courseNo" : 1,
       "timeline" : "00:00:41,423 --> 00:00:44,316",
       "english" : "What else does he say?"
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 101,
       "chinese" : "“我很快会写信的.祝你们大家身体都好.”",
       "sentenceNo" : 10,
+      "courseNo" : 1,
       "timeline" : "00:00:44,405 --> 00:00:51,226",
       "english" : "I'll write a letter soon. I hope you are all well.'"
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 101,
       "chinese" : "什么?Penny,大声一点.",
       "sentenceNo" : 11,
+      "courseNo" : 1,
       "timeline" : "00:00:51,227 --> 00:00:54,221",
       "english" : "What? Speak up. Penny."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 101,
       "chinese" : "我恐怕我听不到你.",
       "sentenceNo" : 12,
+      "courseNo" : 1,
       "timeline" : "00:00:54,222 --> 00:00:57,331",
       "english" : "I'm afraid I can't hear you."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 101,
       "chinese" : "他说他很快会写信的.",
       "sentenceNo" : 13,
+      "courseNo" : 1,
       "timeline" : "00:00:57,332 --> 00:01:01,452",
       "english" : "He say he'll write a letter soon."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 101,
       "chinese" : "他祝我们大家身体好.",
       "sentenceNo" : 14,
+      "courseNo" : 1,
       "timeline" : "00:01:01,453 --> 00:01:05,021",
       "english" : "He hopes we are all well."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 101,
       "chinese" : "“爱你的Jimmy.”",
       "sentenceNo" : 15,
+      "courseNo" : 1,
       "timeline" : "00:01:05,370 --> 00:01:07,763",
       "english" : "Love, Jimmy.'"
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 101,
       "chinese" : "就这些吗?",
       "sentenceNo" : 16,
+      "courseNo" : 1,
       "timeline" : "00:01:08,070 --> 00:01:10,155",
       "english" : "Is that all?"
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 101,
       "chinese" : "他没写许多,是吗?",
       "sentenceNo" : 17,
+      "courseNo" : 1,
       "timeline" : "00:01:10,266 --> 00:01:14,355",
       "english" : "He doesn't say very much, does he?"
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 101,
       "chinese" : "在明信片上他写不了很多,妈妈.",
       "sentenceNo" : 18,
+      "courseNo" : 1,
       "timeline" : "00:01:14,356 --> 00:01:19,275",
       "english" : "He can't write very much on a card, Mum."
    }

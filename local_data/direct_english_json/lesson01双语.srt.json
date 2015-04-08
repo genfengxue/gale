@@ -3,6 +3,7 @@
       "lessonNo" : 1,
       "chinese" : "Quercio?",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:13,804 --> 00:00:14,855",
       "english" : "Quercio?"
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 1,
       "chinese" : "对. Q-U-E-R-C-I-O. Quercio.",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:14,856 --> 00:00:18,634",
       "english" : "Yes. Q-U-E-R-C-I-O. Quercio."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 1,
       "chinese" : "Oh yes, 它在这呢",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:19,844 --> 00:00:21,557",
       "english" : "Oh yes, here it is."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 1,
       "chinese" : "打搅一下, 你是Tony Quercio吗?",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:22,284 --> 00:00:25,299",
       "english" : "Excuse me, Are you Tony Quercio?"
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 1,
       "chinese" : "对, 我是的",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:25,300 --> 00:00:26,513",
       "english" : "Yes I am."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 1,
       "chinese" : "你来这里  为了美国图书馆协会会议吗?",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:26,514 --> 00:00:29,162",
       "english" : "Are you here for the American Library Association Conference?"
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 1,
       "chinese" : "对",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:29,163 --> 00:00:30,379",
       "english" : "Yes."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 1,
       "chinese" : "我的名字是Barbara Seaton.",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:30,380 --> 00:00:32,156",
       "english" : "My name's Barbara Seaton."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 1,
       "chinese" : "-你是Barbara Seaton!  -对.",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:32,495 --> 00:00:34,415",
       "english" : "-You're Barbara Seaton!  Yes!"
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 1,
       "chinese" : "Barbara Seaton, 纽约图书馆的?",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:34,416 --> 00:00:36,787",
       "english" : "Barbara Seaton, of the New York Library?"
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 1,
       "chinese" : "-Tony Quercio, Watson书店?  -对",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:36,788 --> 00:00:39,314",
       "english" : "-Tony Quercio, Watson's Bookstores?  -Yes."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 1,
       "chinese" : "你好",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:39,315 --> 00:00:40,040",
       "english" : "How do you do?"
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 1,
       "chinese" : "你好",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:00:40,041 --> 00:00:40,885",
       "english" : "How do you do?"
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 1,
       "chinese" : "很高兴见到你  终于.",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:00:40,886 --> 00:00:42,172",
       "english" : "It's nice to meet you finally."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 1,
       "chinese" : "-很高兴见到你.",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:00:42,173 --> 00:00:43,341",
       "english" : "Nice to meet you."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 1,
       "chinese" : "抱歉",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:00:44,965 --> 00:00:46,413",
       "english" : "I'm sorry."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 1,
       "chinese" : "没关系",
       "sentenceNo" : 17,
+      "courseNo" : 2,
       "timeline" : "00:00:46,539 --> 00:00:47,772",
       "english" : "That's all right."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 1,
       "chinese" : "Quercio先生. 房间412",
       "sentenceNo" : 18,
+      "courseNo" : 2,
       "timeline" : "00:00:47,872 --> 00:00:50,276",
       "english" : "Mr. Quercio. Room 412."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 1,
       "chinese" : "412. 好嘞.",
       "sentenceNo" : 19,
+      "courseNo" : 2,
       "timeline" : "00:00:50,277 --> 00:00:51,989",
       "english" : "412. Great."
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 1,
       "chinese" : "Carl? 房间412, 请.",
       "sentenceNo" : 20,
+      "courseNo" : 2,
       "timeline" : "00:00:52,219 --> 00:00:54,714",
       "english" : "Carl? Room 412, please."
    },
@@ -143,6 +163,7 @@
       "lessonNo" : 1,
       "chinese" : "那个, 我之后再跟你聊, Barbara.",
       "sentenceNo" : 21,
+      "courseNo" : 2,
       "timeline" : "00:00:54,992 --> 00:00:57,013",
       "english" : "Well, I'll talk to you later, Barbara."
    },
@@ -150,6 +171,7 @@
       "lessonNo" : 1,
       "chinese" : "当然了. 拜拜 现在.",
       "sentenceNo" : 22,
+      "courseNo" : 2,
       "timeline" : "00:00:57,014 --> 00:00:58,295",
       "english" : "Of course. Bye now."
    },
@@ -157,6 +179,7 @@
       "lessonNo" : 1,
       "chinese" : "并且欢迎来到波士顿!",
       "sentenceNo" : 23,
+      "courseNo" : 2,
       "timeline" : "00:00:58,416 --> 00:01:00,388",
       "english" : "And welcome to Boston!"
    }

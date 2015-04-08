@@ -3,6 +3,7 @@
       "lessonNo" : 87,
       "chinese" : "我的汽车修好了吗?",
       "sentenceNo" : 1,
+      "courseNo" : 1,
       "timeline" : "00:00:00,570 --> 00:00:03,090",
       "english" : "Is my car ready yet?"
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 87,
       "chinese" : "我不知道,先生.",
       "sentenceNo" : 2,
+      "courseNo" : 1,
       "timeline" : "00:00:03,090 --> 00:00:05,140",
       "english" : "I don't know. sir."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 87,
       "chinese" : "您的汽车牌号是多少?",
       "sentenceNo" : 3,
+      "courseNo" : 1,
       "timeline" : "00:00:05,140 --> 00:00:07,920",
       "english" : "What's the number of your car?"
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 87,
       "chinese" : "是 LFZ312G.",
       "sentenceNo" : 4,
+      "courseNo" : 1,
       "timeline" : "00:00:07,920 --> 00:00:13,730",
       "english" : "It is LFZ 312G."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 87,
       "chinese" : "您什么时候送来的?",
       "sentenceNo" : 5,
+      "courseNo" : 1,
       "timeline" : "00:00:13,730 --> 00:00:16,620",
       "english" : "When did you bring it to us?"
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 87,
       "chinese" : "3天前.",
       "sentenceNo" : 6,
+      "courseNo" : 1,
       "timeline" : "00:00:16,640 --> 00:00:20,310",
       "english" : "I brought it here three days ago."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 87,
       "chinese" : "啊,是的,我现在记起来了.",
       "sentenceNo" : 7,
+      "courseNo" : 1,
       "timeline" : "00:00:20,310 --> 00:00:24,240",
       "english" : "Ah, yes, I remember now."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 87,
       "chinese" : "你们的机械师修好了吗?",
       "sentenceNo" : 8,
+      "courseNo" : 1,
       "timeline" : "00:00:24,300 --> 00:00:27,530",
       "english" : "Have your mechanics finished yet?"
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 87,
       "chinese" : "没有,他们还在修呢.",
       "sentenceNo" : 9,
+      "courseNo" : 1,
       "timeline" : "00:00:27,530 --> 00:00:30,830",
       "english" : "No, they're still working on it."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 87,
       "chinese" : "我们到车库去看一下吧.",
       "sentenceNo" : 10,
+      "courseNo" : 1,
       "timeline" : "00:00:31,590 --> 00:00:36,690",
       "english" : "Let's go into the garage and have a look at it."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 87,
       "chinese" : "这难道不是您的车吗?",
       "sentenceNo" : 11,
+      "courseNo" : 1,
       "timeline" : "00:00:36,700 --> 00:00:39,140",
       "english" : "Isn't that your car?"
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 87,
       "chinese" : "唔,这曾是我的车.",
       "sentenceNo" : 12,
+      "courseNo" : 1,
       "timeline" : "00:00:39,410 --> 00:00:43,140",
       "english" : "Well, it was my car."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 87,
       "chinese" : "难说您没有出车祸吗?",
       "sentenceNo" : 13,
+      "courseNo" : 1,
       "timeline" : "00:00:43,140 --> 00:00:45,760",
       "english" : "Didn't you have a crash?"
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 87,
       "chinese" : "是啊.",
       "sentenceNo" : 14,
+      "courseNo" : 1,
       "timeline" : "00:00:45,800 --> 00:00:47,610",
       "english" : "That's right."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 87,
       "chinese" : "我把汽车撞在电线杆上了.",
       "sentenceNo" : 15,
+      "courseNo" : 1,
       "timeline" : "00:00:47,820 --> 00:00:51,360",
       "english" : "I drove it into a lamp-post."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 87,
       "chinese" : "你们的机械师能修好吗?",
       "sentenceNo" : 16,
+      "courseNo" : 1,
       "timeline" : "00:00:51,360 --> 00:00:54,570",
       "english" : "Can your mechanics repair it?"
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 87,
       "chinese" : "啊,他们正设法修呢,先生.",
       "sentenceNo" : 17,
+      "courseNo" : 1,
       "timeline" : "00:00:54,580 --> 00:00:58,390",
       "english" : "Well, they're trying to repair it, sir."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 87,
       "chinese" : "不过说实在的,",
       "sentenceNo" : 18,
+      "courseNo" : 1,
       "timeline" : "00:00:58,400 --> 00:01:01,240",
       "english" : "But to tell you the truth."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 87,
       "chinese" : "您需要一辆新车了!",
       "sentenceNo" : 19,
+      "courseNo" : 1,
       "timeline" : "00:01:01,240 --> 00:01:03,790",
       "english" : "you need a new car!"
    }

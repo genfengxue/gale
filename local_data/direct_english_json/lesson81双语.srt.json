@@ -3,6 +3,7 @@
       "lessonNo" : 81,
       "chinese" : "他很出色. 我们会很想念他的.",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:07,314 --> 00:00:09,988",
       "english" : "He's been fabulous. We'll miss him a lot."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 81,
       "chinese" : "你会请一位新的实习生吗?",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:10,133 --> 00:00:11,579",
       "english" : "Will you get a new intern?"
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 81,
       "chinese" : "Yes,但是我们会需要两位新实习生来代替 Dean.",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:11,725 --> 00:00:14,697",
       "english" : "Yes, but we'll need two new ones to replace Dean."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 81,
       "chinese" : "我认为我们应该就雇用他 当他毕业后.",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:14,829 --> 00:00:17,116",
       "english" : "I think we should just hire him when he graduates."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 81,
       "chinese" : "或许我们会的.",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:17,242 --> 00:00:18,174",
       "english" : "Maybe we will."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 81,
       "chinese" : "这个盒子里是什么, NuLa?",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:36,123 --> 00:00:37,453",
       "english" : "What's in the box, NuLa?"
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 81,
       "chinese" : "一个便携式的CD播放器.",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:37,628 --> 00:00:38,880",
       "english" : "A portable CD player."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 81,
       "chinese" : "Oh, 那就是我们凑份子买的是吗?太好了.",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:39,082 --> 00:00:41,559",
       "english" : "Oh, is that what we chipped in for? Great."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 81,
       "chinese" : "我有别的东西.",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:42,223 --> 00:00:43,395",
       "english" : "I have something else."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 81,
       "chinese" : "它是什么?",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:43,532 --> 00:00:44,405",
       "english" : "What is it?"
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 81,
       "chinese" : "一个足球. 来自Kevin和我.",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:44,554 --> 00:00:46,315",
       "english" : "A soccer ball. From Kevin and me."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 81,
       "chinese" : "Oh Dean会喜欢那个的.",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:46,458 --> 00:00:48,688",
       "english" : "Oh Dean will like that."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 81,
       "chinese" : "他会醒悟的 某天.",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:00:49,446 --> 00:00:50,963",
       "english" : "He'll come to his senses some day."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 81,
       "chinese" : "Jarmusch, 如果我长胖1盎司  吃了这个蛋糕后, 我会杀了你.",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:00:57,965 --> 00:01:01,150",
       "english" : "Jarmusch, if I gain one ounce from this cake, I will kill you ."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 81,
       "chinese" : "他们就在我们后面.",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:01:22,388 --> 00:01:23,795",
       "english" : "They're right behind us."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 81,
       "chinese" : "Kevin. 你负担不起 带我们到这个餐厅.",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:01:42,829 --> 00:01:46,477",
       "english" : "Kevin. You can't afford to take us to this restaurant."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 81,
       "chinese" : "为了一个你这样朋友, Dean?",
       "sentenceNo" : 17,
+      "courseNo" : 2,
       "timeline" : "00:01:46,656 --> 00:01:48,611",
       "english" : "For a friend like you, Dean?"
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 81,
       "chinese" : "小意思.",
       "sentenceNo" : 18,
+      "courseNo" : 2,
       "timeline" : "00:01:48,759 --> 00:01:50,105",
       "english" : "Don't think anything of it."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 81,
       "chinese" : "没想到吧!",
       "sentenceNo" : 19,
+      "courseNo" : 2,
       "timeline" : "00:01:57,751 --> 00:01:59,733",
       "english" : "Surprise!"
    }

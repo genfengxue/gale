@@ -3,6 +3,7 @@
       "lessonNo" : 46,
       "chinese" : "Jarmusch.",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:08,095 --> 00:00:08,349",
       "english" : "Jarmusch."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 46,
       "chinese" : "你知道我在多么努力地保持体形吗?",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:09,197 --> 00:00:11,620",
       "english" : "have you any idea how hard I work to stay in shape?"
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 46,
       "chinese" : "No,Sharon.",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:11,894 --> 00:00:12,275",
       "english" : "No, Sharon."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 46,
       "chinese" : "你知道我今天得干多少活儿吗?",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:12,619 --> 00:00:15,266",
       "english" : "Have you any idea how much work I have to do today?"
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 46,
       "chinese" : "你看, 星期一, 我去游泳.",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:15,480 --> 00:00:16,954",
       "english" : "See, on Mondays I go swimming."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 46,
       "chinese" : "星期二, 我在健身房举重.",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:17,365 --> 00:00:19,220",
       "english" : "On Tuesdays, I lift weights at the gym."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 46,
       "chinese" : "星期三...",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:19,405 --> 00:00:19,821",
       "english" : "On Wednesdays...."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 46,
       "chinese" : "让我猜猜. 你参加三项全能运动.",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:20,334 --> 00:00:22,912",
       "english" : "Let me guess. You enter triathlons."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 46,
       "chinese" : "我星期三跑步.",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:23,277 --> 00:00:24,508",
       "english" : "I run on Wednesdays."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 46,
       "chinese" : "星期四上午, 再去体操房.",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:25,160 --> 00:00:26,720",
       "english" : "Thursday mornings, I go back to the gym."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 46,
       "chinese" : "星期五, 我上网球课.",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:27,203 --> 00:00:29,111",
       "english" : "And Fridays, I take a tennis lesson."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 46,
       "chinese" : "祝贺你!",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:29,705 --> 00:00:30,368",
       "english" : "Congratulations."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 46,
       "chinese" : "这都是为了保持我的青春体形.",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:00:30,983 --> 00:00:32,698",
       "english" : "All to maintain my youthful figure."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 46,
       "chinese" : "现在,让我们看看你的新菜单.",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:00:33,740 --> 00:00:34,944",
       "english" : "Now, let's look at your new menu."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 46,
       "chinese" : "Sharon...",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:00:35,393 --> 00:00:35,607",
       "english" : "Sharon..."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 46,
       "chinese" : "Jarmusch, 菜里全是奶油和黄油.",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:00:36,046 --> 00:00:38,145",
       "english" : "Jarmusch, there's cream and butter all over this thing."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 46,
       "chinese" : "那是经典的法国菜.",
       "sentenceNo" : 17,
+      "courseNo" : 2,
       "timeline" : "00:00:38,573 --> 00:00:40,590",
       "english" : "It's classic French cuisine."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 46,
       "chinese" : "我喜欢做这个.",
       "sentenceNo" : 18,
+      "courseNo" : 2,
       "timeline" : "00:00:40,846 --> 00:00:42,014",
       "english" : "I like preparing it."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 46,
       "chinese" : "大多数人喜欢吃.",
       "sentenceNo" : 19,
+      "courseNo" : 2,
       "timeline" : "00:00:42,371 --> 00:00:43,622",
       "english" : "Most people like eating it."
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 46,
       "chinese" : "人不能仅靠低脂牛奶活着.",
       "sentenceNo" : 20,
+      "courseNo" : 2,
       "timeline" : "00:00:44,023 --> 00:00:46,017",
       "english" : "Man cannot live on lowfat milk alone."
    },
@@ -143,6 +163,7 @@
       "lessonNo" : 46,
       "chinese" : "配三份奶油的意大利面?",
       "sentenceNo" : 21,
+      "courseNo" : 2,
       "timeline" : "00:00:46,847 --> 00:00:48,286",
       "english" : "Pasta with triple cream sauce?"
    },
@@ -150,6 +171,7 @@
       "lessonNo" : 46,
       "chinese" : "盖了一层黄油的牛排?",
       "sentenceNo" : 22,
+      "courseNo" : 2,
       "timeline" : "00:00:48,728 --> 00:00:50,904",
       "english" : "Steak smothered in butter?"
    },
@@ -157,6 +179,7 @@
       "lessonNo" : 46,
       "chinese" : "土豆加奶酪?",
       "sentenceNo" : 23,
+      "courseNo" : 2,
       "timeline" : "00:00:52,135 --> 00:00:53,221",
       "english" : "Potatoes with cheese?"
    },
@@ -164,6 +187,7 @@
       "lessonNo" : 46,
       "chinese" : "黄油巧克力?",
       "sentenceNo" : 24,
+      "courseNo" : 2,
       "timeline" : "00:00:53,918 --> 00:00:55,024",
       "english" : "Butter-cream chocolate?"
    },
@@ -171,6 +195,7 @@
       "lessonNo" : 46,
       "chinese" : "打扰一下.",
       "sentenceNo" : 25,
+      "courseNo" : 2,
       "timeline" : "00:00:56,147 --> 00:00:56,438",
       "english" : "Excuse me."
    },
@@ -178,6 +203,7 @@
       "lessonNo" : 46,
       "chinese" : "Jarmusch, 在你有空的时侯,我可以跟你谈谈吗?",
       "sentenceNo" : 26,
+      "courseNo" : 2,
       "timeline" : "00:00:57,321 --> 00:00:59,878",
       "english" : "Jarmusch, a word when you get a moment, please."
    }

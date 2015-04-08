@@ -3,6 +3,7 @@
       "lessonNo" : 76,
       "chinese" : "还记得那个项目 我们谈过的吗?",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:06,583 --> 00:00:08,690",
       "english" : "Remember that project we talked about?"
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 76,
       "chinese" : "欢迎来到美国.",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:34,376 --> 00:00:37,368",
       "english" : "Welcome to the United States of America."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 76,
       "chinese" : "当你到达时,",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:46,020 --> 00:00:47,754",
       "english" : "When you arrive,"
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 76,
       "chinese" : "跟着\"抵达\"标志走.",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:47,982 --> 00:00:50,825",
       "english" : "follow the \"Arrivals\" sign."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 76,
       "chinese" : "首先你必须通过入境处和护照检查处.",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:01:09,151 --> 00:01:13,276",
       "english" : "First you have to go through Immigration and Passport Control."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 76,
       "chinese" : "确保你有正确的签证,",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:01:16,195 --> 00:01:18,569",
       "english" : "Make sure you have the correct visa,"
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 76,
       "chinese" : "如果需要的话, 在你到达前.",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:01:18,570 --> 00:01:20,885",
       "english" : "if needed, before you arrive."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 76,
       "chinese" : "然后到了拿你行李的时候了,",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:01:23,298 --> 00:01:27,174",
       "english" : "And then it's time to get your bags."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 76,
       "chinese" : "跟着标志去行李认领处.",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:01:36,258 --> 00:01:39,215",
       "english" : "Follow signs to the Baggage Claim."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 76,
       "chinese" : "电视屏幕会确切地告诉你 你的行李会到达哪里.",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:01:40,181 --> 00:01:44,858",
       "english" : "TV monitors will tell you exactly where your luggage will arrive."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 76,
       "chinese" : "你拿到你的行李后.",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:01:59,766 --> 00:02:01,593",
       "english" : "After you get your baggage,"
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 76,
       "chinese" : "通过海关.",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:02:02,662 --> 00:02:04,520",
       "english" : "go through customs."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 76,
       "chinese" : "如果你有什么东西要申报.",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:02:06,066 --> 00:02:08,241",
       "english" : "If you have something to declare,"
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 76,
       "chinese" : "通过红色的通道.",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:02:09,143 --> 00:02:11,756",
       "english" : "go through the red exit."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 76,
       "chinese" : "如果没有, 通过绿色通道.",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:02:12,652 --> 00:02:16,514",
       "english" : "If not, go through the green exit."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 76,
       "chinese" : "我们希望你享受你在美国的停留.",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:02:29,111 --> 00:02:32,453",
       "english" : "We hope you enjoy your stay in the United States."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 76,
       "chinese" : "祝你有美好的一天.",
       "sentenceNo" : 17,
+      "courseNo" : 2,
       "timeline" : "00:02:33,919 --> 00:02:35,298",
       "english" : "Have a nice day."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 76,
       "chinese" : "你弄了这个  在电脑上?",
       "sentenceNo" : 18,
+      "courseNo" : 2,
       "timeline" : "00:02:49,270 --> 00:02:51,293",
       "english" : "You did this on the computer?"
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 76,
       "chinese" : "你真是个了不起的天才!",
       "sentenceNo" : 19,
+      "courseNo" : 2,
       "timeline" : "00:02:52,304 --> 00:02:54,397",
       "english" : "You're just a big genius!"
    }

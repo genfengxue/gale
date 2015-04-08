@@ -3,6 +3,7 @@
       "lessonNo" : 61,
       "chinese" : "我做了一些改动 对你的市场营销计划.",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:08,653 --> 00:00:11,514",
       "english" : "I've made some changes to your marketing plan."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 61,
       "chinese" : "我希望你不会介意.",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:11,515 --> 00:00:12,838",
       "english" : "I hope you don't mind."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 61,
       "chinese" : "No, 当然不会. 很有帮助.",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:12,839 --> 00:00:16,511",
       "english" : "No, of course not. It was very helpful."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 61,
       "chinese" : "我想把事情做好.",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:16,512 --> 00:00:18,402",
       "english" : "I want to get things right."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 61,
       "chinese" : "说比做容易.",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:18,563 --> 00:00:20,418",
       "english" : "Easier said than done."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 61,
       "chinese" : "Oh,Yes.有时候 感觉我们就像在\"Ho-Ho-Hotel\"里",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:20,419 --> 00:00:25,158",
       "english" : "Oh, Yes. Sometimes  it feels like we're in\"Ho-Ho-Hotel\"."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 61,
       "chinese" : "你看过那个电影吗?",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:25,159 --> 00:00:27,113",
       "english" : "Have you ever seen that film?"
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 61,
       "chinese" : "Oh, 我喜爱那个电影.",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:27,114 --> 00:00:29,193",
       "english" : "Oh, I love that movie."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 61,
       "chinese" : "记得那个旅馆的服务员吗?",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:29,194 --> 00:00:30,558",
       "english" : "Remember the bellhop?"
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 61,
       "chinese" : "他一直觉得他能闻到奶酪味儿.",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:30,559 --> 00:00:32,714",
       "english" : "He keeps thinking he can smell cheese."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 61,
       "chinese" : "他还对着客人们嗅来嗅去.",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:32,715 --> 00:00:35,145",
       "english" : "And he sniffs the guests."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 61,
       "chinese" : "我喜欢 女服务员们把面包屑放在她们不喜欢的客人床上.",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:35,146 --> 00:00:39,800",
       "english" : "I like the way the chambermaids put crumbs in the beds of people they don't like."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 61,
       "chinese" : "-Oh! -客人们不能入睡...",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:00:39,801 --> 00:00:41,508",
       "english" : "-Oh! –And the guests can't sleep..."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 61,
       "chinese" : "他们就向经理抱怨...",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:00:41,509 --> 00:00:43,227",
       "english" : "And they complain to the manager..."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 61,
       "chinese" : "他们不能入睡",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:00:43,228 --> 00:00:44,113",
       "english" : "They can't sleep"
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 61,
       "chinese" : "因为他们的床上有面包屑...",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:00:44,114 --> 00:00:46,318",
       "english" : "because there are crumbs in the bed..."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 61,
       "chinese" : "而他说\"不要在床上吃东西.\"",
       "sentenceNo" : 17,
+      "courseNo" : 2,
       "timeline" : "00:00:46,319 --> 00:00:49,820",
       "english" : "And he says \"Stop eating in bed.\""
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 61,
       "chinese" : "Oh,well 至少我们还没有那种问题!",
       "sentenceNo" : 18,
+      "courseNo" : 2,
       "timeline" : "00:00:51,530 --> 00:00:54,074",
       "english" : "Oh, well at least we don't have those problems!"
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 61,
       "chinese" : "突然之间我们的情形看上去好多了,",
       "sentenceNo" : 19,
+      "courseNo" : 2,
       "timeline" : "00:00:54,075 --> 00:00:56,564",
       "english" : "Suddenly our situation looks much better,"
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 61,
       "chinese" : "不是吗?",
       "sentenceNo" : 20,
+      "courseNo" : 2,
       "timeline" : "00:00:56,565 --> 00:00:57,922",
       "english" : "doesn't it?"
    }

@@ -3,6 +3,7 @@
       "lessonNo" : 10,
       "chinese" : "非常感谢你 对于把我的包弄回来",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:06,694 --> 00:00:08,803",
       "english" : "Thank you so much for getting my bags back."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 10,
       "chinese" : "我们目标在于 使满意.",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:09,148 --> 00:00:10,201",
       "english" : "We aim to please."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 10,
       "chinese" : "你们有我的预定吗? Yamamoto?",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:10,717 --> 00:00:12,785",
       "english" : "Do you have my booking? Yamamoto?"
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 10,
       "chinese" : "你怎么拼写它,请问?  Y-A-M-A-M-O-T-O.",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:15,107 --> 00:00:20,035",
       "english" : "How do you spell that, please?  Y-A-M-A-M-O-T-O."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 10,
       "chinese" : "找到了! 是一个套房 在24楼, 带有一个好看的视野  公园的.",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:21,689 --> 00:00:26,109",
       "english" : "Here we are. That's a suite on the 24th floor, with a lovely view of the park."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 10,
       "chinese" : "-很好.  -并且我们正在连接电脑, 传真机,",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:27,091 --> 00:00:30,436",
       "english" : "-Great.  -And we're connecting the computer, fax machine,"
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 10,
       "chinese" : "和额外的电话 在你房间 此刻.",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:30,703 --> 00:00:32,792",
       "english" : "and extra phone in your room right now."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 10,
       "chinese" : "非常好. 这是我的卡.",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:33,446 --> 00:00:34,883",
       "english" : "Very good. Here's my card."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 10,
       "chinese" : "你能告诉我 酒店的电话和传真号码吗, 请?",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:36,507 --> 00:00:39,572",
       "english" : "Can you tell me the hotel phone and fax numbers, please?"
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 10,
       "chinese" : "当然了.酒店的电话是 区号 617 437 1890.",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:40,250 --> 00:00:47,452",
       "english" : "Of course. The hotel phone is area code 617 437 1890."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 10,
       "chinese" : "你的传真号码是 617 437 1888.",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:48,200 --> 00:00:53,149",
       "english" : "Your fax number is 617 437 1888."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 10,
       "chinese" : "617 437 1888. 谢谢你.",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:53,830 --> 00:00:58,048",
       "english" : "617 437 1888. Thank you."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 10,
       "chinese" : "你的卡 和你的钥匙, Yamamoto先生.",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:00:59,143 --> 00:01:01,727",
       "english" : "Your card and your key, Mr. Yamamoto."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 10,
       "chinese" : "房间2422. Carl? Carl(朝)那边!",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:01:02,788 --> 00:01:10,561",
       "english" : "Room 2422. Carl? Carl... that way!"
    }

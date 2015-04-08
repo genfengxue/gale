@@ -3,6 +3,7 @@
       "lessonNo" : 38,
       "chinese" : "他那时正在和Anne谈话.",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:07,908 --> 00:00:08,904",
       "english" : "He was talking to Anne."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 38,
       "chinese" : "开始我认为他很差劲.",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:09,579 --> 00:00:11,368",
       "english" : "At first I thought he was so mean."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 38,
       "chinese" : "是个真正的势利小人,你懂吗?",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:11,752 --> 00:00:12,923",
       "english" : "A real snob, you know?"
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 38,
       "chinese" : "然而他不是.",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:13,689 --> 00:00:14,254",
       "english" : "He is not, though."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 38,
       "chinese" : "他说他勉勉强强上完小学和中学.",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:14,985 --> 00:00:16,411",
       "english" : "He said he barely got through school."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 38,
       "chinese" : "还告诉我他大学读的也不好.",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:17,513 --> 00:00:19,760",
       "english" : "He told me he did really badly at university."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 38,
       "chinese" : "Well, 他在某个地方学会了经营公司.",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:20,221 --> 00:00:22,328",
       "english" : "Well, he learned to run a company somewhere."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 38,
       "chinese" : "他赚很多钱.",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:22,815 --> 00:00:24,493",
       "english" : "He makes a ton of money."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 38,
       "chinese" : "怪就怪在这里.",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:25,239 --> 00:00:25,755",
       "english" : "That's the thing."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 38,
       "chinese" : "他说他的数学不好.",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:26,362 --> 00:00:27,693",
       "english" : "He said he was bad at maths."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 38,
       "chinese" : "什么不好?",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:28,727 --> 00:00:28,991",
       "english" : "At what?"
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 38,
       "chinese" : "数学.",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:30,274 --> 00:00:30,549",
       "english" : "Maths."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 38,
       "chinese" : "你是说math?",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:00:31,664 --> 00:00:32,254",
       "english" : "You mean math?"
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 38,
       "chinese" : "我们说maths.",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:00:32,792 --> 00:00:33,335",
       "english" : "We say maths."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 38,
       "chinese" : "你一定是指各种不同的数学.",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:00:35,056 --> 00:00:36,631",
       "english" : "You must mean all the different maths."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 38,
       "chinese" : "因为我指的是最基础的数学.",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:00:36,954 --> 00:00:39,011",
       "english" : "Because I mean the one basic math."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 38,
       "chinese" : "随便哪个都行.",
       "sentenceNo" : 17,
+      "courseNo" : 2,
       "timeline" : "00:00:39,579 --> 00:00:39,857",
       "english" : "Whatever."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 38,
       "chinese" : "但是Wendy, 听我说.",
       "sentenceNo" : 18,
+      "courseNo" : 2,
       "timeline" : "00:00:40,267 --> 00:00:41,289",
       "english" : "But Wendy, listen to this."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 38,
       "chinese" : "他告诉我赚钱很容易.",
       "sentenceNo" : 19,
+      "courseNo" : 2,
       "timeline" : "00:00:41,996 --> 00:00:43,727",
       "english" : "He told me making money is easy."
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 38,
       "chinese" : "他说,\"如果我用1美元买一件东西,然后以2美元卖出,",
       "sentenceNo" : 20,
+      "courseNo" : 2,
       "timeline" : "00:00:44,406 --> 00:00:48,463",
       "english" : "He said,\"If I buy someting for one dollar, and sell it for two,"
    },
@@ -143,6 +163,7 @@
       "lessonNo" : 38,
       "chinese" : "我就从那百分之一的差价中赚钱.\"",
       "sentenceNo" : 21,
+      "courseNo" : 2,
       "timeline" : "00:00:48,996 --> 00:00:51,689",
       "english" : "I make money from that one per cent difference.\""
    },
@@ -150,6 +171,7 @@
       "lessonNo" : 38,
       "chinese" : "百分之一?你的意思是一百分之一百.",
       "sentenceNo" : 22,
+      "courseNo" : 2,
       "timeline" : "00:00:52,358 --> 00:00:54,703",
       "english" : "One per cent? You mean a hundred per cent."
    },
@@ -157,6 +179,7 @@
       "lessonNo" : 38,
       "chinese" : "对. 他就算是为了救命也搞不清楚百分比.",
       "sentenceNo" : 23,
+      "courseNo" : 2,
       "timeline" : "00:00:55,579 --> 00:00:59,191",
       "english" : "Right. The man can't figure a percentage to save his life."
    },
@@ -164,6 +187,7 @@
       "lessonNo" : 38,
       "chinese" : "你说的没错.",
       "sentenceNo" : 24,
+      "courseNo" : 2,
       "timeline" : "00:00:59,765 --> 00:01:00,615",
       "english" : "Tell me about it."
    },
@@ -171,6 +195,7 @@
       "lessonNo" : 38,
       "chinese" : "你该看看那他留给我的小费!",
       "sentenceNo" : 25,
+      "courseNo" : 2,
       "timeline" : "00:01:00,998 --> 00:01:02,339",
       "english" : "You should see the tip he left me!"
    }

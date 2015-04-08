@@ -3,6 +3,7 @@
       "lessonNo" : 85,
       "chinese" : "你好,Ken.",
       "sentenceNo" : 1,
+      "courseNo" : 1,
       "timeline" : "00:00:00,220 --> 00:00:01,940",
       "english" : "Hello, Ken."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 85,
       "chinese" : "你好,George.",
       "sentenceNo" : 2,
+      "courseNo" : 1,
       "timeline" : "00:00:02,070 --> 00:00:03,870",
       "english" : "Hi, George."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 85,
       "chinese" : "你刚去过电影院吗?",
       "sentenceNo" : 3,
+      "courseNo" : 1,
       "timeline" : "00:00:04,570 --> 00:00:07,620",
       "english" : "Have you just been to the cinema?"
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 85,
       "chinese" : "是的,我刚去过.",
       "sentenceNo" : 4,
+      "courseNo" : 1,
       "timeline" : "00:00:07,620 --> 00:00:09,900",
       "english" : "Yes, I have."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 85,
       "chinese" : "上映什么片子?",
       "sentenceNo" : 5,
+      "courseNo" : 1,
       "timeline" : "00:00:09,900 --> 00:00:11,420",
       "english" : "What's on?"
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 85,
       "chinese" : "《巴黎之春》.",
       "sentenceNo" : 6,
+      "courseNo" : 1,
       "timeline" : "00:00:11,420 --> 00:00:13,750",
       "english" : "'Paris in the spring'."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 85,
       "chinese" : "噢,我已看过了.",
       "sentenceNo" : 7,
+      "courseNo" : 1,
       "timeline" : "00:00:13,750 --> 00:00:16,940",
       "english" : "Oh, I've already seen it."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 85,
       "chinese" : "我是去年在电视上看的.",
       "sentenceNo" : 8,
+      "courseNo" : 1,
       "timeline" : "00:00:16,940 --> 00:00:20,660",
       "english" : "I saw it on television last year."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 85,
       "chinese" : "这是部老片子,但很好.",
       "sentenceNo" : 9,
+      "courseNo" : 1,
       "timeline" : "00:00:21,160 --> 00:00:24,990",
       "english" : "It's an old film, but it's very good."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 85,
       "chinese" : "巴黎是座美丽的城市.",
       "sentenceNo" : 10,
+      "courseNo" : 1,
       "timeline" : "00:00:25,000 --> 00:00:28,170",
       "english" : "Paris is a beautiful city."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 85,
       "chinese" : "我从未去过.",
       "sentenceNo" : 11,
+      "courseNo" : 1,
       "timeline" : "00:00:28,170 --> 00:00:30,320",
       "english" : "I've never been there."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 85,
       "chinese" : "Ken,你去过吗?",
       "sentenceNo" : 12,
+      "courseNo" : 1,
       "timeline" : "00:00:30,530 --> 00:00:33,480",
       "english" : "Have you ever been there, Ken?"
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 85,
       "chinese" : "是的,我去过.4月份我在那儿.",
       "sentenceNo" : 13,
+      "courseNo" : 1,
       "timeline" : "00:00:33,490 --> 00:00:38,010",
       "english" : "Yes, I have. I was there in April."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 85,
       "chinese" : "那是巴黎之春,是吗?",
       "sentenceNo" : 14,
+      "courseNo" : 1,
       "timeline" : "00:00:38,020 --> 00:00:41,100",
       "english" : "Pairs in the spring, eh?"
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 85,
       "chinese" : "是春天,",
       "sentenceNo" : 15,
+      "courseNo" : 1,
       "timeline" : "00:00:41,140 --> 00:00:43,020",
       "english" : "It was spring,"
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 85,
       "chinese" : "但天气太糟了.",
       "sentenceNo" : 16,
+      "courseNo" : 1,
       "timeline" : "00:00:43,030 --> 00:00:45,480",
       "english" : "but the weather was awful."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 85,
       "chinese" : "一直在下雨.",
       "sentenceNo" : 17,
+      "courseNo" : 1,
       "timeline" : "00:00:45,480 --> 00:00:48,310",
       "english" : "It rained all the time."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 85,
       "chinese" : "就像伦敦一样!",
       "sentenceNo" : 18,
+      "courseNo" : 1,
       "timeline" : "00:00:48,480 --> 00:00:51,160",
       "english" : "Just like London!"
    }

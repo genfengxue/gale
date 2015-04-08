@@ -3,6 +3,7 @@
       "lessonNo" : 80,
       "chinese" : "我能帮你吗?",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:08,719 --> 00:00:09,842",
       "english" : "Can I help you?"
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 80,
       "chinese" : "Yes. 我正在寻找点东西给我的妻子, please.",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:09,843 --> 00:00:12,763",
       "english" : "Yes. I'm looking for something for my wife, please."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 80,
       "chinese" : "你在找什么样的东西?",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:12,764 --> 00:00:14,700",
       "english" : "What kind of thing are you looking for?"
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 80,
       "chinese" : "我在寻找一个相框.",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:14,701 --> 00:00:17,095",
       "english" : "I'm looking for a picture frame,"
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 80,
       "chinese" : "一个很简单那种. 不要花哨的.",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:17,126 --> 00:00:20,505",
       "english" : "a very simple one. Nothing fancy."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 80,
       "chinese" : "-木制的?还是银的?   -银的.",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:20,506 --> 00:00:23,919",
       "english" : "-In wood? Or silver?  -Silver."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 80,
       "chinese" : "好. 让我看一看.",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:23,920 --> 00:00:25,781",
       "english" : "Fine. Let me take a look."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 80,
       "chinese" : "-我觉得小一点的会更好.   -好的.",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:35,735 --> 00:00:38,701",
       "english" : "-I think a smaller one would be better. -Fine."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 80,
       "chinese" : "这个有点过重了.",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:53,425 --> 00:00:55,172",
       "english" : "It's a little too heavy."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 80,
       "chinese" : "我的妻子不会喜欢这些尖尖的棱角.",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:01:11,260 --> 00:01:14,536",
       "english" : "My wife wouldn't like these sharp corners."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 80,
       "chinese" : "你有没有那种带支架的?",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:01:23,690 --> 00:01:25,282",
       "english" : "Do you have any with a stand?"
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 80,
       "chinese" : "这样她能把它立在桌子上.",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:01:25,283 --> 00:01:27,191",
       "english" : "So she can set it up on a table"
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 80,
       "chinese" : "Ah, 太好了. 真是太好了.",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:01:31,473 --> 00:01:36,611",
       "english" : "Ah, very nice. Very nice."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 80,
       "chinese" : "你有没有金色的?",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:01:38,696 --> 00:01:40,711",
       "english" : "Do you have it in gold?"
    }

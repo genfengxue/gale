@@ -3,6 +3,7 @@
       "lessonNo" : 28,
       "chinese" : "用不了多久的.",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:08, 511 --> 00:00:09, 363",
       "english" : "This won't take a minute."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 28,
       "chinese" : "没关系. 反正我也要买一些邮票.",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:09, 583 --> 00:00:11, 158",
       "english" : "No problem. I need stamps anyway."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 28,
       "chinese" : "看. 这是我的签证.",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:12, 994 --> 00:00:14, 696",
       "english" : "Look. Here's the visa for my trip."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 28,
       "chinese" : "WOW.盖了这么多章!",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:15, 209 --> 00:00:16, 539",
       "english" : "Wow. Look at all the stamps."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 28,
       "chinese" : "Yeah.我做前一份工作时常常要出差.",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:16, 893 --> 00:00:19, 568",
       "english" : "Yeah. I travelled so much in my previous job."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 28,
       "chinese" : "你过去在Continental Hotel工作,right?",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:20, 014 --> 00:00:21, 818",
       "english" : "You worked with the Continental Hotel, right?"
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 28,
       "chinese" : "Uh huh.从1986年到1989年,我在那儿工作.",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:22, 066 --> 00:00:26, 088",
       "english" : "Uh huh. I worked there from 1986 to 1989."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 28,
       "chinese" : "印度尼西亚. 阿根廷. 马达加斯加!",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:27, 093 --> 00:00:31, 394",
       "english" : "Indonesia. Argentina. Madagascar!"
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 28,
       "chinese" : "你应该看看我们的旧护照.",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:31, 620 --> 00:00:33, 084",
       "english" : "You should see my old passport."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 28,
       "chinese" : "1980年到1982年我在欧洲读研究生.",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:33, 596 --> 00:00:36, 142",
       "english" : "I was in graduate school in Europe from'80 to'82."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 28,
       "chinese" : "我到处都走遍了.",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:36, 511 --> 00:00:37, 243",
       "english" : "I went everywhere."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 28,
       "chinese" : "照片太糟糕了.",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:38, 056 --> 00:00:39, 383",
       "english" : "Terrible picture."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 28,
       "chinese" : "I know.",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:00:40, 138 --> 00:00:40, 338",
       "english" : "I know."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 28,
       "chinese" : "你的全名是Anne Bruce Holland? Bruce是男人的名字.",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:00:41, 931 --> 00:00:45, 661",
       "english" : "Your full name is Anne Bruce Holland? Bruce is a man's name."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 28,
       "chinese" : "这是家族的姓.",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:00:46, 314 --> 00:00:47, 017",
       "english" : "It's family name."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 28,
       "chinese" : "出生地:Connecticut,U.S.A.",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:00:48, 033 --> 00:00:49, 924",
       "english" : "Place of birth:Connecticut, U. S. A."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 28,
       "chinese" : "Hey,你出生于1952年2月14日, 情人节!",
       "sentenceNo" : 17,
+      "courseNo" : 2,
       "timeline" : "00:00:50, 217 --> 00:00:55, 118",
       "english" : "Hey, you were born on February 14th, 1952. Valentine's Day."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 28,
       "chinese" : "Julia.你挡住往前的队伍了.",
       "sentenceNo" : 18,
+      "courseNo" : 2,
       "timeline" : "00:00:55, 412 --> 00:00:56, 583",
       "english" : "Julia. You're holding up the line."
    }

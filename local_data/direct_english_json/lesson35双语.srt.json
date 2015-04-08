@@ -3,6 +3,7 @@
       "lessonNo" : 35,
       "chinese" : "Hey William. 猜猜明天谁要来?",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:08,531 --> 00:00:10,853",
       "english" : "Hey William. Guess who's coming tomorrow?"
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 35,
       "chinese" : "谁?",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:11,462 --> 00:00:11,837",
       "english" : "Who?"
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 35,
       "chinese" : "Mr.Bigelow.",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:12,356 --> 00:00:13,187",
       "english" : "Mr. Bigelow."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 35,
       "chinese" : "Jim Bigelow, 我们的执行总裁?",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:14,142 --> 00:00:16,504",
       "english" : "Jim Bigelow, our Chief Executive Officer?"
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 35,
       "chinese" : "对. 正是\"老大\"先生.",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:16,791 --> 00:00:18,949",
       "english" : "That's right. Mr. Big."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 35,
       "chinese" : "为什么?",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:19,342 --> 00:00:19,625",
       "english" : "Why?"
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 35,
       "chinese" : "来和Anne开会.",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:20,210 --> 00:00:21,800",
       "english" : "He's coming in for a meeting with Anne."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 35,
       "chinese" : "很高层的会议",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:22,231 --> 00:00:22,964",
       "english" : "Very high level."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 35,
       "chinese" : "我们这个机构需要的是人才.",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:42,019 --> 00:00:44,504",
       "english" : "What this organization needs is talent."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 35,
       "chinese" : "我们需要一个能把事情做好的人.",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:45,917 --> 00:00:48,944",
       "english" : "We need someone who will get the job done."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 35,
       "chinese" : "但我们更希望是一个长相不错, 言谈举止令人愉快的人",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:50,289 --> 00:00:54,501",
       "english" : "But we'd prefer someone presentable, with a pleasant manner."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 35,
       "chinese" : "一个工作努力认真, 严谨但是欢快的人.",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:55,649 --> 00:01:00,411",
       "english" : "Someone hard-working, serious, yet cheerful."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 35,
       "chinese" : "我们需要一个既能溜旱冰(rollerblade),",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:01:01,667 --> 00:01:04,125",
       "english" : "We want someone who can rollerblade,"
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 35,
       "chinese" : "又喜欢步行的人.",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:01:04,804 --> 00:01:06,265",
       "english" : "but also likes to walk."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 35,
       "chinese" : "我们需要……一个像他那样的人!",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:01:07,359 --> 00:01:11,125",
       "english" : "We want... someone like that man!"
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 35,
       "chinese" : "是的. 先生!",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:01:16,083 --> 00:01:16,501",
       "english" : "Yes, sir!"
    }

@@ -3,6 +3,7 @@
       "lessonNo" : 24,
       "chinese" : "打搅一下. 我有个问题.",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:08, 940 --> 00:00:10, 720",
       "english" : "Excuse me. I have a problem."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 24,
       "chinese" : "是的 先生. 什么问题?",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:10, 960 --> 00:00:12, 020",
       "english" : "Yes sir. What's the problem?"
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 24,
       "chinese" : "我洗好的衣服...",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:12, 549 --> 00:00:13, 142",
       "english" : "My laundry..."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 24,
       "chinese" : "Oh 不不, 你不用来这里.",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:13, 280 --> 00:00:14, 630",
       "english" : "Oh no no, you don't come here."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 24,
       "chinese" : "我们送到你的房间去.",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:14, 680 --> 00:00:15, 430",
       "english" : "We deliver it to your room."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 24,
       "chinese" : "他们送来了.",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:15, 620 --> 00:00:16, 380",
       "english" : "They did."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 24,
       "chinese" : "他们刚刚在我的房间里.",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:16, 560 --> 00:00:17, 440",
       "english" : "They were just in my room."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 24,
       "chinese" : "但是这不是我的.",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:17, 520 --> 00:00:18, 370",
       "english" : "But this isn't mine."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 24,
       "chinese" : "Hm. 你的房间号是?",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:18, 749 --> 00:00:20, 996",
       "english" : "Hm. What your room number?"
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 24,
       "chinese" : "1711.",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:21, 400 --> 00:00:22, 130",
       "english" : "1711."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 24,
       "chinese" : "这是你的房间.",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:22, 800 --> 00:00:23, 520",
       "english" : "This is your room."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 24,
       "chinese" : "你的名字是?",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:24, 045 --> 00:00:24, 695",
       "english" : "What's your name?"
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 24,
       "chinese" : "Davis.",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:00:25, 060 --> 00:00:25, 420",
       "english" : "Davis."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 24,
       "chinese" : "Jeff Davis.",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:00:25, 500 --> 00:00:26, 200",
       "english" : "Jeff Davis."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 24,
       "chinese" : "这是你的名字",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:00:26, 713 --> 00:00:27, 640",
       "english" : "This is your name."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 24,
       "chinese" : "你有一个红色的衬衫吗?",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:00:29, 120 --> 00:00:30, 150",
       "english" : "Do you have a red shirt?"
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 24,
       "chinese" : "是的, 但是这件不是我的.",
       "sentenceNo" : 17,
+      "courseNo" : 2,
       "timeline" : "00:00:30, 570 --> 00:00:32, 040",
       "english" : "Yes, but this one doesn't belong to me."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 24,
       "chinese" : "蓝色的裤子呢?",
       "sentenceNo" : 18,
+      "courseNo" : 2,
       "timeline" : "00:00:32, 543 --> 00:00:33, 863",
       "english" : "What about blue pants?"
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 24,
       "chinese" : "是的, 他们看起来像我的 但是不是我的.",
       "sentenceNo" : 19,
+      "courseNo" : 2,
       "timeline" : "00:00:34, 340 --> 00:00:36, 519",
       "english" : "Yes, they look like mine but they're not."
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 24,
       "chinese" : "Mr. Davis, 你的房间号, 你的名字.",
       "sentenceNo" : 20,
+      "courseNo" : 2,
       "timeline" : "00:00:37, 920 --> 00:00:40, 510",
       "english" : "Mr. Davis. Your room number, your name."
    },
@@ -143,6 +163,7 @@
       "lessonNo" : 24,
       "chinese" : "他们看起来像你的衣服.",
       "sentenceNo" : 21,
+      "courseNo" : 2,
       "timeline" : "00:00:41, 040 --> 00:00:42, 240",
       "english" : "They look like your clothes."
    },
@@ -150,6 +171,7 @@
       "lessonNo" : 24,
       "chinese" : "那肯定是你的洗好的衣服.",
       "sentenceNo" : 22,
+      "courseNo" : 2,
       "timeline" : "00:00:42, 460 --> 00:00:43, 620",
       "english" : "It must be your laundry."
    },
@@ -157,6 +179,7 @@
       "lessonNo" : 24,
       "chinese" : "Oh boy.",
       "sentenceNo" : 23,
+      "courseNo" : 2,
       "timeline" : "00:00:48, 196 --> 00:00:48, 822",
       "english" : "Oh boy."
    },
@@ -164,6 +187,7 @@
       "lessonNo" : 24,
       "chinese" : "如果这是我的, 那么我们就有个小问题了",
       "sentenceNo" : 24,
+      "courseNo" : 2,
       "timeline" : "00:00:49, 700 --> 00:00:51, 610",
       "english" : "If this is mine, We have a small problem."
    },
@@ -171,6 +195,7 @@
       "lessonNo" : 24,
       "chinese" : "小衣服, 大问题.",
       "sentenceNo" : 25,
+      "courseNo" : 2,
       "timeline" : "00:00:52, 495 --> 00:00:54, 528",
       "english" : "Small clothes, big problem."
    }

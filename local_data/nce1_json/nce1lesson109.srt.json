@@ -3,6 +3,7 @@
       "lessonNo" : 109,
       "chinese" : "我来煮点咖啡好吗,Jane?",
       "sentenceNo" : 1,
+      "courseNo" : 1,
       "timeline" : "00:00:00,765 --> 00:00:05,030",
       "english" : "Shall I make some coffee, Jane?"
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 109,
       "chinese" : "这是个好主意,Charlotte.",
       "sentenceNo" : 2,
+      "courseNo" : 1,
       "timeline" : "00:00:05,115 --> 00:00:08,992",
       "english" : "That's a good idea, Charlotte."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 109,
       "chinese" : "咖啡好了,",
       "sentenceNo" : 3,
+      "courseNo" : 1,
       "timeline" : "00:00:09,170 --> 00:00:10,909",
       "english" : "It's ready."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 109,
       "chinese" : "你要放点奶吗?",
       "sentenceNo" : 4,
+      "courseNo" : 1,
       "timeline" : "00:00:11,859 --> 00:00:14,747",
       "english" : "Do you want any milk?"
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 109,
       "chinese" : "请稍加一点.",
       "sentenceNo" : 5,
+      "courseNo" : 1,
       "timeline" : "00:00:14,748 --> 00:00:17,523",
       "english" : "Just a little, please."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 109,
       "chinese" : "加些糖怎么样?",
       "sentenceNo" : 6,
+      "courseNo" : 1,
       "timeline" : "00:00:17,524 --> 00:00:20,212",
       "english" : "What about some sugar?"
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 109,
       "chinese" : "两茶匙行吗?",
       "sentenceNo" : 7,
+      "courseNo" : 1,
       "timeline" : "00:00:20,213 --> 00:00:22,814",
       "english" : "Two teaspoonfuls?"
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 109,
       "chinese" : "不,再少一些.",
       "sentenceNo" : 8,
+      "courseNo" : 1,
       "timeline" : "00:00:23,023 --> 00:00:26,014",
       "english" : "No, less than that."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 109,
       "chinese" : "请放一勺儿半.",
       "sentenceNo" : 9,
+      "courseNo" : 1,
       "timeline" : "00:00:26,015 --> 00:00:30,529",
       "english" : "One and a half teaspoonfuls, please."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 109,
       "chinese" : "那对我足够了.",
       "sentenceNo" : 10,
+      "courseNo" : 1,
       "timeline" : "00:00:30,530 --> 00:00:33,088",
       "english" : "That's enough for me."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 109,
       "chinese" : "太好了.",
       "sentenceNo" : 11,
+      "courseNo" : 1,
       "timeline" : "00:00:33,709 --> 00:00:37,060",
       "english" : "That was very nice."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 109,
       "chinese" : "你要再来点吗?",
       "sentenceNo" : 12,
+      "courseNo" : 1,
       "timeline" : "00:00:37,146 --> 00:00:39,807",
       "english" : "Would you like some more?"
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 109,
       "chinese" : "好的,请再来一点.",
       "sentenceNo" : 13,
+      "courseNo" : 1,
       "timeline" : "00:00:39,808 --> 00:00:42,570",
       "english" : "Yes, please."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 109,
       "chinese" : "我还想抽枝烟.",
       "sentenceNo" : 14,
+      "courseNo" : 1,
       "timeline" : "00:00:42,571 --> 00:00:46,166",
       "english" : "I'd like a cigarette, too."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 109,
       "chinese" : "可以给我一枝吗?",
       "sentenceNo" : 15,
+      "courseNo" : 1,
       "timeline" : "00:00:46,426 --> 00:00:48,911",
       "english" : "May I have one?"
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 109,
       "chinese" : "当然可以.",
       "sentenceNo" : 16,
+      "courseNo" : 1,
       "timeline" : "00:00:49,084 --> 00:00:51,011",
       "english" : "Of course."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 109,
       "chinese" : "我想那个盒子里有一些.",
       "sentenceNo" : 17,
+      "courseNo" : 1,
       "timeline" : "00:00:51,367 --> 00:00:55,910",
       "english" : "I think there are a few in that box."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 109,
       "chinese" : "我恐怕盒子是空的.",
       "sentenceNo" : 18,
+      "courseNo" : 1,
       "timeline" : "00:00:55,911 --> 00:00:58,515",
       "english" : "I'm afraid it's empty."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 109,
       "chinese" : "真遗憾!",
       "sentenceNo" : 19,
+      "courseNo" : 1,
       "timeline" : "00:00:58,990 --> 00:01:01,086",
       "english" : "What a pity!"
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 109,
       "chinese" : "没关系.",
       "sentenceNo" : 20,
+      "courseNo" : 1,
       "timeline" : "00:01:01,099 --> 00:01:03,384",
       "english" : "It doesn't matter."
    },
@@ -143,6 +163,7 @@
       "lessonNo" : 109,
       "chinese" : "那就吃块饼干吧.",
       "sentenceNo" : 21,
+      "courseNo" : 1,
       "timeline" : "00:01:03,582 --> 00:01:06,465",
       "english" : "Have a biscuit instead."
    },
@@ -150,6 +171,7 @@
       "lessonNo" : 109,
       "chinese" : "多吃点,少抽点!",
       "sentenceNo" : 22,
+      "courseNo" : 1,
       "timeline" : "00:01:06,767 --> 00:01:10,500",
       "english" : "Eat more and smoke less!"
    },
@@ -157,6 +179,7 @@
       "lessonNo" : 109,
       "chinese" : "这是极好的忠告啊!",
       "sentenceNo" : 23,
+      "courseNo" : 1,
       "timeline" : "00:01:10,501 --> 00:01:13,500",
       "english" : "That's very good advice!"
    }

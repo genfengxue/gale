@@ -3,6 +3,7 @@
       "lessonNo" : 95,
       "chinese" : "两张到伦敦的往返票, 请.",
       "sentenceNo" : 1,
+      "courseNo" : 1,
       "timeline" : "00:00:00,797 --> 00:00:04,538",
       "english" : "Two return tickets to London, please."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 95,
       "chinese" : "下一班火车什么时候开?",
       "sentenceNo" : 2,
+      "courseNo" : 1,
       "timeline" : "00:00:04,992 --> 00:00:08,469",
       "english" : "What time will the next train leave?"
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 95,
       "chinese" : "8点19分.",
       "sentenceNo" : 3,
+      "courseNo" : 1,
       "timeline" : "00:00:08,470 --> 00:00:11,730",
       "english" : "At nineteen minutes past eight."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 95,
       "chinese" : "在哪个站台?",
       "sentenceNo" : 4,
+      "courseNo" : 1,
       "timeline" : "00:00:11,884 --> 00:00:13,802",
       "english" : "Which platform?"
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 95,
       "chinese" : "2号站台.过天桥.",
       "sentenceNo" : 5,
+      "courseNo" : 1,
       "timeline" : "00:00:14,145 --> 00:00:17,471",
       "english" : "Platform Two. Over the bridge."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 95,
       "chinese" : "下一班火车什么时候开?",
       "sentenceNo" : 6,
+      "courseNo" : 1,
       "timeline" : "00:00:17,472 --> 00:00:20,842",
       "english" : "What time will the next train leave?"
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 95,
       "chinese" : "8点19分.",
       "sentenceNo" : 7,
+      "courseNo" : 1,
       "timeline" : "00:00:20,843 --> 00:00:23,447",
       "english" : "At eight nineteen."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 95,
       "chinese" : "我们的时间还很宽裕.",
       "sentenceNo" : 8,
+      "courseNo" : 1,
       "timeline" : "00:00:23,607 --> 00:00:26,417",
       "english" : "We've got plenty of time."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 95,
       "chinese" : "现在才7点57分.",
       "sentenceNo" : 9,
+      "courseNo" : 1,
       "timeline" : "00:00:26,418 --> 00:00:29,965",
       "english" : "It's only three minutes to eight."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 95,
       "chinese" : "让我们去喝点东西吧,",
       "sentenceNo" : 10,
+      "courseNo" : 1,
       "timeline" : "00:00:29,966 --> 00:00:32,924",
       "english" : "Let's go and have a drink."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 95,
       "chinese" : "车站旁有一个酒吧.",
       "sentenceNo" : 11,
+      "courseNo" : 1,
       "timeline" : "00:00:33,078 --> 00:00:37,449",
       "english" : "There's a bar next door to the station."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 95,
       "chinese" : "Ken,我们现在最好回到车站去.",
       "sentenceNo" : 12,
+      "courseNo" : 1,
       "timeline" : "00:00:37,590 --> 00:00:42,167",
       "english" : "We had better go back to the station now, Ken."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 95,
       "chinese" : "请把车票拿出来.",
       "sentenceNo" : 13,
+      "courseNo" : 1,
       "timeline" : "00:00:42,168 --> 00:00:44,624",
       "english" : "Tickets, please."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 95,
       "chinese" : "我们要乘8点19分的车去伦敦.",
       "sentenceNo" : 14,
+      "courseNo" : 1,
       "timeline" : "00:00:44,754 --> 00:00:49,314",
       "english" : "We want to catch the eight nineteen to London."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 95,
       "chinese" : "你们刚好错过了那班车.",
       "sentenceNo" : 15,
+      "courseNo" : 1,
       "timeline" : "00:00:49,476 --> 00:00:52,076",
       "english" : "You've just missed it!"
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 95,
       "chinese" : "什么!现在只有8点15分.",
       "sentenceNo" : 16,
+      "courseNo" : 1,
       "timeline" : "00:00:52,132 --> 00:00:56,583",
       "english" : "What! It's only eight fifteen."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 95,
       "chinese" : "对不起,先生,",
       "sentenceNo" : 17,
+      "courseNo" : 1,
       "timeline" : "00:00:56,584 --> 00:00:58,663",
       "english" : "I'm sorry, sir."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 95,
       "chinese" : "那个钟慢了10分钟.",
       "sentenceNo" : 18,
+      "courseNo" : 1,
       "timeline" : "00:00:58,664 --> 00:01:01,909",
       "english" : "That clock's ten minutes slow."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 95,
       "chinese" : "下一班车是什么时候?",
       "sentenceNo" : 19,
+      "courseNo" : 1,
       "timeline" : "00:01:01,910 --> 00:01:04,136",
       "english" : "When's the next train?"
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 95,
       "chinese" : "5个小时以后!",
       "sentenceNo" : 20,
+      "courseNo" : 1,
       "timeline" : "00:01:04,137 --> 00:01:06,683",
       "english" : "In five hours' time!"
    }

@@ -3,6 +3,7 @@
       "lessonNo" : 73,
       "chinese" : "棒球. 网球.",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:18,095 --> 00:00:20,531",
       "english" : "Baseball. Tennis."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 73,
       "chinese" : "-看那个. 橄榄球.      -Yeah.",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:21,319 --> 00:00:24,743",
       "english" : "-Look at that. Football.     -Yeah."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 73,
       "chinese" : "美式橄榄球.",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:25,234 --> 00:00:27,680",
       "english" : "American football."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 73,
       "chinese" : "我完全同意你, Kevin.",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:28,249 --> 00:00:30,469",
       "english" : "I couldn't agree with you more, Kevin."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 73,
       "chinese" : "我认为橄榄球是一项暴力的, 评价过高的运动.",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:30,470 --> 00:00:34,777",
       "english" : "I think football is a violent, overrated sport."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 73,
       "chinese" : "你把那个叫暴力?",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:34,778 --> 00:00:36,613",
       "english" : "Do you call that violent?"
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 73,
       "chinese" : "带着那么多垫肩和护膝?",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:36,614 --> 00:00:37,916",
       "english" : "With all that padding?"
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 73,
       "chinese" : "你不会看见垫肩和护膝 在英式橄榄球.",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:37,917 --> 00:00:40,391",
       "english" : "You don't see padding in rugby."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 73,
       "chinese" : "Now 比如说棒球吧: 一项技巧,灵巧性,战略的运动.",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:40,447 --> 00:00:45,696",
       "english" : "Now take baseball: a game of skill, finesse, strategy."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 73,
       "chinese" : "在那点上我就不同意你了, Dean.",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:45,697 --> 00:00:47,773",
       "english" : "I don't agree with you there, Dean."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 73,
       "chinese" : "让我们面对现实吧.",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:47,774 --> 00:00:48,989",
       "english" : "Let's face it."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 73,
       "chinese" : "棒球不过是乏味版的板球.",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:48,990 --> 00:00:51,843",
       "english" : "Baseball's just a dull version of cricket."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 73,
       "chinese" : "你觉得呢?",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:00:52,027 --> 00:00:53,983",
       "english" : "What do you think?"
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 73,
       "chinese" : "我同意你 Kevin.",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:00:54,803 --> 00:00:56,455",
       "english" : "I'm with you Kevin."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 73,
       "chinese" : "棒球是无聊的.",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:00:56,513 --> 00:00:58,647",
       "english" : "Baseball is boring."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 73,
       "chinese" : "-不过没有足球无聊.    –什么?!",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:00:59,194 --> 00:01:02,141",
       "english" : "-Not as boring as soccer.  -what?!"
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 73,
       "chinese" : "Now 那个是很无聊.",
       "sentenceNo" : 17,
+      "courseNo" : 2,
       "timeline" : "00:01:02,440 --> 00:01:04,185",
       "english" : "Now that's boring."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 73,
       "chinese" : "我说, 让他们用他们的双手吧.",
       "sentenceNo" : 18,
+      "courseNo" : 2,
       "timeline" : "00:01:04,186 --> 00:01:06,126",
       "english" : "I say, let them use their hands."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 73,
       "chinese" : "你们两个都非常不可理喻.",
       "sentenceNo" : 19,
+      "courseNo" : 2,
       "timeline" : "00:01:06,127 --> 00:01:08,472",
       "english" : "You're both very unreasonable."
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 73,
       "chinese" : "Kev, 说出一个运动的名字 比足球还无聊的.",
       "sentenceNo" : 20,
+      "courseNo" : 2,
       "timeline" : "00:01:08,533 --> 00:01:13,411",
       "english" : "Kev, name one sport more boring than soccer."
    },
@@ -143,6 +163,7 @@
       "lessonNo" : 73,
       "chinese" : "-高尔夫.  –什么?",
       "sentenceNo" : 21,
+      "courseNo" : 2,
       "timeline" : "00:01:13,568 --> 00:01:15,669",
       "english" : "-Golf.  -What?"
    },
@@ -150,6 +171,7 @@
       "lessonNo" : 73,
       "chinese" : "他说的有几分道理.",
       "sentenceNo" : 22,
+      "courseNo" : 2,
       "timeline" : "00:01:15,670 --> 00:01:16,910",
       "english" : "He's got a point."
    },
@@ -157,6 +179,7 @@
       "lessonNo" : 73,
       "chinese" : "那是你的观点.",
       "sentenceNo" : 23,
+      "courseNo" : 2,
       "timeline" : "00:01:16,911 --> 00:01:17,937",
       "english" : "That's your opinion."
    },
@@ -164,6 +187,7 @@
       "lessonNo" : 73,
       "chinese" : "你的观点是什么呢?",
       "sentenceNo" : 24,
+      "courseNo" : 2,
       "timeline" : "00:01:17,938 --> 00:01:19,278",
       "english" : "What's your opinion?"
    },
@@ -171,6 +195,7 @@
       "lessonNo" : 73,
       "chinese" : "高尔夫是非常令人兴奋的.",
       "sentenceNo" : 25,
+      "courseNo" : 2,
       "timeline" : "00:01:19,573 --> 00:01:23,237",
       "english" : "Golf is very exciting."
    }

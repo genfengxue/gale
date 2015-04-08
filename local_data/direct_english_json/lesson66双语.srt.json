@@ -3,6 +3,7 @@
       "lessonNo" : 66,
       "chinese" : "George! 你在干什么?",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:06,156 --> 00:00:08,160",
       "english" : "George! What are you doing?"
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 66,
       "chinese" : "我正在工作.",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:08,579 --> 00:00:09,672",
       "english" : "I'm working."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 66,
       "chinese" : "你没有听到警报吗?",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:09,673 --> 00:00:10,984",
       "english" : "Don't you hear the alarm?"
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 66,
       "chinese" : "Yes. 烦死人了.",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:10,985 --> 00:00:12,199",
       "english" : "Yes. It's horrible."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 66,
       "chinese" : "有什么方法 我们能关掉它吗?",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:12,200 --> 00:00:13,692",
       "english" : "Is there any way we can turn it off?"
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 66,
       "chinese" : "把它关掉?",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:13,693 --> 00:00:14,994",
       "english" : "Turn it off?"
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 66,
       "chinese" : "只是个演习.",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:14,995 --> 00:00:16,469",
       "english" : "It's just a drill."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 66,
       "chinese" : "George, 这是应急演习.",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:16,470 --> 00:00:18,375",
       "english" : "George, it is an emergency drill."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 66,
       "chinese" : "这是很重要的.",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:18,376 --> 00:00:20,281",
       "english" : "It's important."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 66,
       "chinese" : "我需要干什么?",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:20,446 --> 00:00:22,092",
       "english" : "What do I have to do?"
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 66,
       "chinese" : "都在这儿.",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:22,262 --> 00:00:23,840",
       "english" : "It's all here."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 66,
       "chinese" : "读一下须知.",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:23,841 --> 00:00:25,534",
       "english" : "Read the instructions."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 66,
       "chinese" : "如果你发现着火, 拨打911.",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:00:25,759 --> 00:00:29,752",
       "english" : "If you discover a fire, call 911."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 66,
       "chinese" : "提供地址. Boston Sheraton酒店.",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:00:29,753 --> 00:00:33,554",
       "english" : "Give the address. Boston Sheraton Hotel,"
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 66,
       "chinese" : "多尔顿(Dalton) 街39号.",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:00:33,555 --> 00:00:35,614",
       "english" : "39 Dalton Street."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 66,
       "chinese" : "他们发现火情了, NuLa.",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:00:35,615 --> 00:00:36,927",
       "english" : "They discovered the fire, NuLa."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 66,
       "chinese" : "警报已经拉响了. 还有什么?",
       "sentenceNo" : 17,
+      "courseNo" : 2,
       "timeline" : "00:00:36,928 --> 00:00:39,410",
       "english" : "The alarm's already on. What else?"
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 66,
       "chinese" : "不要惊慌! 关上任何打开的窗子.",
       "sentenceNo" : 18,
+      "courseNo" : 2,
       "timeline" : "00:00:39,411 --> 00:00:42,535",
       "english" : "Don't panic! Shut any open windows."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 66,
       "chinese" : "离开你的办公室.",
       "sentenceNo" : 19,
+      "courseNo" : 2,
       "timeline" : "00:00:42,536 --> 00:00:44,650",
       "english" : "Leave your office."
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 66,
       "chinese" : "关上你身后所有的门.",
       "sentenceNo" : 20,
+      "courseNo" : 2,
       "timeline" : "00:00:44,752 --> 00:00:47,553",
       "english" : "Shut all the doors behind you."
    },
@@ -143,6 +163,7 @@
       "lessonNo" : 66,
       "chinese" : "去距离你最近的出口.",
       "sentenceNo" : 21,
+      "courseNo" : 2,
       "timeline" : "00:00:54,272 --> 00:00:56,359",
       "english" : "Go to your nearest exit."
    },
@@ -150,6 +171,7 @@
       "lessonNo" : 66,
       "chinese" : "不要使用电梯.",
       "sentenceNo" : 22,
+      "courseNo" : 2,
       "timeline" : "00:00:56,524 --> 00:00:58,315",
       "english" : "Do not use the elevator."
    },
@@ -157,6 +179,7 @@
       "lessonNo" : 66,
       "chinese" : "使用楼梯.",
       "sentenceNo" : 23,
+      "courseNo" : 2,
       "timeline" : "00:00:58,316 --> 00:00:59,941",
       "english" : "Use the stairs."
    },
@@ -164,6 +187,7 @@
       "lessonNo" : 66,
       "chinese" : "离开大楼.",
       "sentenceNo" : 24,
+      "courseNo" : 2,
       "timeline" : "00:01:04,657 --> 00:01:05,955",
       "english" : "Leave the building."
    },
@@ -171,6 +195,7 @@
       "lessonNo" : 66,
       "chinese" : "妇女和儿童先走.",
       "sentenceNo" : 25,
+      "courseNo" : 2,
       "timeline" : "00:01:05,956 --> 00:01:08,281",
       "english" : "Women and children first."
    },
@@ -178,6 +203,7 @@
       "lessonNo" : 66,
       "chinese" : "它没有说那个.",
       "sentenceNo" : 26,
+      "courseNo" : 2,
       "timeline" : "00:01:08,800 --> 00:01:11,047",
       "english" : "It doesn't say that."
    }

@@ -3,6 +3,7 @@
       "lessonNo" : 40,
       "chinese" : "需要帮忙吗?",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:06,880 --> 00:00:07,428",
       "english" : "Can I help you?"
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 40,
       "chinese" : "我胃不舒服, 哪儿能买到药?",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:07,877 --> 00:00:10,181",
       "english" : "Where can I get some medicine for an upset stomach?"
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 40,
       "chinese" : "在我们饭店里的商店可以买到非处方药品.",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:10,733 --> 00:00:13,979",
       "english" : "We have some over-the-counter remedies in the hotel shop."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 40,
       "chinese" : "在街上不远处还有一间药房.",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:14,228 --> 00:00:16,481",
       "english" : "And there's a pharmacy just down the street."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 40,
       "chinese" : "OK, 谢谢,",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:16,841 --> 00:00:17,159",
       "english" : "OK, Thank you."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 40,
       "chinese" : "不客气.",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:17,650 --> 00:00:18,140",
       "english" : "No problem."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 40,
       "chinese" : "打扰一下.",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:24,489 --> 00:00:24,790",
       "english" : "Excuse me."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 40,
       "chinese" : "Yes?",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:25,107 --> 00:00:25,436",
       "english" : "Yes?"
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 40,
       "chinese" : "哪儿可以找到医生?",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:26,451 --> 00:00:27,195",
       "english" : "Where can I find a doctor?"
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 40,
       "chinese" : "很紧急吗?",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:27,980 --> 00:00:28,915",
       "english" : "Is this an emergency?"
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 40,
       "chinese" : "No, no. 不着急. 不是非常着急.",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:29,389 --> 00:00:31,996",
       "english" : "No, no. Nothing to worry about. Much."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 40,
       "chinese" : "这是我们的医生查询目录.",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:35,074 --> 00:00:36,807",
       "english" : "Here's our referral list."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 40,
       "chinese" : "还有电话总机号码.",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:00:37,056 --> 00:00:38,412",
       "english" : "And that's a central number."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 40,
       "chinese" : "谢谢.",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:00:39,571 --> 00:00:39,832",
       "english" : "Thanks."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 40,
       "chinese" : "洗手间在哪儿?",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:00:46,237 --> 00:00:46,667",
       "english" : "Restrooms?"
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 40,
       "chinese" : "拐角处的电话旁.",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:00:47,647 --> 00:00:49,297",
       "english" : "Around the corner, by the phones."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 40,
       "chinese" : "Sharon? 你好. 我是William.",
       "sentenceNo" : 17,
+      "courseNo" : 2,
       "timeline" : "00:00:57,580 --> 00:01:00,147",
       "english" : "Sharon? Hi. It's William."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 40,
       "chinese" : "你把工程师协会(Engineer Society)的人带到哪儿去吃午餐了?",
       "sentenceNo" : 18,
+      "courseNo" : 2,
       "timeline" : "00:01:01,262 --> 00:01:04,641",
       "english" : "Where did you send the Engineer Society for lunch?"
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 40,
       "chinese" : "Aha. 也许今后我们不该再推荐那里了.",
       "sentenceNo" : 19,
+      "courseNo" : 2,
       "timeline" : "00:01:06,529 --> 00:01:10,979",
       "english" : "Aha. Maybe we shouldn't recommend it any more."
    }

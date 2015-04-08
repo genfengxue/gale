@@ -3,6 +3,7 @@
       "lessonNo" : 141,
       "chinese" : "上周,我4岁的女儿Sally被邀请去参加一个儿童聚会.",
       "sentenceNo" : 1,
+      "courseNo" : 1,
       "timeline" : "00:00:00,402 --> 00:00:08,594",
       "english" : "Last week, my four-year-old daughter, Sally, was invited to a children's party."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 141,
       "chinese" : "我决定带她乘火车去.",
       "sentenceNo" : 2,
+      "courseNo" : 1,
       "timeline" : "00:00:08,616 --> 00:00:12,424",
       "english" : "I decided to take her by train."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 141,
       "chinese" : "萨莉非常激动,因为她以前从未乘过火车.",
       "sentenceNo" : 3,
+      "courseNo" : 1,
       "timeline" : "00:00:12,425 --> 00:00:20,607",
       "english" : "Sally was very excited because she had never travelled on a train before."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 141,
       "chinese" : "她靠车窗坐着,对她所看到的一切都要问个明白.",
       "sentenceNo" : 4,
+      "courseNo" : 1,
       "timeline" : "00:00:20,608 --> 00:00:29,044",
       "english" : "She sat near the window and asked questions about everything she saw."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 141,
       "chinese" : "突然,一个中年妇女上了火车,坐在Sally的对面.",
       "sentenceNo" : 5,
+      "courseNo" : 1,
       "timeline" : "00:00:29,045 --> 00:00:37,591",
       "english" : "Suddenly, a middle-aged lady got on the train and sat opposite Sally."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 141,
       "chinese" : "“你好,小姑娘,”她说.",
       "sentenceNo" : 6,
+      "courseNo" : 1,
       "timeline" : "00:00:37,592 --> 00:00:41,509",
       "english" : "Hello, little girl,' she said."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 141,
       "chinese" : "Sally没回答,却好奇地看着她.",
       "sentenceNo" : 7,
+      "courseNo" : 1,
       "timeline" : "00:00:41,673 --> 00:00:47,348",
       "english" : "Sally did not answer, but looked at her curiously."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 141,
       "chinese" : "那位妇女穿着一件蓝色的大衣,戴着一顶大而滑稽的帽子.",
       "sentenceNo" : 8,
+      "courseNo" : 1,
       "timeline" : "00:00:47,349 --> 00:00:54,439",
       "english" : "The lady was dressed in a blue coat and a large, funny hat."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 141,
       "chinese" : "火车开出车站后,",
       "sentenceNo" : 9,
+      "courseNo" : 1,
       "timeline" : "00:00:54,440 --> 00:00:58,301",
       "english" : "After the train had left the station,"
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 141,
       "chinese" : "那位妇女找开了手提包,拿出了她的粉盒.",
       "sentenceNo" : 10,
+      "courseNo" : 1,
       "timeline" : "00:00:58,302 --> 00:01:05,581",
       "english" : "the lady opened her handbag and took out her powder compact."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 141,
       "chinese" : "然后她开始打扮起来.",
       "sentenceNo" : 11,
+      "courseNo" : 1,
       "timeline" : "00:01:05,582 --> 00:01:09,857",
       "english" : "She then began to make up her face."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 141,
       "chinese" : "“你为什么要那样做呢?”Sally问.",
       "sentenceNo" : 12,
+      "courseNo" : 1,
       "timeline" : "00:01:09,858 --> 00:01:14,024",
       "english" : "Why are you doing that?' Sally asked."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 141,
       "chinese" : "“为了把自己打扮漂亮啊,”那位妇女答道.",
       "sentenceNo" : 13,
+      "courseNo" : 1,
       "timeline" : "00:01:14,025 --> 00:01:18,750",
       "english" : "To make myself beautiful,' the lady answered."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 141,
       "chinese" : "她收起来她的粉盒,慈祥地微笑着.",
       "sentenceNo" : 14,
+      "courseNo" : 1,
       "timeline" : "00:01:18,751 --> 00:01:23,879",
       "english" : "She put away her compact and smiled kindly."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 141,
       "chinese" : "“可是你仍然很难看呀,”萨莉说.",
       "sentenceNo" : 15,
+      "courseNo" : 1,
       "timeline" : "00:01:23,908 --> 00:01:28,346",
       "english" : "But you are still ugly,' Sally said."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 141,
       "chinese" : "Sally感到很有趣,而我却很尴尬.",
       "sentenceNo" : 16,
+      "courseNo" : 1,
       "timeline" : "00:01:28,347 --> 00:01:35,088",
       "english" : "Sally was amused, but I was very embarrassed!"
    }

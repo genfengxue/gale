@@ -3,6 +3,7 @@
       "lessonNo" : 105,
       "chinese" : "Bob,Sandra在哪儿?",
       "sentenceNo" : 1,
+      "courseNo" : 1,
       "timeline" : "00:00:00,791 --> 00:00:03,227",
       "english" : "Where's Sandra, Bob?"
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 105,
       "chinese" : "我要找她.",
       "sentenceNo" : 2,
+      "courseNo" : 1,
       "timeline" : "00:00:03,228 --> 00:00:04,795",
       "english" : "I want her."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 105,
       "chinese" : "您要同她谈话吗?",
       "sentenceNo" : 3,
+      "courseNo" : 1,
       "timeline" : "00:00:04,911 --> 00:00:07,997",
       "english" : "Do you want to speak to her?"
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 105,
       "chinese" : "是的,我要她到我的办公室来.",
       "sentenceNo" : 4,
+      "courseNo" : 1,
       "timeline" : "00:00:07,998 --> 00:00:13,600",
       "english" : "Yes, I do. I want her to come to my office."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 105,
       "chinese" : "叫她马上就来.",
       "sentenceNo" : 5,
+      "courseNo" : 1,
       "timeline" : "00:00:13,601 --> 00:00:16,731",
       "english" : "Tell her to come at once."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 105,
       "chinese" : "您找我吗?",
       "sentenceNo" : 6,
+      "courseNo" : 1,
       "timeline" : "00:00:16,732 --> 00:00:19,898",
       "english" : "Did you want to see me?"
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 105,
       "chinese" : "啊,是的,Sandra.",
       "sentenceNo" : 7,
+      "courseNo" : 1,
       "timeline" : "00:00:19,899 --> 00:00:22,801",
       "english" : "Ah, yes, Sandra."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 105,
       "chinese" : "“intelligent”怎样拼写?",
       "sentenceNo" : 8,
+      "courseNo" : 1,
       "timeline" : "00:00:22,919 --> 00:00:26,486",
       "english" : "How do you spell \"intelligent'?"
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 105,
       "chinese" : "你能告诉我吗?",
       "sentenceNo" : 9,
+      "courseNo" : 1,
       "timeline" : "00:00:26,487 --> 00:00:28,568",
       "english" : "Can you tell me?"
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 105,
       "chinese" : "I-N-T-E-L-L-I-G-E-N-T.",
       "sentenceNo" : 10,
+      "courseNo" : 1,
       "timeline" : "00:00:28,802 --> 00:00:39,734",
       "english" : "I-N-T-E-L-L-I-G-E-N-T."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 105,
       "chinese" : "对的.但你只打了一个“L”.",
       "sentenceNo" : 11,
+      "courseNo" : 1,
       "timeline" : "00:00:39,735 --> 00:00:45,688",
       "english" : "That's right. You've typed it with only one 'L'."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 105,
       "chinese" : "这封信里错误百出.",
       "sentenceNo" : 12,
+      "courseNo" : 1,
       "timeline" : "00:00:45,689 --> 00:00:49,501",
       "english" : "This letter's full of mistakes."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 105,
       "chinese" : "我要你重打一遍.",
       "sentenceNo" : 13,
+      "courseNo" : 1,
       "timeline" : "00:00:49,502 --> 00:00:53,220",
       "english" : "I want you to type it again."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 105,
       "chinese" : "是的,我重打.",
       "sentenceNo" : 14,
+      "courseNo" : 1,
       "timeline" : "00:00:53,221 --> 00:00:56,172",
       "english" : "Yes, I'll do that."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 105,
       "chinese" : "对此我感到很抱歉.",
       "sentenceNo" : 15,
+      "courseNo" : 1,
       "timeline" : "00:00:56,438 --> 00:00:59,423",
       "english" : "I'm sorry about that."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 105,
       "chinese" : "这里有一件小礼物送你.",
       "sentenceNo" : 16,
+      "courseNo" : 1,
       "timeline" : "00:00:59,424 --> 00:01:02,856",
       "english" : "And here's a little present for you."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 105,
       "chinese" : "是什么?",
       "sentenceNo" : 17,
+      "courseNo" : 1,
       "timeline" : "00:01:02,857 --> 00:01:04,733",
       "english" : "What is it?"
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 105,
       "chinese" : "是本词典.",
       "sentenceNo" : 18,
+      "courseNo" : 1,
       "timeline" : "00:01:04,734 --> 00:01:06,852",
       "english" : "It's a dictionary."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 105,
       "chinese" : "我希望它能对你有所帮助.",
       "sentenceNo" : 19,
+      "courseNo" : 1,
       "timeline" : "00:01:06,866 --> 00:01:09,107",
       "english" : "I hope it'll help you."
    }

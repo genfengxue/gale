@@ -3,6 +3,7 @@
       "lessonNo" : 15,
       "chinese" : "Now, 这个非常不错",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:07,304 --> 00:00:08,701",
       "english" : "Now, this one's very nice."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 15,
       "chinese" : "它是用什么做成的?",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:09,483 --> 00:00:11,046",
       "english" : "What's it made of?"
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 15,
       "chinese" : "用皮做成的.",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:11,316 --> 00:00:12,372",
       "english" : "It's made of leather."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 15,
       "chinese" : "但是皮革太重了对我来说.",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:12,686 --> 00:00:14,131",
       "english" : "But leather is too heavy for me."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 15,
       "chinese" : "而且它太昂贵了.",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:14,555 --> 00:00:15,733",
       "english" : "And it's too expensive."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 15,
       "chinese" : "这个如何? 这个不太重.",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:20,394 --> 00:00:22,094",
       "english" : "How about this one? This isn't heavy."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 15,
       "chinese" : "这是塑料的.",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:23,138 --> 00:00:23,510",
       "english" : "This is plastic."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 15,
       "chinese" : "这个更轻一些, 但是太轻了.",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:24,459 --> 00:00:26,405",
       "english" : "It's lighter, but it's too light."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 15,
       "chinese" : "它无法承受碰撞(battering)",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:27,946 --> 00:00:29,391",
       "english" : "It can't take the battering."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 15,
       "chinese" : "And look, 它太小了.",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:29,610 --> 00:00:31,842",
       "english" : "And look. it's too small."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 15,
       "chinese" : "Oh.",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:32,387 --> 00:00:32,624",
       "english" : "Oh."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 15,
       "chinese" : "现在(看)这个. 这是一个新的设计.",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:34,730 --> 00:00:37,294",
       "english" : "Now this. This is a new design."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 15,
       "chinese" : "它是一个好的尺寸.",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:00:38,440 --> 00:00:39,147",
       "english" : "It's a good size."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 15,
       "chinese" : "24英寸 * 14英寸 * 10英寸.",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:00:40,737 --> 00:00:44,799",
       "english" : "24 inches by 14 inches by 10 inches."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 15,
       "chinese" : "它是又强尼龙做成的.",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:00:45,705 --> 00:00:47,480",
       "english" : "It's made of strong nylon."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 15,
       "chinese" : "它是轻的. 但是不会太轻.",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:00:48,457 --> 00:00:50,644",
       "english" : "It's light, but not too light."
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 15,
       "chinese" : "它有多重?",
       "sentenceNo" : 17,
+      "courseNo" : 2,
       "timeline" : "00:00:51,362 --> 00:00:52,325",
       "english" : "How much does it weigh?"
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 15,
       "chinese" : "不超过5磅",
       "sentenceNo" : 18,
+      "courseNo" : 2,
       "timeline" : "00:00:54,045 --> 00:00:55,537",
       "english" : "Not more than five pounds."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 15,
       "chinese" : "它小到足以放到座椅下边 在飞机上.",
       "sentenceNo" : 19,
+      "courseNo" : 2,
       "timeline" : "00:00:57,098 --> 00:00:59,591",
       "english" : "It's small enough to go under a seat on a plane,"
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 15,
       "chinese" : "但大到足以携带一件西装, 几件衬衫,和一个笔记本电脑",
       "sentenceNo" : 20,
+      "courseNo" : 2,
       "timeline" : "00:01:01,194 --> 00:01:08,912",
       "english" : "yet big enough to carry a suit, a few shirts... and a computer notebook."
    },
@@ -143,6 +163,7 @@
       "lessonNo" : 15,
       "chinese" : "Wow.",
       "sentenceNo" : 21,
+      "courseNo" : 2,
       "timeline" : "00:01:09,313 --> 00:01:09,740",
       "english" : "Wow."
    },
@@ -150,6 +171,7 @@
       "lessonNo" : 15,
       "chinese" : "它有一个把手. 它有轮子.",
       "sentenceNo" : 22,
+      "courseNo" : 2,
       "timeline" : "00:01:11,756 --> 00:01:16,286",
       "english" : "It's got a handle. It's got wheels."
    },
@@ -157,6 +179,7 @@
       "lessonNo" : 15,
       "chinese" : "多少钱? 它贵吗?",
       "sentenceNo" : 23,
+      "courseNo" : 2,
       "timeline" : "00:01:17,394 --> 00:01:19,699",
       "english" : "How much does it cost? Is it expensive?"
    },
@@ -164,6 +187,7 @@
       "lessonNo" : 15,
       "chinese" : "不太贵. 120美元.",
       "sentenceNo" : 24,
+      "courseNo" : 2,
       "timeline" : "00:01:20,987 --> 00:01:24,914",
       "english" : "Not too expensive. $120."
    },
@@ -171,6 +195,7 @@
       "lessonNo" : 15,
       "chinese" : "所以你推荐这一款?",
       "sentenceNo" : 25,
+      "courseNo" : 2,
       "timeline" : "00:01:25,653 --> 00:01:27,198",
       "english" : "So you recommend this one?"
    },
@@ -178,6 +203,7 @@
       "lessonNo" : 15,
       "chinese" : "推荐它? 我有一个和它一模一样的!",
       "sentenceNo" : 26,
+      "courseNo" : 2,
       "timeline" : "00:01:27,520 --> 00:01:29,792",
       "english" : "Recommend it? I have one just like it!"
    }

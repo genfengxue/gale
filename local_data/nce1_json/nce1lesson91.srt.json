@@ -3,6 +3,7 @@
       "lessonNo" : 91,
       "chinese" : "伊恩已把他的房子卖掉了吗?",
       "sentenceNo" : 1,
+      "courseNo" : 1,
       "timeline" : "00:00:01,100 --> 00:00:04,404",
       "english" : "Has Ian sold his house yet?"
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 91,
       "chinese" : "是的,卖掉了.",
       "sentenceNo" : 2,
+      "courseNo" : 1,
       "timeline" : "00:00:04,496 --> 00:00:06,719",
       "english" : "Yes, he has."
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 91,
       "chinese" : "他上星期卖掉的.",
       "sentenceNo" : 3,
+      "courseNo" : 1,
       "timeline" : "00:00:06,887 --> 00:00:09,845",
       "english" : "He sold it last week."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 91,
       "chinese" : "他已经搬进新居了吗?",
       "sentenceNo" : 4,
+      "courseNo" : 1,
       "timeline" : "00:00:09,846 --> 00:00:13,877",
       "english" : "Has he moved to his new house yet?"
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 91,
       "chinese" : "不,还没有.",
       "sentenceNo" : 5,
+      "courseNo" : 1,
       "timeline" : "00:00:13,878 --> 00:00:16,174",
       "english" : "No, not yet."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 91,
       "chinese" : "他仍在这里.",
       "sentenceNo" : 6,
+      "courseNo" : 1,
       "timeline" : "00:00:16,175 --> 00:00:18,595",
       "english" : "He's still here."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 91,
       "chinese" : "他打算明天搬家.",
       "sentenceNo" : 7,
+      "courseNo" : 1,
       "timeline" : "00:00:18,596 --> 00:00:22,156",
       "english" : "He's going to move tomorrow."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 91,
       "chinese" : "什么时候?明天上午吗?",
       "sentenceNo" : 8,
+      "courseNo" : 1,
       "timeline" : "00:00:22,377 --> 00:00:25,395",
       "english" : "When? Tomorrow morning?"
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 91,
       "chinese" : "不,明天下午.",
       "sentenceNo" : 9,
+      "courseNo" : 1,
       "timeline" : "00:00:25,763 --> 00:00:29,214",
       "english" : "No. Tomorrow afternoon."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 91,
       "chinese" : "我会想念他的.",
       "sentenceNo" : 10,
+      "courseNo" : 1,
       "timeline" : "00:00:29,215 --> 00:00:31,004",
       "english" : "I'll miss him."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 91,
       "chinese" : "他一直是个好邻居.",
       "sentenceNo" : 11,
+      "courseNo" : 1,
       "timeline" : "00:00:31,509 --> 00:00:35,890",
       "english" : "He has always been a good neighbour."
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 91,
       "chinese" : "他是个非常好的人,",
       "sentenceNo" : 12,
+      "courseNo" : 1,
       "timeline" : "00:00:35,891 --> 00:00:39,274",
       "english" : "He's a very nice person."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 91,
       "chinese" : "我们大家都会想念他的.",
       "sentenceNo" : 13,
+      "courseNo" : 1,
       "timeline" : "00:00:39,275 --> 00:00:42,537",
       "english" : "We'll all miss him."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 91,
       "chinese" : "新住户什么时候搬进这所房子?",
       "sentenceNo" : 14,
+      "courseNo" : 1,
       "timeline" : "00:00:42,863 --> 00:00:47,581",
       "english" : "When will the new people move into this house?"
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 91,
       "chinese" : "我想他们将在后天搬进来吧.",
       "sentenceNo" : 15,
+      "courseNo" : 1,
       "timeline" : "00:00:47,709 --> 00:00:53,753",
       "english" : "I think that they'll move in the day after tomorrow."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 91,
       "chinese" : "詹尼,你今天会见到伊恩吗?",
       "sentenceNo" : 16,
+      "courseNo" : 1,
       "timeline" : "00:00:53,754 --> 00:00:58,022",
       "english" : "Will you see Ian today, Jenny?"
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 91,
       "chinese" : "是的,我会见到他.",
       "sentenceNo" : 17,
+      "courseNo" : 1,
       "timeline" : "00:00:58,023 --> 00:01:00,427",
       "english" : "Yes, I will."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 91,
       "chinese" : "请代我问候他.",
       "sentenceNo" : 18,
+      "courseNo" : 1,
       "timeline" : "00:01:00,443 --> 00:01:04,703",
       "english" : "Please give him my regards."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 91,
       "chinese" : "可怜的伊恩!",
       "sentenceNo" : 19,
+      "courseNo" : 1,
       "timeline" : "00:01:04,704 --> 00:01:06,752",
       "english" : "Poor Ian!"
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 91,
       "chinese" : "他本不想离开这幢房子.",
       "sentenceNo" : 20,
+      "courseNo" : 1,
       "timeline" : "00:01:06,911 --> 00:01:11,325",
       "english" : "He didn't want to leave this house."
    },
@@ -143,6 +163,7 @@
       "lessonNo" : 91,
       "chinese" : "是啊,他是不想离开,可是他妻子要离开.",
       "sentenceNo" : 21,
+      "courseNo" : 1,
       "timeline" : "00:01:11,404 --> 00:01:17,581",
       "english" : "No, he didn't want to leave. but his wife did!"
    }

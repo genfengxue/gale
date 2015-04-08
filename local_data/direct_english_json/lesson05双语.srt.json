@@ -3,6 +3,7 @@
       "lessonNo" : 5,
       "chinese" : "那是星期四, 11月17日, 在酒店.",
       "sentenceNo" : 1,
+      "courseNo" : 2,
       "timeline" : "00:00:08,797 --> 00:00:12,917",
       "english" : "That's Thursday, November 17th, at the hotel."
    },
@@ -10,6 +11,7 @@
       "lessonNo" : 5,
       "chinese" : "一整天?",
       "sentenceNo" : 2,
+      "courseNo" : 2,
       "timeline" : "00:00:12,918 --> 00:00:14,145",
       "english" : "All day?"
    },
@@ -17,6 +19,7 @@
       "lessonNo" : 5,
       "chinese" : "是的. 咱们开始于8:30  在早上",
       "sentenceNo" : 3,
+      "courseNo" : 2,
       "timeline" : "00:00:14,146 --> 00:00:16,762",
       "english" : "Yes. We start at 8:30 in the morning."
    },
@@ -24,6 +27,7 @@
       "lessonNo" : 5,
       "chinese" : "与咖啡(一起).",
       "sentenceNo" : 4,
+      "courseNo" : 2,
       "timeline" : "00:00:17,301 --> 00:00:18,571",
       "english" : "With coffee."
    },
@@ -31,6 +35,7 @@
       "lessonNo" : 5,
       "chinese" : "是的. 咖啡开始于8:30, 结束于9点.",
       "sentenceNo" : 5,
+      "courseNo" : 2,
       "timeline" : "00:00:18,572 --> 00:00:21,800",
       "english" : "Yes. Coffee starts at 8:30 and ends at 9."
    },
@@ -38,6 +43,7 @@
       "lessonNo" : 5,
       "chinese" : "... 8点半到9点.",
       "sentenceNo" : 6,
+      "courseNo" : 2,
       "timeline" : "00:00:21,801 --> 00:00:24,988",
       "english" : "... eight-thirty to nine."
    },
@@ -45,6 +51,7 @@
       "lessonNo" : 5,
       "chinese" : "开幕辞开始于9点 整.",
       "sentenceNo" : 7,
+      "courseNo" : 2,
       "timeline" : "00:00:24,989 --> 00:00:28,180",
       "english" : "The opening address begins at 9 o'clock sharp."
    },
@@ -52,6 +59,7 @@
       "lessonNo" : 5,
       "chinese" : "研讨会从9:30到正午. 开幕辞开始于9点 整.",
       "sentenceNo" : 8,
+      "courseNo" : 2,
       "timeline" : "00:00:28,180 --> 00:00:28,208",
       "english" : "Workshops run from 9：30 to noon. The opening address begins at 9 o'clock sharp."
    },
@@ -59,6 +67,7 @@
       "lessonNo" : 5,
       "chinese" : "研讨会从9:30到正午.",
       "sentenceNo" : 9,
+      "courseNo" : 2,
       "timeline" : "00:00:28,208 --> 00:00:30,420",
       "english" : "Workshops run from 9：30 to noon."
    },
@@ -66,6 +75,7 @@
       "lessonNo" : 5,
       "chinese" : "然后午餐.",
       "sentenceNo" : 10,
+      "courseNo" : 2,
       "timeline" : "00:00:30,600 --> 00:00:31,740",
       "english" : "Then lunch."
    },
@@ -73,6 +83,7 @@
       "lessonNo" : 5,
       "chinese" : "1小时?",
       "sentenceNo" : 11,
+      "courseNo" : 2,
       "timeline" : "00:00:31,742 --> 00:00:32,956",
       "english" : "One hour?"
    },
@@ -80,6 +91,7 @@
       "lessonNo" : 5,
       "chinese" : "对的",
       "sentenceNo" : 12,
+      "courseNo" : 2,
       "timeline" : "00:00:32,957 --> 00:00:33,940",
       "english" : "Yes."
    },
@@ -87,6 +99,7 @@
       "lessonNo" : 5,
       "chinese" : "第二场从1点到大约4:15.",
       "sentenceNo" : 13,
+      "courseNo" : 2,
       "timeline" : "00:00:33,941 --> 00:00:38,053",
       "english" : "The second session goes from one to about 4:15."
    },
@@ -94,6 +107,7 @@
       "lessonNo" : 5,
       "chinese" : "讨论结束于4:45.",
       "sentenceNo" : 14,
+      "courseNo" : 2,
       "timeline" : "00:00:38,120 --> 00:00:40,180",
       "english" : "Discussion ends at 4:45."
    },
@@ -101,6 +115,7 @@
       "lessonNo" : 5,
       "chinese" : "然后一个小招待会.",
       "sentenceNo" : 15,
+      "courseNo" : 2,
       "timeline" : "00:00:40,260 --> 00:00:42,020",
       "english" : "Then a small reception."
    },
@@ -108,6 +123,7 @@
       "lessonNo" : 5,
       "chinese" : "直到什么时间?",
       "sentenceNo" : 16,
+      "courseNo" : 2,
       "timeline" : "00:00:42,118 --> 00:00:43,772",
       "english" : "Until what time?"
    },
@@ -115,6 +131,7 @@
       "lessonNo" : 5,
       "chinese" : "Oh... 对不起",
       "sentenceNo" : 17,
+      "courseNo" : 2,
       "timeline" : "00:00:43,895 --> 00:00:46,949",
       "english" : "Oh...  Sorry."
    },
@@ -122,6 +139,7 @@
       "lessonNo" : 5,
       "chinese" : "那是我的手表闹钟.",
       "sentenceNo" : 18,
+      "courseNo" : 2,
       "timeline" : "00:00:47,240 --> 00:00:49,508",
       "english" : "That's my watch alarm."
    },
@@ -129,6 +147,7 @@
       "lessonNo" : 5,
       "chinese" : "我有个预约 在酒店 在11点钟时",
       "sentenceNo" : 19,
+      "courseNo" : 2,
       "timeline" : "00:00:49,612 --> 00:00:52,735",
       "english" : "I have an appointment back at the hotel at eleven o'clock."
    },
@@ -136,6 +155,7 @@
       "lessonNo" : 5,
       "chinese" : "11点了  已经?",
       "sentenceNo" : 20,
+      "courseNo" : 2,
       "timeline" : "00:00:52,778 --> 00:00:54,429",
       "english" : "Is it eleven already?"
    },
@@ -143,6 +163,7 @@
       "lessonNo" : 5,
       "chinese" : "没, 没. 事实呢, 是10:30.",
       "sentenceNo" : 21,
+      "courseNo" : 2,
       "timeline" : "00:00:54,430 --> 00:00:57,063",
       "english" : "No, no. Actually, it's 10:30."
    },
@@ -150,6 +171,7 @@
       "lessonNo" : 5,
       "chinese" : "我把我的表调快了半个小时.",
       "sentenceNo" : 22,
+      "courseNo" : 2,
       "timeline" : "00:00:57,064 --> 00:00:59,418",
       "english" : "I set my watch half an hour fast."
    },
@@ -157,6 +179,7 @@
       "lessonNo" : 5,
       "chinese" : "你永远不迟到, 是吗?",
       "sentenceNo" : 23,
+      "courseNo" : 2,
       "timeline" : "00:00:59,419 --> 00:01:00,728",
       "english" : "You're never late, are you?"
    },
@@ -164,6 +187,7 @@
       "lessonNo" : 5,
       "chinese" : "永不. 我不能(迟到)!",
       "sentenceNo" : 24,
+      "courseNo" : 2,
       "timeline" : "00:01:00,729 --> 00:01:02,575",
       "english" : "Never. I can't be!"
    }
