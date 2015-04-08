@@ -4,10 +4,21 @@ use Data::Dumper;
 use Encode;
 use JSON;
 
+
+# perl scripts/convert_srt_to_json.pl nce1
+# perl scripts/convert_srt_to_json.pl direct_english
+
 my $type = $ARGV[0] or 'direct_english';
 my $src_path = "local_data/$type";
 my $dst_path = "../../${src_path}_json";
 chdir $src_path or die $!;
+
+my $courseMap = {
+  nce1           => 1,
+  direct_english => 2,
+};
+
+my $courseNo = $courseMap->{$type} or die;
 
 my $map = {
   1 => 'timeline',
@@ -25,7 +36,7 @@ for my $file (@files) {
   open my $fh, '<', $file or die $!;
   my @lines = <$fh>;
   my $objects = [];
-  my ($count, $object) = (0, {lessonNo => $lessonNo});
+  my ($count, $object) = (0, {courseNo => $courseNo, lessonNo => $lessonNo});
   for (my $i = 0; $i < scalar @lines; $i++) {
     $lines[$i] =~ s/\s*\r?\n//;
     $count = $i % 5;

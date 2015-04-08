@@ -11,6 +11,9 @@ exports.Sentence = BaseModel.subclass
     ]
   initialize: ($super) ->
     @schema = new Schema
+      courseNo:
+        type: Number
+        required: true
       lessonNo:
         type: Number
         required: true
@@ -36,5 +39,7 @@ exports.Sentence = BaseModel.subclass
             default: false
         ]
       ]
+
+    @schema.index {courseNo: 1, lessonNo: 1, sentenceNo: 1}, {unique: true}
 
     $super()

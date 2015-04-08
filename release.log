@@ -1,0 +1,5 @@
+2015-04-08
+
+mongo gale
+//为sentence增加courseNo字段
+db.sentences.update({}, {$set: {courseNo: 2}}, {multi: true});
