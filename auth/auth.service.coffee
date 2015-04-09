@@ -72,8 +72,8 @@ verifyTokenCookie = ->
     if req.cookies.token
       token = req.cookies.token.replace(/"/g, '')
       jwt.verify token, config.secrets.session, null, (err, user) ->
-        if err
-          return next(err)
+#        if err
+#          return next(err)
         if user
           req.user = user
         next()
