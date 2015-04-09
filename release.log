@@ -1,3 +1,11 @@
+2015-04-09 14:48:50
+#删除原始的lesson
+mongo gale
+db.lessons.drop();
+#导入新的lesson数据
+coffee scripts/load_lesson_list_json_to_db.coffee
+
+
 2015-04-08 21:41:56
 mongo gale
 //给lessonNo增加300，临时方案，未来引入courseNo之后，再减去300

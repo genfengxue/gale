@@ -13,7 +13,11 @@ my $map = {
   2 => 'englishTitle',
   3 => 'chineseTitle',
   4 => 'imageUrl',
+  5 => 'videoUrl',
 };
+
+my $LINES_PER_BLOCK = 6;
+my $BEFORE_BLANK_LINE = 5;
 
 my @files = glob "$src_path/*";
 #print "@files";
@@ -27,10 +31,10 @@ for my $file (@files) {
   my $object = {courseNo => $courseNo};
   while (my $line = <$fh>) {
     $count++;
-    next if $count % 5 == 0;
+    next if $count % $LINES_PER_BLOCK == 0;
     $line =~ s/^\s+|\s+$//g; #去掉首尾空白
-    $object->{ $map->{ $count % 5 } } = $line;
-    if ($count % 5 == 4) {
+    $object->{ $map->{ $count % $LINES_PER_BLOCK } } = $line;
+    if ($count % $LINES_PER_BLOCK == $BEFORE_BLANK_LINE) {
       push @{$objects}, {%$object};
     }
   }
