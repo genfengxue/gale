@@ -1,52 +1,76 @@
 1
-Ow!
-<k></k>
-
-2
-What's the matter, Andy?
-<k></k>
+`Ow`!
+<k>Ow!
+语气词, 表示很疼</k>
 
 3
-I slipped and fell downstairs.
-<k></k>
+I `slipped` and fell downstairs.
+<k>slip
+vi 滑倒, 失足</k>
+
+3
+I slipped and `fell downstairs`.
+<k>fall downstairs
+摔到了楼下</k>
 
 4
-Have you hurt yourself?
-<k></k>
+Have you `hurt yourself`?
+<k>hurt sb
+伤到某人</k>
 
 5
-Yes, I have. I think that I've hurt my back.
-<k></k>
+Yes, I have. I think that I've `hurt my back`.
+<k>hurt sth
+伤到某物</k>
 
 6
-Try and stand up.
-<k></k>
+`Try and stand up`.
+<k>try and do sth
+试着做某事</k>
 
-7
-Can you stand up?
-<k></k>
 
 8
-Here. Let me help you.
-<k></k>
-
-9
-I'm sorry, Lucy.
-<k></k>
+`Here`. Let me help you.
+<k>Here
+在口语中单独用here这个词, 表示"来", "给你"等意思.
+</k>
 
 10
-I think that the doctor had better see you.
-<k></k>
+I think that the doctor `had better see you`.
+<k>had better do sth
+最好做某事</k>
 
 11
-I'll phone Dr. Carter.
-<k></k>
+I'll `phone Dr. Carter`.
+<k>Carter
+['kɑrtɚ]
+人名
+
+phone sb
+给某人打电话</k>
 
 12
-The doctor says that he will come at once.
-<k></k>
+The doctor `says that` he will come at once.
+<k>says that
+说...
+
+Andy says that he can't stand up.
+Andy说他无法站起来</k>
+
+12
+The doctor says that he will come `at once`.
+<k>at once
+马上</k>
 
 13
-I'm sure that you need an X-ray, Andy.
-<k></k>
+`I'm sure that` you need an X-ray, Andy.
+<k>I'm sure that...
+我确信...
 
+I'm sure that I've hurt my back.
+我确信我把我的后背摔坏了.</k>
+
+13
+I'm sure that you need `an X-ray`, Andy.
+<k>X-ray
+X光透视</k>

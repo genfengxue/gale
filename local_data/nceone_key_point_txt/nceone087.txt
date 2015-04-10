@@ -1,76 +1,66 @@
 1
-Is my car ready yet?
-<k></k>
+Is my car ready `yet`?
+<k>yet在否定句和疑问句中表示"已经"
+already在肯定句中表示"已经"
 
-2
-I don't know. sir.
-<k></k>
+虽然二者常常用于完成时, 但是也可以用于别的时态.
 
-3
-What's the number of your car?
-<k></k>
-
-4
-It is LFZ 312G.
-<k></k>
-
-5
-When did you bring it to us?
-<k></k>
-
-6
-I brought it here three days ago.
-<k></k>
-
-7
-Ah, yes, I remember now.
-<k></k>
+Are you ready yet?
+你准备好了吗?
+I'm not ready yet.
+我还没有准备好</k>
 
 8
-Have your mechanics finished yet?
-<k></k>
+Have your `mechanics` finished yet?
+<k>mechanic n. 机修工 
 
-9
-No, they're still working on it.
-<k></k>
+My father works as a car mechanic.
+我的父亲是一个汽车修理工</k>
 
 10
-Let's go into the garage and have a look at it.
-<k></k>
+Let's go into the `garage` and have a look at it.
+<k>garage n. 车库
+
+Where's your car?
+你的车在哪?
+It's in the garage.
+在车库</k>
 
 11
-Isn't that your car?
-<k></k>
+`Isn't that your car`?
+<k>Isn't that your car?=That's your car, isn't it?
+那不就是你的车吗?
+表示说话人其实已经比较清楚了, 就是再跟对方确认一下.
 
-12
-Well, it was my car.
-<k></k>
-
-13
-Didn't you have a crash?
-<k></k>
+Isn't that your father over there?
+那边那个不是你父亲吗?</k>
 
 14
-That's right.
-<k></k>
+`That's right`.
+<k>That's right = yes.
+
+- So you quit your job? - That's right.</k>
 
 15
-I drove it into a lamp-post.
-<k></k>
+I `drove it into` a lamp-post.
+<k>drive into
+撞上
 
-16
-Can your mechanics repair it?
-<k></k>
+He drove the truck right into the tree. 他开车撞上了树
 
-17
-Well, they're trying to repair it, sir.
-<k></k>
+这里的into不可以替换为onto, onto表示"开的...的上边"
+</k>
+
+15
+I drove it into a `lamp-post`.
+<k>lamp-post = street light = lamp stand
+原文翻译错误，这里应该指街边的路灯
+</k>
 
 18
-But to tell you the truth.
-<k></k>
+But `to tell you the truth`.
+<k>to tell you the truth
+说实话 = to be honest = honestly
 
-19
-you need a new car!
-<k></k>
-
+To tell you the truth, I don't think it's a good idea
+实话实说, 我觉得这不是个好主意.</k>

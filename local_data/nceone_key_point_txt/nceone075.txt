@@ -1,80 +1,67 @@
 1
-Do you have any shoes like these?
-<k></k>
+`Do you have any` shoes like these?
+<k>Do you have any...
+你们有任何....吗?
+
+Do you have any water?
+Do you have any paper?
+
+这里也可以说Do you have some...
+尽管any用于否定疑问句, some用于肯定句; 但是当你的提问希望得到肯定回答时可以用some代替any</k>
 
 2
-What size?
-<k></k>
+`What size`?
+<k>what size?
+什么尺码
+
+What size do you wear?
+What size do you want?
+</k>
 
 3
-Size five.
-<k></k>
+`Size five`.
+<k>size five
+5号尺码
 
-4
-what color?
-<k></k>
-
-5
-Black.
-<k></k>
-
-6
-I'm sorry.
-<k></k>
-
-7
-We don't have any.
-<k></k>
+注意不是five size, 也不是size 5th. 这里用基数词, 不是序数词</k>
 
 8
-But my sister bought this pair last month.
-<k></k>
+But my sister bought `this pair` last month.
+<k>this pair
+这一双
 
-9
-Did she buy them here?
-<k></k>
+this pair of shoes is pretty.
+I'd like to buy a pair of shoes.
 
-10
-No, she bought them in the U. S.
-<k></k>
-
-11
-We had some shoes like those a month ago,
-<k></k>
-
-12
-but we don't have any now.
-<k></k>
-
-13
-Can you get a pair for me, please?
-<k></k>
+pair 一双, 后边接成双成对的东西, 比如shoes, glasses(眼镜)等</k>
 
 14
-I'm afraid that I can't.
-<k></k>
+`I'm afraid that` I can't.
+<k>I'm afraid that...
+我恐怕...
+
+I'm afraid that she can't talk to you right now.
+I'm afraid that I can't tell you th way to the subway station.</k>
 
 15
-They were in fashion last year and the year before last.
-<k></k>
+They were `in fashion` last year and the year before last.
+<k>in fashion
+在流行里, 处于流行中
 
-16
-But they're not in fashion this year.
-<k></k>
+iPhone is in fashion.
+Nokia is not in fashion any more.
+</k>
 
-17
-These shoes are in fashion now.
-<k></k>
+15
+They were in fashion last year and `the year before last`.
+<k>the year before last
+前年</k>
 
 18
-They look very uncomfortable.
-<k></k>
+They look very `uncomfortable`.
+<k>uncomfortable
+不舒服的
 
-19
-They are very uncomfortable.
-<k></k>
-
-20
-But women always wear uncomfortable shoes!
-<k></k>
-
+comfortable=舒服的
+un- 前缀表示否定
+</k>

@@ -1,68 +1,67 @@
 1
-Do you like this dress, madam?
-<k></k>
-
-2
-I like the colour very much.
-<k></k>
+Do you like this dress,`madam`?
+<k>['mædəm]
+女士, 敬称</k>
 
 3
-It's a lovely dress, but it's too small for me.
-<k></k>
+It's a `lovely` dress, but it's too small for me.
+<k>lovely adj. 漂亮的
 
-4
-What about this one? It's a lovely dress.
-<k></k>
+She has lovely eyes. 她有双漂亮的眼睛</k>
 
 5
-It's very smart.
-<k></k>
+It's very `smart`.
+<k>smart adj. 时髦的
+
+We went to a very smart party on New Year's Eve.
+除夕夜我们参加了非常时髦的派对。</k>
 
 6
-Short skirts are in fashion now.
-<k></k>
+Short `skirts` are in fashion now.
+<k>[skɜːrt]	
+半身裙</k>
+
+6
+Short skirts are `in fashion` now.
+<k>in fashion 流行
+
+Jeans are still in fashion. 
+牛仔裤还很时髦. </k>
 
 7
-Would you like to try it?
-<k></k>
+`Would you like to` try it?
+<k>Would you like to ..?
+你想要...吗?
+
+Would you like to have a cup of coffee? 
+你想要来杯咖啡吗?</k>
 
 8
-All right.
-<k></k>
+`All right`.
+<k>All right. 好吧
 
-9
-I'm afraid this green dress is too small for me as well.
-<k></k>
-
-10
-It's smaller than the blue one.
-<k></k>
+-Hands up! Don't move! 
+举起手来！别动！
+-All right. Don't hurt me please. 
+好吧, 但请别伤害我。</k>
 
 11
-I don't like the colour either.
-<k></k>
+I don't like the colour `either`.
+<k> ['iðər]	
+否定句中‘也’
+
+I don't like the red shirt and I don't like the green one either.
+我不喜欢这件红衬衫, 也不喜欢这件绿衬衫.
+</k>
 
 12
-It doesn't suit me at all.
-<k></k>
+`It doesn't suit me at all`.
+<k>.. doesn't suit sb. at all
+完全不适合某人
+
+Long hair doesn't suit her at all.
+长发完全不适合她。</k>
 
 13
-I think the blue dress is prettier.
-<k></k>
-
-14
-Could you show me another blue dress?
-<k></k>
-
-15
-I want a dress like that one, but it must be my size.
-<k></k>
-
-16
-I'm afraid I haven't got a larger dress.
-<k></k>
-
-17
-This is the largest dress in the shop.
-<k></k>
-
+I think the blue dress is `prettier`.
+<k>pretty的比较级 更漂亮</k>

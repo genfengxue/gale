@@ -1,92 +1,95 @@
 1
-Shall I make some coffee, Jane?
-<k></k>
+`Shall I` make some coffee, Jane?
+<k>Shall用于对‘我’或者‘我们’提出建议和邀请
+
+Shall I close the door for you?
+我帮你把门关上?</k>
 
 2
-That's a good idea, Charlotte.
-<k></k>
-
-3
-It's ready.
-<k></k>
-
-4
-Do you want any milk?
-<k></k>
-
-5
-Just a little, please.
-<k></k>
-
-6
-What about some sugar?
-<k></k>
+That's a good idea, `Charlotte`.
+<k>Charlotte
+['ʃɑrlət]	
+夏洛特</k>
 
 7
-Two teaspoonfuls?
-<k></k>
+`Two teaspoonfuls`?
+<k>teaspoonful n.
+['tispunfʊl]
+茶匙（量词) 
+另外有汤匙tablespoonful，比teaspoonful要大些
 
-8
-No, less than that.
-<k></k>
+To make the sauce, I need one teaspoonful of sugar.
+做这个酱汁我需要一茶匙糖。</k>
 
 9
-One and a half teaspoonfuls, please.
-<k></k>
+`One and a half` teaspoonfuls, please.
+<k>one and a half
+一个半
+
+Police arrived one and a half hours ago.
+警察在一个半小时前抵达。</k>
 
 10
-That's enough for me.
-<k></k>
+`That's enough for me`.
+<k>That's enough for me.
+那对我足够了。
 
-11
-That was very nice.
-<k></k>
-
-12
-Would you like some more?
-<k></k>
-
-13
-Yes, please.
-<k></k>
+-Do you want more rice?
+-你还想来点米饭吗？
+-No, thank you. That's enough for me.
+-谢谢不用了，那对我已经足够了。</k>
 
 14
-I'd like a cigarette, too.
-<k></k>
-
-15
-May I have one?
-<k></k>
-
-16
-Of course.
-<k></k>
+I'd like a `cigarette`, too.
+<k>cigarette n.
+['sɪɡəret]
+香烟</k>
 
 17
-I think there are a few in that box.
-<k></k>
+I think there are `a few` in that box.
+<k>a few
+一些（修饰可数名词），不可数用a little
 
-18
-I'm afraid it's empty.
-<k></k>
+I need to get a few things in town.
+我需要去镇上买一些东西。</k>
 
 19
-What a pity!
-<k></k>
+`What a pity`!
+<k>What a pity!
+太可惜了！ What a + n. !表示感叹
+
+He couldn't attend my wedding. What a pity! 
+他无法出席我的婚礼，太可惜了！
+I missed my train, took a wrong bus and was two hours late for the interview. What a day!
+我错过了火车，搭错了公车，面试还迟到了两个小时。真是糟糕的一天！</k>
 
 20
-It doesn't matter.
-<k></k>
+`It doesn't matter`.
+<k>It doesn't matter.
+没关系，无关紧要
+
+It doesn't matter what you wear - just as long as you come.
+你穿什么无关紧要 - 你只要来就行了。</k>
 
 21
-Have a biscuit instead.
-<k></k>
+Have a `biscuit` instead.
+<k>biscuit n.
+['bɪskɪt]
+饼干（英式），美式为cookie</k>
 
-22
-Eat more and smoke less!
-<k></k>
+21
+Have a biscuit `instead`.
+<k>instead adv. 
+代替，更换
+
+We don't have any no coffee. Would you like some tea instead? 
+我们没有咖啡了. 改喝茶好么? </k>
 
 23
-That's very good advice!
-<k></k>
+That's very good `advice`!
+<k>advice n.
+建议（不可数）
+
+Steven gave me some good advice.
+史蒂芬给了我一些好建议。</k>
 

@@ -1,84 +1,118 @@
 1
-How was the exam, Richard?
-<k></k>
+How was the exam, `Richard`?
+<k>Richard
+['ritʃəd]</k>
 
 2
-Not too bad.
-<k></k>
+`Not too bad`.
+<k>Not too bad
+ 不算太坏
+
+-How are you recently? 最近怎么样
+-Not too bad. 不算太坏</k>
 
 3
-I think I passed in English and Mathematics.
-<k></k>
+I think I `passed in` English and Mathematics.
+<k>pass in + 科目
+通过科目，及格
 
-4
-The questions were very easy.
-<k></k>
+I passed in Biology and Chemistry.
+我的生物和化学及格了</k>
+
+3
+I think I passed in English and `Mathematics`.
+<k>mathematics
+[ˌmæθə'mætɪks]
+数学</k>
 
 5
-How about you, Gary?
-<k></k>
+How about you, `Gary`?
+<k>Gary 
+[ˈɡeri]</k>
 
 6
-The English and Maths papers weren't easy enough for me.
-<k></k>
+The English and `Maths` papers weren't easy enough for me.
+<k>Mathematics 缩写
+[mæθs]</k>
+
+6
+The English and Maths `papers` weren't easy enough for me.
+<k>paper 试卷
+
+The geography paper was difficult.
+ 地理试题很难.</k>
+
+6
+The English and Maths papers `weren't easy enough for me`.
+<k>sth. is not easy for me
+...对我来说不很容易
+
+Learning English is not easy for me.
+学英语对我来说并不太容易。</k>
 
 7
-I hope I haven't failed.
-<k></k>
+I hope I haven't `failed`.
+<k>fail v. 不及格，没通过（考试），没成功
+
+I failed maths. 我数学没及格。</k>
 
 8
-I think I failed the French paper.
-<k></k>
+I think `I failed the French paper`.
+<k>I failed the French paper. 
+这里指考卷很难不会做。
 
-9
-I could answer sixteen of the questions.
-<k></k>
-
-10
-They were very easy.
-<k></k>
+I failed all those questions.
+这些问题我全没答上。</k>
 
 11
-But I couldn't answer the rest.
-<k></k>
+But I couldn't answer `the rest`.
+<k>the rest 
+余下的
+
+I cleaned the living room but didn't have time for the rest.
+我打扫了客厅但没时间打扫其他房间。</k>
 
 12
-They were too difficult for me.
-<k></k>
+They were `too difficult for me`.
+<k>too difficult for sb.
+对某人来说太难了
+
+Mathematics is too difficult for me.
+数学对我来说太难了。</k>
 
 13
-French tests are awful, aren't they?
-<k></k>
-
-14
-I hate them.
-<k></k>
+French tests are `awful`, aren't they?
+<k> ['ɔfl]
+可怕的</k>
 
 15
-I'm sure I've got a low mark.
-<k></k>
+I'm sure `I've got a low mark`.
+<k>I've got a low mark.
+我的成绩很低， have got表示有
+
+I've got a low mark on my Physics exam.
+我物理考试成绩很低。
+</k>
 
 16
-Oh, cheer up!
-<k></k>
+Oh, `cheer up`!
+<k>cheer up 振作起来，打起精神来
 
-17
-perhaps we didn't do too badly.
-<k></k>
+Failing one exam isn't a big deal, cheer up!
+一门考试不及格没关系，打起精神来！</k>
 
 18
-The guy next to me Wrote his name at the top of the paper.
-<k></k>
+The guy `next to` me Wrote his name at the top of the paper.
+<k>next to
+旁边
 
-19
-Yes?
-<k></k>
+Can I sit next to the window?
+我可以坐在窗户旁吗？</k>
 
-20
-Then he sat there and looked at it for three hours!
-<k></k>
+18
+The guy next to me Wrote his name `at the top of the paper`.
+<k>at the top of sth.
+在...的顶端
 
-21
-He didn't write a word!
-<k></k>
-
+Please write your name at the top of the form
+请把你的名字写在表格的最上方</k>

@@ -1,64 +1,105 @@
-1
-Do you like stories?
-<k></k>
+3
+`It happened to` a friend of mine a year ago.
+<k>It happened to sb.
+这事发生在某人身上
 
-2
-I want to tell you a true story.
-<k></k>
+It happened to me once.
+这事发生在我身上过一次。</k>
 
 3
-It happened to a friend of mine a year ago.
-<k></k>
+It happened to `a friend of mine` a year ago.
+<k>a friend of mine
+我的朋友= one of my friends</k>
 
 4
-While my friend, George, was reading in bed, two thieves climbed into his kitchen.
-<k></k>
+While my friend, `George`, was reading in bed, two thieves climbed into his kitchen.
+<k>George
+[dʒɔdʒ]
+乔治
+</k>
+
+4
+While my friend, George, was reading in bed, two `thieves` climbed into his kitchen.
+<k>thieves 
+[θivz] 
+thief的复数</k>
 
 5
-After they had entered the house, they went into the dining room.
-<k></k>
+After they had entered the house, they went into `the dining room`.
+<k>dining room
+客厅</k>
 
 6
-It was very dark, so they turned on a torch.
-<k></k>
+It was very dark, so they `turned on` a torch.
+<k>turn on
+打开
 
-7
-Suddenly, they heard a voice behind them.
-<k></k>
+Could you please turn on the light?
+你能把灯打开吗?</k>
+
+6
+It was very dark, so they turned on a `torch`.
+<k>torch
+[tɔrtʃ]
+手电筒（英式） 
+美式为flashlight</k>
 
 8
-What's up? What's up?' someone called.
-<k></k>
+`What's up`? What's up?' someone called.
+<k>What's up?
+什么事？
+
+What's up - why does everyone look so serious?
+（发生了）什么事 - 为什么每个人都看起来这么严肃?</k>
+
+8
+What's up? What's up?' someone `called`.
+<k>call v.
+叫喊
+
+"Hey, you! Come over here!" she called.
+"嘿，你！过来一下！"她叫着。</k>
 
 9
-The thieves dropped the torch and ran away as quickly as they could.
-<k></k>
+The thieves dropped the torch and `ran away` as quickly as they could.
+<k>run away v.
+逃跑，迅速离开
+
+He ran away when he saw police.
+当他看见警察的时候他逃跑了。</k>
+
+9
+The thieves dropped the torch and ran away `as quickly as they could`.
+<k>as quickly as they could
+as  adv.  as sb. can
+以某人最...的(做...)
+
+He eats as fast as he can.
+他以他最快的速度吃东西。</k>
 
 10
-George heard the noise and came downstairs quickly.
-<k></k>
-
-11
-He turned on the light, but he couldn't see anyone.
-<k></k>
-
-12
-The thieves had already gone.
-<k></k>
+George heard the `noise` and came downstairs quickly.
+<k>noise n.
+[nɔɪz]
+响声，杂音</k>
 
 13
-But George's parrot, Henry, was still there.
-<k></k>
+But George's `parrot`, Henry, was still there.
+<k>parrot n.
+['pærət]
+鹦鹉</k>
 
-14
-What's up, George?' he called.
-<k></k>
-
-15
-Nothing, Henry,' George said and smiled.
-<k></k>
+13
+But George's parrot, `Henry`, was still there.
+<k>Henry
+['henri]
+亨利</k>
 
 16
-Go back to sleep.'
-<k></k>
+`Go back to` sleep.'
+<k>go back to ...
+回去继续...
+
+Don't stand there. Go back to work!
+别站在那里，回去继续工作！</k>
 

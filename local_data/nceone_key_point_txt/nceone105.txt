@@ -1,76 +1,72 @@
 1
-Where's Sandra, Bob?
-<k></k>
+Where's `Sandra`, Bob?
+<k>Sandra
+['sændrə]</k>
 
 2
-I want her.
-<k></k>
+I `want her`.
+<k>want sb. 需要某人来一下/在场
+
+You'd better go to the manager. She wants you.
+你最好去经理那一下，她找你。
+Am I wanted at the meeting tomorrow?
+明天的会议需要我来吗？</k>
 
 3
-Do you want to speak to her?
-<k></k>
+Do you want to `speak to her`?
+<k>speak to sb.
+跟某人谈话（特别是指出错误）
 
-4
-Yes, I do. I want her to come to my office.
-<k></k>
+The manager promised that she would speak to the person responsible.
+经理保证她会跟负责人谈话。</k>
 
 5
-Tell her to come at once.
-<k></k>
+Tell her to come `at once`.
+<k>at once
+立刻马上
+
+She called the police at once.
+她马上报了警。</k>
 
 6
-Did you want to see me?
-<k></k>
+`Did you want to see me`?
+<k>Did you want to see sb.?
+你刚在想某人吗?
 
-7
-Ah, yes, Sandra.
-<k></k>
+Did you want to see the manager?
+你刚想找经理吗？
+</k>
 
 8
-How do you spell "intelligent'?
-<k></k>
-
-9
-Can you tell me?
-<k></k>
-
-10
-I-N-T-E-L-L-I-G-E-N-T.
-<k></k>
+How do you spell "`intelligent`'?
+<k> [ɪnˈtelədʒənt]
+聪明的，智能的
+</k>
 
 11
-That's right. You've typed it with only one 'L'.
-<k></k>
+`That's right`. You've typed it with only one 'L'.
+<k>That's right.对的
+
+- Your name is Sandra? 你叫Snadra？
+- That's right. 对的</k>
 
 12
-This letter's full of mistakes.
-<k></k>
+`This letter's full of` mistakes.
+<k>be full of
+充满了
 
-13
-I want you to type it again.
-<k></k>
-
-14
-Yes, I'll do that.
-<k></k>
-
-15
-I'm sorry about that.
-<k></k>
+His essay was full of spelling errors.
+他的文章里一大堆拼写错误。</k>
 
 16
-And here's a little present for you.
-<k></k>
+And `here's a little present for you`.
+<k>Here is ... for you
+这里有... 给你
 
-17
-What is it?
-<k></k>
+Here is a piece of cake for you.
+这里有一小块蛋糕给你。</k>
 
 18
-It's a dictionary.
-<k></k>
-
-19
-I hope it'll help you.
-<k></k>
-
+It's a `dictionary`.
+<k>[ˈdɪkʃəneri]
+词典</k>

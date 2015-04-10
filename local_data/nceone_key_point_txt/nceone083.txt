@@ -1,92 +1,75 @@
-1
-Hello, Sam. Come in.
-<k></k>
-
-2
-Hi, Sam.
-<k></k>
-
-3
-We're having lunch.
-<k></k>
-
-4
-Do you want to have lunch with us?
-<k></k>
-
-5
-No, thank you, Tom.
-<k></k>
-
 6
-I've already had lunch.
-<k></k>
+`I've already had lunch`.
+<k>请注意这篇文章对过去完成时和过去时的使用：
+
+过去完成时(have done sth.)用于强调已经完成，常常跟already, yet等词连用。
+
+过去时(did sth.)用于强调发生在过去，常常跟过去的时间连用，如at half past twelve, after my lunch.
+</k>
 
 7
-I had lunch at half past twelve.
-<k></k>
+I had lunch `at half past twelve`.
+<k>at half past twelve
+
+在几点钟用at这个介词
+half past twelve=12点半</k>
 
 8
-Have a cup of coffee then.
-<k></k>
+Have a cup of coffee `then`.
+<k>这里的then不是然后的意思, 而是"那么就"的意思.
 
-9
-I've just had a cup, thank you.
-<k></k>
-
-10
-I had one after my lunch.
-<k></k>
+-You want to meet on Friday?(周五见)
+-No, I have to work on Friday.(周五要工作)
+-Let's meet on Saturday then.(那么就周六见)
+-Sure(好)</k>
 
 11
-Let's go into the living room, Carol.
-<k></k>
+Let's go into `the living room`,Carol.
+<k>living room 客厅
 
-12
-We can have our coffee there.
-<k></k>
+dining room 饭厅  bedroom 卧室  bathroom 浴室
+
+- Where is Tom? - I think he is in the living room.</k>
 
 13
-Excuse the mess, Sam.
-<k></k>
+Excuse the `mess`, Sam.
+<k>mess n.  杂乱 混乱
+
+The room is a mess.
+房间一团糟
+I'm such a mess.
+我是如此地一团糟糕</k>
 
 14
-This room's very untidy.
-<k></k>
+This room's very `untidy`.
+<k>untidy adj. = not tidy = in a mess
+不整洁，杂乱
+
+She's really untidy at home.
+她在家可是一点都不整洁</k>
 
 15
-We're packing our suitcases.
-<k></k>
+We're `packing` our suitcases.
+<k>pack v. 打包，收拾行李
+unpack v. 把行李从箱子里拿出来
 
-16
-We're going to leave tomorrow.
-<k></k>
+We're leaving early tomorrow morning, so you'd better pack tonight.
+我们明早出发, 你最好今晚就收拾好行李
 
-17
-Tom and I are going to have a holiday.
-<k></k>
+I just came back from my holiday and haven't unpacked yet.
+我刚从假期回来, 还没有来得及把行李从箱子里拿出来</k>
+
+15
+We're packing our `suitcases`.
+<k>suitcase n.  手提箱
+
+Have you packed your suitcase yet? 你们是否打包好了你们的行李</k>
 
 18
-Aren't you lucky!
-<k></k>
+`Aren't you lucky`!
+<k>Aren't you lucky! = You are lucky, aren't you? = You are very lucky!
+反义疑问句表示强调和感叹：难道你们不幸运么？（其实你们非常幸运！）
+反义疑问句表是英语中很地道的一种强调和感叹：
 
-19
-When are you going to have a holiday, Sam?
-<k></k>
-
-20
-I don't know.
-<k></k>
-
-21
-I've already had my holiday this year.
-<k></k>
-
-22
-Where did you go?
-<k></k>
-
-23
-I stayed at home!
-<k></k>
-
+Oh, isn't the baby cute! 这个孩子难道不可以可爱么？ - 这个孩子很可爱！
+</k>

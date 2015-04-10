@@ -1,84 +1,172 @@
-1
-Lesson 71  He's awful!
-<k></k>
+2
+`What's Ron Marston like`,Pauline?
+<k>Ron    Marston
+/rɑn/  /mɑstən/
+人名
+
+What's...like?
+...怎么怎么样?
+
+What's she like?
+What's your boss like?
+
+What's he like?=询问长相或性格
+What's he like as a person=询问性格
+What does he look like?=询问长相
+What does he like?=询问爱好</k>
 
 2
-What's Ron Marston like, Pauline?
-<k></k>
+What's Ron Marston like,`Pauline`?
+<k>[pɔ:'lin]</k>
 
 3
-He's awful!
-<k></k>
+He's `awful`!
+<k>awful
+糟糕的
+
+I just had an awful day.
+The food here is awful</k>
 
 4
-He telephoned me four times yesterday,
-<k></k>
+He `telephoned me` four times yesterday,
+<k>telephone sb/spl.
+打电话给某人/某地
+
+Please don't telephone my home.
+Please don't telephone me after 9:00 p.m.</k>
+
+4
+He telephoned me `four times` yesterday,
+<k>four times
+四次
+
+I called you four times yesterday
+I got up four times last night.
+
+once=一次
+twice=两次
+three times=三次
+超过3次都用times, 少于3次一般用once和twice</k>
 
 5
-He telephoned the office yesterday morning
-<k></k>
+He `telephoned the office` yesterday morning
+<k>telephone sb/spl.
+打电话给某人/某地
 
-6
-and yesterday afternoon.
-<k></k>
+Please don't telephone my home.
+Please don't telephone me after 9:00 p.m.</k>
+
+5
+He telephoned the office `yesterday morning`
+<k>yesterday morning
+昨天早上
+
+I went shoe shopping yesterday morning.
+I bought a pair of shoes yesterday morning.
+
+注意昨天早上不说last morning
+
+yesterday evening=昨天晚上
+last night=昨天晚上(last不能跟morning, afternoon, evening搭配)</k>
 
 7
-My boss answered the telephone.
-<k></k>
+My boss `answered the telephone`.
+<k>answer the phone/telephone
+回答电话, 接电话
+
+Could you help me answer the phone?
+My mom answered the phone for me.
+
+reply the telephone是错误的说法
+
+类似的我们还说
+answer the door=回答敲门声, 去开门</k>
 
 8
-What did your boss say to him?
-<k></k>
+`What did your boss` say to him?
+<k>What did sb do?
+某人过去做了什么?
+
+What did you mom say to him?
+What did you tell your friend?
+What did you buy yesterday morning?
+
+询问过去发生的动作和行为用这个句式</k>
+
+8
+What did your boss `say to him`?
+<k>say to sb
+向某人说话
+
+What did he say to you last night?
+He said to me: Pauline, I love you.
+
+注意这里不能说say with sb, 不能说speak to him
+
+say to sb=tell sb</k>
 
 9
-He said, 'Pauline is typing letters.
-<k></k>
+He said, 'Pauline is `typing letters`.
+<k>type letters
+打信
+
+letter有字母和信两个意思, 这里显然是后者.
+
+She was typing a letter when I saw her.
+She was typing a document this morning.</k>
 
 10
-She can't speak to you now!'
-<k></k>
+`She can't` speak to you now!'
+<k>She can't do...
+她不能做
+
+She can't be your girlfriend.
+She can't answer the phone.</k>
+
+10
+She can't `speak to you` now!'
+<k>speak to you
+和你讲话
+
+speak to you=speak with you=talk to you=talk with you.
+
+但是不能说say to you, tell you</k>
 
 11
-Then I arrived home at six o'clock yesterday evening.
-<k></k>
+Then I `arrived home` at six o'clock yesterday evening.
+<k>arrive home
+回到家
+
+home是副词, 而非名词.
+类似的 go home
+</k>
 
 12
-He telephoned again.
-<k></k>
+He `telephoned` again.
+<k>telephone
+打电话. 注意这里是不及物动词, 后边没有任何宾语
 
-13
-But I didn't answer the phone!
-<k></k>
+Did he telephone again?
+I'm going to telephone her one last time.
 
-14
-Did he telephone again last night?
-<k></k>
-
-15
-Yes, he did.
-<k></k>
-
-16
-He telephoned at nine o'clock.
-<k></k>
-
-17
-What did you say to him?
-<k></k>
+英语中有的动词既可以是及物动词, 也可以是不及物动词, 比如这里的telephone</k>
 
 18
-I said, 'This is Pauline's mother.
-<k></k>
+I said, '`This is` Pauline's mother.
+<k>This is...
+这是...
+
+This is Ron. I'd like to talk to Pauline.
+This is her boss. She's busy.
+
+This is可以用在电话用语里指代自己. 虽然我们中学教科书上讲, 电话里不能用I'm...但我观察美国人口语中其实也经常在电话中直接说
+I'm Ron.
+I'm her boss.</k>
 
 19
-Please don't telephone my daughter again!'
-<k></k>
+`Please don't` telephone my daughter again!'
+<k>Please don't do...
+请不要做, 命令强硬的语气
 
-20
-Did he telephone again?
-<k></k>
-
-21
-No, he didn't!
-<k></k>
-
+Please don't call my daughter again!
+Please don't do this again!</k>

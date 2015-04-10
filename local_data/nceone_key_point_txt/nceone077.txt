@@ -1,76 +1,64 @@
 1
-Good morning. Mr. Croft.
-<k></k>
-
-2
-Good morning, nurse.
-<k></k>
+Good morning. Mr.`Croft`.
+<k>Croft
+[krɔft]
+人名</k>
 
 3
-I want to see the dentist, please.
-<k></k>
+`I want to` see the dentist,please.
+<k>I want to do..
+我想做...
+
+I want to call her again.
+I want to buy a pair of shoes like this.</k>
+
+3
+I want to `see the dentist`,please.
+<k>see the dentist
+看到牙医, 去看牙医
+
+不能说look at the dentist, meet the dentist</k>
 
 4
-Do you have an appointment?
-<k></k>
+Do you `have an appointment`?
+<k>have an appointment
+有预约
 
-5
-No, I don't.
-<k></k>
+appointment=工作上, 事情上的与别人预先约定见面时间和地点
+
+date则指浪漫的约会</k>
 
 6
-Is it urgent?
-<k></k>
+Is it `urgent`?
+<k>urgent
+紧急的
 
-7
-Yes, it is.
-<k></k>
-
-8
-It's very urgent.
-<k></k>
-
-9
-I feel awful.
-<k></k>
+This is urgent! I need to speak to Pauline.
+Pauline is typing letters. It's also very urgent!</k>
 
 10
-I have a terrible toothache.
-<k></k>
+I `have a terrible toothache`.
+<k>have a toothache
+有一个牙痛, 牙疼
 
-11
-Can you come at 10 a. m. on Monday, April 24th?
-<k></k>
+有童鞋问外国人为什么不直接说My tooth hurts呢? 语言嘛, 人家说惯了怎么个用法, 我们跟着模仿就行. 约定俗成罢了.
 
-12
-I must see the dentist now, nurse.
-<k></k>
+类似的
+I have a headache
+I have a terrible headache</k>
 
 13
-The dentist is very busy at the moment.
-<k></k>
+The dentist is very busy `at the moment`.
+<k>at the moment
+在此时此刻
 
-14
-Can you come at 2 p. m.?
-<k></k>
-
-15
-That's very late.
-<k></k>
-
-16
-Can the dentist see me now?
-<k></k>
-
-17
-I'm afraid that he can't, Mr. Croft.
-<k></k>
+I'm working at the moment
+I can't speak to you at the moment</k>
 
 18
-Can't you wait till this afternoon?
-<k></k>
+`Can't you` wait till this afternoon?
+<k>can't you do...
+你难道不能做...吗?
 
-19
-I can wait, but my toothache can't!
-<k></k>
-
+Can't you find your way?
+Can't you help me find a pair of shoes like this?</k>

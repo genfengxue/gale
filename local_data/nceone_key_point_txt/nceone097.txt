@@ -1,76 +1,123 @@
 1
-I left a suitcase on the train to London the other day.
-<k></k>
+I `left a suitcase` on the train to London the other day.
+<k>suitcase
+['sjutkeɪs]	
+旅行箱
+
+leave sth+地点.
+把某物丢在(忘在)某地
+
+I left my book at your house yesterday
+我昨天把我的书忘在你家了</k>
+
+1
+I left a suitcase on `the train to London` the other day.
+<k>the train to London
+去往伦敦的火车
+to London后置修饰the train
+
+The bus to school
+去往学校的公交车.
+You've just missed the bus to school
+你刚刚错过了去学校的公交车</k>
+
+1
+I left a suitcase on the train to London `the other day`.
+<k>the other day
+不久前某一天；几天以前</k>
 
 2
-Can you describe it, sir?
-<k></k>
+Can you `describe` it, sir?
+<k>[dɪ'skraɪb]
+vt 描述</k>
 
 3
-It's a small blue case and it's got a zip.
-<k></k>
+It's `a small blue case` and it's got a zip.
+<k>a small blue case
+一个小的蓝色的箱子
+
+case=箱子
+
+small blue, 多个形容词连用, 主观的评价的形容词放在前边, 客观的属性的形容词放在后边</k>
+
+3
+It's a small blue case and `it's got` a zip.
+<k>It's got sth
+它拥有...
+
+I love my car. It's got a great design.
+我喜爱的车. 它拥有非常棒的设计.</k>
+
+3
+It's a small blue case and it's got a `zip`.
+<k>zip
+n 拉链</k>
 
 4
-There's a label on the handle with my name and address on it.
-<k></k>
+There's a `label` on the handle with my name and address on it.
+<k>['leɪbl]
+标签
+买衣服时衣服上的标签就称作label</k>
+
+4
+There's a label on the `handle` with my name and address on it.
+<k>handle
+['hændl]
+n 把手</k>
+
+4
+There's a label on the handle `with my name and address on it`.
+<k>with...
+with引起的一个短语, 修饰handle</k>
 
 5
-Is this case yours?
-<k></k>
+`Is this case yours`?
+<k>这句话如果你不好理解可以改为陈述句, 一般地都可以把疑问句改为陈述句来方便自己理解.
+
+This case is yours.
+这个箱子是你的.
+
+yours=your case/bag
+名词性物主代词, 后边不需要加别的词就直接可以表示前边提到过的"你的某某东西"</k>
 
 6
-No, that's not mine.
-<k></k>
+No, that's not `mine`.
+<k>mine
+我的东西
+名词性物主代词, 类似于yours的用法. 后边不需要再跟别的词
 
-7
-What about this one?
-<k></k>
+This coat isn't mine
+这件外套不是我的
+It's yours.
+它是你的</k>
 
 8
-This one's got a label.
-<k></k>
+`This one's got` a label.
+<k>This one's got
+这一个拥有
 
-9
-Let me see it.
-<k></k>
-
-10
-What's your name and address?
-<k></k>
+This one's got a good color
+这一个拥有不错的颜色</k>
 
 11
-David Hall, 83, Bridge Street.
-<k></k>
-
-12
-That's right. D. N. Hall, 83, Bridge Street.
-<k></k>
+David Hall,`83,Bridge Street`.
+<k>83, Bridge Street
+大桥路83号</k>
 
 13
-Three pounds fifty pence, please.
-<k></k>
+`Three pounds fifty pence`,please.
+<k>penny 便士(单数)
+pence 便士(复数)
 
-14
-Here you are.
-<k></k>
-
-15
-Thank you.
-<k></k>
-
-16
-Hey!
-<k></k>
-
-17
-What's the matter?
-<k></k>
+1 penny=1 cent, 就是一分钱</k>
 
 18
-This case doesn't belong to me!
-<k></k>
+This case doesn't `belong to me`!
+<k>belong to sb
+属于某人
 
-19
-You've given me the wrong case!
-<k></k>
+注意不能说成是belong to mine.
+
+This case isn't mine
+=This case doesn't belong to me.</k>
 

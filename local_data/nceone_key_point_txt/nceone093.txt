@@ -1,48 +1,67 @@
 1
-Nigel is our new next-door neighbour.
-<k></k>
+`Nigel` is our new next-door neighbour.
+<k>Nigel
+/'naidʒəl/
+人名</k>
+
+1
+Nigel is our new `next-door neighbour`.
+<k>next-door neighbour
+隔壁的邻居
+next-door指就是旁边那扇门, 旁边那家人</k>
 
 2
-He's a pilot.
-<k></k>
+He's a `pilot`.
+<k>['paɪlət]</k>
 
 3
-He was in the R. A. F.
-<k></k>
+He was in `the R.A.F`.
+<k>英国皇家空军（Royal Air Force）</k>
 
 4
-He will fly to New York next month.
-<k></k>
+He will `fly to New York` next month.
+<k>fly to+spl.
+飞去某地
+
+可以是自己开飞机去, 也可以是坐飞机去</k>
 
 5
-The month after next he'll fly to Tokyo.
-<k></k>
+`The month after next` he'll fly to Tokyo.
+<k>the month after next
+下下个月</k>
+
+5
+The month after next he'll fly to `Tokyo`.
+<k>Tokyo
+['tokjo] 
+东京</k>
 
 6
-At the moment, he's in Madrid.
-<k></k>
+At the moment, he's in `Madrid`.
+<k>Madrid
+[mə'drɪd] 
+n. 马德里（西班牙首都）</k>
 
 7
-He flew to Spain a week ago.
-<k></k>
+He `flew to` Spain a week ago.
+<k>fly 原形
+flew 过去式
+flown 过去分词</k>
+
+7
+He flew to `Spain` a week ago.
+<k>[speɪn]
+n. 西班牙</k>
 
 8
-He'll return to London the week after next.
-<k></k>
-
-9
-He's only forty-one years old,
-<k></k>
+He'll `return to London` the week after next.
+<k>return to spl.
+回到某处</k>
 
 10
-and he has already been to nearly every country in the world.
-<k></k>
+and `he has already been to` nearly every country in the world.
+<k>He has already been to...
+他已经去过了
 
-11
-Nigel is a very lucky man.
-<k></k>
-
-12
-But his wife isn't very lucky. She usually stays at home!
-<k></k>
-
+He has already been to a lot of places in China.
+他已经去过了中国的很多地方</k>

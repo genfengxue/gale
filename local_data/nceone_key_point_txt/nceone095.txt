@@ -1,80 +1,163 @@
 1
-Two return tickets to London, please.
-<k></k>
+Two `return tickets` to London,please.
+<k>return ticket
+(英式)往返票
+
+美式的说法是round trip ticket
+
+I'd like to book a return ticket from Shanghai to Beijing, please.
+我想要预订一张从上海去北京的往返票.</k>
 
 2
-What time will the next train leave?
-<k></k>
+`What time will` the next train leave?
+<k>What time will XXX do?
+XXX何时做某事?
+
+What time will the next bus arrive?
+下一趟公交车什么时候到呢?</k>
 
 3
-At nineteen minutes past eight.
-<k></k>
+At `nineteen minutes past eight`.
+<k>8:19的两种常用表达法
+eight nineteen
+nineteen minutes past eight</k>
 
 4
-Which platform?
-<k></k>
+Which `platform`?
+<k>['plæt'fɔrm]
+月台</k>
 
 5
-Platform Two. Over the bridge.
-<k></k>
+Platform Two. `Over the bridge`.
+<k>这是省略了动词, 补充完整应该是go over the bridge. 
 
-6
-What time will the next train leave?
-<k></k>
+over在这里表示从上边通过的意思.</k>
 
 7
-At eight nineteen.
-<k></k>
+`At eight nineteen`.
+<k>8:19的两种常用表达法
+eight nineteen
+nineteen minutes past eight</k>
 
 8
-We've got plenty of time.
-<k></k>
+`We've got` plenty of time.
+<k>We've got...
+我们拥有
+
+We've got plenty of beer.
+我们拥有很多啤酒</k>
+
+8
+We've got `plenty of time`.
+<k>plenty of
+很多,可以修饰可数或者不可数
+
+I've got plenty of friends.
+我有很多朋友</k>
 
 9
-It's only three minutes to eight.
-<k></k>
+It's only `three minutes to eight`.
+<k>7:57的两种表达法:
+seven fifty-seven
+three minutes to eight
+
+如果是半点之后的可以用
+"还有...分钟就几点"的表达法
+
+如果是半点之前的可以用
+"几点过了...分钟"的表达法</k>
 
 10
-Let's go and have a drink.
-<k></k>
+Let's `go and have a drink`.
+<k>go and do sth
+去做某事
+
+Let's go and say hi to our new next-door neighbour
+咱们去跟我们的新邻居打声招呼吧</k>
 
 11
-There's a bar next door to the station.
-<k></k>
+There's a `bar` next door to the station.
+<k>[bɑr]
+酒吧</k>
+
+11
+There's a bar `next door to` the station.
+<k>next door to...
+就在...的隔壁
+
+There's a drug store next door to the gym.
+健身房隔壁就是一个药店</k>
 
 12
-We had better go back to the station now, Ken.
-<k></k>
+`We had better` go back to the station now, Ken.
+<k>We had better do sth.
+我们最好做某事
+
+We had better hurry up. There's not much time left.
+我们最好抓紧时间. 没有多少剩余时间了.
+
+不要纠结had better的语法, 就把它作为一个固定用法来学习, had better do sth</k>
+
+12
+We had better go back to the `station` now, Ken.
+<k> ['steɪʃn]	
+车站</k>
+
+12
+We had better go back to the station now, `Ken`.
+<k>[ken]</k>
 
 13
-Tickets, please.
-<k></k>
+`Tickets, please`.
+<k>名词+please
+请给我XXX.
+
+two beers, please.
+请给我2杯啤酒(我想买2杯啤酒)</k>
 
 14
-We want to catch the eight nineteen to London.
-<k></k>
+We want to `catch the eight nineteen` to London.
+<k>catch the eight nineteen
+赶上8:19那趟车
+
+catch a bus=赶上公交车
+catch a plane=赶上飞机
+
+the eight nineteen可以用来指代8:19出发的那趟车.
+</k>
 
 15
-You've just missed it!
-<k></k>
+`You've just` missed it!
+<k>You've just done sth
+你们刚刚已经做了某事
+
+You've just won a million pounds!
+你们刚刚赢得了100万英镑!</k>
 
 16
-What! It's only eight fifteen.
-<k></k>
-
-17
-I'm sorry, sir.
-<k></k>
+`What!` It's only eight fifteen.
+<k>What!
+什么!
+表示惊讶的语气</k>
 
 18
-That clock's ten minutes slow.
-<k></k>
+That clock's `ten minutes slow`.
+<k>ten minutes slow
+慢了10分钟
 
-19
-When's the next train?
-<k></k>
+My watch is 15 minutes slow
+我的手表慢了15分钟
+
+My watch is 5 minutes fast
+我的手表快了5分钟.</k>
 
 20
-In five hours' time!
-<k></k>
+`In five hours' time`!
+<k>in five hours.
+5小时之后
+
+in+时间段
+既可以表示在...之内
+也可以表示在...之后
+具体要根据语境来体会</k>
 

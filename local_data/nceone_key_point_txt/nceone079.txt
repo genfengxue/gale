@@ -1,80 +1,78 @@
-1
-What are you doing, Carol?
-<k></k>
-
 2
-I'm making a shopping list, Tom.
-<k></k>
+I'm `making a shopping list`, Tom.
+<k>I'm doing...
+我正在做
 
-3
-What do we need?
-<k></k>
+I'm shopping for a pair of shoes.
+我正在买一双鞋
 
-4
-We need a lot of things this week.
-<k></k>
+make a shopping list
+做一个购物清单, 上边写着要买什么东西
+
+Have you made a shopping list yet?
+你弄了一个购物清单了吗</k>
 
 5
-I must go to the grocer's.
-<k></k>
+I must `go to` the grocer's.
+<k>go to the grocer's 
+去食品杂货店(买东西)
+
+go to the supermarket
+go to the cinema</k>
+
+5
+I must go to `the grocer's`.
+<k>grocer=卖食品杂货的人
+the grocer's=卖食品杂货的人的店.
+
+类似的
+barber=理发师
+the barber's=理发师的店,理发店</k>
 
 6
-We haven't got much tea or coffee,
-<k></k>
+`We haven't got much` tea or coffee,
+<k>we have't got much...
+我们没有太多...了
+
+We haven't got much time left
+We haven't got much milk or bread</k>
 
 7
-and we haven't got any sugar or jam.
-<k></k>
-
-8
-What about vegetables?
-<k></k>
+and we haven't got any sugar or `jam`.
+<k>jam
+果酱</k>
 
 9
-I must go to the greengrocer's.
-<k></k>
-
-10
-We haven't got many tomatoes,
-<k></k>
-
-11
-but we've got a lot of potatoes.
-<k></k>
+I must go to `the greengrocer's`.
+<k>greengrocer=卖蔬菜的人
+the greengrocer's=卖蔬菜的人的店, 蔬菜水果店</k>
 
 12
-I must go to the butcher's, too.
-<k></k>
-
-13
-We need some meat.
-<k></k>
+I must go to `the butcher's`, too.
+<k>butcher=卖肉的人
+the butcher's=卖肉的人的店, 肉店</k>
 
 14
-We haven't got any meat at all.
-<k></k>
+We `haven't got any meat at all`.
+<k>We haven't got...at all
+我们一点...都没有了
+
+We haven't any time left at all.
+We haven't got any shoes like that at all.</k>
 
 15
-Have we got any beer and wine?
-<k></k>
+`Have we got any` beer and wine?
+<k>have we got any...
+我们还有...吗?
 
-16
-No, we haven't.
-<k></k>
+Have we got any food in the house?
+
+have you got any money?</k>
 
 17
-And I'm not going to get any!
-<k></k>
+And `I'm not going to` get any!
+<k>And I'm not going to...
+而且我也不会做...
 
-18
-I hope that you've got some money.
-<k></k>
-
-19
-I haven't got much.
-<k></k>
-
-20
-Well, I haven't got much either!
-<k></k>
-
+And I'm not going to buy beer for you!
+And I'm not going to call Pauline again!</k>

@@ -1,84 +1,117 @@
 1
-Has Ian sold his house yet?
-<k></k>
+`Has Ian sold his house yet`?
+<k>Ian
+/'iən/
+人名
 
-2
-Yes, he has.
-<k></k>
+Has...done sth yet?
+某人已经做了某事吗?
 
-3
-He sold it last week.
-<k></k>
+Has Pauline talked to Ron yet?
+Pauline跟Ron说话了吗?</k>
 
 4
-Has he moved to his new house yet?
-<k></k>
+`Has he moved to his new house yet`?
+<k>Has...done sth yet?
+某人已经做了某事吗?
 
-5
-No, not yet.
-<k></k>
+Has Pauline talked to Ron yet?
+Pauline跟Ron说话了吗?
 
-6
-He's still here.
-<k></k>
+move to one's new house/home
+搬到某人的新家
+</k>
 
 7
-He's going to move tomorrow.
-<k></k>
-
-8
-When? Tomorrow morning?
-<k></k>
-
-9
-No. Tomorrow afternoon.
-<k></k>
+He's going to `move` tomorrow.
+<k>move  vi
+搬家</k>
 
 10
-I'll miss him.
-<k></k>
+`I'll miss him`.
+<k>I'll do...
+我将会做
+
+I'll move to Shang hai
+我将会搬到上海去
+
+miss sb.
+想念某人
+miss另外一个意思是错过, miss the bus, 注意不要混淆.</k>
 
 11
-He has always been a good neighbour.
-<k></k>
+`He has always been` a good neighbour.
+<k>neighbor 
+['neɪbə]
+n 邻居
 
-12
-He's a very nice person.
-<k></k>
+Be a good neighbour
+做一个好邻居</k>
 
-13
-We'll all miss him.
-<k></k>
+11
+He has always been a good `neighbour`.
+<k>neighbor 
+['neɪbə]
+n 邻居
+
+Be a good neighbour
+做一个好邻居</k>
 
 14
-When will the new people move into this house?
-<k></k>
+`When will the new people` move into this house?
+<k>When will sb do sth?
+某人何时将做某事
+
+When will you tell her how you feel?
+你打算什么时候告诉她你的感受?</k>
+
+14
+When will the new people `move into this house`?
+<k>这里的into不要替换为to,
+因为into还多了一层"进入"的含义.</k>
 
 15
-I think that they'll move in the day after tomorrow.
-<k></k>
+`I think that they'll` move in the day after tomorrow.
+<k>I think that they'll do sth
+我想他们将会做...
+
+I think that they'll sell the house
+我想他们将会卖掉他们的房子</k>
+
+15
+I think that they'll `move in` the day after tomorrow.
+<k>move in
+搬进来
+这里的in是副词
+
+不要理解为in the day after tomorrow</k>
 
 16
-Will you see Ian today, Jenny?
-<k></k>
+`Will you see Ian` today,Jenny?
+<k>Will you do sth.?
+你将会做某事吗?
 
-17
-Yes, I will.
-<k></k>
+Will you sell your house after you retire?
+当你退休之后你会卖掉你的房子吗?</k>
 
 18
-Please give him my regards.
-<k></k>
+Please `give him my regards`.
+<k>give sb one's regards
+给某人送去问候
+
+I'll give him your regards.
+我会把你的问候转达给他</k>
 
 19
-Poor Ian!
-<k></k>
+`Poor Ian`!
+<k>poor+人名
+可怜的XXX
 
-20
-He didn't want to leave this house.
-<k></k>
+Poor Wind
+可怜的Wind
+
+这里的poor不是穷困的意思</k>
 
 21
-No, he didn't want to leave. but his wife did!
-<k></k>
-
+No, he didn't want to leave. but his wife `did`!
+<k>这里的did指代了前边的leave这个动词, 因为是过去时, 所以用did</k>

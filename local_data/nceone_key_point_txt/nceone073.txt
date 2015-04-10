@@ -1,60 +1,76 @@
 1
-Last week Mrs. Mills went to London.
-<k></k>
+Last week Mrs. `Mills` went to London.
+<k>Mills
+[mɪl]
+人名</k>
 
 2
-She does not know London very well,
-<k></k>
+`She does not know London very well`,
+<k>don't/dosn't know...very well
+不是很了解...
+
+I don't know Pauline very well.
+I know her boss very  well.
+
+注意这里的时态使用了一般现在时; 因为Mrs. Mills不熟悉London不是发生在过去的一个行为, 而是从过去到现在Mrs. Mills的一个一般性的属性.
+</k>
 
 3
-and she lost her way.
-<k></k>
+and she `lost her way`.
+<k>lose one's way
+丢失某人的路, 迷路
+
+I lost my way in the city today.
+Ron never loses his way.</k>
 
 4
-Suddenly, she saw a man near a bus stop.
-<k></k>
+Suddenly, she saw a man near `a bus stop`.
+<k>a bus stop
+一个公交车站
+
+stop是名词,表示停留的地方, 即车站. 这就好像我们古文里出现的动词做名词的感觉.
+
+a subway stop=地铁站
+a taxi stop=出租车上下点</k>
 
 5
-'I can ask him the way.' she said to herself.
-<k></k>
+'I can `ask him the way`.' she said to herself.
+<k>ask sb sth.
+问某人...
 
-6
-'Excuse me,' she said.
-<k></k>
-
-7
-The man smiled pleasantly.
-<k></k>
-
-8
-He did not understand English!
-<k></k>
+Ask that man the time.
+Ask that girl the way to the nearest subway station.</k>
 
 9
-He spoke German.
-<k></k>
+He `spoke German`.
+<k>speak German
+讲德语
+
+I can't speak Spanish at all
+I can speak a little French but I can't understand a word
+
+将一门语言用speak, 不能用talk, say, tell</k>
 
 10
-He was a tourist.
-<k></k>
+He was a `tourist`.
+<k>tour=n&v 旅行
+tourist=旅行者
 
-11
-Then he put his hand into his pocket,
-<k></k>
+-ist是表示人的后缀</k>
 
 12
-and took out a phrasebook.
-<k></k>
+and `took out` a phrasebook.
+<k>take out
+取出
 
-13
-He read the phrase slowly.
-<k></k>
+He took out a cellphone and called her friend Pauline to ask her the way.
 
-14
-'I am sorry,' he said.
-<k></k>
+Please take out your phrase books, students.
+</k>
 
-15
-'I do not speak English.'
-<k></k>
+12
+and took out a `phrasebook`.
+<k>phrasebook
+常用语手册
 
+把一门语言最常用最基本的一些表达罗列供大家作为工具的书叫做phrasebook</k>

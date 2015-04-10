@@ -1,84 +1,59 @@
-1
-Good afternoon.
-<k></k>
-
 2
-I believe that this house is for sale.
-<k></k>
+I believe that this house is `for sale`.
+<k>for sale
+出售
+同理for rent表示出租
 
-3
-That's right.
-<k></k>
-
-4
-May I have a look at it, please?
-<k></k>
-
-5
-Yes, of course. Come in.
-<k></k>
+Is the painting for sale?
+这幅画出售吗?
+You could find plenty of houses for rent on this website.
+你在这个网站可以找到许多房子出租</k>
 
 6
-How long have you lived here?
-<k></k>
+`How long have you lived here`?
+<k>How long have you done sth?
+你做...多久了
 
-7
-I've live here for twenty years.
-<k></k>
-
-8
-Twenty years!
-<k></k>
-
-9
-That's a long time.
-<k></k>
-
-10
-Yes, I've been here since 1976.
-<k></k>
-
-11
-Then why do you want to sell it?
-<k></k>
-
-12
-Because I've just retired.
-<k></k>
+How long have you played guitar?
+你弹吉他多久了?
+How long have you taught English?
+你教英语多久了?</k>
 
 13
-I want to buy a small house in the country.
-<k></k>
+I want to buy a small house `in the country`.
+<k>in the country
+在下乡
 
-14
-How much does this house cost?
-<k></k>
+The view in the country is much more beautiful than that in the city.
+乡村的风景比城市好的多</k>
 
 15
-£68, 500.
-<k></k>
+`£68,500`.
+<k>1英镑=9人民币</k>
 
 16
-That's a lot of money.
-<k></k>
+`That's a lot of money`.
+<k>That's a lot of money! 
+
+这里表示感叹很贵！所以想表达很贵不只有"expensive"，也可以试试"That's a lot of money!"
+</k>
 
 17
-It's worth every penny of it.
-<k></k>
+It's `worth every penny of it`.
+<k>worth every penny
+值每一分钱, 物有所值.
+penny表示一分钱. 每一分钱都花的非常值得
 
-18
-Well, I like the house,
-<k></k>
-
-19
-but I can't decide yet.
-<k></k>
-
-20
-My wife must see it first.
-<k></k>
+They think the price it too high but I feel it's worth every penny of it.
+他们认为价格太高, 但我觉得每一分都非常值得</k>
 
 21
-Women always have the last word.
-<k></k>
+Women always `have the last word`.
+<k>have the last word
+说最后一句话, 也就是拥有最后的决定权的意思
+
+
+Our head chef has the final word on what is served each week.
+我们的主厨拥有最终的决定权对于每周上什么菜</k>
+
 

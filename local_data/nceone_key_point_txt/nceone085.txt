@@ -1,72 +1,35 @@
-1
-Hello, Ken.
-<k></k>
-
-2
-Hi, George.
-<k></k>
-
 3
-Have you just been to the cinema?
-<k></k>
+`Have you just been to` the cinema?
+<k>Have you been to..
+你是否去过...
+表示去了又回来了
 
-4
-Yes, I have.
-<k></k>
+Have you been to the United States?
+你以前去过美国吗?</k>
 
 5
+`What's on`?
+<k>What's on? 
+什么在上映呢
+
+You want to watch some TV?
+想看会电视吗?
 What's on?
-<k></k>
-
-6
-'Paris in the spring'.
-<k></k>
-
-7
-Oh, I've already seen it.
-<k></k>
+有什么节目呢</k>
 
 8
-I saw it on television last year.
-<k></k>
+I saw it `on television` last year.
+<k>on television 在电视上
 
-9
-It's an old film, but it's very good.
-<k></k>
-
-10
-Paris is a beautiful city.
-<k></k>
-
-11
-I've never been there.
-<k></k>
-
-12
-Have you ever been there, Ken?
-<k></k>
-
-13
-Yes, I have. I was there in April.
-<k></k>
-
-14
-Pairs in the spring, eh?
-<k></k>
-
-15
-It was spring,
-<k></k>
-
-16
-but the weather was awful.
-<k></k>
+I can't believe I am on television now!
+我不敢相信我上电视了!
+Have you ever seen any good comedy on televison?
+你在电视上看到过好的喜剧吗?</k>
 
 17
-It rained all the time.
-<k></k>
+It rained `all the time`.
+<k>all the time 一直,老是 
+通常用于强调某种不太愉快的事情一直在发生
 
-18
-Just like London!
-<k></k>
-
+I wish you could have more time for me instead of working all the time! （如果男友常常工作没时间陪你，可以这么说）
+</k>
