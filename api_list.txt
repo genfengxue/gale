@@ -1,4 +1,5 @@
 #响应为JSON格式，query中出现方括号表示可选参数
+#所有需要用户登录的API，都要在调用的时候带上query参数access_token
 
 /api/auth/local POST #登录，获取token
   body: "userNo=xxx&password=yyy"
@@ -19,3 +20,14 @@
   query: access_token=xxxx
   body: "oldPassword=xxx&newPassword=yyy"
   response: 200 成功，403失败
+
+/api/courses GET #获取course列表
+  response: [{}], 按照courseNo升序排列
+
+/api/lessons GET #获取lesson列表
+  query: [courseNo=x] #如果不带courseNo，则会取回所有的记录
+  response: [{}], 按照courseNo，lessonNo这两列升序排列
+
+/api/sentences GET
+  query: [courseNo=x&lessonNo] #如果不带courseNo或lessonNo，则会取回所有的记录
+  response: [{}], 按照courseNo，lessonNo，sentenceNo这几列升序排列
