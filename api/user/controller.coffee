@@ -45,6 +45,3 @@ router.get "/:userNo", (req, res, next) ->
 
 
 module.exports = router
-
-# curl -d "password=xxxxx" http://localhost:9000/api/users/change_password
-# curl -d "oldPassword=e45620&newPassword=e45620" http://localhost:9000/api/users/change_password?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdHVkZW50Tm8iOjIwMTUwMDAxLCJpYXQiOjE0MjY1MTU2NzcsImV4cCI6MTQyNzEyMDQ3N30.6OdZwtxcbwaPn1XbsRFK7WLEn62JX-GbI0geZ56D4IM

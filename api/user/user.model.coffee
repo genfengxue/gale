@@ -53,11 +53,11 @@ setupUserSchema = (UserSchema) ->
   UserSchema
   .virtual 'profile'
   .get () ->
-    userNo: this.userNo
-    role: this.role
+    userNo  : this.userNo
+    role    : this.role
     nickname: this.nickname
-    avatar: this.avatar
-    email: this.email
+    avatar  : this.avatar
+    email   : this.email
 
   # Non-sensitive info we will be putting in the token
   UserSchema

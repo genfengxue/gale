@@ -1,0 +1,21 @@
+#响应为JSON格式，query中出现方括号表示可选参数
+
+/api/auth/local POST #登录，获取token
+  body: "userNo=xxx&password=yyy"
+  response: {"token":"xxxxx"}
+
+/api/auth GET #测试token是否有效
+  query: access_token=xxxx
+  response: {"hello":"world"}
+
+/api/users/:userNo GET #获取userNo指定的用户的profile信息
+  response: JSON格式的profile，包含这些字段userNo role nickname avatar email
+
+/api/users/me GET #获取登录用户自己的信息，包括非公开信息
+  query: access_token=xxxx
+  response: JSON格式的个人信息，当前包含这些字段userNo role nickname avatar email
+
+/api/users/change_password POST #修改密码
+  query: access_token=xxxx
+  body: "oldPassword=xxx&newPassword=yyy"
+  response: 200 成功，403失败
