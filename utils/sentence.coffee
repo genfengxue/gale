@@ -9,6 +9,7 @@ class SentenceUtils
     json = require "../local_data/#{courseName}_key_point_json/#{file}"
     promises = []
     for lessonNo, sentences of json
+      lessonNo = ~~lessonNo
       for sentenceNo, keyPointMap of sentences
         promises.push @importOneSentence courseNo, lessonNo, sentenceNo, keyPointMap
 
@@ -19,6 +20,9 @@ class SentenceUtils
   importOneSentence: (courseNo, lessonNo, sentenceNo, keyPointMap) ->
     promises = for key, texts of keyPointMap
       @importOneKey key, texts
+
+    if courseNo is Const.Course.nceone.CourseNo
+      lessonNo += 300
 
     Q.all promises
     .then (keyPoints) ->
