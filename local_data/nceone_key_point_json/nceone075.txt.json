@@ -1,3 +1,42 @@
 {
-   "75" : {}
+   "75" : {
+      "8" : {
+         "5,6" : [
+            "this pair\n这一双\n\nthis pair of shoes is pretty.\nI'd like to buy a pair of shoes.\n\npair 一双, 后边接成双成对的东西, 比如shoes, glasses(眼镜)等"
+         ]
+      },
+      "1" : {
+         "1,2,3,4" : [
+            "Do you have any...\n你们有任何....吗?\n\nDo you have any water?\nDo you have any paper?\n\n这里也可以说Do you have some...\n尽管any用于否定疑问句, some用于肯定句; 但是当你的提问希望得到肯定回答时可以用some代替any"
+         ]
+      },
+      "18" : {
+         "4" : [
+            "uncomfortable\n不舒服的\n\ncomfortable=舒服的\nun- 前缀表示否定\n"
+         ]
+      },
+      "3" : {
+         "1,2" : [
+            "size five\n5号尺码\n\n注意不是five size, 也不是size 5th. 这里用基数词, 不是序数词"
+         ]
+      },
+      "2" : {
+         "1,2" : [
+            "what size?\n什么尺码\n\nWhat size do you wear?\nWhat size do you want?\n"
+         ]
+      },
+      "15" : {
+         "3,4" : [
+            "in fashion\n在流行里, 处于流行中\n\niPhone is in fashion.\nNokia is not in fashion any more.\n"
+         ],
+         "8,9,10,11" : [
+            "the year before last\n前年"
+         ]
+      },
+      "14" : {
+         "1,2,3" : [
+            "I'm afraid that...\n我恐怕...\n\nI'm afraid that she can't talk to you right now.\nI'm afraid that I can't tell you th way to the subway station."
+         ]
+      }
+   }
 }

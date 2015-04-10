@@ -1,3 +1,58 @@
 {
-   "93" : {}
+   "93" : {
+      "6" : {
+         "6" : [
+            "Madrid\n[mə'drɪd] \nn. 马德里（西班牙首都）"
+         ]
+      },
+      "3" : {
+         "4,5,6,7" : [
+            "英国皇家空军（Royal Air Force）"
+         ]
+      },
+      "7" : {
+         "2,3" : [
+            "fly 原形\nflew 过去式\nflown 过去分词"
+         ],
+         "4" : [
+            "[speɪn]\nn. 西班牙"
+         ]
+      },
+      "2" : {
+         "3" : [
+            "['paɪlət]"
+         ]
+      },
+      "8" : {
+         "2,3,4" : [
+            "return to spl.\n回到某处"
+         ]
+      },
+      "1" : {
+         "1" : [
+            "Nigel\n/'naidʒəl/\n人名"
+         ],
+         "5,6" : [
+            "next-door neighbour\n隔壁的邻居\nnext-door指就是旁边那扇门, 旁边那家人"
+         ]
+      },
+      "4" : {
+         "3,4,5,6" : [
+            "fly to+spl.\n飞去某地\n\n可以是自己开飞机去, 也可以是坐飞机去"
+         ]
+      },
+      "10" : {
+         "2,3,4,5,6" : [
+            "He has already been to...\n他已经去过了\n\nHe has already been to a lot of places in China.\n他已经去过了中国的很多地方"
+         ]
+      },
+      "5" : {
+         "8" : [
+            "Tokyo\n['tokjo] \n东京"
+         ],
+         "1,2,3,4" : [
+            "the month after next\n下下个月"
+         ]
+      }
+   }
 }

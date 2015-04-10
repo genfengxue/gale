@@ -1,3 +1,81 @@
 {
-   "103" : {}
+   "103" : {
+      "6" : {
+         "6,7,8,9,10" : [
+            "sth. is not easy for me\n...对我来说不很容易\n\nLearning English is not easy for me.\n学英语对我来说并不太容易。"
+         ],
+         "4" : [
+            "Mathematics 缩写\n[mæθs]"
+         ],
+         "5" : [
+            "paper 试卷\n\nThe geography paper was difficult.\n 地理试题很难."
+         ]
+      },
+      "11" : {
+         "5,6" : [
+            "the rest \n余下的\n\nI cleaned the living room but didn't have time for the rest.\n我打扫了客厅但没时间打扫其他房间。"
+         ]
+      },
+      "3" : {
+         "8" : [
+            "mathematics\n[ˌmæθə'mætɪks]\n数学"
+         ],
+         "4,5" : [
+            "pass in + 科目\n通过科目，及格\n\nI passed in Biology and Chemistry.\n我的生物和化学及格了"
+         ]
+      },
+      "7" : {
+         "5" : [
+            "fail v. 不及格，没通过（考试），没成功\n\nI failed maths. 我数学没及格。"
+         ]
+      },
+      "12" : {
+         "3,4,5,6" : [
+            "too difficult for sb.\n对某人来说太难了\n\nMathematics is too difficult for me.\n数学对我来说太难了。"
+         ]
+      },
+      "2" : {
+         "1,2,3" : [
+            "Not too bad\n 不算太坏\n\n-How are you recently? 最近怎么样\n-Not too bad. 不算太坏"
+         ]
+      },
+      "15" : {
+         "3,4,5,6,7" : [
+            "I've got a low mark.\n我的成绩很低， have got表示有\n\nI've got a low mark on my Physics exam.\n我物理考试成绩很低。\n"
+         ]
+      },
+      "8" : {
+         "3,4,5,6,7" : [
+            "I failed the French paper. \n这里指考卷很难不会做。\n\nI failed all those questions.\n这些问题我全没答上。"
+         ]
+      },
+      "1" : {
+         "5" : [
+            "Richard\n['ritʃəd]"
+         ]
+      },
+      "18" : {
+         "9,10,11,12,13,14" : [
+            "at the top of sth.\n在...的顶端\n\nPlease write your name at the top of the form\n请把你的名字写在表格的最上方"
+         ],
+         "3,4" : [
+            "next to\n旁边\n\nCan I sit next to the window?\n我可以坐在窗户旁吗？"
+         ]
+      },
+      "16" : {
+         "2,3" : [
+            "cheer up 振作起来，打起精神来\n\nFailing one exam isn't a big deal, cheer up!\n一门考试不及格没关系，打起精神来！"
+         ]
+      },
+      "13" : {
+         "4" : [
+            " ['ɔfl]\n可怕的"
+         ]
+      },
+      "5" : {
+         "4" : [
+            "Gary \n[ˈɡeri]"
+         ]
+      }
+   }
 }

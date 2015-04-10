@@ -1,3 +1,52 @@
 {
-   "81" : {}
+   "81" : {
+      "11" : {
+         "6" : [
+            "这里的then不是然后的意思, 而是\"那么就\"的意思.\n\n-You want to meet on Friday?(周五见)\n-No, I have to work on Friday.(周五要工作)\n-Let's meet on Saturday then.(那么就周六见)\n-Sure(好)"
+         ],
+         "5" : [
+            "/wɪski/\n威士忌酒"
+         ]
+      },
+      "21" : {
+         "1,2,3" : [
+            "What's the matter?  = What's wrong? = What's the problem? 怎么了?\n\nWhy are you crying? What's the matter?\n你为什么哭? 怎么了?"
+         ]
+      },
+      "3" : {
+         "2,3,4" : [
+            "have a bath (n.) = bath (v.)  洗澡，特指在浴缸里泡澡\n\n同理，have a shower (n.) = shower v. 洗澡，特指用喷头淋浴\n\nI have a bath every evening.\n我每晚都泡澡\nI used to shower every evening.\n我过去每晚都淋浴\n"
+         ]
+      },
+      "7" : {
+         "2" : [
+            "nearly=almost=几乎要, 将要\n\nThis is nearly perfect(这几乎完美了)"
+         ]
+      },
+      "9" : {
+         "1,2,3" : [
+            "祈使句，这里表示邀请。祈使句表示请求，命令，祝愿，邀请或要求。主语通常为第二人称（you），但常常省略。句子通常由动词原形开头, 如：\n\nHave a glass of water.\n喝一杯水\nHave a drink.\n喝一杯(酒)"
+         ]
+      },
+      "2" : {
+         "2" : [
+            "upstairs adj./adv.  楼上的/在楼上\n反义词: downstairs adj,/adv. 楼下的/在楼下\n\nMy friend Carol lives upstairs\n我朋友Carol住在楼上"
+         ]
+      },
+      "1" : {
+         "2" : [
+            "/'kærəl/"
+         ]
+      },
+      "19" : {
+         "3,4,5,6" : [
+            "roast adj. 烘烤的；烤过的\n\nroast beef/chicken/potatoes"
+         ]
+      },
+      "5" : {
+         "1" : [
+            "当别人叫你名字时，你表示“嗯？”的时候用yes?\n\n-Hi Wind! \n-Yes?\n-Come over here(过来一下)"
+         ]
+      }
+   }
 }

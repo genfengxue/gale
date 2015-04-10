@@ -1,3 +1,47 @@
 {
-   "83" : {}
+   "83" : {
+      "6" : {
+         "1,2,3,4" : [
+            "请注意这篇文章对过去完成时和过去时的使用：\n\n过去完成时(have done sth.)用于强调已经完成，常常跟already, yet等词连用。\n\n过去时(did sth.)用于强调发生在过去，常常跟过去的时间连用，如at half past twelve, after my lunch.\n"
+         ]
+      },
+      "11" : {
+         "4,5,6" : [
+            "living room 客厅\n\ndining room 饭厅  bedroom 卧室  bathroom 浴室\n\n- Where is Tom? - I think he is in the living room."
+         ]
+      },
+      "7" : {
+         "4,5,6,7" : [
+            "at half past twelve\n\n在几点钟用at这个介词\nhalf past twelve=12点半"
+         ]
+      },
+      "15" : {
+         "4" : [
+            "suitcase n.  手提箱\n\nHave you packed your suitcase yet? 你们是否打包好了你们的行李"
+         ],
+         "2" : [
+            "pack v. 打包，收拾行李\nunpack v. 把行李从箱子里拿出来\n\nWe're leaving early tomorrow morning, so you'd better pack tonight.\n我们明早出发, 你最好今晚就收拾好行李\n\nI just came back from my holiday and haven't unpacked yet.\n我刚从假期回来, 还没有来得及把行李从箱子里拿出来"
+         ]
+      },
+      "14" : {
+         "4" : [
+            "untidy adj. = not tidy = in a mess\n不整洁，杂乱\n\nShe's really untidy at home.\n她在家可是一点都不整洁"
+         ]
+      },
+      "8" : {
+         "6" : [
+            "这里的then不是然后的意思, 而是\"那么就\"的意思.\n\n-You want to meet on Friday?(周五见)\n-No, I have to work on Friday.(周五要工作)\n-Let's meet on Saturday then.(那么就周六见)\n-Sure(好)"
+         ]
+      },
+      "18" : {
+         "1,2,3" : [
+            "Aren't you lucky! = You are lucky, aren't you? = You are very lucky!\n反义疑问句表示强调和感叹：难道你们不幸运么？（其实你们非常幸运！）\n反义疑问句表是英语中很地道的一种强调和感叹：\n\nOh, isn't the baby cute! 这个孩子难道不可以可爱么？ - 这个孩子很可爱！\n"
+         ]
+      },
+      "13" : {
+         "3" : [
+            "mess n.  杂乱 混乱\n\nThe room is a mess.\n房间一团糟\nI'm such a mess.\n我是如此地一团糟糕"
+         ]
+      }
+   }
 }

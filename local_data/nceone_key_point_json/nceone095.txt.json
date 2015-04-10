@@ -1,3 +1,101 @@
 {
-   "95" : {}
+   "95" : {
+      "11" : {
+         "3" : [
+            "[bɑr]\n酒吧"
+         ],
+         "4,5,6" : [
+            "next door to...\n就在...的隔壁\n\nThere's a drug store next door to the gym.\n健身房隔壁就是一个药店"
+         ]
+      },
+      "7" : {
+         "1,2,3" : [
+            "8:19的两种常用表达法\neight nineteen\nnineteen minutes past eight"
+         ]
+      },
+      "2" : {
+         "1,2,3" : [
+            "What time will XXX do?\nXXX何时做某事?\n\nWhat time will the next bus arrive?\n下一趟公交车什么时候到呢?"
+         ]
+      },
+      "1" : {
+         "2,3" : [
+            "return ticket\n(英式)往返票\n\n美式的说法是round trip ticket\n\nI'd like to book a return ticket from Shanghai to Beijing, please.\n我想要预订一张从上海去北京的往返票."
+         ]
+      },
+      "18" : {
+         "3,4,5" : [
+            "ten minutes slow\n慢了10分钟\n\nMy watch is 15 minutes slow\n我的手表慢了15分钟\n\nMy watch is 5 minutes fast\n我的手表快了5分钟."
+         ]
+      },
+      "16" : {
+         "1" : [
+            "What!\n什么!\n表示惊讶的语气"
+         ]
+      },
+      "13" : {
+         "1,2" : [
+            "名词+please\n请给我XXX.\n\ntwo beers, please.\n请给我2杯啤酒(我想买2杯啤酒)"
+         ]
+      },
+      "3" : {
+         "2,3,4,5" : [
+            "8:19的两种常用表达法\neight nineteen\nnineteen minutes past eight"
+         ]
+      },
+      "9" : {
+         "3,4,5,6" : [
+            "7:57的两种表达法:\nseven fifty-seven\nthree minutes to eight\n\n如果是半点之后的可以用\n\"还有...分钟就几点\"的表达法\n\n如果是半点之前的可以用\n\"几点过了...分钟\"的表达法"
+         ]
+      },
+      "12" : {
+         "8" : [
+            " ['steɪʃn]\t\n车站"
+         ],
+         "10" : [
+            "[ken]"
+         ],
+         "1,2,3" : [
+            "We had better do sth.\n我们最好做某事\n\nWe had better hurry up. There's not much time left.\n我们最好抓紧时间. 没有多少剩余时间了.\n\n不要纠结had better的语法, 就把它作为一个固定用法来学习, had better do sth"
+         ]
+      },
+      "20" : {
+         "1,2,3,4" : [
+            "in five hours.\n5小时之后\n\nin+时间段\n既可以表示在...之内\n也可以表示在...之后\n具体要根据语境来体会"
+         ]
+      },
+      "14" : {
+         "4,5,6,7" : [
+            "catch the eight nineteen\n赶上8:19那趟车\n\ncatch a bus=赶上公交车\ncatch a plane=赶上飞机\n\nthe eight nineteen可以用来指代8:19出发的那趟车.\n"
+         ]
+      },
+      "15" : {
+         "1,2" : [
+            "You've just done sth\n你们刚刚已经做了某事\n\nYou've just won a million pounds!\n你们刚刚赢得了100万英镑!"
+         ]
+      },
+      "8" : {
+         "1,2" : [
+            "We've got...\n我们拥有\n\nWe've got plenty of beer.\n我们拥有很多啤酒"
+         ],
+         "3,4,5" : [
+            "plenty of\n很多,可以修饰可数或者不可数\n\nI've got plenty of friends.\n我有很多朋友"
+         ]
+      },
+      "4" : {
+         "2" : [
+            "['plæt'fɔrm]\n月台"
+         ]
+      },
+      "10" : {
+         "2,3,4,5,6" : [
+            "go and do sth\n去做某事\n\nLet's go and say hi to our new next-door neighbour\n咱们去跟我们的新邻居打声招呼吧"
+         ]
+      },
+      "5" : {
+         "3,4,5" : [
+            "这是省略了动词, 补充完整应该是go over the bridge. \n\nover在这里表示从上边通过的意思."
+         ]
+      }
+   }
 }

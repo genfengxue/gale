@@ -1,3 +1,68 @@
 {
-   "91" : {}
+   "91" : {
+      "11" : {
+         "1,2,3,4" : [
+            "neighbor \n['neɪbə]\nn 邻居\n\nBe a good neighbour\n做一个好邻居"
+         ],
+         "7" : [
+            "neighbor \n['neɪbə]\nn 邻居\n\nBe a good neighbour\n做一个好邻居"
+         ]
+      },
+      "21" : {
+         "10" : [
+            "这里的did指代了前边的leave这个动词, 因为是过去时, 所以用did"
+         ]
+      },
+      "7" : {
+         "4" : [
+            "move  vi\n搬家"
+         ]
+      },
+      "15" : {
+         "1,2,3,4" : [
+            "I think that they'll do sth\n我想他们将会做...\n\nI think that they'll sell the house\n我想他们将会卖掉他们的房子"
+         ],
+         "5,6" : [
+            "move in\n搬进来\n这里的in是副词\n\n不要理解为in the day after tomorrow"
+         ]
+      },
+      "14" : {
+         "1,2,3,4,5" : [
+            "When will sb do sth?\n某人何时将做某事\n\nWhen will you tell her how you feel?\n你打算什么时候告诉她你的感受?"
+         ],
+         "6,7,8,9" : [
+            "这里的into不要替换为to,\n因为into还多了一层\"进入\"的含义."
+         ]
+      },
+      "1" : {
+         "1,2,3,4,5,6" : [
+            "Ian\n/'iən/\n人名\n\nHas...done sth yet?\n某人已经做了某事吗?\n\nHas Pauline talked to Ron yet?\nPauline跟Ron说话了吗?"
+         ]
+      },
+      "4" : {
+         "1,2,3,4,5,6,7,8" : [
+            "Has...done sth yet?\n某人已经做了某事吗?\n\nHas Pauline talked to Ron yet?\nPauline跟Ron说话了吗?\n\nmove to one's new house/home\n搬到某人的新家\n"
+         ]
+      },
+      "18" : {
+         "2,3,4,5" : [
+            "give sb one's regards\n给某人送去问候\n\nI'll give him your regards.\n我会把你的问候转达给他"
+         ]
+      },
+      "19" : {
+         "1,2" : [
+            "poor+人名\n可怜的XXX\n\nPoor Wind\n可怜的Wind\n\n这里的poor不是穷困的意思"
+         ]
+      },
+      "10" : {
+         "1,2,3" : [
+            "I'll do...\n我将会做\n\nI'll move to Shang hai\n我将会搬到上海去\n\nmiss sb.\n想念某人\nmiss另外一个意思是错过, miss the bus, 注意不要混淆."
+         ]
+      },
+      "16" : {
+         "1,2,3,4" : [
+            "Will you do sth.?\n你将会做某事吗?\n\nWill you sell your house after you retire?\n当你退休之后你会卖掉你的房子吗?"
+         ]
+      }
+   }
 }

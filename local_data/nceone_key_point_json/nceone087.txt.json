@@ -1,3 +1,42 @@
 {
-   "87" : {}
+   "87" : {
+      "8" : {
+         "3" : [
+            "mechanic n. 机修工 \n\nMy father works as a car mechanic.\n我的父亲是一个汽车修理工"
+         ]
+      },
+      "11" : {
+         "1,2,3,4" : [
+            "Isn't that your car?=That's your car, isn't it?\n那不就是你的车吗?\n表示说话人其实已经比较清楚了, 就是再跟对方确认一下.\n\nIsn't that your father over there?\n那边那个不是你父亲吗?"
+         ]
+      },
+      "1" : {
+         "5" : [
+            "yet在否定句和疑问句中表示\"已经\"\nalready在肯定句中表示\"已经\"\n\n虽然二者常常用于完成时, 但是也可以用于别的时态.\n\nAre you ready yet?\n你准备好了吗?\nI'm not ready yet.\n我还没有准备好"
+         ]
+      },
+      "18" : {
+         "2,3,4,5,6" : [
+            "to tell you the truth\n说实话 = to be honest = honestly\n\nTo tell you the truth, I don't think it's a good idea\n实话实说, 我觉得这不是个好主意."
+         ]
+      },
+      "10" : {
+         "5" : [
+            "garage n. 车库\n\nWhere's your car?\n你的车在哪?\nIt's in the garage.\n在车库"
+         ]
+      },
+      "15" : {
+         "6" : [
+            "lamp-post = street light = lamp stand\n原文翻译错误，这里应该指街边的路灯\n"
+         ],
+         "2,3,4" : [
+            "drive into\n撞上\n\nHe drove the truck right into the tree. 他开车撞上了树\n\n这里的into不可以替换为onto, onto表示\"开的...的上边\"\n"
+         ]
+      },
+      "14" : {
+         "1,2" : [
+            "That's right = yes.\n\n- So you quit your job? - That's right."
+         ]
+      }
+   }
 }

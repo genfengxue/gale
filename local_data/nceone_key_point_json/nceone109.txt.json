@@ -1,3 +1,62 @@
 {
-   "109" : {}
+   "109" : {
+      "21" : {
+         "4" : [
+            "instead adv. \n代替，更换\n\nWe don't have any no coffee. Would you like some tea instead? \n我们没有咖啡了. 改喝茶好么? "
+         ],
+         "3" : [
+            "biscuit n.\n['bɪskɪt]\n饼干（英式），美式为cookie"
+         ]
+      },
+      "7" : {
+         "1,2" : [
+            "teaspoonful n.\n['tispunfʊl]\n茶匙（量词) \n另外有汤匙tablespoonful，比teaspoonful要大些\n\nTo make the sauce, I need one teaspoonful of sugar.\n做这个酱汁我需要一茶匙糖。"
+         ]
+      },
+      "9" : {
+         "1,2,3,4" : [
+            "one and a half\n一个半\n\nPolice arrived one and a half hours ago.\n警察在一个半小时前抵达。"
+         ]
+      },
+      "17" : {
+         "5,6" : [
+            "a few\n一些（修饰可数名词），不可数用a little\n\nI need to get a few things in town.\n我需要去镇上买一些东西。"
+         ]
+      },
+      "2" : {
+         "5" : [
+            "Charlotte\n['ʃɑrlət]\t\n夏洛特"
+         ]
+      },
+      "20" : {
+         "1,2,3" : [
+            "It doesn't matter.\n没关系，无关紧要\n\nIt doesn't matter what you wear - just as long as you come.\n你穿什么无关紧要 - 你只要来就行了。"
+         ]
+      },
+      "14" : {
+         "4" : [
+            "cigarette n.\n['sɪɡəret]\n香烟"
+         ]
+      },
+      "1" : {
+         "1,2" : [
+            "Shall用于对‘我’或者‘我们’提出建议和邀请\n\nShall I close the door for you?\n我帮你把门关上?"
+         ]
+      },
+      "23" : {
+         "4" : [
+            "advice n.\n建议（不可数）\n\nSteven gave me some good advice.\n史蒂芬给了我一些好建议。"
+         ]
+      },
+      "10" : {
+         "1,2,3,4" : [
+            "That's enough for me.\n那对我足够了。\n\n-Do you want more rice?\n-你还想来点米饭吗？\n-No, thank you. That's enough for me.\n-谢谢不用了，那对我已经足够了。"
+         ]
+      },
+      "19" : {
+         "1,2,3" : [
+            "What a pity!\n太可惜了！ What a + n. !表示感叹\n\nHe couldn't attend my wedding. What a pity! \n他无法出席我的婚礼，太可惜了！\nI missed my train, took a wrong bus and was two hours late for the interview. What a day!\n我错过了火车，搭错了公车，面试还迟到了两个小时。真是糟糕的一天！"
+         ]
+      }
+   }
 }
