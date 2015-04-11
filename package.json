@@ -27,7 +27,6 @@
     "express": "^4.11.1",
     "express-jwt": "^1.0.0",
     "express-validator": "^2.8.0",
-    "grunt": "^0.4.5",
     "jsonwebtoken": "^3.2.2",
     "lodash": "^2.4.1",
     "log4js": "^0.6.22",
@@ -44,7 +43,15 @@
     "underscore.string": "^3.0.1"
   },
   "devDependencies": {
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt-express-server": "^0.4.19"
+    "gulp": "^3.8.11",
+    "gulp-coffee": "^2.3.1",
+    "gulp-coffeelint": "^0.4.0",
+    "gulp-less": "^3.0.2",
+    "gulp-load-plugins": "^0.9.0",
+    "gulp-nodemon": "^2.0.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-open": "^0.3.2",
+    "gulp-wait": "0.0.2",
+    "run-sequence": "^1.0.2"
   }
 }
