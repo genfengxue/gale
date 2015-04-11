@@ -7,8 +7,6 @@ path = require 'path'
 bodyParser = require 'body-parser'
 cookieParser = require('cookie-parser')
 
-console.log config
-
 app = express()
 
 app.use((req, res, next) ->

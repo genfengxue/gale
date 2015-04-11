@@ -3,7 +3,7 @@ Schema = mongoose.Schema
 ObjectId = Schema.Types.ObjectId
 BaseModel = (require '../../common/BaseModel').BaseModel
 
-exports.StudentQuestion= BaseModel.subclass
+exports.StudentQuestion = BaseModel.subclass
   classname: 'StudentQuestion'
   populates: {
   }
