@@ -16,6 +16,12 @@ gulp.task 'express:dev', ->
   .pipe $.wait(1000)
   .pipe $.open('', url:"http://localhost:#{process.env.PORT or 9000}")
 
+# will compile less file in first level. patial files should be placed in second level
+gulp.task 'less', ->
+  gulp.src 'public/less/*.less'
+  .pipe $.less().on('error', handleError)
+  .pipe gulp.dest('public/css')
+
 gulp.task 'watch', ->
   $.wait(1000)
   gulp.watch [
@@ -24,6 +30,11 @@ gulp.task 'watch', ->
   ]
   , ['coffeelint:server']
 
+  gulp.watch [
+    "public/less/**/*.less"
+  ]
+  , ['less']
+
 gulp.task 'coffeelint:server', ->
   gulp.src [
     "./**/*.coffee",
@@ -31,10 +42,12 @@ gulp.task 'coffeelint:server', ->
   ]
   .pipe($.coffeelint('./coffeelint.json'))
   .pipe($.coffeelint.reporter())
+  .on 'error', handleError
 
 gulp.task 'serve', ->
   $.runSequence(
     'coffeelint:server'
+    'less'
     'express:dev'
     'watch'
   )

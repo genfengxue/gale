@@ -11,7 +11,7 @@ router.get "/", auth.verifyTokenCookie(), (req, res, next) ->
   if req.user
     token = auth.signToken(req.user.userNo)
 
-  res.render 'index', {token: token}
+  res.render 'admin', {token: token}
 
 router.post "/login", (req, res, next) ->
   console.log req.body

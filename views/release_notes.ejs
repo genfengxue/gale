@@ -1,0 +1,55 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <base href="/">
+  <title>跟风学</title>
+
+  <!-- lib -->
+  <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css">
+  <!-- global common -->
+  <link rel="stylesheet" href="css/global.css">
+
+  <!-- page specified -->
+  <link rel="stylesheet" href="css/release_notes.css">
+
+</head>
+<body>
+
+  <% include header %>
+
+  <div class="jumbotron" style="margin-top: -20px">
+    <div class="container">
+      <h1>Release Notes</h1>
+      <p>
+        这里是产品发布信息。
+      </p>
+    </div>
+  </div>
+
+  <section>
+    <div class="container">
+      <div class="timeline clearfix">
+        <ul>
+          <% _.each(releaseNotes, function(releaseNote) { %>
+            <li>
+              <div>
+                <h3><%= releaseNote.version %></h3>
+                <ol>
+                  <% _.each(releaseNote.content, function(str) { %>
+                    <li> <%= str %> </li>
+                  <% }); %>
+                </ol>
+                <time><%= releaseNote.created %></time>
+              </div>
+            </li>
+          <% }); %>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
+  <% include footer %>
+
+</body>
+</html>

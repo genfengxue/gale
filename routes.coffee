@@ -8,3 +8,6 @@ module.exports = (app) ->
   app.use '/api/student_questions', require './api/student_question/controller'
   app.use '/admin', require './api/admin/controller'
   app.use '/api/auth', require './auth'
+
+  # frontend stuff
+  app.use '/release_notes', require './frontend/release_note'

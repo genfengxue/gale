@@ -1,4 +1,16 @@
-<% include layout_header %>
+<!DOCTYPE html>
+<html lang='zh'>
+  <head>
+    <meta charset="UTF-8">
+    <title>跟风学</title>
+    <!-- lib -->
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css">
+    <!-- global common -->
+    <link rel="stylesheet" href="css/global.css">
+  </head>
+  <body>
+
+<% include header %>
 <h1>Admin Page</h1>
 <% if (!token) { %>
 <form action="/admin/login" method="post">
@@ -17,4 +29,7 @@
 <hr>
 <% } %>
 
-<% include layout_footer %>
+<% include footer %>
+
+</body>
+</html>
