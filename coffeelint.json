@@ -1,0 +1,32 @@
+{
+  "max_line_length": {
+    "value": 120,
+    "level": "warn"
+  },
+  "no_empty_param_list": {
+    "level": "warn"
+  },
+  "arrow_spacing": {
+    "value": 1,
+    "level": "warn"
+  },
+  "braces_spacing": {
+    "value": 0,
+    "level": "warn"
+  },
+  "duplicate_key": {
+    "level": "warn"
+  },
+  "no_empty_functions": {
+    "level": "warn"
+  },
+  "no_interpolation_in_single_quotes": {
+    "level": "warn"
+  },
+  "space_operators": {
+    "level": "warn"
+  },
+  "spacing_after_comma": {
+    "level": "warn"
+  }
+}
