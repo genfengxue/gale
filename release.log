@@ -1,3 +1,10 @@
+2015-04-12 14:48:57
+mongo gale
+db.sentences.remove({lessonNo: 5});
+coffee scripts/load_srt_json_to_db.coffee de 5
+
+
+
 2015-04-10 21:55:27
 #导入知识点，指定课程
 coffee scripts/load_key_point_json_to_db.coffee nceone 71,73,75,77,79,81,83,85,87,89,91,93,95,97,99,101,103,105,107,109,119
