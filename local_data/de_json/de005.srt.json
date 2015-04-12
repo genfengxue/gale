@@ -57,24 +57,16 @@
    },
    {
       "lessonNo" : 5,
-      "chinese" : "研讨会从9:30到正午. 开幕辞开始于9点 整.",
+      "chinese" : "研讨会从9:30到正午.",
       "sentenceNo" : 8,
       "courseNo" : 2,
       "timeline" : "00:00:28,180 --> 00:00:28,208",
-      "english" : "Workshops run from 9：30 to noon. The opening address begins at 9 o'clock sharp."
-   },
-   {
-      "lessonNo" : 5,
-      "chinese" : "研讨会从9:30到正午.",
-      "sentenceNo" : 9,
-      "courseNo" : 2,
-      "timeline" : "00:00:28,208 --> 00:00:30,420",
       "english" : "Workshops run from 9：30 to noon."
    },
    {
       "lessonNo" : 5,
       "chinese" : "然后午餐.",
-      "sentenceNo" : 10,
+      "sentenceNo" : 9,
       "courseNo" : 2,
       "timeline" : "00:00:30,600 --> 00:00:31,740",
       "english" : "Then lunch."
@@ -82,7 +74,7 @@
    {
       "lessonNo" : 5,
       "chinese" : "1小时?",
-      "sentenceNo" : 11,
+      "sentenceNo" : 10,
       "courseNo" : 2,
       "timeline" : "00:00:31,742 --> 00:00:32,956",
       "english" : "One hour?"
@@ -90,7 +82,7 @@
    {
       "lessonNo" : 5,
       "chinese" : "对的",
-      "sentenceNo" : 12,
+      "sentenceNo" : 11,
       "courseNo" : 2,
       "timeline" : "00:00:32,957 --> 00:00:33,940",
       "english" : "Yes."
@@ -98,7 +90,7 @@
    {
       "lessonNo" : 5,
       "chinese" : "第二场从1点到大约4:15.",
-      "sentenceNo" : 13,
+      "sentenceNo" : 12,
       "courseNo" : 2,
       "timeline" : "00:00:33,941 --> 00:00:38,053",
       "english" : "The second session goes from one to about 4:15."
@@ -106,7 +98,7 @@
    {
       "lessonNo" : 5,
       "chinese" : "讨论结束于4:45.",
-      "sentenceNo" : 14,
+      "sentenceNo" : 13,
       "courseNo" : 2,
       "timeline" : "00:00:38,120 --> 00:00:40,180",
       "english" : "Discussion ends at 4:45."
@@ -114,7 +106,7 @@
    {
       "lessonNo" : 5,
       "chinese" : "然后一个小招待会.",
-      "sentenceNo" : 15,
+      "sentenceNo" : 14,
       "courseNo" : 2,
       "timeline" : "00:00:40,260 --> 00:00:42,020",
       "english" : "Then a small reception."
@@ -122,7 +114,7 @@
    {
       "lessonNo" : 5,
       "chinese" : "直到什么时间?",
-      "sentenceNo" : 16,
+      "sentenceNo" : 15,
       "courseNo" : 2,
       "timeline" : "00:00:42,118 --> 00:00:43,772",
       "english" : "Until what time?"
@@ -130,7 +122,7 @@
    {
       "lessonNo" : 5,
       "chinese" : "Oh... 对不起",
-      "sentenceNo" : 17,
+      "sentenceNo" : 16,
       "courseNo" : 2,
       "timeline" : "00:00:43,895 --> 00:00:46,949",
       "english" : "Oh...  Sorry."
@@ -138,7 +130,7 @@
    {
       "lessonNo" : 5,
       "chinese" : "那是我的手表闹钟.",
-      "sentenceNo" : 18,
+      "sentenceNo" : 17,
       "courseNo" : 2,
       "timeline" : "00:00:47,240 --> 00:00:49,508",
       "english" : "That's my watch alarm."
@@ -146,7 +138,7 @@
    {
       "lessonNo" : 5,
       "chinese" : "我有个预约 在酒店 在11点钟时",
-      "sentenceNo" : 19,
+      "sentenceNo" : 18,
       "courseNo" : 2,
       "timeline" : "00:00:49,612 --> 00:00:52,735",
       "english" : "I have an appointment back at the hotel at eleven o'clock."
@@ -154,7 +146,7 @@
    {
       "lessonNo" : 5,
       "chinese" : "11点了  已经?",
-      "sentenceNo" : 20,
+      "sentenceNo" : 19,
       "courseNo" : 2,
       "timeline" : "00:00:52,778 --> 00:00:54,429",
       "english" : "Is it eleven already?"
@@ -162,7 +154,7 @@
    {
       "lessonNo" : 5,
       "chinese" : "没, 没. 事实呢, 是10:30.",
-      "sentenceNo" : 21,
+      "sentenceNo" : 20,
       "courseNo" : 2,
       "timeline" : "00:00:54,430 --> 00:00:57,063",
       "english" : "No, no. Actually, it's 10:30."
@@ -170,7 +162,7 @@
    {
       "lessonNo" : 5,
       "chinese" : "我把我的表调快了半个小时.",
-      "sentenceNo" : 22,
+      "sentenceNo" : 21,
       "courseNo" : 2,
       "timeline" : "00:00:57,064 --> 00:00:59,418",
       "english" : "I set my watch half an hour fast."
@@ -178,7 +170,7 @@
    {
       "lessonNo" : 5,
       "chinese" : "你永远不迟到, 是吗?",
-      "sentenceNo" : 23,
+      "sentenceNo" : 22,
       "courseNo" : 2,
       "timeline" : "00:00:59,419 --> 00:01:00,728",
       "english" : "You're never late, are you?"
@@ -186,7 +178,7 @@
    {
       "lessonNo" : 5,
       "chinese" : "永不. 我不能(迟到)!",
-      "sentenceNo" : 24,
+      "sentenceNo" : 23,
       "courseNo" : 2,
       "timeline" : "00:01:00,729 --> 00:01:02,575",
       "english" : "Never. I can't be!"

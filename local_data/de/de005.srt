@@ -35,11 +35,6 @@ The opening address begins at 9 o'clock sharp.
 
 8
 00:00:28,180 --> 00:00:28,208
-Workshops run from 9：30 to noon. The opening address begins at 9 o'clock sharp.
-研讨会从9:30到正午. 开幕辞开始于9点 整.
-
-9
-00:00:28,208 --> 00:00:30,420
 Workshops run from 9：30 to noon.
 研讨会从9:30到正午.
 
