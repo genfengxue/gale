@@ -16,7 +16,7 @@ isAuthenticated = (credentialsRequired) ->
   ).use (req, res, next) ->
     if !req.user
       return next()
-    User.findOne { userNo: req.user.userNo }, (err, user) ->
+    User.findOne {userNo: req.user.userNo}, (err, user) ->
       if err
         return next(err)
       if !user
@@ -53,7 +53,7 @@ hasRole = (roleRequired) ->
 ###
 
 signToken = (userNo) ->
-  jwt.sign { userNo: userNo }, config.secrets.session, expiresInMinutes: config.tokenExpiresInMinutes
+  jwt.sign {userNo: userNo}, config.secrets.session, expiresInMinutes: config.tokenExpiresInMinutes
 
 ###*
 # Set token cookie directly for oAuth strategies
@@ -83,7 +83,7 @@ verifyTokenCookie = ->
     return
   ).use (req, res, next) ->
     if req.user
-      User.findOne { userNo: req.user.userNo }, (err, user) ->
+      User.findOne {userNo: req.user.userNo}, (err, user) ->
         if err
           return next(err)
         if !user

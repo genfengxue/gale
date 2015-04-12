@@ -50,7 +50,7 @@ log4js.configure
 logger = log4js.getLogger logCategory
 logger.setLevel 'INFO'
 
-write = () ->
+write = ->
   Array::unshift.call arguments, new Date().toISOString()
   @info Array::join.call arguments, '\t'
 

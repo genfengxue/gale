@@ -14,7 +14,7 @@ class SentenceUtils
         promises.push @importOneSentence courseNo, lessonNo, sentenceNo, keyPointMap
 
     Q.all promises
-    .then () ->
+    .then ->
       logger.warn "load success: #{file}"
 
   importOneSentence: (courseNo, lessonNo, sentenceNo, keyPointMap) ->
@@ -27,7 +27,7 @@ class SentenceUtils
     Q.all promises
     .then (keyPoints) ->
       Sentence.updateQ {courseNo: courseNo, lessonNo: lessonNo, sentenceNo: sentenceNo}, {$set: {keyPoints: keyPoints}}
-    .then () ->
+    .then ->
       logger.info "success: #{courseNo}-#{lessonNo}-#{sentenceNo}"
 
   importOneKey: (key, texts) ->
@@ -40,7 +40,7 @@ class SentenceUtils
         )
 
     Q.all promises
-    .then () ->
+    .then ->
       keyPoint.kps[0].isPrimary = true #一个key上挂多个知识点时，第一个为primary
       return keyPoint
 

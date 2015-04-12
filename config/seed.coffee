@@ -20,5 +20,5 @@ User.createQ {
   password: 'student'
   userNo  : 2
 }
-.then ()->
+.then ->
   console.log 'finished populating user'

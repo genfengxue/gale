@@ -9,7 +9,7 @@ handleError =
     message: "<%= error.name %>: <%= error.toString() %>"
 
 gulp.task 'express:dev', ->
-  $.nodemon { script:'./app.coffee', ext:'coffee js', watch:'./', delay:1.5}
+  $.nodemon {script:'./app.coffee', ext:'coffee js', watch:'./', delay:1.5}
   .on 'restart', ->
     console.log 'restarted!'
   gulp.src "./app.coffee"

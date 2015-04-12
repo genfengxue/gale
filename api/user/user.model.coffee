@@ -21,8 +21,6 @@ exports.User = BaseModel.subclass
         type: String
         unique: true
         sparse: true
-      avatar:
-        type: String
       email:
         type: String
         lowercase: true
@@ -46,13 +44,13 @@ setupUserSchema = (UserSchema) ->
     this._password = password
     this.salt = this.makeSalt()
     this.hashedPassword = this.encryptPassword(password)
-  .get () ->
+  .get ->
     this._password
 
   # Public profile information
   UserSchema
   .virtual 'profile'
-  .get () ->
+  .get ->
     userNo  : this.userNo
     role    : this.role
     nickname: this.nickname
@@ -62,7 +60,7 @@ setupUserSchema = (UserSchema) ->
   # Non-sensitive info we will be putting in the token
   UserSchema
   .virtual 'token'
-  .get () ->
+  .get ->
     userNo: this.userNo
     role: this.role
 
@@ -91,7 +89,7 @@ setupUserSchema = (UserSchema) ->
      @return {String}
      @api public
     ###
-    makeSalt: () ->
+    makeSalt: ->
       crypto.randomBytes 16
       .toString 'base64'
 

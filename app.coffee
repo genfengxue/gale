@@ -7,6 +7,8 @@ path = require 'path'
 bodyParser = require 'body-parser'
 cookieParser = require('cookie-parser')
 
+console.log config
+
 app = express()
 
 app.use((req, res, next) ->
@@ -25,8 +27,8 @@ app.use(passport.initialize())
 app.use(favicon(__dirname + '/public/favicon.ico'))
 
 fs = require 'fs'
-accessLog = fs.createWriteStream(config.morgan.accessLog, { flags: 'a' })
-errorLog = fs.createWriteStream(config.morgan.errorLog, { flags: 'a' })
+accessLog = fs.createWriteStream(config.morgan.accessLog, {flags: 'a'})
+errorLog = fs.createWriteStream(config.morgan.errorLog, {flags: 'a'})
 app.use(morgan('combined', {stream: accessLog}))
 app.use(morgan('dev'))
 
@@ -64,7 +66,7 @@ app.use((err, req, res, next) ->
   next()
 )
 
-server = app.listen(config.port, () ->
+server = app.listen(config.port, ->
 
   host = server.address().address
   port = server.address().port

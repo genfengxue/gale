@@ -2,6 +2,7 @@ require '../common/init'
 
 class WrapRequest
   constructor: (@Model) ->
+    console.log "WrapRequest: #{@Model.constructor.name}"
 
   populateQuery: (mongoQuery, options = []) ->
     for option in options
@@ -117,11 +118,11 @@ class WrapRequest
                 "||| update:", update
     tmpResult = {}
     @Model.createQ data
-    .then (newDoc) =>
+    .then (newDoc) ->
       tmpResult.newDoc = newDoc
       if updateModel
         updateModel.updateQ updateConds, update
-    .then () =>
+    .then =>
       @populateDoc tmpResult.newDoc, @Model.populates?.create
     .then (doc) ->
       res.send doc
@@ -165,7 +166,7 @@ class WrapRequest
       @Model.updateQ conditions, {deleteFlag: true}
     else
       @Model.removeQ conditions
-    ).then () ->
+    ).then ->
       res.send 204
     .catch next
     .done()
