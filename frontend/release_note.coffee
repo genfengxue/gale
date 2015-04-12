@@ -2,6 +2,7 @@ express = require("express")
 router = express.Router()
 
 router.get "/", (req, res, next) ->
+
   releaseNotes = [
     version: 'v1.2'
     content: [
@@ -25,6 +26,6 @@ router.get "/", (req, res, next) ->
     ]
     created: '03-01'
   ]
-  res.render 'release_notes', {releaseNotes: releaseNotes}
+  res.render 'release_notes', {releaseNotes: releaseNotes, embedded: req.query.embedded?}
 
 module.exports = router
