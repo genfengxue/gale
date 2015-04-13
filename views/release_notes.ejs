@@ -34,11 +34,7 @@
             <li>
               <div>
                 <h3><%= releaseNote.version %></h3>
-                <ol>
-                  <% _.each(releaseNote.content, function(str) { %>
-                    <li> <%= str %> </li>
-                  <% }); %>
-                </ol>
+                <div><%- releaseNote.content.replace(/\n/g, "<br>") %></div>
                 <time><%= releaseNote.created %></time>
               </div>
             </li>
