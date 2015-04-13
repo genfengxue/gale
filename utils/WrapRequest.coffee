@@ -165,8 +165,9 @@ class WrapRequest
     (if @Model.schema.paths.deleteFlag
       @Model.updateQ conditions, {deleteFlag: true}
     else
-      @Model.removeQ conditions
-    ).then ->
+      @Model.findOneAndRemoveQ conditions
+    ).then (doc) ->
+      loggerD.write JSON.stringify {type: "destroy#{@Model.constructor.name}", data: doc}
       res.send 204
     .catch next
     .done()
