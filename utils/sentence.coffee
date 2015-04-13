@@ -38,6 +38,7 @@ class SentenceUtils
         keyPoint.kps.push(
           kp: doc._id
         )
+        loggerD.write JSON.stringify {type: 'kp', kpId: doc._id}
 
     Q.all promises
     .then ->
