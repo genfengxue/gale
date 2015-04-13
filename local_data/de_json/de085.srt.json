@@ -1,0 +1,306 @@
+[
+   {
+      "lessonNo" : 85,
+      "chinese" : "你好,Michael.你好,Danny.",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:07,082 --> 00:00:08,890",
+      "english" : "Hi, Michael. Hi, Danny."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "你好,Nancy.",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:09,186 --> 00:00:09,700",
+      "english" : "Hi, Nancy."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "Yvonne,见过我们的新房客了吗?",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:09,946 --> 00:00:11,450",
+      "english" : "Yvonne, have you met our new tenants?"
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "还没有.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:11,662 --> 00:00:12,124",
+      "english" : "Not yet."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "Yvonne Washington, Michael Chung和Danny DeMarco.",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:12,435 --> 00:00:14,721",
+      "english" : "Yvonne Washington, Michael Chung and Danny DeMarco."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "他们是上周末搬进来的.",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:14,968 --> 00:00:15,960",
+      "english" : "They moved in last weekend."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "是上周末,对吗?",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:16,187 --> 00:00:18,700",
+      "english" : "It was last weekend, right?"
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "就在上周六.",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:18,960 --> 00:00:20,250",
+      "english" : "Just last Saturday."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "当然.我怎么可能忘记那张沙发呢?",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:20,557 --> 00:00:23,623",
+      "english" : "Of course. How could I forget that sofa?"
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "最后你们是怎么把它弄进房间的?",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:00:23,994 --> 00:00:25,990",
+      "english" : "How did you finally get it into the apartment?"
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "慢慢地,非常小心地搬进去的.",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:00:26,349 --> 00:00:28,361",
+      "english" : "Very slowly and very carefully."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "Yvonne,你也住这儿吗?",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:00:28,769 --> 00:00:30,142",
+      "english" : "Yvonne, do you live here, too?"
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "不,不.Nancy和我是生意伙伴,",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:00:30,376 --> 00:00:32,628",
+      "english" : "No, no. Nancy and I are business partners,"
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "所以我经常来这.",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:00:32,891 --> 00:00:34,007",
+      "english" : "so I'm here quite a bit."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "Oh. 你们做哪一行?",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:00:34,385 --> 00:00:35,352",
+      "english" : "Oh. What kind of business?"
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "室内装潢设计.",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:00:35,647 --> 00:00:36,913",
+      "english" : "Interior design."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "你们的新地方需要装修吗?",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:00:37,298 --> 00:00:38,804",
+      "english" : "Do you need help with your new place?"
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "就我们这些家具?不可能!",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:00:39,143 --> 00:00:41,903",
+      "english" : "With our furniture? Impossible!"
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "Oh,我不这么认为.",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:00:42,228 --> 00:00:44,418",
+      "english" : "Oh, I hardly think so."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "你没见过我们的沙发.",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:00:44,718 --> 00:00:45,879",
+      "english" : "You haven't seen the sofa."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "而且,我相信Lisa会帮我们重新装饰的.",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:00:46,178 --> 00:00:50,375",
+      "english" : "Besides, I'm sure Lisa will help us redecorate."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "-Lisa?   -Lisa是我的女朋友.",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:00:50,663 --> 00:00:52,500",
+      "english" : "-Lisa?   -Lisa's my girlfriend."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "刚下班回家吗,Danny?",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:00:52,807 --> 00:00:54,883",
+      "english" : "Just getting home from work, Danny?"
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "是的.我累死了.",
+      "sentenceNo" : 24,
+      "courseNo" : 2,
+      "timeline" : "00:00:55,257 --> 00:00:56,759",
+      "english" : "Yeah. I'm beat."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "你在哪里工作?",
+      "sentenceNo" : 25,
+      "courseNo" : 2,
+      "timeline" : "00:00:57,052 --> 00:00:58,086",
+      "english" : "Where do you work?"
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "在Kinko复印社.夜班.",
+      "sentenceNo" : 26,
+      "courseNo" : 2,
+      "timeline" : "00:00:58,310 --> 00:01:00,027",
+      "english" : "Kinko's. The night shift."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "你也是吗,Michael?",
+      "sentenceNo" : 27,
+      "courseNo" : 2,
+      "timeline" : "00:01:00,244 --> 00:01:01,597",
+      "english" : "You too, Michael?"
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "Oh不是.Michael可是位严肃的电影制片人.",
+      "sentenceNo" : 28,
+      "courseNo" : 2,
+      "timeline" : "00:01:01,880 --> 00:01:04,778",
+      "english" : "Oh no. Michael is a serious film maker."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "-Danny...   -真的吗?",
+      "sentenceNo" : 29,
+      "courseNo" : 2,
+      "timeline" : "00:01:05,064 --> 00:01:06,973",
+      "english" : "-Danny...   -Really?"
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "我是研究生,电影研究专业.",
+      "sentenceNo" : 30,
+      "courseNo" : 2,
+      "timeline" : "00:01:07,278 --> 00:01:09,170",
+      "english" : "I'm a graduate student in Film Studies."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "有时晚上我也打些工.",
+      "sentenceNo" : 31,
+      "courseNo" : 2,
+      "timeline" : "00:01:09,385 --> 00:01:10,686",
+      "english" : "And I do work at night, occasionally."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "真的,Yvonne,我们得走了.",
+      "sentenceNo" : 32,
+      "courseNo" : 2,
+      "timeline" : "00:01:11,003 --> 00:01:13,184",
+      "english" : "Actually, Yvonne, we've got to run."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "公寓的情况都好吗?",
+      "sentenceNo" : 33,
+      "courseNo" : 2,
+      "timeline" : "00:01:13,468 --> 00:01:15,266",
+      "english" : "Everything OK in the apartment?"
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "到目前为止还行.",
+      "sentenceNo" : 34,
+      "courseNo" : 2,
+      "timeline" : "00:01:15,526 --> 00:01:16,330",
+      "english" : "So far, so good."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "好.那再见了.",
+      "sentenceNo" : 35,
+      "courseNo" : 2,
+      "timeline" : "00:01:16,400 --> 00:01:17,700",
+      "english" : "Good. We'll see you later."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "-很高兴认识你们.    -再见.",
+      "sentenceNo" : 36,
+      "courseNo" : 2,
+      "timeline" : "00:01:17,868 --> 00:01:18,700",
+      "english" : "-Nice to meet you.  -Bye."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "整夜工作一定很累.",
+      "sentenceNo" : 37,
+      "courseNo" : 2,
+      "timeline" : "00:01:20,056 --> 00:01:21,533",
+      "english" : "It must be hard to work all night."
+   },
+   {
+      "lessonNo" : 85,
+      "chinese" : "除非你白天睡一整天.",
+      "sentenceNo" : 38,
+      "courseNo" : 2,
+      "timeline" : "00:01:21,792 --> 00:01:23,600",
+      "english" : "Unless you sleep all day."
+   }
+]

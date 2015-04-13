@@ -1,0 +1,164 @@
+1
+Good morning.
+<k></k>
+
+2
+Morning. Is there any coffee?
+<k></k>
+
+3
+Mm-hm. I just made it.
+<k></k>
+
+4
+Do you want a muffin?
+<k></k>
+
+5
+No, thanks. I'll get something at work.
+<k></k>
+
+6
+Do you want a cup, Nancy?
+<k></k>
+
+7
+Yes, please.
+<k></k>
+
+8
+Is Beth awake?
+<k></k>
+
+9
+More or less. She'll be right down.
+<k></k>
+
+10
+I'm giving her a ride to school.
+<k></k>
+
+11
+Very clever, Counselor Hobart.
+<k></k>
+
+12
+She will get out of bed for a lift.
+<k></k>
+
+13
+What is your day like?
+<k></k>
+
+14
+I go to the office this morning.
+<k></k>
+
+15
+And I'm in court this afternoon.
+<k></k>
+
+16
+I won't be home late -about 6:30.
+<k></k>
+
+17
+How about you?
+<k></k>
+
+18
+Yvonne and I have a meeting with a client.
+<k></k>
+
+19
+Which client?
+<k></k>
+
+20
+Bill Collins.
+<k></k>
+
+21
+We're almost finished with his condo.
+<k></k>
+
+22
+I'll show you pictures tonight.
+<k></k>
+
+23
+Do you want a muffin?
+<k></k>
+
+24
+I will make you a muffin.
+<k></k>
+
+25
+No, no, no. This is fine.
+<k></k>
+
+26
+Good morning, Beth.
+<k></k>
+
+27
+Hi, honey.
+<k></k>
+
+28
+I'm very well this morning, thank you.
+<k></k>
+
+29
+Would you like a muffin?
+<k></k>
+
+30
+Do you want some yogurt?
+<k></k>
+
+31
+-An egg?  -Mom!
+<k></k>
+
+32
+Eggs are good.
+<k></k>
+
+33
+I'm not hungry.
+<k></k>
+
+34
+Beth, you really must eat something.
+<k></k>
+
+35
+How about some cereal?
+<k></k>
+
+36
+Dad, make her stop.
+<k></k>
+
+37
+Breakfast is the most important meal of the day. Bye.
+<k></k>
+
+38
+-Bye.   -Bye. See you tonight.
+<k></k>
+
+39
+-Richard!  -Dad!
+<k></k>
+
+40
+You were taking Beth to school!
+<k></k>
+
+41
+Oops! Well, then I will have a muffin.
+<k></k>
+

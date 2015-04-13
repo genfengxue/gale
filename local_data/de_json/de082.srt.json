@@ -1,0 +1,330 @@
+[
+   {
+      "lessonNo" : 82,
+      "chinese" : "早上好.",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:06,427 --> 00:00:06,860",
+      "english" : "Good morning."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "早上好,有咖啡吗?",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:07,350 --> 00:00:09,000",
+      "english" : "Morning. Is there any coffee?"
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "Mm-hm.我刚煮好.",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:09,450 --> 00:00:10,500",
+      "english" : "Mm-hm. I just made it."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "你想要块松饼吗?",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:12,000 --> 00:00:13,000",
+      "english" : "Do you want a muffin?"
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "不,谢谢. 我会在上班时吃点什么的.",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:14,400 --> 00:00:15,915",
+      "english" : "No, thanks. I'll get something at work."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "你想来杯咖啡吗,Nancy?",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:21,374 --> 00:00:22,873",
+      "english" : "Do you want a cup, Nancy?"
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "是的,请给我倒一杯.",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:23,200 --> 00:00:24,032",
+      "english" : "Yes, please."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "Beth醒了吗?",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:25,580 --> 00:00:26,350",
+      "english" : "Is Beth awake?"
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "差不多了.她马上就下来.",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:27,090 --> 00:00:28,913",
+      "english" : "More or less. She'll be right down."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "我要开车送她去学校.",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:00:29,541 --> 00:00:31,051",
+      "english" : "I'm giving her a ride to school."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "真聪明,Hobart律师.",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:00:31,691 --> 00:00:33,970",
+      "english" : "Very clever, Counselor Hobart."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "为了坐你的车她会起床的.",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:00:34,273 --> 00:00:35,470",
+      "english" : "She will get out of bed for a lift."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "你今天有何安排?",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:00:36,448 --> 00:00:38,185",
+      "english" : "What is your day like?"
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "我上午去办公室.",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:00:38,969 --> 00:00:41,057",
+      "english" : "I go to the office this morning."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "下午要出庭.",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:00:41,645 --> 00:00:43,131",
+      "english" : "And I'm in court this afternoon."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "今天到家不会太晚  大概6:30.",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:00:43,642 --> 00:00:45,942",
+      "english" : "I won't be home late -about 6:30."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "你呢?",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:00:46,364 --> 00:00:47,089",
+      "english" : "How about you?"
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "Yvonne和我约了一个客户见面.",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:00:47,697 --> 00:00:49,080",
+      "english" : "Yvonne and I have a meeting with a client."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "哪个客户?",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:00:49,499 --> 00:00:50,201",
+      "english" : "Which client?"
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "Bill Collins.",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:00:50,545 --> 00:00:51,095",
+      "english" : "Bill Collins."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "他那套公寓的装修设计我们快做完了.",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:00:51,371 --> 00:00:52,527",
+      "english" : "We're almost finished with his condo."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "我今晚会给你看图片.",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:00:53,190 --> 00:00:54,227",
+      "english" : "I'll show you pictures tonight."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "你想要松饼吗?",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:00:56,145 --> 00:00:56,932",
+      "english" : "Do you want a muffin?"
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "我给你弄一块.",
+      "sentenceNo" : 24,
+      "courseNo" : 2,
+      "timeline" : "00:00:57,471 --> 00:00:59,173",
+      "english" : "I will make you a muffin."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "不不不,这就够了.",
+      "sentenceNo" : 25,
+      "courseNo" : 2,
+      "timeline" : "00:00:59,566 --> 00:01:00,821",
+      "english" : "No, no, no. This is fine."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "早上好,Beth.",
+      "sentenceNo" : 26,
+      "courseNo" : 2,
+      "timeline" : "00:01:05,656 --> 00:01:07,741",
+      "english" : "Good morning, Beth."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "你好,宝贝.",
+      "sentenceNo" : 27,
+      "courseNo" : 2,
+      "timeline" : "00:01:08,088 --> 00:01:08,595",
+      "english" : "Hi, honey."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "我今天感觉不错,谢谢.",
+      "sentenceNo" : 28,
+      "courseNo" : 2,
+      "timeline" : "00:01:09,340 --> 00:01:12,082",
+      "english" : "I'm very well this morning, thank you."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "想来块松饼吗?",
+      "sentenceNo" : 29,
+      "courseNo" : 2,
+      "timeline" : "00:01:12,599 --> 00:01:13,587",
+      "english" : "Would you like a muffin?"
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "要酸奶吗?",
+      "sentenceNo" : 30,
+      "courseNo" : 2,
+      "timeline" : "00:01:15,249 --> 00:01:16,123",
+      "english" : "Do you want some yogurt?"
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "-鸡蛋呢?  -妈妈！",
+      "sentenceNo" : 31,
+      "courseNo" : 2,
+      "timeline" : "00:01:17,877 --> 00:01:19,635",
+      "english" : "-An egg?  -Mom!"
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "鸡蛋很不错.",
+      "sentenceNo" : 32,
+      "courseNo" : 2,
+      "timeline" : "00:01:19,971 --> 00:01:20,732",
+      "english" : "Eggs are good."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "我不饿.",
+      "sentenceNo" : 33,
+      "courseNo" : 2,
+      "timeline" : "00:01:21,099 --> 00:01:22,042",
+      "english" : "I'm not hungry."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "Beth,你真的必须吃写些东西.",
+      "sentenceNo" : 34,
+      "courseNo" : 2,
+      "timeline" : "00:01:22,461 --> 00:01:24,144",
+      "english" : "Beth, you really must eat something."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "来点儿麦片怎么样?",
+      "sentenceNo" : 35,
+      "courseNo" : 2,
+      "timeline" : "00:01:24,554 --> 00:01:25,412",
+      "english" : "How about some cereal?"
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "爸爸,叫她别说了.",
+      "sentenceNo" : 36,
+      "courseNo" : 2,
+      "timeline" : "00:01:25,773 --> 00:01:27,102",
+      "english" : "Dad, make her stop."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "早饭可是一天中最重要的一餐.再见.",
+      "sentenceNo" : 37,
+      "courseNo" : 2,
+      "timeline" : "00:01:27,682 --> 00:01:32,856",
+      "english" : "Breakfast is the most important meal of the day. Bye."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "-再见.  -再见.晚上见.",
+      "sentenceNo" : 38,
+      "courseNo" : 2,
+      "timeline" : "00:01:33,483 --> 00:01:37,579",
+      "english" : "-Bye.   -Bye. See you tonight."
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "-Richard!  -爸爸!",
+      "sentenceNo" : 39,
+      "courseNo" : 2,
+      "timeline" : "00:01:38,179 --> 00:01:39,870",
+      "english" : "-Richard!  -Dad!"
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "你说过要送Beth去学校的.",
+      "sentenceNo" : 40,
+      "courseNo" : 2,
+      "timeline" : "00:01:41,163 --> 00:01:42,393",
+      "english" : "You were taking Beth to school!"
+   },
+   {
+      "lessonNo" : 82,
+      "chinese" : "Oops! Well,那我吃块松饼.",
+      "sentenceNo" : 41,
+      "courseNo" : 2,
+      "timeline" : "00:01:44,026 --> 00:01:49,000",
+      "english" : "Oops! Well, then I will have a muffin."
+   }
+]

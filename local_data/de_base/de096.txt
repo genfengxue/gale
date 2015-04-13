@@ -1,0 +1,112 @@
+1
+Beth! We are waiting for you.
+<k></k>
+
+2
+The phone is driving me crazy.
+<k></k>
+
+3
+Let's unplug it. I'm starting.
+<k></k>
+
+4
+Beth!
+<k></k>
+
+5
+Coming.
+<k></k>
+
+6
+Sorry.
+<k></k>
+
+7
+Hey, didn't you have a soccer game today?
+<k></k>
+
+8
+What was the score?
+<k></k>
+
+9
+Four to...
+<k></k>
+
+10
+Tell them you are eating dinner and will call back later.
+<k></k>
+
+11
+You see what I mean?
+<k></k>
+
+12
+Dad! It's for you.
+<k></k>
+
+13
+Sorry.
+<k></k>
+
+14
+The phone is driving me crazy.
+<k></k>
+
+15
+Mom, we should just turn on the answering machine.
+<k></k>
+
+16
+I don't want to use it to screen calls.
+<k></k>
+
+17
+I don't think it's right.
+<k></k>
+
+18
+If we're home, we should answer the phone.
+<k></k>
+
+19
+But we're not screening calls.
+<k></k>
+
+20
+We just don't want to be interrupted.
+<k></k>
+
+21
+If we were eating out, the machine would be on.
+<k></k>
+
+22
+You have a point.
+<k></k>
+
+23
+So, let's use it during meals or just during dinner.
+<k></k>
+
+24
+Maybe.
+<k></k>
+
+25
+Sorry. That was Joe.
+<k></k>
+
+26
+What did he want?
+<k></k>
+
+27
+The phone is driving you crazy.
+<k></k>
+
+28
+Nan! It's for you.
+<k></k>
+

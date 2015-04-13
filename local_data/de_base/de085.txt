@@ -1,0 +1,152 @@
+1
+Hi, Michael. Hi, Danny.
+<k></k>
+
+2
+Hi, Nancy.
+<k></k>
+
+3
+Yvonne, have you met our new tenants?
+<k></k>
+
+4
+Not yet.
+<k></k>
+
+5
+Yvonne Washington, Michael Chung and Danny DeMarco.
+<k></k>
+
+6
+They moved in last weekend.
+<k></k>
+
+7
+It was last weekend, right?
+<k></k>
+
+8
+Just last Saturday.
+<k></k>
+
+9
+Of course. How could I forget that sofa?
+<k></k>
+
+10
+How did you finally get it into the apartment?
+<k></k>
+
+11
+Very slowly and very carefully.
+<k></k>
+
+12
+Yvonne, do you live here, too?
+<k></k>
+
+13
+No, no. Nancy and I are business partners,
+<k></k>
+
+14
+so I'm here quite a bit.
+<k></k>
+
+15
+Oh. What kind of business?
+<k></k>
+
+16
+Interior design.
+<k></k>
+
+17
+Do you need help with your new place?
+<k></k>
+
+18
+With our furniture? Impossible!
+<k></k>
+
+19
+Oh, I hardly think so.
+<k></k>
+
+20
+You haven't seen the sofa.
+<k></k>
+
+21
+Besides, I'm sure Lisa will help us redecorate.
+<k></k>
+
+22
+-Lisa?   -Lisa's my girlfriend.
+<k></k>
+
+23
+Just getting home from work, Danny?
+<k></k>
+
+24
+Yeah. I'm beat.
+<k></k>
+
+25
+Where do you work?
+<k></k>
+
+26
+Kinko's. The night shift.
+<k></k>
+
+27
+You too, Michael?
+<k></k>
+
+28
+Oh no. Michael is a serious film maker.
+<k></k>
+
+29
+-Danny...   -Really?
+<k></k>
+
+30
+I'm a graduate student in Film Studies.
+<k></k>
+
+31
+And I do work at night, occasionally.
+<k></k>
+
+32
+Actually, Yvonne, we've got to run.
+<k></k>
+
+33
+Everything OK in the apartment?
+<k></k>
+
+34
+So far, so good.
+<k></k>
+
+35
+Good. We'll see you later.
+<k></k>
+
+36
+-Nice to meet you.  -Bye.
+<k></k>
+
+37
+It must be hard to work all night.
+<k></k>
+
+38
+Unless you sleep all day.
+<k></k>
+

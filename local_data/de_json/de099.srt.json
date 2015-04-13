@@ -1,0 +1,346 @@
+[
+   {
+      "lessonNo" : 99,
+      "chinese" : "这是个大工程.",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:09,292 --> 00:00:10,585",
+      "english" : "This is a big job."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "但是我们能做好.",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:12,300 --> 00:00:14,078",
+      "english" : "But we can do it."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "Klara Kovak,我们来了.",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:15,559 --> 00:00:18,289",
+      "english" : "Klara Kovak, here we come."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "Nancy,Yvonne.请进.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:48,587 --> 00:00:51,046",
+      "english" : "Nancy, Yvonne. Do come in."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "这房子装修得挺好,但是感觉不对.",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:53,754 --> 00:00:56,147",
+      "english" : "It's nice, but it's not quite right."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "我们请了几位装潢师,",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:56,473 --> 00:00:58,369",
+      "english" : "We've had several decorators come in,"
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "但到目前为止, 结果还是令人失望.",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:58,530 --> 00:01:01,406",
+      "english" : "but so far, it's been a disappointment."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "注意下颜色.",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:01:03,828 --> 00:01:04,835",
+      "english" : "Notice the colors."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "根本不行.",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:01:05,817 --> 00:01:07,180",
+      "english" : "They simply won't do."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "我简直无法忍受去看他们...",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:01:07,417 --> 00:01:09,768",
+      "english" : "I can't bear to look at them..."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "Antonio和我雇了个公司来修理墙壁.",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:01:20,700 --> 00:01:23,999",
+      "english" : "Antonio and I hired a firm to fix the walls."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "Well,我们回家后发现厨房彻底给毁了.",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:01:24,150 --> 00:01:27,068",
+      "english" : "Well, we came home to find the kitchen completely ruined."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "你知道他们对我说什么吗?",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:01:27,738 --> 00:01:30,124",
+      "english" : "Do you know what they said to me?"
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "从那时起,",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:01:32,575 --> 00:01:33,192",
+      "english" : "From then on,"
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "我看着那些工人们做每件活儿,",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:01:33,406 --> 00:01:35,762",
+      "english" : "I watched the workmen do every little thing,"
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "无论多么小的事.",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:01:35,900 --> 00:01:36,996",
+      "english" : "no matter how small."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "不然的话,我怎么知道...",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:01:37,198 --> 00:01:39,107",
+      "english" : "After all, how else will I know..."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "瞧着地毯.",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:01:41,400 --> 00:01:42,637",
+      "english" : "And look at this carpet."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "我不喜欢地毯.",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:01:43,043 --> 00:01:43,996",
+      "english" : "I don't like carpets."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "你看人们把漂亮的木地板盖住.",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:01:44,248 --> 00:01:46,500",
+      "english" : "You see people covering beautiful wood floors."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "这简直没有道理...",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:01:46,800 --> 00:01:48,533",
+      "english" : "It makes no sense whatsoever..."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "我会叫建筑师给你们拿图纸来.",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:01:49,999 --> 00:01:51,939",
+      "english" : "I'll have the architect send you the plans."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "-Kovak女士  -Oh,叫我Klara好了.",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:01:52,917 --> 00:01:54,704",
+      "english" : "-Ms.Kovak   -Oh, Klara."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "Klara.",
+      "sentenceNo" : 24,
+      "courseNo" : 2,
+      "timeline" : "00:01:55,150 --> 00:01:55,500",
+      "english" : "Klara."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "对不起.我以为手机关了.",
+      "sentenceNo" : 25,
+      "courseNo" : 2,
+      "timeline" : "00:01:56,919 --> 00:01:58,549",
+      "english" : "I'm sorry. I thought the phone was off."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "失陪一下.",
+      "sentenceNo" : 26,
+      "courseNo" : 2,
+      "timeline" : "00:01:58,761 --> 00:01:59,383",
+      "english" : "Excuse me."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "正如我刚才所说的...",
+      "sentenceNo" : 27,
+      "courseNo" : 2,
+      "timeline" : "00:02:00,490 --> 00:02:01,555",
+      "english" : "As I was saying..."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "喂.你好.",
+      "sentenceNo" : 28,
+      "courseNo" : 2,
+      "timeline" : "00:02:02,972 --> 00:02:04,707",
+      "english" : "Hello. Hi."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "我正在开会,不过你接着说吧.",
+      "sentenceNo" : 29,
+      "courseNo" : 2,
+      "timeline" : "00:02:05,332 --> 00:02:07,588",
+      "english" : "I'm in a meeting, but keep talking."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "我正需要休息一下.",
+      "sentenceNo" : 30,
+      "courseNo" : 2,
+      "timeline" : "00:02:07,823 --> 00:02:08,495",
+      "english" : "I need the break."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "发生什么事了?谁?",
+      "sentenceNo" : 31,
+      "courseNo" : 2,
+      "timeline" : "00:02:08,895 --> 00:02:10,979",
+      "english" : "What's up? Who?"
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "她让你做什么?",
+      "sentenceNo" : 32,
+      "courseNo" : 2,
+      "timeline" : "00:02:13,958 --> 00:02:15,054",
+      "english" : "She asked you what?"
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "你怎么说的?",
+      "sentenceNo" : 33,
+      "courseNo" : 2,
+      "timeline" : "00:02:17,502 --> 00:02:18,708",
+      "english" : "What did you say?"
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "Wow.好,亲爱的.我们晚上见.",
+      "sentenceNo" : 34,
+      "courseNo" : 2,
+      "timeline" : "00:02:23,102 --> 00:02:27,680",
+      "english" : "Wow. OK, honey. I'll see you tonight."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "非常欢迎你来我们办公室.",
+      "sentenceNo" : 35,
+      "courseNo" : 2,
+      "timeline" : "00:02:38,402 --> 00:02:40,235",
+      "english" : "We'd love you to come to our office."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "我们会打电话约时间的.",
+      "sentenceNo" : 36,
+      "courseNo" : 2,
+      "timeline" : "00:02:40,857 --> 00:02:42,343",
+      "english" : "We'll call and arrange an appointment."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "Wow.",
+      "sentenceNo" : 37,
+      "courseNo" : 2,
+      "timeline" : "00:02:49,569 --> 00:02:49,889",
+      "english" : "Wow."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "我们刚才在那里干什么?",
+      "sentenceNo" : 38,
+      "courseNo" : 2,
+      "timeline" : "00:02:52,509 --> 00:02:53,966",
+      "english" : "What were we doing in there?"
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "那房子已经很好了.",
+      "sentenceNo" : 39,
+      "courseNo" : 2,
+      "timeline" : "00:02:55,859 --> 00:02:57,220",
+      "english" : "That house is fine."
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "Klara是怎么说的?",
+      "sentenceNo" : 40,
+      "courseNo" : 2,
+      "timeline" : "00:02:58,231 --> 00:02:59,597",
+      "english" : "What did Klara say?"
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "\"挺好的,但感觉不对.\"",
+      "sentenceNo" : 41,
+      "courseNo" : 2,
+      "timeline" : "00:03:00,055 --> 00:03:02,528",
+      "english" : "\"It's nice but it's not quite right.\""
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "她想让我们把它弄对!",
+      "sentenceNo" : 42,
+      "courseNo" : 2,
+      "timeline" : "00:03:03,755 --> 00:03:05,932",
+      "english" : "She wants us to make it right!"
+   },
+   {
+      "lessonNo" : 99,
+      "chinese" : "Oh 不!",
+      "sentenceNo" : 43,
+      "courseNo" : 2,
+      "timeline" : "00:03:06,713 --> 00:03:08,903",
+      "english" : "Oh no!"
+   }
+]

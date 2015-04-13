@@ -1,0 +1,116 @@
+1
+Come on, man. Help me do this.
+<k></k>
+
+2
+No,no. Let's get this straight.
+<k></k>
+
+3
+I am not going to help you learn to juggle.
+<k></k>
+
+4
+I'm not going to waste my time.
+<k></k>
+
+5
+You don't listen.
+<k></k>
+
+6
+-What?  -See? You never listen.
+<k></k>
+
+7
+You're not really interested.
+<k></k>
+
+8
+Lately you're on some other planet, Danny.
+<k></k>
+
+9
+Your body is here, but your mind is on Pluto.
+<k></k>
+
+10
+I'd rather teach someone who wants to learn.
+<k></k>
+
+11
+Nathan, it's not brain surgery.
+<k></k>
+
+12
+It's juggling.
+<k></k>
+
+13
+And guess what? You still can't do it.
+<k></k>
+
+14
+OK, OK, OK. I'm sorry.
+<k></k>
+
+15
+I'll listen better. I'll work harder.
+<k></k>
+
+16
+Oh no. It's the 2 a.m. rush.
+<k></k>
+
+17
+Kinko's. This is Nathan. Can I help you?
+<k></k>
+
+18
+We're open all night.
+<k></k>
+
+19
+Yes, we do bulk copies.
+<k></k>
+
+20
+Sure. Let me get you the price list...
+<k></k>
+
+21
+Ahh, tell them we're busy.
+<k></k>
+
+22
+We're swamped. Tell them to go away.
+<k></k>
+
+23
+You know what? It's your lucky night.
+<k></k>
+
+24
+Let me hand you over to my colleague.
+<k></k>
+
+25
+He's our vice-president in charge of bulk copies
+<k></k>
+
+26
+and he can answer all of your questions.
+<k></k>
+
+27
+His name is Danny.
+<k></k>
+
+28
+Hello. Yep. 7 cents.
+<k></k>
+
+29
+100. Sure. Yep. Bye.
+<k></k>
+

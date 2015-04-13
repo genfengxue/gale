@@ -2,12 +2,19 @@ use warnings;
 use strict;
 #use Encode;
 #use Unicode::String;
+use utf8;
 
-my $snippet = '?';
-$snippet =~ s/[^a-zA-Z0-9'_:-]+/ /g; #将非法单词字符都转为空格
-$snippet =~ s/^\s+|\s+$//g; #去掉首尾空白
-my @words = split /\s+/, $snippet;
-print scalar @words;
+my $str = '中国';
+my $str2 = 'abc123';
+if ($str2 =~ /[\x00-\xff]+/) {
+  print "match";
+}
+
+#my $snippet = '?';
+#$snippet =~ s/[^a-zA-Z0-9'_:-]+/ /g; #将非法单词字符都转为空格
+#$snippet =~ s/^\s+|\s+$//g; #去掉首尾空白
+#my @words = split /\s+/, $snippet;
+#print scalar @words;
 #print lc 'xxX';
 #while (<>) {
 #  print $ARGV;

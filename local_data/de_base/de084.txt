@@ -1,0 +1,152 @@
+1
+You're famous.
+<k></k>
+
+2
+I'm not famous. We are famous.
+<k></k>
+
+3
+The office is famous.
+<k></k>
+
+4
+That's funny.
+<k></k>
+
+5
+I didn't see a picture of the office in the paper.
+<k></k>
+
+6
+I saw a picture of you.
+<k></k>
+
+7
+Is there a picture of me?
+<k></k>
+
+8
+Page28.
+<k></k>
+
+9
+You're famous.
+<k></k>
+
+10
+This is terrible.
+<k></k>
+
+11
+What's terrible?
+<k></k>
+
+12
+Where did they get this picture?
+<k></k>
+
+13
+Ah, Richard, it's the price of fame.
+<k></k>
+
+14
+Joe. I'm not famous.
+<k></k>
+
+15
+But there are better pictures of me.
+<k></k>
+
+16
+An interview here.
+<k></k>
+
+17
+Another picture there.
+<k></k>
+
+18
+Soon you'll be on television.
+<k></k>
+
+19
+Excellent. You can go on a talk show.
+<k></k>
+
+20
+Then comes the book.
+<k></k>
+
+21
+And the movie.
+<k></k>
+
+22
+An adoring public.
+<k></k>
+
+23
+Great parties.
+<k></k>
+
+24
+No privacy. A twenty-four-hour-a-day job.
+<k></k>
+
+25
+No normal life.
+<k></k>
+
+26
+Details.
+<k></k>
+
+27
+I don't believe this.
+<k></k>
+
+28
+Do you really want to be in the public eye?
+<k></k>
+
+29
+I do. I want to go on a talk show.
+<k></k>
+
+30
+Joe. You're much more reserved than I am.
+<k></k>
+
+31
+You don't want to be famous.
+<k></k>
+
+32
+No. Not me. I'm smarter than that.
+<k></k>
+
+33
+I want you to be famous.
+<k></k>
+
+34
+Yes, Trish?
+<k></k>
+
+35
+It's the State Attorney General for you,
+<k></k>
+
+36
+Mr.Hobart. Line 2.
+<k></k>
+
+37
+Thank you.
+<k></k>
+
+38
+You're famous.
+<k></k>
+

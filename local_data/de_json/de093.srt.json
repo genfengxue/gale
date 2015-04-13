@@ -1,0 +1,298 @@
+[
+   {
+      "lessonNo" : 93,
+      "chinese" : "周末干什么,Joe?",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:06,455 --> 00:00:07,719",
+      "english" : "What's up for the weekend, Joe?"
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "我们可能去航海.",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:08,060 --> 00:00:09,838",
+      "english" : "We'll probably go sailing."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "天气应该会不错.",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:10,619 --> 00:00:11,556",
+      "english" : "The weather should be good."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "至少天气预报是这么说的.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:11,909 --> 00:00:13,701",
+      "english" : "At least that's what the weather report said."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "那船怎么样了?",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:13,940 --> 00:00:14,307",
+      "english" : "How's the boat?"
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "船需要一点工作...",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:15,534 --> 00:00:16,753",
+      "english" : "She needs a little work..."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "一点工作,一大笔钱.",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:17,507 --> 00:00:19,735",
+      "english" : "a little work, a lot of cash."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "Ugh,这杯咖啡里有糖.",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:21,883 --> 00:00:24,161",
+      "english" : "Ugh, this coffee's got sugar in it."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "这杯一定是你的.",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:24,250 --> 00:00:25,037",
+      "english" : "This one must be yours."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "它变得很贵,不是吗?",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:00:30,678 --> 00:00:31,965",
+      "english" : "It gets expensive, doesn't it?"
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "拜托.",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:00:32,761 --> 00:00:33,175",
+      "english" : "Please."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "我们在船上时  Marie一直都这么提醒我.",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:00:34,228 --> 00:00:36,930",
+      "english" : "Marie reminds me the entire time we're on the boat."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "她说那就是水上的一个洞  你往里边扔钱.",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:00:37,435 --> 00:00:40,323",
+      "english" : "She says it's just a hole in the water you throw money into."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "我正在考虑买艘小点儿的,",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:00:41,305 --> 00:00:42,873",
+      "english" : "I'm thinking of getting a smaller one,"
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "Richard,一艘单人帆船.",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:00:43,065 --> 00:00:44,738",
+      "english" : "Richard, a one-man sailboat."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "Ugh.这杯里也有糖.",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:00:46,735 --> 00:00:49,528",
+      "english" : "Ugh. This one's got sugar in it, too."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "你要吗?",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:00:49,663 --> 00:00:49,969",
+      "english" : "You want it?"
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "不,谢谢.你要牛奶吗?",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:00:50,350 --> 00:00:52,118",
+      "english" : "No, thanks. Do you want this milk?"
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "当然.",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:00:52,200 --> 00:00:52,475",
+      "english" : "Sure."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "Beth以前上骑术课.",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:00:56,931 --> 00:00:58,768",
+      "english" : "Beth used to take riding lessons."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "那可不便宜.",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:00:59,121 --> 00:00:59,877",
+      "english" : "That wasn't cheap."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "我松了一口气当她厌倦时.",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:01:00,700 --> 00:01:02,407",
+      "english" : "I was relieved when she got tired of it."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "这不是火腿三明治.",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:01:07,282 --> 00:01:08,599",
+      "english" : "This isn't a ham sandwich."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "不知道是什么.",
+      "sentenceNo" : 24,
+      "courseNo" : 2,
+      "timeline" : "00:01:09,509 --> 00:01:10,766",
+      "english" : "I'm not sure what it is."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "鸡蛋沙拉.",
+      "sentenceNo" : 25,
+      "courseNo" : 2,
+      "timeline" : "00:01:10,989 --> 00:01:11,560",
+      "english" : "Egg salad."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "那是什么?",
+      "sentenceNo" : 26,
+      "courseNo" : 2,
+      "timeline" : "00:01:13,444 --> 00:01:14,039",
+      "english" : "What's that one?"
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "五香烟熏牛肉.送错外卖了.",
+      "sentenceNo" : 27,
+      "courseNo" : 2,
+      "timeline" : "00:01:15,081 --> 00:01:17,030",
+      "english" : "Pastrami. Wrong order."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "送错了.",
+      "sentenceNo" : 28,
+      "courseNo" : 2,
+      "timeline" : "00:01:17,301 --> 00:01:18,099",
+      "english" : "Wrong order."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "过去几年里,我们常去滑雪.",
+      "sentenceNo" : 29,
+      "courseNo" : 2,
+      "timeline" : "00:01:19,523 --> 00:01:21,195",
+      "english" : "The last couple of years, we've been skiing."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "我们去Vermont的Stowe山.",
+      "sentenceNo" : 30,
+      "courseNo" : 2,
+      "timeline" : "00:01:21,656 --> 00:01:23,271",
+      "english" : "We go to Stowe Mountain in Vermont."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "是不是有两座山、许多小路的那个地方?",
+      "sentenceNo" : 31,
+      "courseNo" : 2,
+      "timeline" : "00:01:23,902 --> 00:01:26,280",
+      "english" : "Is that the one with the two mountains and all the trails?"
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "Yep.顺山坡滑雪.",
+      "sentenceNo" : 32,
+      "courseNo" : 2,
+      "timeline" : "00:01:26,444 --> 00:01:28,493",
+      "english" : "Yep. Downhill skiing."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "我们就不能选一种便宜的运动, 对吗?",
+      "sentenceNo" : 33,
+      "courseNo" : 2,
+      "timeline" : "00:01:29,144 --> 00:01:31,228",
+      "english" : "We can't pick an inexpensive sport, can we?"
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "有吗?",
+      "sentenceNo" : 34,
+      "courseNo" : 2,
+      "timeline" : "00:01:33,312 --> 00:01:33,904",
+      "english" : "Is there one?"
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "裸泳.",
+      "sentenceNo" : 35,
+      "courseNo" : 2,
+      "timeline" : "00:01:35,537 --> 00:01:36,372",
+      "english" : "Skinny-dipping."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "那会是夏天的活动.",
+      "sentenceNo" : 36,
+      "courseNo" : 2,
+      "timeline" : "00:01:37,748 --> 00:01:39,399",
+      "english" : "That would be a summer activity."
+   },
+   {
+      "lessonNo" : 93,
+      "chinese" : "基本上是.",
+      "sentenceNo" : 37,
+      "courseNo" : 2,
+      "timeline" : "00:01:39,900 --> 00:01:40,167",
+      "english" : "Pretty much."
+   }
+]

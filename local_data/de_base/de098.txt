@@ -1,0 +1,128 @@
+1
+Are you working late tonight?
+<k></k>
+
+2
+Excuse me. Yes? Trish.
+<k></k>
+
+3
+Constanza Fuentes?
+<k></k>
+
+4
+Are you sure? OK.
+<k></k>
+
+5
+Hobart... Hello, Constanza...
+<k></k>
+
+6
+How are you?
+<k></k>
+
+7
+Fine, thank you.
+<k></k>
+
+8
+How can I help you?
+<k></k>
+
+9
+Uh huh...Yes...Excuse me?
+<k></k>
+
+10
+No, I hadn't.
+<k></k>
+
+11
+I...uh...sure.
+<k></k>
+
+12
+I'd be happy to consider it.
+<k></k>
+
+13
+Lunch on Thursday.
+<k></k>
+
+14
+Fine.
+<k></k>
+
+15
+See you then.
+<k></k>
+
+16
+Constanza Fuentes?
+<k></k>
+
+17
+As in Party Chairwoman Fuentes?
+<k></k>
+
+18
+Well? What did she want?
+<k></k>
+
+19
+She asked me if I had ever thought of running for public office.
+<k></k>
+
+20
+Any particular one?
+<k></k>
+
+21
+Attorney General of the State of Massachusetts.
+<k></k>
+
+22
+That's right. Phil's retiring.
+<k></k>
+
+23
+What does our boss think about you taking his place?
+<k></k>
+
+24
+Constanza said Phil loves the idea.
+<k></k>
+
+25
+What else did she say?
+<k></k>
+
+26
+Not much.
+<k></k>
+
+27
+She said we are doing a great job and I have a lot to offer and they need a candidate.
+<k></k>
+
+28
+So you said you'll think about it.
+<k></k>
+
+29
+Yeah. Am I crazy? Can I do this?
+<k></k>
+
+30
+If you want to.
+<k></k>
+
+31
+I have to tell Nancy what's going on.
+<k></k>
+
+32
+We can finish this later.
+<k></k>
+
