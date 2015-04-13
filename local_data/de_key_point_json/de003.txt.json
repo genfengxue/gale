@@ -1,3 +1,71 @@
 {
-   "3" : {}
+   "3" : {
+      "21" : {
+         "1,2,3,4,5,6,7" : [
+            "You can... can't you?\n你能够...不是吗?\n\nYou can speak English, can't you?\n你能够讲英语, 不是吗?\n\n注意这里way不能替换为road"
+         ]
+      },
+      "3" : {
+         "1" : [
+            "时间副词now在句子中的位置比较灵活.\n一般放在句子开头, 助动词/情态动词后边或句子结尾都可以."
+         ],
+         "7,8" : [
+            "job description\n工作描述\n一般也简写为JD, 就是指描述你的工作职责和角色的一份文件.\n"
+         ],
+         "4,5" : [
+            "go over\n[TRANSITIVE]go over something to check something carefully\n\nCould you go over this report and correct any mistakes?"
+         ]
+      },
+      "9" : {
+         "3,4,5,6,7" : [
+            "表示我很擅长的不同说法\n\n1 I'm (pretty) good at\n2 I can work well with\n3 I'm skilled in\n"
+         ]
+      },
+      "12" : {
+         "1,2" : [
+            "not really\n算不上吧, 会一点点吧\n表示否定, 但也不是那种彻底的否定\n\nDo you code?\n你写代码吗?\nNot really. I know a little bit html.\n几乎不, 我知道一点点html语言."
+         ],
+         "7" : [
+            "Spain 西班牙\nSpanish 西班牙语"
+         ]
+      },
+      "8" : {
+         "1" : [
+            "database\n数据库"
+         ],
+         "2" : [
+            "spreadsheet\n电子表格\n"
+         ]
+      },
+      "18" : {
+         "7,8,9,10" : [
+            "at the front desk\n在前台\n\n这里介词必须用at, at表示在某个地方. \n不能用in, in表示在...里边, 这里不是在前台桌子里边."
+         ]
+      },
+      "23" : {
+         "4,5,6,7" : [
+            "welcome to...\n欢迎来到, 这里的to是介词\n\nwelcome to Shang hai.\nwelcome here(here是副词, 所以省略了to)\n\nwelcome to our team也是正确的"
+         ]
+      },
+      "19" : {
+         "3,4,5" : [
+            "work with\n与...一起工作\n\nI use to work with Jim in our old firm.\n我曾经和Jim共事"
+         ]
+      },
+      "13" : {
+         "2,3,4,5,6" : [
+            "I can't understand a word\n我连一个单词都听不懂\n\n类似的\nI can't write a word\n我连一个单词都不会写"
+         ]
+      },
+      "16" : {
+         "5,6,7,8,9" : [
+            "help us understand...\n帮助某人理解...\n\nCould you help me understand this issue?\n你能帮我理解一下这个问题吗? (你能给我讲讲这个问题吗?)"
+         ]
+      },
+      "5" : {
+         "5,6" : [
+            "word processor\n文字处理软件\n\nprocess v 处理\nprocessor n 处理软件"
+         ]
+      }
+   }
 }

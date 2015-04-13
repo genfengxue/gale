@@ -25,3 +25,8 @@ do
   mv $j $i
   dos2unix $i
 done
+
+#批量重命名
+for i in $(ls); do
+  mv $i "de0${i:6:2}.txt"
+done

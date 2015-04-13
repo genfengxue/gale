@@ -1,21 +1,42 @@
 1
-Dean,meet Sharon Solaye.
-<k></k>
+Dean, `meet` Sharon Solaye.
+<k>1 Dean. Sharon. Sharon, Dean.
+2 Dean, meet Sharon. Sharon's.... Dean's....
+3 Dean, this is Sharon. Sharon's....Dean's....
+4 Dean, let me introduce you to Sharon.
+1最为随意口语化, 2,3其次, 4比较中规中矩.
+
+这里的meet不能替换为see
+</k>
+
+1
+Dean, meet `Sharon Solaye`.
+<k>Sharon Solaye 
+/ʃærən/ /'sɔleɪ/</k>
 
 2
-She's our concierge.
-<k></k>
+She's our `concierge`.
+<k>concierge
+[kɔnsɪ'ɛrʒ]
+前台接待
+
+也可以说
+front desk girl
+receptionist
+</k>
 
 3
-Dean is our college intern for the summer.
-<k></k>
+Dean is our college `intern` for the summer.
+<k>intern
+/ˈɪntərn/
+实习生</k>
 
 4
-Nice to meet you,Dean.
+Nice to meet you, Dean.
 <k></k>
 
 5
-Hello.Goodbye.
+Hello. Goodbye.
 <k></k>
 
 6
@@ -23,15 +44,16 @@ Bye bye.
 <k></k>
 
 7
-William,this is Dean Johnson.
-<k></k>
+William, this is `Dean Johnson`.
+<k>Dean Johnson
+         /'dʒɑnsən/</k>
 
 8
-He's the new intern.Dean,William.
+He's the new intern. Dean, William.
 <k></k>
 
 9
-Hi,Dean. Welcome to the ...
+Hi, Dean. Welcome to the ...
 <k></k>
 
 10
@@ -43,47 +65,78 @@ He isn't here.
 <k></k>
 
 12
-Hello.What's all this?
-<k></k>
+Hello. `What's all this`?
+<k>all在这里表示"全部的", 起到加强语气的作用.
+
+比如
+what is this about?
+What is this all about?
+带上all, 语气就更强烈
+
+换个说法
+What's wrong?
+What's up?
+What's the matter?
+
+what's up是比较缓和
+what's wrong和what's the matter就包含了"出了什么情况"的意思
+what's all this就略略带有一点质问了, "这里什么情况, 搞什么呢"
+
+</k>
 
 13
-There you are. Meet our new intern.
-<k></k>
+`There you are`. Meet our new intern.
+<k>there you are
+你在那里啊. 意思是你去哪了, 找你半天了
+</k>
 
 14
 My name's Dean Johnson.
 <k></k>
 
 15
-I'm Simon Wilkinson,
-<k></k>
+I'm `Simon Wilkinson`,
+<k>Simon Wilkinson 
+/saɪmən/ /'wilkinsn/</k>
 
 16
-manager of the restaurant.
-<k></k>
+`manager of the restaurant`.
+<k>manager of the restaurant
+餐厅的经理
+
+类似的, 我们可以说
+manager of a small company.
+manager of a store.</k>
 
 17
 How do you do?
 <k></k>
 
 18
-That's Kevin.He's our bartender.
-<k></k>
+That's Kevin. He's our `bartender`.
+<k>bartender 
+/ˈbɑrˌtendər/
+Someone who serves drinks at a bar</k>
 
 19
-Kev! this is Dean.
-<k></k>
+`Kev`! this is Dean.
+<k>Kev
+这是Kevin的亲切的昵称</k>
 
 20
 Hi.  -Hi.
 <k></k>
 
 21
-Are you new?
-<k></k>
+`Are you new`?
+<k>Are you new?
+你是新来的.
+
+注意不要说成are you the new?
+但是可以说Are you the new guy?</k>
 
 22
-Yeah,I'm the new intern.
+Yeah, I'm the new intern.
 <k></k>
 
 23
@@ -95,10 +148,20 @@ Dean?
 <k></k>
 
 25
-Well,see you later...
-<k></k>
+Well, `see you later`...
+<k>表示再见的说法有
+1 talk to you later
+2 see you around
+3 see you later.
+
+美国人一般不说bye bye. 我们中文里说拜拜, 在和美国人说话时避免用bye bye这个听起来中式英语十足的词哈.</k>
 
 26
-I'm sorry,what's your name again?
-<k></k>
+I'm sorry, `what's your name again`?
+<k>what's your name again?
+你的名字是什么来着?
+
+这里的again表示再问一遍你的名字, 因为刚才没有听清.
+
+你也可以说what was your name again?</k>
 

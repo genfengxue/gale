@@ -1,3 +1,72 @@
 {
-   "2" : {}
+   "2" : {
+      "25" : {
+         "2,3,4" : [
+            "表示再见的说法有\n1 talk to you later\n2 see you around\n3 see you later.\n\n美国人一般不说bye bye. 我们中文里说拜拜, 在和美国人说话时避免用bye bye这个听起来中式英语十足的词哈."
+         ]
+      },
+      "21" : {
+         "1,2,3" : [
+            "Are you new?\n你是新来的.\n\n注意不要说成are you the new?\n但是可以说Are you the new guy?"
+         ]
+      },
+      "3" : {
+         "5" : [
+            "intern\n/ˈɪntərn/\n实习生"
+         ]
+      },
+      "7" : {
+         "4,5" : [
+            "Dean Johnson\n         /'dʒɑnsən/"
+         ]
+      },
+      "26" : {
+         "3,4,5,6" : [
+            "what's your name again?\n你的名字是什么来着?\n\n这里的again表示再问一遍你的名字, 因为刚才没有听清.\n\n你也可以说what was your name again?"
+         ]
+      },
+      "12" : {
+         "2,3,4" : [
+            "all在这里表示\"全部的\", 起到加强语气的作用.\n\n比如\nwhat is this about?\nWhat is this all about?\n带上all, 语气就更强烈\n\n换个说法\nWhat's wrong?\nWhat's up?\nWhat's the matter?\n\nwhat's up是比较缓和\nwhat's wrong和what's the matter就包含了\"出了什么情况\"的意思\nwhat's all this就略略带有一点质问了, \"这里什么情况, 搞什么呢\"\n\n"
+         ]
+      },
+      "2" : {
+         "3" : [
+            "concierge\n[kɔnsɪ'ɛrʒ]\n前台接待\n\n也可以说\nfront desk girl\nreceptionist\n"
+         ]
+      },
+      "15" : {
+         "2,3" : [
+            "Simon Wilkinson \n/saɪmən/ /'wilkinsn/"
+         ]
+      },
+      "1" : {
+         "3,4" : [
+            "Sharon Solaye \n/ʃærən/ /'sɔleɪ/"
+         ],
+         "2" : [
+            "1 Dean. Sharon. Sharon, Dean.\n2 Dean, meet Sharon. Sharon's.... Dean's....\n3 Dean, this is Sharon. Sharon's....Dean's....\n4 Dean, let me introduce you to Sharon.\n1最为随意口语化, 2,3其次, 4比较中规中矩.\n\n这里的meet不能替换为see\n"
+         ]
+      },
+      "18" : {
+         "5" : [
+            "bartender \n/ˈbɑrˌtendər/\nSomeone who serves drinks at a bar"
+         ]
+      },
+      "19" : {
+         "1" : [
+            "Kev\n这是Kevin的亲切的昵称"
+         ]
+      },
+      "13" : {
+         "1,2,3" : [
+            "there you are\n你在那里啊. 意思是你去哪了, 找你半天了\n"
+         ]
+      },
+      "16" : {
+         "1,2,3,4" : [
+            "manager of the restaurant\n餐厅的经理\n\n类似的, 我们可以说\nmanager of a small company.\nmanager of a store."
+         ]
+      }
+   }
 }

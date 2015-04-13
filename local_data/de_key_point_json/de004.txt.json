@@ -1,3 +1,60 @@
 {
-   "4" : {}
+   "4" : {
+      "25" : {
+         "2,3" : [
+            "babysitter, baby-sitter\n保姆\n\nsitter就好像是someone who sits there and helps to watch your baby or something.\n\nI'm going on vocation next week and I think I need a sitter for my house.\n我下周去度假, 我想我需要一个帮我看房子的人."
+         ]
+      },
+      "11" : {
+         "3,4,5" : [
+            "in the restaurant\n在餐厅里边\n\nin可以替换为at"
+         ]
+      },
+      "3" : {
+         "1,2" : [
+            "has Sherise gone to...\nSherise去...了吗?\n\n\nHas Peter gone to the cinema?\npeter去看电影了吗?"
+         ],
+         "3,4,5,6" : [
+            "go to the movies\n看电影\n\n这是固定说法, 即使是只看一部电影, 也是用movies.\n\n另外你可以说go to the cinema或see a movie"
+         ]
+      },
+      "17" : {
+         "1" : [
+            "这里用in也是可以的"
+         ],
+         "3,4" : [
+            "Children's Center\n儿童中心"
+         ]
+      },
+      "8" : {
+         "4,5,6" : [
+            "注意一般我们说\nThe name of the restaurant,\n我们不说\nThe name of the restaurant's.\n\n但是如果是某人的朋友/小孩等, 我们说\nA friend of yours\n我们不说\nA friend of you."
+         ]
+      },
+      "1" : {
+         "2" : [
+            "Sherise\n/ʃərɪz/\n人名"
+         ]
+      },
+      "18" : {
+         "4" : [
+            "这里用the也是可以的."
+         ]
+      },
+      "30" : {
+         "1,2,3,4,5,6,7,8" : [
+            "do you know where XXX is?\n你知道XXX在哪吗?\n\nDo you know where the Black Smith cafe is?\n你知道Black Smith咖啡馆在哪吗?"
+         ]
+      },
+      "31" : {
+         "1" : [
+            "why\nused at the beginning of a comment or reply for showing that you are surprised\n\n-'Henry's arriving on the twenty-eighth.' -'Why, that's tomorrow!'\n\n注意这里的why不是为什么的意思"
+         ]
+      },
+      "5" : {
+         "2" : [
+            "right\nadv 恰恰地\n\nI'm right here waiting for you.\nThe coffee shop is right next door."
+         ]
+      }
+   }
 }

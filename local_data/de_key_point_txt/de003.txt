@@ -1,5 +1,5 @@
 1
-Come in Dean.please sit down.
+Come in Dean. please sit down.
 <k></k>
 
 2
@@ -7,19 +7,38 @@ Thanks.
 <k></k>
 
 3
-Now we can go over your job description.
-<k></k>
+`Now` we can go over your job description.
+<k>时间副词now在句子中的位置比较灵活.
+一般放在句子开头, 助动词/情态动词后边或句子结尾都可以.</k>
+
+3
+Now we can `go over` your job description.
+<k>go over
+[TRANSITIVE]go over something to check something carefully
+
+Could you go over this report and correct any mistakes?</k>
+
+3
+Now we can go over your `job description`.
+<k>job description
+工作描述
+一般也简写为JD, 就是指描述你的工作职责和角色的一份文件.
+</k>
 
 4
 Sure.
 <k></k>
 
 5
-Can you use a word processor,Dean?
-<k></k>
+Can you use a `word processor`, Dean?
+<k>word processor
+文字处理软件
+
+process v 处理
+processor n 处理软件</k>
 
 6
-Yes,I can.
+Yes, I can.
 <k></k>
 
 7
@@ -27,12 +46,24 @@ Other computer programs?
 <k></k>
 
 8
-Databases? Spreadsheets?
-<k></k>
+`Databases`? Spreadsheets?
+<k>database
+数据库</k>
+
+8
+Databases? `Spreadsheets`?
+<k>spreadsheet
+电子表格
+</k>
 
 9
-I can work with computers very well.
-<k></k>
+I can `work with computers very well`.
+<k>表示我很擅长的不同说法
+
+1 I'm (pretty) good at
+2 I can work well with
+3 I'm skilled in
+</k>
 
 10
 Good.
@@ -43,52 +74,93 @@ Can you speak any foreign languages?
 <k></k>
 
 12
-Not really. I speak a little Spanish,
-<k></k>
+`Not really`. I speak a little Spanish,
+<k>not really
+算不上吧, 会一点点吧
+表示否定, 但也不是那种彻底的否定
+
+Do you code?
+你写代码吗?
+Not really. I know a little bit html.
+几乎不, 我知道一点点html语言.</k>
+
+12
+Not really. I speak a little `Spanish`,
+<k>Spain 西班牙
+Spanish 西班牙语</k>
 
 13
-but I can't understand a word.
-<k></k>
+but `I can't understand a word`.
+<k>I can't understand a word
+我连一个单词都听不懂
+
+类似的
+I can't write a word
+我连一个单词都不会写</k>
 
 14
 I see.
 <k></k>
 
 15
-Well,you can't translate Spanish for us.
+Well, you can't translate Spanish for us.
 <k></k>
 
 16
-But maybe you can help us understand our computers.
-<k></k>
+But maybe you can `help us understand our computers`.
+<k>help us understand...
+帮助某人理解...
+
+Could you help me understand this issue?
+你能帮我理解一下这个问题吗? (你能给我讲讲这个问题吗?)</k>
 
 17
 I can do that.
 <k></k>
 
 18
-All right,Dean.Talk to William at the front desk.
-<k></k>
+All right, Dean. Talk to William `at the front desk`.
+<k>at the front desk
+在前台
+
+这里介词必须用at, at表示在某个地方. 
+不能用in, in表示在...里边, 这里不是在前台桌子里边.</k>
 
 19
-You can work with him today.
-<k></k>
+You can `work with him` today.
+<k>work with
+与...一起工作
+
+I use to work with Jim in our old firm.
+我曾经和Jim共事</k>
 
 20
 Great.
 <k></k>
 
 21
-You can find your way,can't you?
-<k></k>
+`You can find your way, can't you`?
+<k>You can... can't you?
+你能够...不是吗?
+
+You can speak English, can't you?
+你能够讲英语, 不是吗?
+
+注意这里way不能替换为road</k>
 
 22
 Sure.
 <k></k>
 
 23
-Good luck.And welcome to the team.
-<k></k>
+Good luck. And `welcome to the team`.
+<k>welcome to...
+欢迎来到, 这里的to是介词
+
+welcome to Shang hai.
+welcome here(here是副词, 所以省略了to)
+
+welcome to our team也是正确的</k>
 
 24
 Thanks.

@@ -1,10 +1,18 @@
 1
-That's Thursday, November 17th, at the hotel.
-<k></k>
+That's Thursday, `November 17th`, at the hotel.
+<k>日期的写法一般是
+September 14th
+一般读作September fourteenth.
+</k>
+
+1
+That's Thursday, November 17th, `at` the hotel.
+<k>in也可以</k>
 
 2
-All day?
-<k></k>
+`All day`?
+<k>the whole day也可以
+</k>
 
 3
 Yes. We start at 8:30 in the morning.
@@ -15,24 +23,70 @@ With coffee.
 <k></k>
 
 5
-Yes. Coffee starts at 8:30 and ends at 9.
-<k></k>
+Yes. Coffee `starts at 8:30 and ends at 9`.
+<k>start at...and end at
+开始于...结束于...
+
+our class starts at 8:30 and ends at 10:00
+Dinner starts at 6:00 and ends at 8:00
+</k>
 
 6
 ... eight-thirty to nine.
 <k></k>
 
 7
-The opening address begins at 9 o'clock sharp.
-<k></k>
+The `opening address` begins at 9 o'clock sharp.
+<k>opening address
+用来作为开始的那个演讲
+
+address
+/əˈdres/ 
+a formal speech.
+</k>
+
+7
+The opening address begins at 9 o'clock `sharp`.
+<k>sharp
+本意是锋利的, 在这里表示准时的.
+
+Our English class always begins at 8:30 sharp.
+Discussion will begin at 4:30 sharp.</k>
 
 8
-Workshops run from 9：30 to noon.
-<k></k>
+`Workshops` run from 9：30 to noon.
+<k>workshop
+work工作, shop商店
+合在一起表示:
+人们聚在一起, (在店里)讨论工作或某个话题.
+
+workshop=seminar
+</k>
+
+8
+Workshops `run from 9：30 to noon`.
+<k>run from...to...
+从几点到几点
+
+The seminars run from 1:30 to 4:30
+The second session runs from 1:30 to 4:30
+
+表示从几点到几点的说法一览
+run from...until...
+go from...to/until..
+is from...to/until...
+begin/start at...end/finish at...
+</k>
 
 9
-Then lunch.
-<k></k>
+`Then lunch`.
+<k>then+n
+接下来是XXX
+
+then a small reception
+then a Q&A session
+then a 5min break
+</k>
 
 10
 One hour?
@@ -43,20 +97,42 @@ Yes.
 <k></k>
 
 12
-The second session goes from one to about 4:15.
-<k></k>
+The second session `goes from one to about 4:15`.
+<k>
+表示从几点到几点的说法一览
+run from...until...
+go from...to/until..
+is from...to/until...
+begin/start at...end/finish at...
+
+</k>
 
 13
-Discussion ends at 4:45.
-<k></k>
+`Discussion` ends at 4:45.
+<k>这里应该说成是 the discussion更好一些
+
+http://www.italki.com/question/278421
+
+</k>
 
 14
-Then a small reception.
-<k></k>
+Then a small `reception`.
+<k>receive=接收
+reception=接待会
+
+你如何去接收你的客人,那就是你的接待会.
+
+在会议之前后提供一些吃的喝的, 让大家可以互相交流, 这个就叫reception</k>
 
 15
-Until what time?
-<k></k>
+`Until what time`?
+<k>until what time
+直到几点?
+
+-After the seminar, we'll have dinner.
+讨论之后, 我们会吃晚饭
+-Until when?
+直到几点?</k>
 
 16
 Oh...  Sorry.
@@ -67,20 +143,47 @@ That's my watch alarm.
 <k></k>
 
 18
-I have an appointment back at the hotel at eleven o'clock.
-<k></k>
+`I have an appointment` back at the hotel at eleven o'clock.
+<k>I have an appointment
+我有一个预约
+
+模仿造句
+I have an appointment with my dentist tonight.
+我今晚和我的牙医有一个预约
+</k>
+
+18
+I have an appointment `back at the hotel` at eleven o'clock.
+<k>back
+回到...去
+
+I have a meeting in shang hai on Thursday.
+我周四在上海有个会
+I have a meeting back in shang hai on Thursday.
+我周四回上海有个会
+
+
+</k>
 
 19
-Is it eleven already?
-<k></k>
+Is it eleven `already`?
+<k>already
+adv 已经
+
+Is it noon already?
+Is the meeting over already?
+Are you finished already?</k>
 
 20
 No, no. Actually, it's 10:30.
 <k></k>
 
 21
-I set my watch half an hour fast.
-<k></k>
+I `set my watch half an hour fast`.
+<k>set my watch half an hour fast
+把我的表拨快了半小时
+
+</k>
 
 22
 You're never late, are you?

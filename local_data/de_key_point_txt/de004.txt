@@ -1,22 +1,42 @@
 1
-Hi Sherise.Hello Sherise.
-<k></k>
+Hi `Sherise`. Hello Sherise.
+<k>Sherise
+/ʃərɪz/
+人名</k>
 
 2
 Where's Sherise?
 <k></k>
 
 3
-Has Sherise gone to the movies?
-<k></k>
+`Has Sherise` gone to the movies?
+<k>has Sherise gone to...
+Sherise去...了吗?
+
+
+Has Peter gone to the cinema?
+peter去看电影了吗?</k>
+
+3
+Has Sherise `gone to the movies`?
+<k>go to the movies
+看电影
+
+这是固定说法, 即使是只看一部电影, 也是用movies.
+
+另外你可以说go to the cinema或see a movie</k>
 
 4
-No,she hasn't.
+No, she hasn't.
 <k></k>
 
 5
-She's right here! Wuh wuh wuh...
-<k></k>
+She's `right` here! Wuh wuh wuh...
+<k>right
+adv 恰恰地
+
+I'm right here waiting for you.
+The coffee shop is right next door.</k>
 
 6
 Excuse me?
@@ -27,8 +47,16 @@ Oh! Good morning.
 <k></k>
 
 8
-Good morning,Wendy. Friend of yours?
-<k></k>
+Good morning, Wendy. `Friend of yours`?
+<k>注意一般我们说
+The name of the restaurant,
+我们不说
+The name of the restaurant's.
+
+但是如果是某人的朋友/小孩等, 我们说
+A friend of yours
+我们不说
+A friend of you.</k>
 
 9
 That's Sherise.
@@ -39,11 +67,14 @@ Where's Sherise?
 <k></k>
 
 11
-Sherise is in the restaurant.
-<k></k>
+Sherise is `in the restaurant`.
+<k>in the restaurant
+在餐厅里边
+
+in可以替换为at</k>
 
 12
-The question is,who is Sherise?
+The question is, who is Sherise?
 <k></k>
 
 13
@@ -51,7 +82,7 @@ Nina's baby.
 <k></k>
 
 14
-Oh.And where is Nina?
+Oh. And where is Nina?
 <k></k>
 
 15
@@ -63,12 +94,17 @@ And where's the meeting?
 <k></k>
 
 17
-At the Children's Center.
-<k></k>
+`At` the Children's Center.
+<k>这里用in也是可以的</k>
+
+17
+At the `Children's Center`.
+<k>Children's Center
+儿童中心</k>
 
 18
-Nina's gone to a meeting at the Children's Center,
-<k></k>
+Nina's gone to `a` meeting at the Children's Center,
+<k>这里用the也是可以的.</k>
 
 19
 and her baby is here?
@@ -83,7 +119,7 @@ Has Sherise gone to the meeting?
 <k></k>
 
 22
-No,she hasn't.
+No, she hasn't.
 <k></k>
 
 23
@@ -91,19 +127,25 @@ Why isn't Sherise at the Children's Center?
 <k></k>
 
 24
-Or at home,at Sherise's house?
+Or at home, at Sherise's house?
 <k></k>
 
 25
-Nina's baby sitter is sick,OK?
-<k></k>
+Nina's `baby sitter` is sick, OK?
+<k>babysitter, baby-sitter
+保姆
+
+sitter就好像是someone who sits there and helps to watch your baby or something.
+
+I'm going on vocation next week and I think I need a sitter for my house.
+我下周去度假, 我想我需要一个帮我看房子的人.</k>
 
 26
-Oh,so the baby sitter's gone home.
+Oh, so the baby sitter's gone home.
 <k></k>
 
 27
-But not Sherise!Sherise is at work.
+But not Sherise! Sherise is at work.
 <k></k>
 
 28
@@ -111,14 +153,23 @@ Excuse me?
 <k></k>
 
 29
-Yes.Can I help...? Can I help you?
+Yes. Can I help...? Can I help you?
 <k></k>
 
 30
-Do you know where the Children's center is?
-<k></k>
+`Do you know where the Children's center is`?
+<k>do you know where XXX is?
+你知道XXX在哪吗?
+
+Do you know where the Black Smith cafe is?
+你知道Black Smith咖啡馆在哪吗?</k>
 
 31
-Why,yes.
-<k></k>
+`Why`, yes.
+<k>why
+used at the beginning of a comment or reply for showing that you are surprised
+
+-'Henry's arriving on the twenty-eighth.' -'Why, that's tomorrow!'
+
+注意这里的why不是为什么的意思</k>
 
