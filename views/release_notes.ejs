@@ -4,6 +4,10 @@
   <base href="/">
   <title>跟风学</title>
 
+  <meta name="Description" content="跟风学发布信息">
+  <meta name="Keywords" content="跟风学发布信息">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
   <!-- lib -->
   <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css">
   <!-- global common -->
@@ -15,7 +19,9 @@
 </head>
 <body>
 
-  <% include header %>
+  <% if (!embedded) { %>
+    <% include header %>
+  <% } %>
 
   <div class="jumbotron" style="margin-top: -20px">
     <div class="container">
@@ -49,7 +55,9 @@
     </div>
   </section>
 
-  <% include footer %>
+  <% if (!embedded) { %>
+    <% include footer %>
+  <% } %>
 
 </body>
 </html>
