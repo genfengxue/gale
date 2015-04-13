@@ -1,100 +1,180 @@
 1
-Baseball.Tennis.
-<k></k>
+`Baseball`.Tennis.
+<k>baseball 
+['beɪsbɔl]
+n. 棒球	</k>
 
-2
--Look at that.Football.     -Yeah.
-<k></k>
 
 3
-American football.
-<k></k>
+`American football`.
+<k>American football
+美式足球, 即橄榄球</k>
 
 4
-I couldn't agree with you more,Kevin.
-<k></k>
+`I couldn't agree with you more`,Kevin.
+<k>I couldn't agree with you more
+我不能同意你更多, 即我非常同意你</k>
+
+4
+I couldn't agree with you more,`Kevin`.
+<k>Kevin
+[ˈkevɪn]
+凯文</k>
 
 5
-I think football is a violent, overrated sport.
-<k></k>
+I think football is a `violent`, overrated sport.
+<k>violent 
+['vaɪələnt]
+adj. 暴力的
 
-6
-Do you call that violent?
-<k></k>
+He shouts a lot but I don't think he's ever been physically violent towards her.
+</k>
+
+5
+I think football is a violent, `overrated` sport.
+<k>overrated adj.
+[ˌoʊvər'reɪt]
+评价过高的
+
+In my opinion, she's a hugely overrated singer.
+</k>
 
 7
-With all that padding?
-<k></k>
+With all that `padding`?
+<k>padding
+['pædɪŋ] n.
+护垫
+</k>
 
 8
-You don't see padding in rugby.
-<k></k>
+You don't see padding in `rugby`.
+<k>rugby n.
+['rʌɡbɪ]
+英式橄榄球
+与American football有细微区别, 如场地大小,规则,以及装备等等(如rugby不用护垫头盔)</k>
 
 9
-Now take baseball: a game of skill,finesse,strategy.
-<k></k>
+Now `take` baseball: a game of skill,finesse,strategy.
+<k>take v.
+拿...说吧
+用于举例, take ... for example的简单说法
+
+Not everyone likes cheese. Take myself (for example), I am really not a big fan of cheese.</k>
+
+9
+Now take baseball: a game of skill,`finesse`,strategy.
+<k>finesse n.
+[fɪ'nes]
+技巧, 策略
+
+Paul handled the meeting with great finesse.
+</k>
 
 10
-I don't agree with you there,Dean.
-<k></k>
+`I don't agree with you there`, Dean.
+<k>I don't agree with you there
+关于那一点我不同意你
+there表示在叙述,行动,辩论等中在那一点上,关于那一点
+</k>
+
+10
+I don't agree with you there,`Dean`.
+<k>Dean
+[din]
+迪安	</k>
 
 11
-Let's face it.
-<k></k>
+`Let's face it`.
+<k>let's face it
+面对现实吧,承认吧
+
+Let's face it, we're not going to win.
+</k>
 
 12
-Baseball's just a dull version of cricket.
-<k></k>
+Baseball's just a `dull` version of cricket.
+<k>dull adj.
+[dʌl]
+无聊的
 
-13
-What do you think?
-<k></k>
+The conference was deadly dull.
+</k>
+
+12
+Baseball's just a dull version of `cricket`.
+<k>cricket n.
+['krɪkɪt]
+板球
+</k>
+
 
 14
-I'm with you Kevin.
-<k></k>
+`I'm with you` Kevin.
+<k>I'm with you
+我同意你的观点
 
-15
-Baseball is boring.
-<k></k>
+I'm with you there.
+</k>
 
 16
--Not as boring as soccer.  -what?!
-<k></k>
+-Not as boring as `soccer`. 
+<k>soccer n.
+['sɑkər]
+英式足球</k>
 
-17
-Now that's boring.
-<k></k>
-
-18
-I say,let them use their hands.
-<k></k>
 
 19
-You're both very unreasonable.
-<k></k>
+You're both very `unreasonable`.
+<k>unreasonable 
+adj. 不合理的
+
+It seems unreasonable to expect one person to do both jobs.
+</k>
 
 20
-Kev,name one sport more boring than soccer.
-<k></k>
+`Kev`,name one sport more boring than soccer.
+<k>Kev
+[ˈkev]
+Kevin的简称
+</k>
+
+20
+Kev,`name` one sport more boring than soccer.
+<k>name 
+v. (要求别人)举例
+
+In the first question you had to name three types of monkeys.</k>
 
 21
--Golf.  -What?
-<k></k>
+-`Golf`.  -What?
+<k>golf n.
+[ɡɔlf]
+高尔夫
+</k>
 
 22
-He's got a point.
-<k></k>
+`He's got a point`.
+<k>sb have got a point
+他说得有理
+
+-Every millionaire is happy about his or her life.
+-That's your opinion.
+-Everyone has their problems.
+-You've got a point.</k>
 
 23
-That's your opinion.
-<k></k>
+`That's your opinion`.
+<k>That's your opinion
+那只是你的观点(表示不同意对方观点)
+
+-Every millionaire is happy about his or her life.
+-That's your opinion.
+-Everyone has their problems.
+-You've got a point.</k>
 
 24
-What's your opinion?
-<k></k>
-
-25
-Golf is very exciting.
-<k></k>
+`What's your opinion`?
+<k>What's your opinion?
+那你怎么看?
+</k>
 

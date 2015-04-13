@@ -1,96 +1,146 @@
-1
-5...4...3...
-<k></k>
+
 
 2
-Sun Yu Chang is a member of the trade delegation now in Boston.
-<k></k>
+Sun Yu Chang is a member of the `trade delegation` now in Boston.
+<k>trade delegation
+贸易代表团
+delegation n. [ˌdelɪ'ɡeɪʃn] = a group of delegates
+delegate n. 代表
 
-3
-They've been talking to our governor.
-<k></k>
+A trade delegation from Spain has arrived for a month.
+</k>
+
 
 4
-How are the talks going,Mr.Chang?
-<k></k>
+`How are the talks going`,Mr.Chang?
+<k>How is...going?
+...进行得怎么样了
 
-5
-Very,very well.
-<k></k>
+How is your job hunting going?
 
-6
-Can you tell us how well?
-<k></k>
+这里的talks指的是双方的会谈.</k>
+
 
 7
-It's a negotiation.
-<k></k>
+It's a `negotiation`.
+<k>negotiation 
+[nɪˌɡoʊʃi'eɪʃn]
+n. 谈判
+ 
+The agreement was reached after a series of difficult negotiations.
+
+</k>
 
 8
-We don't agree on every point.
-<k></k>
+We don't `agree on every point`.
+<k>agree on every point
+在每一方面都互相同意
+
+We will never agree on every point but that doesn't mean we can't be partners.
+</k>
 
 9
-And we are dealing with issues that affect trade everywhere.
-<k></k>
+And we `are dealing with` issues that affect trade everywhere.
+<k>be dealing with...
+正在处理
+
+They are dealing politely with angry customers.</k>
 
 10
-For instance?
-<k></k>
+`For instance`?
+<k>for instance?
+比如呢?
+
+-I have many hobbies.
+-For instance?</k>
 
 11
-Inflation,of course.
-<k></k>
+`Inflation`,of course.
+<k>inflation n.
+[ɪn'fleɪʃn]
+通货膨胀
+
+Your salary will be increased in line with the 3% inflation expected this autumn.
+
+</k>
 
 12
-Here,compared with inflation in our country.
-<k></k>
+Here,`compared with` inflation in our country.
+<k>compared with
+与...相比
+
+Compared with other developing counties, China is growing rapidly.</k>
 
 13
-Also employment.
-<k></k>
+Also `employment`.
+<k>employment n.
+就业
+
+Employment levels are unlikely to rise significantly before the end of next year.
+</k>
 
 14
-How much of our workforce is involved in trade with your country.
-<k></k>
+How much of our `workforce` is involved in trade with your country.
+<k>workforce n.
+劳动力
 
-15
-These affect our discussions.
-<k></k>
+Much of the workforce in the banking sector is affected by the new legislation.
+</k>
+
+14
+How much of our workforce `is involved in` trade with your country.
+<k>be involved in...
+参与到...中,投身于...
+
+She's been involved with animal rights for many years.</k>
+
 
 16
-Will there be a trade agreement?
-<k></k>
+Will there be a `trade agreement`?
+<k>trade agreement
+贸易协定</k>
 
 17
-Oh yes.We are making progress all the time.
-<k></k>
+Oh yes.We are `making progress` all the time.
+<k>make progress
+取得进展
 
-18
-Thank you for speaking with us,Mr.Chang.
-<k></k>
+I'm not making much progress with my Spanish.
+</k>
 
 19
-My pleasure.
-<k></k>
+`My pleasure`.
+<k>My pleasure
+不客气</k>
 
 20
-Sun Yu Chang,ending on a positive note.
-<k></k>
+Sun Yu Chang,`ending on a positive note`.
+<k>end on a ...note 
+以...的语气结束
+
+She ended her speech on an optimistic note.
+</k>
+
 
 21
-This is Heather Vialo reporting live from the Sheraton Boston,
-<k></k>
+This is `Heather Vialo` reporting live from the Sheraton Boston,
+<k>Heather Vialo
+['heðər] [vioʊla]
+希瑟.维欧拉</k>
 
-22
-for the Business Network.
-<k></k>
+21
+This is Heather Vialo `reporting live` from the Sheraton Boston,
+<k>report live
+现场直播
+这里的live是副词, 意思是现场地</k>
+
 
 23
-OK.We're all set.
-<k></k>
+OK.We're `all set`.
+<k>all set
+一切准备就绪
 
-24
-Thank you ,Mr.Chang.
-<k></k>
+Is everything all set for the party?
+</k>
+
 

@@ -1,72 +1,66 @@
 1
-Where are you going to spend your holidays this year, Gary?
-<k></k>
+Where are you going to spend your holidays this year,`Gary`?
+<k>Gary
+['ɡæri]
+盖瑞</k>
 
 2
-We may go abroad.
-<k></k>
+We may `go abroad`.
+<k>go abroad
+去国外
 
-3
-I'm not sure.
-<k></k>
+We always go abroad in the summer.
+夏天我们总是去国外度假.
+</k>
 
 4
-My wife wants to go to Egypt.
-<k></k>
+My wife wants to go to `Egypt`.
+<k>Egypt
+['idʒɪpt]
+埃及</k>
 
-5
-I'd like to go there, too.
-<k></k>
 
 6
-We can't make up our minds.
-<k></k>
+We can't `make up our minds`.
+<k>make up one's mind
+下定决心,打定主意
+
+I can't make up my mind whether to have the fish or the chicken.
+我无法打定主意究竟要吃鱼还是吃鸡.
+</k>
 
 7
-Will you travel by sea or by air?
-<k></k>
+Will you travel `by sea` or by air?
+<k>by sea
+由海路,乘船
 
-8
-We may travel by sea.
-<k></k>
+We made up our minds to go to Shanghai by sea.
+我们下定主意坐船去上海.
+</k>
 
-9
-It's cheaper, isn't it?
-<k></k>
+7
+Will you travel by sea or `by air`?
+<k>by air
+由空路,乘飞机
 
-10
-I'm sure you'll enjoy yourselves.
-<k></k>
+</k>
 
-11
-Don't be so sure.
-<k></k>
-
-12
-We might not go anywhere.
-<k></k>
-
-13
-My wife always worries too much.
-<k></k>
 
 14
-Who's going to look after the dog?
-<k></k>
+Who's going to `look after` the dog?
+<k>look after
+照看
 
-15
-Who's going to look after the house?
-<k></k>
+Will you look after my cat while I'm away? 
+在我离开的时候,你能帮我照看我的猫吗?
+</k>
 
-16
-Who's going to look after the garden?
-<k></k>
-
-17
-We have this problem every year.
-<k></k>
 
 18
-In the end, we stay at home and look after everything!
-<k></k>
+`In the end,` we stay at home and look after everything!
+<k>in the end
+最后,结果
+
+I has been in a marriage for a long time but in the end I got divorced.
+我在一段婚姻里待了很长一段时间，但最后我还是离婚了。</k>
 

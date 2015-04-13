@@ -1,80 +1,104 @@
 1
-Are you really going to retire, Miss Marsh?
-<k></k>
+Are you really going to `retire`, Miss Marsh?
+<k>retire 
+[rɪ'taɪər]
+v. 退休
+
+My father retired at the age of 60.
+我父亲在60岁的时候退休了.</k>
+
+1
+Are you really going to retire, Miss `Marsh`?
+<k>Marsh
+[mɑrʃ]
+马什</k>
 
 2
-I may.
-<k></k>
+I `may`.
+<k>may
+可能
+may表示可能性较低, 语气较弱.
+
+-Will you come to the party tonight?
+你今晚会来参加派对吗?
+-I may.
+我可能会来.
+</k>
 
 3
-I can't make up my mind.
-<k></k>
+I can't `make up my mind`.
+<k>make up one's mind
+下定决心,打定主意
+
+I can't make up my mind whether to have the fish or the chicken.
+我无法打定主意究竟要吃鱼还是吃鸡.
+</k>
 
 4
-I will have to ask my future husband.
-<k></k>
+I will `have to` ask my future husband.
+<k>have to
+必须
+have to表示内心不情愿但不得不, must表示自己内心愿意的必须.
+</k>
 
-5
-He won't let me make another film.
-<k></k>
-
-6
-Your future husband, Miss Marsh?
-<k></k>
 
 7
-Yes. Let me introduce him to you.
-<k></k>
+Yes. Let me `introduce him to you`.
+<k>introduce sb. to sb.
+介绍某人给某人
+
+I guess you haven't met Mr. Lee. Let me introduce him to you.
+你大概还没见过李先生吧，让我来介绍他给你.</k>
 
 8
-His name is Carlos.
-<k></k>
+His name is `Carlos`.
+<k>Carlos
+[ˈkɑrlɔs]
+卡洛斯
+</k>
 
 9
-We're going to get married next week.
-<k></k>
+We're going to `get married` next week.
+<k>get married
+结婚
+
+I got married when I was 20.
+我二十岁时结的婚.</k>
 
 10
-Look, Liz!
-<k></k>
+Look, `Liz`!
+<k>Liz
+[lɪz]
+利兹</k>
 
-11
-Here's another report about Karen Marsh.
-<k></k>
 
 12
-Listen:'Karen Marsh: The latest.
-<k></k>
+Listen:'Karen Marsh: `The latest`.
+<k>the latest
+最新的
 
-13
-At her London Hotel today Miss Marsh told reporters she might retire.
-<k></k>
+Have you seen her latest movie?
+你看最新的电影了吗? </k>
 
-14
-She said she couldn't make up her mind.
-<k></k>
-
-15
-She said she would have to ask her future husband.
-<k></k>
-
-16
-She said her future husband would not let her make another film.
-<k></k>
-
-17
-Then she introduced us to Carlos and told us they would get married next week.'
-<k></k>
 
 18
-That's sensational news, isn't it, Kate?
-<k></k>
+That's `sensational` news,isn't it, Kate?
+<k>sensational adj. 
+[sen'seɪʃənl]
+轰动的
+
+The sensational report didn't have much effect on them.
+那起轰动的新闻报导对他们并无多大影响.
+</k>
 
 19
-It certainly is.
-<k></k>
+It `certainly` is.
+<k>certainly adv.
+一定
 
-20
-He'll be her sixth husband!
-<k></k>
+-This is rather a difficult question.
+-这真是一个困难的问题。
+ -Yes, it's certainly not easy.
+-对的，这个肯定不简单。
+</k>
 

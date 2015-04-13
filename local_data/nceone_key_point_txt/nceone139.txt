@@ -1,76 +1,111 @@
 1
-Is that you, John?
-<k></k>
+`Is that you`, John?
+<k>is that you
+是你吗(专用于打电话)
+
+-This is Lily. Is that you, Lucy?
+-(电话中)我是莉莉.露西是你吗?
+-Yes, this is lucy.
+-是的,我是露西.
+</k>
+
+1
+Is that you, `John`?
+<k>John
+[dʒɑn]
+约翰</k>
 
 2
-Yes, speaking.
-<k></k>
+Yes, `speaking`.
+<k>speaking是this is sb. speaking的简称, 表示这是某人正在接电话</k>
 
 3
-Tell Mary we'll be late for dinner this evening.
-<k></k>
+Tell Mary `we'll be late for` dinner this evening.
+<k>sb. will be late for sth.
+某人会晚到
 
-4
-I'm afraid I don't understand.
-<k></k>
+James says he will be late for the football game.
+詹姆斯说这场足球比赛他会晚到.</k>
 
-5
-Hasn't Mary told you?
-<k></k>
 
 6
-She invited Charlotte and me to dinner this evening.
-<k></k>
+She invited `Charlotte` and me to dinner this evening.
+<k>Charlotte
+['ʃɑlәt]
+夏洛特
+</k>
 
 7
-I said I would be at your house at six o'clock,
-<k></k>
+I said I would `be at your house` at six o'clock,
+<k>be at one's house
+到某人家
+
+We will be at your house soon.
+我们就快到你家了. </k>
 
 8
-but the boss wants me to do some extra work.
-<k></k>
+but the boss wants me to `do some extra work`.
+<k>to do some extra work
+做额外的工作,可意译为加班
 
-9
-I'll have to stay at the office.
-<k></k>
+My boss doesn't encourage us to do any extra work after work.
+我老板不鼓励下班之后继续加班.(否定句把some换成any)
+</k>
 
-10
-I don't know when I'll finish.
-<k></k>
 
 11
-Oh, and by the way, my wife wants to know if Mary needs any help.
-<k></k>
+Oh, and `by the way`, my wife wants to know if Mary needs any help.
+<k>by the way
+顺便(提一下)
+
+By the way, I'm John.
+顺便说一下, 我是John.(当你跟别人聊了几句话可以这样介绍自己的名字)
+</k>
 
 12
-I don't know what you're talking about.
-<k></k>
+`I don't know what you're talking about`.
+<k>I don't know what you're talking about.
+我不知道你在说些什么(固定的说法)
+</k>
 
-13
-That is John Smith, isn't it?
-<k></k>
-
-14
-Yes, I'm John Smith.
-<k></k>
 
 15
-You are John Smith, the engineer, aren't you?
-<k></k>
+You are John Smith,the `engineer`,aren't you?
+<k>engineer n.
+[‚endʒɪ'nɪə]
+工程师
 
-16
-That's right.
-<k></k>
+I am working as a software engineer.
+我的工作是软件工程师.
+</k>
+
 
 17
-You work for the Overseas Engineering Company, don't you?
-<k></k>
+You work for the `Overseas` Engineering Company, don't you?
+<k>overseas 
+adj./adv. 海外的
 
-18
-No, I don't. I'm John Smith the telephone engineer
-<k></k>
+The number of Chinese overseas students is increasing.
+中国海外学生的数量在增加. </k>
+
 
 19
-and I'm repairing your telephone line.
-<k></k>
+and I'm `repairing` your telephone line.
+<k>repair 
+[rɪ'per]
+v. 修理
+
+Anyone would like to help me repair the car?
+谁愿意和我一起修那辆车吗?
+</k>
+
+
+19
+and I'm repairing your `telephone line`.
+<k>telephone line 
+n. 电话线路
+
+The telephone line has some problem. I couldn't hear you very well.
+电话线路有些故障，我听不太清楚.
+</k>
 

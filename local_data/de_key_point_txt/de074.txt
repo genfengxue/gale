@@ -1,92 +1,91 @@
-1
-We have the results of the guest survey.
-<k></k>
 
-2
-The good news is,
-<k></k>
 
 3
-our guests think we do a very good job.
-<k></k>
+our guests think we `do a very good job`.
+<k>do a good job
+干的很棒
+
+You did a good job on your project.</k>
 
 4
-But we did learn more about some of their preferences.
-<k></k>
+But we did `learn more about` some of their preferences.
+<k>learn about
+了解
+
+I've learned a lot about computers since I started working here.</k>
+
+4
+But we did learn more about some of their `preferences`.
+<k>preference n.
+['prefərəns]
+偏好
+
+Choosing furniture is largely a matter of personal preference.
+</k>
 
 5
-Like what?
-<k></k>
+`Like what`?
+<k>Like what?
+比如说呢?
+
+-I feel something is wrong.
+-Like what?</k>
 
 6
-For instance,in the newsstand.
-<k></k>
+`For instance`,in the newsstand.
+<k>for instance
+      ['ɪnstəns]
+比如说 = for example
+</k>
 
-7
-12% of all guests think
-<k></k>
+6
+For instance,in the `newsstand`.
+<k>newsstand n.
+['njuːzˌstænd]	
+报摊,报架
+</k>
 
-8
-there should be more foreign newspapers and magazines.
-<k></k>
-
-9
-I certainly agree.
-<k></k>
-
-10
-28% would like to see more news magazines,
-<k></k>
-
-11
-and fewer fashion magazines.
-<k></k>
-
-12
-26% would like to see more fashion and life style magazines,
-<k></k>
-
-13
-and less news.
-<k></k>
 
 14
-I wonder who's who.
-<k></k>
+`I wonder` who's who.
+<k>I wonder...
+我想知道
 
-15
-Men and women.
-<k></k>
+I wonder if you could give me some information about places to visit in the area?</k>
+
+14
+I wonder `who's who`.
+<k>who's who
+谁是谁
+
+Your story is a little bit confusing. I can't figure out who’s who. </k>
+
 
 16
-Business travelers and vacationers?
-<k></k>
+Business travelers and `vacationers`?
+<k>vacationer n.
+度假者(美式),英国人则会说holidaymaker</k>
 
 17
-We can't tell from the numbers.
-<k></k>
+We can't `tell from` the numbers.
+<k>tell from
+从...看出
 
-18
-14% had no opinion about the newsstand.
-<k></k>
-
-19
-9% think we should sell cold drinks.
-<k></k>
-
-20
-7% want a newsstand on every floor.
-<k></k>
-
-21
-And 4% don't know we have a newsstand.
-<k></k>
+It's quite difficult to tell her mood from her face.</k>
 
 22
-How can they miss it?
-<k></k>
+How can they `miss` it?
+<k>miss v.
+错过,没看见
+
+I missed the beginning of the film.
+</k>
 
 23
-They're having too good a time to notice.
-<k></k>
+They're `having too good a time to notice`.
+<k>have too good a time
+玩得很开心, 固定搭配
+
+We're having too good a time today. We are not thinking about tomorrow.
+</k>
 

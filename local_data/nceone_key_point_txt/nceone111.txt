@@ -1,76 +1,147 @@
+
 1
-I like this television very much.
-<k></k>
+I like this `television` very much.
+<k>television
+['telɪvɪʒn]
+电视,TV的全称
+</k>
 
 2
-How much does it cost?
-<k></k>
+`How much does it cost`?
+<k>how much does it cost
+这个花了多少钱?
+
+-I like your new bag. How much does it cost?
+-我喜欢你的新包,花了多少钱?
+-It costs 40 dollars.
+-花了40美元.</k>
 
 3
-It's the most expensive model in the shop.
-<k></k>
+It's the most `expensive` model in the shop.
+<k>expensive adj.
+[ɪk'spensɪv]
+昂贵的
+
+What an expensive car!
+好贵的车!
+</k>
+
+3
+It's the most expensive `model` in the shop.
+<k>model
+['mɑdl]
+模型，型号
+
+This is the most popular model in our shop. 
+这是我们店铺中最受欢迎的型号.</k>
 
 4
-It costs five hundred pounds.
-<k></k>
+`It costs` five hundred pounds.
+<k>it costs + 钱
+花了...钱
 
-5
-That's too expensive for us.
-<k></k>
+-How much doest it cost you to fly from China to the UK?
+-你从中国飞到英国花了多少钱?
+-It costs five hundred pounds.
+-花了五百镑.
+</k>
+
 
 6
-We can't afford all that money.
-<k></k>
+We can't `afford` all that money.
+<k>afford v.
+承担得起
+
+They walked because they couldn't afford a taxi. 
+他们因为坐不起计程车而步行.
+</k>
+
 
 7
-This model's less expensive than that one.
-<k></k>
+This model's `less expensive than` that one.
+<k>less...than...
+比...少
 
-8
-It's only three hundred pounds.
-<k></k>
+I earn less moneny than my hunsband.
+我挣的钱比我丈夫挣的少.</k>
+
 
 9
-But, of course, it's not as good as the expensive one.
-<k></k>
+But, of course, it's not `as good as` the expensive one.
+<k>as +adj./adv.+ as...
+和...一样..., not as...as...表示和...不一样...
 
-10
-I don't like this model.
-<k></k>
+I  am as tall as you.
+我和你一样高.
+You don't love me as much as I love you.
+你爱我不如我爱你那么多.
+</k>
+
 
 11
-The other model's more expensive, but it's worth the money.
-<k></k>
+The other model's more expensive, but `it's worth the money`.
+<k>it's worth the money
+它值这个钱
+
+You can buy whatever you want as long as you think it's worth the money.
+你可以买想买的任何东西，只要你认为它值这个钱.</k>
 
 12
-Can we buy it on instalments?
-<k></k>
+Can we buy it on `instalments`?
+<k>instalment n.
+[ɪn'stɔlmənt]
+分期付款,美式为installment. On在这里为'by means of/using'(靠,用)的意思.
+
+We agreed to pay for the furniture on monthly installments.
+我们同意每月分期付款购买家具.
+</k>
 
 13
-Of course. You can pay a deposit of thirty pounds,
-<k></k>
+Of course. You can pay a `deposit` of thirty pounds,
+<k>deposit n.
+[dɪ'pɑzɪt]
+押金,定金
+
+The shop promises to keep the goods for me if I put down a deposit.
+商店答应倘若我付定金就给我保留这批货. 
+</k>
 
 14
-and then fourteen pounds a month for three years.
-<k></k>
+and then `fourteen pounds a month` for three years.
+<k>... a month
+每个月...  =...per month
 
-15
-Do you like it, dear?
-<k></k>
+Generally I spend 500 dollars on food a month.
+总的来说我每月花500美元在食物上.
+</k>
 
 16
-I certainly do, but I don't like the price.
-<k></k>
+I `certainly` do, but I don't like the price.
+<k>certainly adv.
+一定
 
-17
-You always want the best, but we can't afford it.
-<k></k>
+-This is rather a difficult question.
+-这真是一个困难的问题.
+ -Yes, it's certainly not easy.
+-对的,这个肯定不简单.
+</k>
+
 
 18
-Sometimes you think you're a millionaire!
-<k></k>
+Sometimes you think you're a `millionaire`!
+<k>millionaire n.
+[ˌmɪljə'ner]
+百万富翁
+同理, billionaire n. 亿万富翁
 
-19
-Millionaires don't buy things on instalments!
-<k></k>
+You want me to buy you a new car - do you think I'm a millionaire or something?
+你想我给你买辆新车 - 你以为我是百万富翁还是什么的?
+</k>
+
+
+
+
+
+
+
 

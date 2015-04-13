@@ -1,76 +1,168 @@
 1
-Fares, please!
-<k></k>
+`Fares`, please!
+<k>fare n.
+[fer]
+票价(尤其指交通),这里指请买票.
+
+Train fares are going up again.
+火车票价又要涨了.
+</k>
 
 2
-Trafalgar Square, please.
-<k></k>
+`Trafalgar Square`,please.
+<k>Trafalgar Square
+[trə'fælgər] [skwer]
+特拉法尔加广场, 伦敦市中心的一个广场
+</k>
 
 3
-I'm sorry, sir. I can't change a ten-pound note.
-<k></k>
+I'm sorry, sir. I can't `change` a ten-pound note.
+<k>change v.
+换钱，找零
+
+I need to change my dollars into francs. 
+我需要把美金换成法郎. 
+</k>
+
+3
+I'm sorry, sir. I can't change a ten-pound `note`.
+<k>note n.
+纸币
+
+Do you want the money in notes or coins?
+你要纸币要硬币?
+</k>
 
 4
-Haven't you got any small change?
-<k></k>
+Haven't you got any small `change`?
+<k>change n.
+零钱
 
-5
-I've got no small change, I am afraid.
-<k></k>
+Don't forget your change!
+不要忘了找你的零钱!
+</k>
 
 6
-I'll ask some of the passengers.
-<k></k>
+I'll ask some of the `passengers`.
+<k>passenger n.
+['pæsɪndʒər]
+乘客
 
-7
-Have you any small change, sir?
-<k></k>
+Two passengers behind are talking loudly.
+两位后座的乘客在大声地谈话.
+</k>
 
 8
-I'm sorry. I've got none.
-<k></k>
+I'm sorry. `I've got none.`
+<k>I've got none.
+我没有
+none在这里指没有同一类的东西，注意与I've got nothing(我什么也没有)的区别.
+
+-Do you have any cigarette?
+-你有香烟么?
+-I've got none.
+-我没有(香烟,但有其他东西).
+
+-Do you have any cigarette?
+-你有香烟么?
+-I've got nothing!
+-我什么都没有!(没有香烟，也没有其他任何东西)
+</k>
 
 9
-I haven't got any either.
-<k></k>
+I haven't got any `either`.
+<k>either adv.
+也(否定句中)
+
+I don't eat meat and my husband doesn't either.
+我不吃肉,我丈夫也不吃.
+</k>
 
 10
-Can you change this ten-pound note, madam?
-<k></k>
+Can you change this ten-pound note, `madam`?
+<k>madam n.
+['mædəm]
+女士(对不认识的女性的敬称)
 
-11
-I'm afraid I can't.
-<k></k>
+May I carry your cases for you, Madam?
+我能为你提包吗,女士?
+</k>
+
 
 12
-Neither can I.
-<k></k>
+`Neither can I`.
+<k>Neither + 助动词 + sb.
+某人也没...
 
-13
-I'm very sorry, sir.
-<k></k>
+-Did you see it?
+-你看见了吗?
+-No. 
+-没有.
+-Neither did I.
+-我也没有.
+</k>
+
 
 14
-You must get off the bus.
-<k></k>
+You must `get off` the bus.
+<k>get off v.
+下车
+get on上车
+get off/on一般与bus, train, boat and aircraft连用,如果是car用get in/into/out of the car
+
+Shall we get off the bus now?
+我们现在该下车了吧?
+</k>
 
 15
-None of our passengers can change this note.
-<k></k>
+`None of` our passengers can change this note.
+<k>none of...
+一个也没...
+两个都没有用neither, 超过两个都没有用none.
+
+None of my children has blonde hair.
+我的孩子(超过两个)没有一个是金黄头发的.
+Neither of my parents likes my boyfriend.
+我的父母(只有两个人)都不喜欢我的男朋友.
+</k>
 
 16
-They're all millionaires!
-<k></k>
+They're all `millionaires`!
+<k>millionaire n.
+[ˌmɪljə'ner]
+百万富翁
+同理, billionaire n. 亿万富翁
+
+You want me to buy you a new car - do you think I'm a millionaire or something?
+你想我给你买辆新车 - 你以为我是百万富翁还是什么的?
+</k>
 
 17
-Except us.
-<k></k>
+`Except` us.
+<k>except prep./conj.
+除了...之外
 
-18
-I've got some small change.
-<k></k>
+The museum is open daily except Mondays.
+博物馆每天除了周一之外每天都开.
+</k>
 
 19
-So have I.
-<k></k>
+`So have I`.
+<k>so + v. + sb.
+某人也是.
+
+-I like that actress.
+-我喜欢那个女演员.
+-So do I.
+-我也喜欢.
+</k>
+
+
+
+
+
+
+
+
+
 

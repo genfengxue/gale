@@ -1,60 +1,137 @@
 1
-I live in a very old town which is surrounded by beautiful woods.
-<k></k>
+I live in a very old town which `is surrounded by` beautiful woods.
+<k>be surrounded by ...
+被...包围
+
+We have been surrounded by the enemies!
+我们被敌人包围了!</k>
+
+1
+I live in a very old town which is surrounded by beautiful `woods`.
+<k>woods 
+n.树林
+</k> 
 
 2
-It is a famous beauty spot.
-<k></k>
+It is a famous `beauty spot`.
+<k>beauty spot
+风景区
+</k>
 
 3
-On Sundays, hundreds of people come from the city to see our town
-<k></k>
+On Sundays, `hundreds of` people come from the city to see our town
+<k>hundreds of...
+成百的
+同理thousands of ... 成千的 millions/billions of ... 成百万/十亿的...
+
+Hundreds of people lost their lives in this disaster.
+成百的人在这场灾难中去世了.
+</k>
 
 4
-and to walk through the woods.
-<k></k>
+and to `walk through` the woods.
+<k>walk through
+走过,通过
+
+If you walk through the hall, you'll see my collection of aircraft models.
+如果你走过门厅，就可以看到我的飞机模型收藏.
+</k>
 
 5
-Visitors have been asked to keep the woods clean and tidy.
-<k></k>
+Visitors have been asked to keep the woods `clean and tidy`.
+<k>tidy 
+adj.整齐的
+clean and tidy常常连在一起用, 表示整洁的
+
+The house is clean and tidy.
+房子是整洁的.
+</k>
 
 6
-Litter baskets have been placed under the trees,
-<k></k>
+`Litter baskets` have been placed under the trees,
+<k>litter basket 
+n. 垃圾箱
+</k>
+
+6
+Litter baskets have been `placed` under the trees,
+<k>place 
+v. 置放
+
+Place your hand under your desks.
+把你们的手放到桌子下边去.(老师对一群学生说)</k>
 
 7
-but people still throw their rubbish everywhere.
-<k></k>
+but people still `throw their rubbish` everywhere.
+<k>throw one's rubbish
+丢某人的垃圾
+
+Please throw your rubbish in the litter basket.
+请将垃圾丢进垃圾桶.</k>
 
 8
-Last Wednesday, I went for a walk in the woods.
-<k></k>
+Last Wednesday, I `went for a walk` in the woods.
+<k>go for a walk
+散步
 
-9
-What I saw made me very sad.
-<k></k>
+I want to go for a walk. Do you want to join me?
+我想去散个步,你要跟我一起吗?</k>
+
 
 10
-I counted seven old cars and three old refrigerators.
-<k></k>
+I counted seven old cars and three old `refrigerators`.
+<k>refrigerator n.
+[rɪ'frɪdʒəreɪtər]	
+冰箱, 也可用fridge </k>
 
-11
-The litter baskets were empty
-<k></k>
 
 12
-and the ground was covered with pieces of paper, cigarette ends, old tyres,
-<k></k>
+and the ground `was covered with` pieces of paper, cigarette ends, old tyres,
+<k>be covered with
+被...覆盖
+
+The road is covered with snow.
+道路被雪覆盖了.</k>
+
+12
+and the ground was covered with pieces of paper, `cigarette ends`, old tyres,
+<k>cigarette end n.
+['sɪɡəret] [end]
+烟蒂，也可称为cigarette butt
+butt是屁股的意思, 烟蒂就可以看做是烟的屁股.
+</k>
+
+12
+and the ground was covered with pieces of paper, cigarette ends, old `tyres`,
+<k>tyre n.
+['taɪər]
+轮胎</k>
 
 13
-empty bottles and rusty tins.
-<k></k>
+empty bottles and `rusty` tins.
+<k>rusty 
+adj. 生锈的
 
-14
-Among the rubbish, I found a sign which said,
-<k></k>
+Nobody likes a rusty car.
+没人喜欢生锈了的车.
+</k>
+
+13
+empty bottles and rusty `tins`.
+<k>tin 
+n.锡制罐头
+
+One tin of beer please!
+来一听啤酒!
+</k>
+
 
 15
-Anyone who leaves litter in these woods will be prosecuted!'
-<k></k>
+Anyone who leaves litter in these woods will be `prosecuted`!'
+<k>prosecute 
+v.起诉
+
+He was prosecuted for fraud.
+他因诈骗被起诉.
+</k>
 

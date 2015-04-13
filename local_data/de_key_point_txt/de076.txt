@@ -1,76 +1,73 @@
-1
-Remember that project we talked about?
-<k></k>
 
-2
-Welcome to the United States of America.
-<k></k>
-
-3
-When you arrive,
-<k></k>
-
-4
-follow the "Arrivals" sign.
-<k></k>
 
 5
-First you have to go through Immigration and Passport Control.
-<k></k>
+First you have to `go through` Immigration and Passport Control.
+<k>go through
+通过
 
-6
-Make sure you have the correct visa,
-<k></k>
+Do you think that such a big truck can go through the tunnel under the river?</k>
+
+5
+First you have to go through `Immigration and Passport Control`.
+<k>Immigration and Passport Control
+入境处
+进入每个国家时都有一个入境处检查护照和签证</k>
+
 
 7
-if needed,before you arrive.
-<k></k>
+`if needed`,before you arrive.
+<k>if needed
+如果需要的话
+
+I could offer you some help, if needed.</k>
 
 8
-And then it's time to get your bags.
-<k></k>
+And then `it's time to` get your bags.
+<k>it's time to do ...
+是时候做...
+
+This relationship is over. It's time to let it go.</k>
 
 9
-Follow signs to the Baggage Claim.
-<k></k>
+Follow signs to the `Baggage Claim`.
+<k>Baggage Claim
+行李提取处
+</k>
 
 10
-TV monitors will tell you exactly where your luggage will arrive.
-<k></k>
+`TV monitors` will tell you exactly where your luggage will arrive.
+<k>TV monitor
+电视显示屏</k>
 
-11
-After you get your baggage,
-<k></k>
 
 12
-go through customs.
-<k></k>
+go through `customs`.
+<k>customs n.
+海关
+
+How long does it take to go through customs?
+</k>
 
 13
-If you have something to declare,
-<k></k>
-
-14
-go through the red exit.
-<k></k>
-
-15
-If not,go through the green exit.
-<k></k>
-
-16
-We hope you enjoy your stay in the United States.
-<k></k>
+If you have something to `declare`,
+<k>declare v.
+[dɪ'kler]
+申报
+入境一个国家时超过一定价值或者特殊物品需要向海关申报
+</k>
 
 17
-Have a nice day.
-<k></k>
-
-18
-You did this on the computer?
-<k></k>
+`Have a nice day`.
+<k>have a nice day
+祝你有愉快的一天
+常常在结束一段对话时用到. 但是如果结束对话时, 已经这一天要结束了, 就不适合用这一句.</k>
 
 19
-You're just a big genius!
-<k></k>
+You're just a big `genius`!
+<k>genius n.
+['dʒiniəs]
+天才
+
+Einstein was a mathematical genius.
+</k>
 

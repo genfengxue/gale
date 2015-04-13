@@ -1,108 +1,96 @@
 1
-Hello,Didi?
-<k></k>
+Hello,`Didi`?
+<k>Didi
+['didi]
+人名
+</k>
 
 2
-This is Sharon Solaye at the Sheraton Boston.
-<k></k>
+This is `Sharon Solaye` at the Sheraton Boston.
+<k>Sharon Solaye
+[ˈʃærən] [soʊˈleia]
+人名
+</k>
+
+2
+This is Sharon Solaye at the `Sheraton Boston`.
+<k>Sheraton Boston
+['ʃerətn] ['bɔstən]
+酒店名称
+ </k>
 
 3
-I have a special request.
-<k></k>
+I have a `special request`.
+<k>special request
+特殊请求
+
+The boss refused our special request.
+</k>
 
 4
-I wonder if I could come over and talk to you about it?
-<k></k>
+I wonder if I could `come over` and talk to you about it?
+<k>come over
+到某人那里去(来)
 
-5
-Great.
-<k></k>
+Are your family coming over from Greece for the wedding?</k>
+
 
 6
-So,let me get this straight.
-<k></k>
+So,`let me get this straight`.
+<k>let me get this straight
+让我直说吧
+
+Let me get this straight - I won't allow my daughter to marry you!
+</k>
 
 7
-He doesn't want his regular suite at the hotel.
-<k></k>
+He doesn't want his regular `suite` at the hotel.
+<k>suite 
+[swiːt]	
+n. 套房
+</k>
 
-8
-Right.It's too small for him this time.
-<k></k>
-
-9
-He wants to rent a house.
-<k></k>
-
-10
-Yes.He wants a house with a garden.
-<k></k>
-
-11
-With a garden.Why?
-<k></k>
-
-12
-And he wants a large kitchen,
-<k></k>
-
-13
-living room,and dining room.
-<k></k>
 
 14
-It has to have plenty of light,
-<k></k>
+It has to have `plenty of light`,
+<k>plenty of light
+充足的光线
+
+I prefer a house with plenty of light.</k>
+
 
 15
-and central air conditioning.
-<k></k>
+and `central air conditioning`.
+<k>central air conditioning
+中央空调</k>
 
-16
-It must be near transportation,
-<k></k>
-
-17
-shopping,and the river.
-<k></k>
-
-18
-How many bedrooms?
-<k></k>
-
-19
-Nine.
-<k></k>
-
-20
-Did I hear you correctly?
-<k></k>
-
-21
-Nine bedrooms?
-<k></k>
 
 22
-Who is this client,the Vienna Boy's Choir?
-<k></k>
+Who is this client,the `Vienna Boy's Choir`?
+<k>Vienna Boy's Choir
+[viˈenə]     ['kwaɪər]	
+维也纳男子合唱团
+</k>
+
 
 23
-Maybe.He wants it for a song.
-<k></k>
+Maybe. He wants it `for a song`.
+<k>for a song
+非常便宜地
+这里一语双关,既表示客户想要便宜的房间也接着回答了上面’Vienna Boy's Choir'的幽默.
+
+She bought the bed for a song at an auction.</k>
+
+
 
 24
-Well,there is something in Boston that fits his needs.
-<k></k>
+Well,there is something in Boston that `fits his needs`.
+<k>fit one's needs
+符合某人的需求
 
-25
-Great.
-<k></k>
+Do you think this suite fits your needs?
+你觉得这间套房符合你的需求么?
 
-26
-Unfortunately,the mayor lives there.
-<k></k>
+</k>
 
-27
-Do you think he'd mind moving out for a month?
-<k></k>
 

@@ -1,72 +1,100 @@
 1
-Have you just made a new film, Miss Marsh?
-<k></k>
+Have you just made a new film, Miss `Marsh`?
+<k>Marsh
+ [mɑrʃ]
+ 马什</k>
 
-2
-Yes, I have.
-<k></k>
-
-3
-Are you going to make another?
-<k></k>
-
-4
-No, I'm not.
-<k></k>
 
 5
-I'm going to retire.
-<k></k>
+I'm going to `retire`.
+<k>retire v.
+[rɪ'taɪər]
+退休
 
-6
-I feel very tired.
-<k></k>
+My father retired at the age of 60.
+我父亲在60岁的时候退休了.</k>
+
 
 7
-I don't want to make another film for a long time.
-<k></k>
+I don't want to make another film `for a long time`.
+<k>for a long time
+很长一段时间内
 
-8
-Let's buy a newspaper, Liz.
-<k></k>
+I haven't watched movies for a long time.
+我很长一段时间没看电影了.</k>
 
-9
-Listen to this!
-<k></k>
 
 10
-Karen Marsh:Sensational News! By our reporter, Alan Jones.
-<k></k>
+`Karen` Marsh:Sensational News!By our reporter,Alan Jones.
+<k>Karen
+['karən]
+卡伦
+</k>
+
+
+10
+Karen Marsh:`Sensational` News!By our reporter,Alan Jones.
+<k>sensational adj. 
+[sen'seɪʃənl]
+轰动的
+
+The sensational report didn't have much effect on them.
+那起轰动的新闻报导对他们并无多大影响.
+</k>
+
+10
+Karen Marsh:Sensational News!`By our reporter`,Alan Jones.
+<k>by sb.
+由某人...(这里是报道)
+
+This news is reported by BBC.
+这段新闻是由BBC(英国广播电视台)报道的.
+</k>
+
+10
+Karen Marsh:Sensational News!By our reporter,`Alan Jones`.
+<k>Alan Jones
+[ˈælən][dʒəunz]
+艾伦.琼斯
+</k>
+
 
 11
-Karen Marsh arrived at London Airport today.
-<k></k>
+Karen Marsh `arrived at` London Airport today.
+<k>arrive at
+抵达小地方
+对比: arrive in 抵达大地方
+
+When you arrive at the airport, I will come pick you up.
+当你抵达机场的时候，我会来接你.
+They will arrive in New York at noon. 
+他们将于中午到达纽约. 
+</k>
 
 12
-She was wearing a blue dress and a mink coat.
-<k></k>
+She `was wearing` a blue dress and a mink coat.
+<k>is wearing...
+穿着...(强调此时此刻)
+She was wearing yellow that day.
+她那天穿着黄色的衣服.(这里用yellow就指代了一件黄色的衣服)</k>
 
-13
-She told me she had just made a new film.
-<k></k>
 
-14
-she said she was not going to make another.
-<k></k>
-
-15
-She said she was going to retire.
-<k></k>
-
-16
-She told reporters she felt very tired
-<k></k>
-
-17
-and didn't want to make another film for a long time.'
-<k></k>
+12
+She was wearing a blue dress and a `mink coat`.
+<k>mink coat
+[mɪŋk][koʊt]
+貂皮大衣
+</k>
 
 18
-I wonder why!
-<k></k>
+`I wonder why`!
+<k>I wonder why...
+我很想知道为什么(此处省略了前文)
+
+I wonder why my parents wouldn't allow me to study psychology.
+我很想知道为什么我父母不让我学心理学.
+</k>
+
+
+
 

@@ -1,56 +1,58 @@
-1
-Can I help you?
-<k></k>
 
-2
-Yes.I'm looking for something for my wife,please.
-<k></k>
-
-3
-What kind of thing are you looking for?
-<k></k>
 
 4
-I'm looking for a picture frame,
-<k></k>
+I'm looking for a `picture frame`,
+<k>picture frame
+相框</k>
 
 5
-a very simple one.Nothing fancy.
-<k></k>
+a very simple one.Nothing `fancy`.
+<k>fancy 
+adj. 精致的,别致的
+
+That's a very fancy pair of shoes! 
+</k>
 
 6
--In wood?Or silver?  -Silver.
-<k></k>
+-`In wood`?Or silver?  -Silver.
+<k>in wood
+木制的
+in + 材料, 由...制成的
 
-7
-Fine.Let me take a look.
-<k></k>
+Compared with metal table, I prefer a table in wood?
+</k>
 
-8
--I think a smaller one would be better. -Fine.
-<k></k>
+6
+-In wood? Or `silver`?  -Silver.
+<k>silver 
+['sɪlvər]
+n. 银
+</k>
 
-9
-It's a little too heavy.
-<k></k>
 
 10
-My wife wouldn't like these sharp corners.
-<k></k>
+My wife wouldn't like these `sharp corners`.
+<k>sharp corner
+尖角
+
+Be aware of those sharp corners of the table!</k>
 
 11
-Do you have any with a stand?
-<k></k>
+Do you have any `with a stand`?
+<k>with a stand
+有一个支脚
+stand在这里专门指a frame or piece of furniture for supporting or putting things on</k>
 
 12
-So she can set it up on a table
-<k></k>
+So she can `set it up` on a table
+<k>set up
+支撑起来
 
-13
-Ah,very nice.Very nice.
-<k></k>
+Do you know how to set up a tent?</k>
+
 
 14
-Do you have it in gold?
-<k></k>
+Do you have it `in gold`?
+<k>in gold
+金制的</k>
 

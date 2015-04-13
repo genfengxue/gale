@@ -1,88 +1,113 @@
 1
-所以你的计划是什么, Dean?
-<k></k>
+So what's your plan,`Dean`?
+<k>Dean 
+[din]
+迪恩
+</k>
 
 2
-我的意思是, 在你实习结束后?
-<k></k>
+I mean,after your `internship`?
+<k>internship
+实习
+
+He did his internship at Garfield Hospital.
+</k>
 
 3
-我完成学业.
-<k></k>
+I `finish school`.
+<k>finish school
+完成学业
 
-4
-完成学业后, 我寻找一份工作.
-<k></k>
+I want to finish school before I get married.
+</k>
 
 5
-以你的资历,
-<k></k>
+With your `qualifications`, you won't have much of a problem.
+<k>qualification n.
+[ˌkwɑlɪfɪ'keɪʃn]
+资格资历
+
+You'll never get a good job if you don't have any qualifications.
+</k>
 
 6
-你不会有什么大问题的.
-<k></k>
+I `wish that were true`.
+<k>wish引起的虚拟语气, 注意不是was而是were
 
-7
-我希望那是真的.
-<k></k>
+I were I were still in high school.</k>
 
 8
-很多有资格的人找不到工作.
-<k></k>
+Because businesses `can't afford to` hire people?
+<k>can't afford to do
+无法承担...的费用
 
-9
-因为企业雇不起人吗?
-<k></k>
+I am not a millionaire. I can't afford to buy you a new car.</k>
 
 10
-那是他们所说的.
-<k></k>
+Especially with `benefits`.
+<k>benefit 
+n. 工作的额外补助, 比如一周工作4天, 每天有免费水果等.
 
-11
-尤其带上福利.
-<k></k>
-
-12
-所以我可能不会得到一份工作  很长一段时间里.
-<k></k>
+This job doesn't pay much but it has many benefits.
+</k>
 
 13
-如果我不能得到一份工作.
-<k></k>
+`unemployment` must be too high.
+<k>unemployment 
+n. 失业率</k>
 
 14
-失业率必定是过高了.
-<k></k>
+Of course,I still have to `pay off` my student loans.
+<k>pay off
+还清债务
 
-15
-当然, 我仍然必须还清我的学生贷款.
-<k></k>
+I'll be able to pay off all my debt by end of this year.
+</k>
+
+14
+Of course,I still have to pay off `my student loans`.
+<k>student loans
+学生贷款, 上学的贷款
+
+Did you go to college on student loans?
+</k>
 
 16
-你必须自己支付大学的费用吗?
-<k></k>
+Doesn't the government `subsidize` you?
+<k>subsidize 
+v. 资助
+
+You can't expect government to subsidize your college educaiton.
+</k>
 
 17
-政府不给你补贴吗?
-<k></k>
+Not much.You're `pretty much` on your own.
+<k>pretty much
+差不多
+
+-How far do we still need to go?
+-We are actually pretty much there. </k>
+
+17
+Not much.You're pretty much `on your own`.
+<k>on one's own
+独自一人
+
+I'm not going to be your partner any more so you're on your own.</k>
 
 18
-不多. 你大多得靠自己.
-<k></k>
+Funny how the `newspaper headlines` start to affect your life.
+<k>newspaper headline
+报纸头条
 
-19
-多有趣啊 报纸头条开始影响你的生活了.
-<k></k>
+The news of his death was splashed in newspaper headlines across all the newspapers.
+
+</k>
 
 20
-失业, 通货膨胀...
-<k></k>
+Well that's not very `cheerful`,is it?
+<k>cheerful 
+adj. 高兴的,振奋的
 
-21
-Well 那不是很令人愉快, 是吗?
-<k></k>
-
-22
-要是体育版更好一些该多好!
-<k></k>
+The news isn't very cheerful, I'm afraid.</k>
 

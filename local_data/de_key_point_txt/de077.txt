@@ -1,80 +1,106 @@
 1
-Hi Sharon?It's Debbie.Hi.
-<k></k>
+Hi `Sharon`?It's Debbie.Hi.
+<k>Sharon
+[ˈʃærən]
+莎伦</k>
+
+1
+Hi Sharon?It's `Debbie`.Hi.
+<k>Debbie
+[ˈdebi]
+黛比</k>
 
 2
-Are you taking a vacation this summer?
-<k></k>
+Are you `taking a vacation` this summer?
+<k>take a vacation
+去度假
+
+We're taking a vacation in June.
+</k>
 
 3
-I'm trying to plan Dean's going-away party.
-<k></k>
+I'm trying to plan Dean's `going-away party`.
+<k>going-away party
+欢送会
+go away是离开的意思.
+</k>
 
 4
-OK.So you're away from August 10th to August 17th.
-<k></k>
+OK.So `you're away` from August 10th to August 17th.
+<k>sb. be away
+离开,请假
 
-5
-Thanks.I'll let you know what the plans are.
-<k></k>
+You will be away for a month, right?</k>
+
 
 6
-So Simon,you'll be away in late August,
-<k></k>
+So `Simon`,you'll be away in late August,
+<k>Simon
+['saɪmən]
+西蒙
+ </k>
 
-7
-but not for long.
-<k></k>
-
-8
-Do you know how long?
-<k></k>
-
-9
-OK.Thanks.
-<k></k>
 
 10
-Hi Wendy.It's me.
-<k></k>
+Hi `Wendy`.It's me.
+<k>Wendy
+['wendi]
+温蒂</k>
 
 11
-Will you be back from the Cape by the 30th?
-<k></k>
+Will you be back from `the Cape` by the 30th?
+<k>the Cape
+[keɪp]
+好望角(南非)</k>
+
+11
+Will you be back from the Cape `by the 30th`?
+<k>by + 日期
+截至...
+
+Everyone has to submit their thesis by the 1st of May.</k>
 
 12
-Great.Hey,did I tell you what James...
-<k></k>
+Great.Hey,did I tell you what `James`...
+<k>James
+[dʒeɪmz]
+詹姆斯
+ </k>
 
 13
-You'll be back at work on September 4th.
-<k></k>
+You'll `be back at work` on September 4th.
+<k>be back at work
+重新回来工作
+
+Nobody will be back at work until tomorrow.
+</k>
 
 14
-Thanks William.
-<k></k>
-
-15
-I'll let you know what we're doing.
-<k></k>
+Thanks `William`.
+<k>William
+[ˈwɪljəm]
+威廉姆
+</k>
 
 16
-Kevin.Kevin.
-<k></k>
-
-17
-I didn't realize you don't get a vacation until November.
-<k></k>
+`Kevin`.Kevin.
+<k>Kevin
+[ˈkevin]
+凯文</k>
 
 18
-I'm sorry I brought it up.
-<k></k>
+I'm sorry `I brought it up`.
+<k>bring sth. up
+提起某事
 
-19
-So what are you doing on September 6th?
-<k></k>
+You shouldn't bring up the sad story in front of her.
+</k>
+
 
 20
-Uh huh.Kevin.Don't you dare tell Dean.
-<k></k>
+Uh huh.Kevin.`Don't you dare` tell Dean.
+<k>don't you dare...
+你敢...!
+
+Don't you dare go without me!</k>
 

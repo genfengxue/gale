@@ -1,88 +1,75 @@
 1
-Hey,Carl.Here's a postcard from Nina.
-<k></k>
+Hey,`Carl`.Here's a postcard from Nina.
+<k>Carl
+[kɑl]
+卡尔</k>
 
 2
-From Prague.
-<k></k>
+From `Prague`.
+<k>Prague
+[prɑɡ]
+布拉格(捷克首都)</k>
 
-3
-I saw Nina here two minutes ago.
-<k></k>
 
 4
-Oh,they've been back for days.
-<k></k>
+Oh,they've been back `for days`.
+<k>for days
+许多天了
+同理 for years 很多年了,for ages 很长时间了
 
-5
-She writes,"I miss my baby,but I'm glad I'm here."
-<k></k>
-
-6
-What else?
-<k></k>
-
-7
-She says they've just arrived.
-<k></k>
+I haven't seen Carl for days. Is he alright?
+</k>
 
 8
-Boy,this took a long time to get here.
-<k></k>
+`Boy`,this took a long time to get here.
+<k>boy
+表示惊讶和强调的感叹词
+Boy, the food you made is amazing!
+</k>
 
 9
-She says it's beautiful and she's already in love with the city.
-<k></k>
+She says it's beautiful and she's already `in love with` the city.
+<k>in love with
+爱上
+
+I was in love with him at the first sight.
+</k>
 
 10
-I've never been.
-<k></k>
+`I've never been`.
+<k>I‘ve never been
+我从未去过那里, 这里省略了there.
+建议大家说I've never been there, 一般我们会带上there</k>
 
-11
-Me,neither.She makes it sound great.
-<k></k>
-
-12
-She said they had done a lot of walking.
-<k></k>
-
-13
-And she was going to do a lot more walking when she got back.
-<k></k>
 
 14
-Let's see.It's a funny thing about travel.
-<k></k>
+`Let's see`.It's a funny thing about travel.
+<k>let's see
+咱们看看
 
-15
-What?
-<k></k>
+-Will you be avaiable next Saturday?
+-Next Saturday, let's see, that's when we're going to the theatre.
+</k>
 
 16
-People go all that way,to a completely new place.
-<k></k>
+People go `all that way`,to a completely new place.
+<k>all that way
+一路, 大老远
+
+My parents came all the way from China to visit me.</k>
 
 17
-They see their lives from a new perspective,
-<k></k>
+They see their lives `from a new perspective`,
+<k>from ... perspective
+从...的角度
 
-18
--you know?   -Sure
-<k></k>
+He writes this article from a Marxist perspective.
+(Marxist 马克思主义
+</k>
 
-19
-And they make decisions...
-<k></k>
-
-20
-like they're going to do a lot more walking.
-<k></k>
-
-21
-Travel's a funny thing.
-<k></k>
 
 22
-Have a good trip,sir.
-<k></k>
+`Have a good trip`,sir.
+<k>Have a good trip
+旅途愉快</k>
 

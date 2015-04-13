@@ -1,64 +1,86 @@
 1
-Are you doing the football pools, Brain?
-<k></k>
+Are you doing the `football pools`, Brain?
+<k>football pools
+赌球(足球)
+美式为the pools
+
+They do the (football) pools every week.
+他们每周都赌球.
+</k>
+
+1
+Are you doing the football pools, `Brain`?
+<k>Brain
+[breɪn]
+布瑞恩
+</k>
 
 2
-Yes, I've nearly finished, Julie.
-<k></k>
+Yes, I've nearly finished, `Julie`.
+<k>Julie
+['dʒulɪ]
+朱莉</k>
 
-3
-I'm sure we'll win something this week.
-<k></k>
-
-4
-You always say that, but we never win anything!
-<k></k>
 
 5
-What will you do if you win a lot of money?
-<k></k>
+`What will you do if you` win a lot of money?
+<k>what will you do if you....?
+如果你...你会怎么做呢?
+
+What will you do if he proposes to you?
+如果他向你求婚你会怎么做呢?</k>
+
 
 6
-If I win a lot of money I'll buy you a mink coat!
-<k></k>
+If I win a lot of money I'll buy you a `mink coat`!
+<k>mink coat
+[mɪŋk][koʊt]
+貂皮大衣</k>
 
-7
-I don't want a mink coat!
-<k></k>
-
-8
-I want to see the world.
-<k></k>
-
-9
-All right. If we win a lot of money,
-<k></k>
 
 10
-We'll travel round the world and we'll stay at the best hotels.
-<k></k>
+We'll `travel round the world` and we'll stay at the best hotels.
+<k>travel round the world
+环球旅行
+这里的round也可以替换为around, 后者在美式英语中更常见.
+
+Travelling round the world is one of my dreams.
+环球旅行是我的梦想之一.</k>
 
 11
-Then we'll return home and buy a big house in the country.
-<k></k>
+Then we'll `return home` and buy a big house in the country.
+<k>return home
+回家
 
-12
-We'll have a beautiful garden and ...
-<k></k>
+-When will you return home?
+你何时回家?
+-Soon.
+不会太久.
+</k>
 
-13
-But if we spend all that money we'll be poor again.
-<k></k>
+11
+Then we'll return home and buy a big house `in the country`.
+<k>in the country
+在乡下
 
-14
-What'll we do then?
-<k></k>
+I wonder why she doesn't want to live in the country!
+我很想知道为什么不想住在乡下!</k>
 
-15
-If we spend all the money, we'll try and win the football pools again.
-<k></k>
+
 
 16
-It's a pleasant dream but everything depends on 'if'!
-<k></k>
+It's a `pleasant dream` but everything depends on 'if'!
+<k>a pleasant dream
+美梦
+
+Buying a villa is a pleasant dream but it may just be a dream.
+买栋别墅是个美梦, 但它可能仅仅是个梦.</k>
+
+16
+It's a pleasant dream but everything `depends on` 'if'!
+<k>depend on
+取决于, 依靠
+
+Success depends on a lot of things.
+成功取决于很多事情.</k>
 

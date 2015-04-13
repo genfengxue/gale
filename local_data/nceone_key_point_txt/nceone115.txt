@@ -1,92 +1,147 @@
 1
-Isn't there anyone at home?
-<k></k>
+`Isn't there anyone` at home?
+<k>Isn't there anyone...?
+难道就没有一个人...?
+
+Isn't there anyone in the office?
+难道办公室一个人都没有吗?
+</k>
 
 2
-I'll knock again, Helen.
-<k></k>
+I'll knock again, `Helen`.
+<k>Helen
+['helən]
+海伦
+</k>
 
-3
-Everything's very quiet.
-<k></k>
 
 4
-I'm sure there's no one at home.
-<k></k>
+I'm sure `there's no one` at home.
+<k>there's no one
+没有一个人... 
+no one = nobody
+
+There is no one/nobody that could help you.
+没有一个人能帮助你.</k>
+
 
 5
-But that's impossible.
-<k></k>
+But `that's impossible`.
+<k>that's impossible
+这不可能
+
+-They broke up!
+-他们分手了.
+-That's impossible. They were always so sweet together.
+-这不可能,他们曾经感情看起来很好啊.</k>
 
 6
-Carol and Tom invited us to lunch.
-<k></k>
+`Carol` and Tom invited us to lunch.
+<k>Carol
+['kærəl]
+凯罗(女)
+</k>
+
+6
+Carol and `Tom` invited us to lunch.
+<k>Tom
+[tɑm]
+汤姆</k>
+
+6
+Carol and Tom `invited us to` lunch.
+<k>invite sb. to + n.
+邀请某人来某地
+另外invite sb. for + n. 邀请某人为某事
+另外invite sb. to + v. 邀请某人做某事
+
+My best friend invited me to her wedding.
+= My best friend invited me for her wedding.
+= My best friend invited me to attend her wedding.
+我的挚友邀请我参加她的婚礼.
+
+注意在to+ v.的结构中, to表示目的; 在 to+ n.的结构中, to表示方向.
+</k>
 
 7
-Look through the window.
-<k></k>
+`Look through the window`.
+<k>look through the window
+透过窗户看
 
-8
-Can you see anything?
-<k></k>
+If you look through the window, you'll see a beautiful view.
+你若透过窗户看出去,你会瞧见美丽的景色.
+</k>
+
 
 9
-Nothing at all.
-<k></k>
+`Nothing at all`.
+<k>nothing at all
+什么也没有
+
+-Did you find anything in my bag?
+-在我包里找到什么了吗?
+-There is nothing at all in your bag.
+-你的包里什么也没有.</k>
 
 10
-Let's try the back door.
-<k></k>
+Let's try the `back door`.
+<k>back door
+后门
+
+In western countries many houses have back doors.
+在西方国家里很多房子有后门.
+</k>
 
 11
-Look! Everyone's in the garden.
-<k></k>
+Look! Everyone's `in the garden`.
+<k>in the garden
+在花园里
 
-12
-Hello, Helen. Hello, Jim.
-<k></k>
+Dogs are running in the garden.
+狗狗们在花园里奔跑.</k>
+
 
 13
-Everybody wants to have lunch in the garden.
-<k></k>
+Everybody wants to `have lunch` in the garden.
+<k>have lunch
+吃午饭
+
+When will you have lunch today?
+你今天几点吃午饭?</k>
 
 14
-It's nice and warm out here.
-<k></k>
+It's nice and warm `out` here.
+<k>out adv.
+外面
 
-15
-Come and have something to drink.
-<k></k>
-
-16
-Thanks, Carol.
-<k></k>
-
-17
-May I have a glass of beer please?
-<k></k>
+The mountains are much higher out here in the west.
+在西部山更高(因为西部更开阔所以称为out)
+</k>
 
 18
-Beer? There's none left.
-<k></k>
+Beer? `There's none left`.
+<k>There's none left.
+一个也没有了.
+none指没有同一类的物品了,这里指没有beer了
+
+-Can you give me more sugar?
+-可以再给我一些糖吗?
+-There's none left. 
+-没有糖了.</k>
 
 19
-You can have some lemonade.
-<k></k>
+You can have some `lemonade`.
+<k>lemonade n.
+[ˌlemə'neɪd]
+柠檬汁
+</k>
 
-20
-Lemonade!
-<k></k>
-
-21
-Don't believe her, Jim.
-<k></k>
 
 22
-She's only joking.
-<k></k>
+`She's only joking`.
+<k>sb. is joking
+某人在开玩笑
 
-23
-Have some beer!
-<k></k>
-
+Don't take it seriously. He's just joking.
+别当真,他只是在开玩笑.
+</k>
