@@ -1,3 +1,75 @@
 {
-   "79" : {}
+   "79" : {
+      "6" : {
+         "2,3,4,5" : [
+            "wish引起的虚拟语气, 注意不是was而是were\n\nI were I were still in high school."
+         ]
+      },
+      "3" : {
+         "2,3" : [
+            "finish school\n完成学业\n\nI want to finish school before I get married.\n"
+         ]
+      },
+      "17" : {
+         "6,7,8" : [
+            "on one's own\n独自一人\n\nI'm not going to be your partner any more so you're on your own."
+         ],
+         "4,5" : [
+            "pretty much\n差不多\n\n-How far do we still need to go?\n-We are actually pretty much there. "
+         ]
+      },
+      "2" : {
+         "5" : [
+            "internship\n实习\n\nHe did his internship at Garfield Hospital.\n"
+         ]
+      },
+      "20" : {
+         "5" : [
+            "cheerful \nadj. 高兴的,振奋的\n\nThe news isn't very cheerful, I'm afraid."
+         ]
+      },
+      "14" : {
+         "9,10,11" : [
+            "student loans\n学生贷款, 上学的贷款\n\nDid you go to college on student loans?\n"
+         ],
+         "7,8" : [
+            "pay off\n还清债务\n\nI'll be able to pay off all my debt by end of this year.\n"
+         ]
+      },
+      "8" : {
+         "3,4,5" : [
+            "can't afford to do\n无法承担...的费用\n\nI am not a millionaire. I can't afford to buy you a new car."
+         ]
+      },
+      "1" : {
+         "5" : [
+            "Dean \n[din]\n迪恩\n"
+         ]
+      },
+      "18" : {
+         "4,5" : [
+            "newspaper headline\n报纸头条\n\nThe news of his death was splashed in newspaper headlines across all the newspapers.\n\n"
+         ]
+      },
+      "16" : {
+         "4" : [
+            "subsidize \nv. 资助\n\nYou can't expect government to subsidize your college educaiton.\n"
+         ]
+      },
+      "10" : {
+         "3" : [
+            "benefit \nn. 工作的额外补助, 比如一周工作4天, 每天有免费水果等.\n\nThis job doesn't pay much but it has many benefits.\n"
+         ]
+      },
+      "13" : {
+         "1" : [
+            "unemployment \nn. 失业率"
+         ]
+      },
+      "5" : {
+         "3" : [
+            "qualification n.\n[ˌkwɑlɪfɪ'keɪʃn]\n资格资历\n\nYou'll never get a good job if you don't have any qualifications.\n"
+         ]
+      }
+   }
 }

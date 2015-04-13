@@ -1,3 +1,112 @@
 {
-   "73" : {}
+   "73" : {
+      "11" : {
+         "1,2,3" : [
+            "let's face it\n面对现实吧,承认吧\n\nLet's face it, we're not going to win.\n"
+         ]
+      },
+      "21" : {
+         "2" : [
+            "golf n.\n[ɡɔlf]\n高尔夫\n"
+         ]
+      },
+      "7" : {
+         "4" : [
+            "padding\n['pædɪŋ] n.\n护垫\n"
+         ]
+      },
+      "22" : {
+         "1,2,3,4" : [
+            "sb have got a point\n他说得有理\n\n-Every millionaire is happy about his or her life.\n-That's your opinion.\n-Everyone has their problems.\n-You've got a point."
+         ]
+      },
+      "1" : {
+         "1" : [
+            "baseball \n['beɪsbɔl]\nn. 棒球\t"
+         ]
+      },
+      "23" : {
+         "1,2,3" : [
+            "That's your opinion\n那只是你的观点(表示不同意对方观点)\n\n-Every millionaire is happy about his or her life.\n-That's your opinion.\n-Everyone has their problems.\n-You've got a point."
+         ]
+      },
+      "16" : {
+         "5" : [
+            "soccer n.\n['sɑkər]\n英式足球"
+         ]
+      },
+      "3" : {
+         "1,2" : [
+            "American football\n美式足球, 即橄榄球"
+         ]
+      },
+      "9" : {
+         "8" : [
+            "finesse n.\n[fɪ'nes]\n技巧, 策略\n\nPaul handled the meeting with great finesse.\n"
+         ],
+         "2" : [
+            "take v.\n拿...说吧\n用于举例, take ... for example的简单说法\n\nNot everyone likes cheese. Take myself (for example), I am really not a big fan of cheese."
+         ]
+      },
+      "12" : {
+         "4" : [
+            "dull adj.\n[dʌl]\n无聊的\n\nThe conference was deadly dull.\n"
+         ],
+         "7" : [
+            "cricket n.\n['krɪkɪt]\n板球\n"
+         ]
+      },
+      "14" : {
+         "1,2,3" : [
+            "I'm with you\n我同意你的观点\n\nI'm with you there.\n"
+         ]
+      },
+      "20" : {
+         "1" : [
+            "Kev\n[ˈkev]\nKevin的简称\n"
+         ],
+         "2" : [
+            "name \nv. (要求别人)举例\n\nIn the first question you had to name three types of monkeys."
+         ]
+      },
+      "8" : {
+         "6" : [
+            "rugby n.\n['rʌɡbɪ]\n英式橄榄球\n与American football有细微区别, 如场地大小,规则,以及装备等等(如rugby不用护垫头盔)"
+         ]
+      },
+      "4" : {
+         "7" : [
+            "Kevin\n[ˈkevɪn]\n凯文"
+         ],
+         "1,2,3,4,5,6" : [
+            "I couldn't agree with you more\n我不能同意你更多, 即我非常同意你"
+         ]
+      },
+      "24" : {
+         "1,2,3" : [
+            "What's your opinion?\n那你怎么看?\n"
+         ]
+      },
+      "10" : {
+         "7" : [
+            "Dean\n[din]\n迪安\t"
+         ],
+         "1,2,3,4,5,6" : [
+            "I don't agree with you there\n关于那一点我不同意你\nthere表示在叙述,行动,辩论等中在那一点上,关于那一点\n"
+         ]
+      },
+      "19" : {
+         "4" : [
+            "unreasonable \nadj. 不合理的\n\nIt seems unreasonable to expect one person to do both jobs.\n"
+         ]
+      },
+      "5" : {
+         "6" : [
+            "violent \n['vaɪələnt]\nadj. 暴力的\n\nHe shouts a lot but I don't think he's ever been physically violent towards her.\n"
+         ],
+         "7" : [
+            "overrated adj.\n[ˌoʊvər'reɪt]\n评价过高的\n\nIn my opinion, she's a hugely overrated singer.\n"
+         ]
+      }
+   }
 }

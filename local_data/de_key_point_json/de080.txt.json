@@ -1,3 +1,42 @@
 {
-   "80" : {}
+   "80" : {
+      "6" : {
+         "2,3" : [
+            "in wood\n木制的\nin + 材料, 由...制成的\n\nCompared with metal table, I prefer a table in wood?\n"
+         ],
+         "4" : [
+            "silver \n['sɪlvər]\nn. 银\n"
+         ]
+      },
+      "11" : {
+         "5,6,7" : [
+            "with a stand\n有一个支脚\nstand在这里专门指a frame or piece of furniture for supporting or putting things on"
+         ]
+      },
+      "4" : {
+         "5,6" : [
+            "picture frame\n相框"
+         ]
+      },
+      "10" : {
+         "6,7" : [
+            "sharp corner\n尖角\n\nBe aware of those sharp corners of the table!"
+         ]
+      },
+      "12" : {
+         "4,5,6" : [
+            "set up\n支撑起来\n\nDo you know how to set up a tent?"
+         ]
+      },
+      "14" : {
+         "5,6" : [
+            "in gold\n金制的"
+         ]
+      },
+      "5" : {
+         "6" : [
+            "fancy \nadj. 精致的,别致的\n\nThat's a very fancy pair of shoes! \n"
+         ]
+      }
+   }
 }

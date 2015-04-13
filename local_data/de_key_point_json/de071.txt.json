@@ -1,3 +1,62 @@
 {
-   "71" : {}
+   "71" : {
+      "6" : {
+         "2,3,4,5,6" : [
+            "let me get this straight\n让我直说吧\n\nLet me get this straight - I won't allow my daughter to marry you!\n"
+         ]
+      },
+      "3" : {
+         "4,5" : [
+            "special request\n特殊请求\n\nThe boss refused our special request.\n"
+         ]
+      },
+      "7" : {
+         "6" : [
+            "suite \n[swiːt]\t\nn. 套房\n"
+         ]
+      },
+      "2" : {
+         "7,8" : [
+            "Sheraton Boston\n['ʃerətn] ['bɔstən]\n酒店名称\n "
+         ],
+         "3,4" : [
+            "Sharon Solaye\n[ˈʃærən] [soʊˈleia]\n人名\n"
+         ]
+      },
+      "15" : {
+         "2,3,4" : [
+            "central air conditioning\n中央空调"
+         ]
+      },
+      "14" : {
+         "5,6,7" : [
+            "plenty of light\n充足的光线\n\nI prefer a house with plenty of light."
+         ]
+      },
+      "22" : {
+         "6,7,8" : [
+            "Vienna Boy's Choir\n[viˈenə]     ['kwaɪər]\t\n维也纳男子合唱团\n"
+         ]
+      },
+      "1" : {
+         "2" : [
+            "Didi\n['didi]\n人名\n"
+         ]
+      },
+      "4" : {
+         "6,7" : [
+            "come over\n到某人那里去(来)\n\nAre your family coming over from Greece for the wedding?"
+         ]
+      },
+      "24" : {
+         "8,9,10" : [
+            "fit one's needs\n符合某人的需求\n\nDo you think this suite fits your needs?\n你觉得这间套房符合你的需求么?\n\n"
+         ]
+      },
+      "23" : {
+         "5,6,7" : [
+            "for a song\n非常便宜地\n这里一语双关,既表示客户想要便宜的房间也接着回答了上面’Vienna Boy's Choir'的幽默.\n\nShe bought the bed for a song at an auction."
+         ]
+      }
+   }
 }

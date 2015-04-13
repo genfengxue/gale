@@ -1,3 +1,65 @@
 {
-   "139" : {}
+   "139" : {
+      "6" : {
+         "3" : [
+            "Charlotte\n['ʃɑlәt]\n夏洛特\n"
+         ]
+      },
+      "11" : {
+         "3,4,5" : [
+            "by the way\n顺便(提一下)\n\nBy the way, I'm John.\n顺便说一下, 我是John.(当你跟别人聊了几句话可以这样介绍自己的名字)\n"
+         ]
+      },
+      "3" : {
+         "3,4,5,6" : [
+            "sb. will be late for sth.\n某人会晚到\n\nJames says he will be late for the football game.\n詹姆斯说这场足球比赛他会晚到."
+         ]
+      },
+      "7" : {
+         "5,6,7,8" : [
+            "be at one's house\n到某人家\n\nWe will be at your house soon.\n我们就快到你家了. "
+         ]
+      },
+      "17" : {
+         "5" : [
+            "overseas \nadj./adv. 海外的\n\nThe number of Chinese overseas students is increasing.\n中国海外学生的数量在增加. "
+         ]
+      },
+      "12" : {
+         "1,2,3,4,5,6,7" : [
+            "I don't know what you're talking about.\n我不知道你在说些什么(固定的说法)\n"
+         ]
+      },
+      "2" : {
+         "2" : [
+            "speaking是this is sb. speaking的简称, 表示这是某人正在接电话"
+         ]
+      },
+      "15" : {
+         "6" : [
+            "engineer n.\n[‚endʒɪ'nɪə]\n工程师\n\nI am working as a software engineer.\n我的工作是软件工程师.\n"
+         ]
+      },
+      "8" : {
+         "7,8,9,10" : [
+            "to do some extra work\n做额外的工作,可意译为加班\n\nMy boss doesn't encourage us to do any extra work after work.\n我老板不鼓励下班之后继续加班.(否定句把some换成any)\n"
+         ]
+      },
+      "1" : {
+         "4" : [
+            "John\n[dʒɑn]\n约翰"
+         ],
+         "1,2,3" : [
+            "is that you\n是你吗(专用于打电话)\n\n-This is Lily. Is that you, Lucy?\n-(电话中)我是莉莉.露西是你吗?\n-Yes, this is lucy.\n-是的,我是露西.\n"
+         ]
+      },
+      "19" : {
+         "5,6" : [
+            "telephone line \nn. 电话线路\n\nThe telephone line has some problem. I couldn't hear you very well.\n电话线路有些故障，我听不太清楚.\n"
+         ],
+         "3" : [
+            "repair \n[rɪ'per]\nv. 修理\n\nAnyone would like to help me repair the car?\n谁愿意和我一起修那辆车吗?\n"
+         ]
+      }
+   }
 }

@@ -1,3 +1,8 @@
+2015-04-13 16:53:07
+coffee scripts/load_key_point_json_to_db.coffee de 71,72,73,74,75,76,77,78,79,80,81
+coffee scripts/load_key_point_json_to_db.coffee nceone 111,113,115,117,131,133,135,137,139,141,143
+
+
 2015-04-12 14:48:57
 mongo gale
 db.sentences.remove({lessonNo: 5});

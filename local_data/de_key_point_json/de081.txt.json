@@ -1,3 +1,57 @@
 {
-   "81" : {}
+   "81" : {
+      "11" : {
+         "2,3" : [
+            "soccer ball\n[ˈsɑkə(r)]\n足球"
+         ]
+      },
+      "3" : {
+         "9" : [
+            "replace \nv. 替换\n\nThe factory replaced most of its workers with robots.\n"
+         ]
+      },
+      "7" : {
+         "2,3,4" : [
+            "portable CD player\n便携式CD播放机\nportable [ˈpɔrtəbl] adj. 便携式的 "
+         ]
+      },
+      "2" : {
+         "6" : [
+            "intern n.\n['ɪntərn]\t\n实习生"
+         ]
+      },
+      "14" : {
+         "6" : [
+            "ounce n.\n [aʊns]\n1盎司 = 28.35克 "
+         ],
+         "1" : [
+            "Jarmusch\n[ˈdʒɑrmʊʃ]\n人名"
+         ]
+      },
+      "8" : {
+         "6,7" : [
+            "chip in\n筹钱(专门为某人买礼物用),凑份子钱\n\nCould you chip in a dollar for the gift, please?\n"
+         ]
+      },
+      "1" : {
+         "3" : [
+            "fabulous adj.\n['fæbjələs]\t\n太棒了\n"
+         ]
+      },
+      "18" : {
+         "1,2,3,4,5" : [
+            "Don't think anything of it\n这不算什么,小意思\n= think nothing of it = you are welcome\n\n-Thank you so much for driving me home. \n-Don't think anything of it.\n"
+         ]
+      },
+      "16" : {
+         "3,4,5" : [
+            "can't afford to do\n无法承担...的费用\n\nI am not a millionaire. I can't afford to buy you a new car."
+         ]
+      },
+      "13" : {
+         "2,3,4,5" : [
+            "come to one's senses\n某天突然醒悟,意识到\n这里指他某一天会认识到soccer的美妙所在的\n\n I'm glad he finally came to his senses and went on to college.\n"
+         ]
+      }
+   }
 }

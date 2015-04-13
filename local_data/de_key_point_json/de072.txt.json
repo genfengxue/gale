@@ -1,3 +1,54 @@
 {
-   "72" : {}
+   "72" : {
+      "9" : {
+         "8,9,10" : [
+            "in love with\n爱上\n\nI was in love with him at the first sight.\n"
+         ]
+      },
+      "17" : {
+         "5,6,7,8" : [
+            "from ... perspective\n从...的角度\n\nHe writes this article from a Marxist perspective.\n(Marxist 马克思主义\n"
+         ]
+      },
+      "2" : {
+         "2" : [
+            "Prague\n[prɑɡ]\n布拉格(捷克首都)"
+         ]
+      },
+      "14" : {
+         "1,2" : [
+            "let's see\n咱们看看\n\n-Will you be avaiable next Saturday?\n-Next Saturday, let's see, that's when we're going to the theatre.\n"
+         ]
+      },
+      "22" : {
+         "1,2,3,4" : [
+            "Have a good trip\n旅途愉快"
+         ]
+      },
+      "8" : {
+         "1" : [
+            "boy\n表示惊讶和强调的感叹词\nBoy, the food you made is amazing!\n"
+         ]
+      },
+      "1" : {
+         "2" : [
+            "Carl\n[kɑl]\n卡尔"
+         ]
+      },
+      "4" : {
+         "5,6" : [
+            "for days\n许多天了\n同理 for years 很多年了,for ages 很长时间了\n\nI haven't seen Carl for days. Is he alright?\n"
+         ]
+      },
+      "10" : {
+         "1,2,3" : [
+            "I‘ve never been\n我从未去过那里, 这里省略了there.\n建议大家说I've never been there, 一般我们会带上there"
+         ]
+      },
+      "16" : {
+         "3,4,5" : [
+            "all that way\n一路, 大老远\n\nMy parents came all the way from China to visit me."
+         ]
+      }
+   }
 }

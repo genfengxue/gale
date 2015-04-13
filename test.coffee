@@ -4,8 +4,8 @@ moment = require 'moment'
 #auth = require './auth/auth.service'
 #console.log auth.signToken 100
 #console.log JSON.stringify auth.signToken 100
-#console.log [71..109].join ','
-results = _.select [71..109], (num) ->
+console.log [71..81].join ','
+results = _.select [131..143], (num) ->
   return num % 2
 console.log results.join ','
 

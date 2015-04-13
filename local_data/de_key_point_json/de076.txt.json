@@ -1,3 +1,52 @@
 {
-   "76" : {}
+   "76" : {
+      "7" : {
+         "1,2" : [
+            "if needed\n如果需要的话\n\nI could offer you some help, if needed."
+         ]
+      },
+      "9" : {
+         "5,6" : [
+            "Baggage Claim\n行李提取处\n"
+         ]
+      },
+      "17" : {
+         "1,2,3,4" : [
+            "have a nice day\n祝你有愉快的一天\n常常在结束一段对话时用到. 但是如果结束对话时, 已经这一天要结束了, 就不适合用这一句."
+         ]
+      },
+      "12" : {
+         "3" : [
+            "customs n.\n海关\n\nHow long does it take to go through customs?\n"
+         ]
+      },
+      "8" : {
+         "3,4,5" : [
+            "it's time to do ...\n是时候做...\n\nThis relationship is over. It's time to let it go."
+         ]
+      },
+      "19" : {
+         "5" : [
+            "genius n.\n['dʒiniəs]\n天才\n\nEinstein was a mathematical genius.\n"
+         ]
+      },
+      "10" : {
+         "1,2" : [
+            "TV monitor\n电视显示屏"
+         ]
+      },
+      "13" : {
+         "6" : [
+            "declare v.\n[dɪ'kler]\n申报\n入境一个国家时超过一定价值或者特殊物品需要向海关申报\n"
+         ]
+      },
+      "5" : {
+         "7,8,9,10" : [
+            "Immigration and Passport Control\n入境处\n进入每个国家时都有一个入境处检查护照和签证"
+         ],
+         "5,6" : [
+            "go through\n通过\n\nDo you think that such a big truck can go through the tunnel under the river?"
+         ]
+      }
+   }
 }

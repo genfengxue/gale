@@ -1,3 +1,54 @@
 {
-   "117" : {}
+   "117" : {
+      "11" : {
+         "3,4,5,6,7" : [
+            "phone sb. from spl.\n从某地给某人打电话\n\nI know you are getting married today so I am phoning you from Australia.\n我知道你今天要结婚了，所以我从澳大利亚给你打电话来了."
+         ]
+      },
+      "3" : {
+         "1,2,3,4" : [
+            "There are ... everywhere\n到处都是....\n\nWhen it's holiday, there are people everywhere outside.\n假期的时候外面到处都是人."
+         ]
+      },
+      "9" : {
+         "4" : [
+            "swallow v.\n['swɑloʊ]\n吞下\n \nChew your food properly before swallowing it. \n把食物嚼碎后再咽下.\n"
+         ]
+      },
+      "2" : {
+         "2,3,4,5,6,7" : [
+            "drop sth. on the floor\n...掉在地上\n\nHe drops his cellphone on the floor all the time.\n他总是把自己手机摔到地上.\n"
+         ]
+      },
+      "15" : {
+         "6" : [
+            "change n.\n零钱,这里指coin"
+         ]
+      },
+      "14" : {
+         "2,3,4,5,6" : [
+            "have been to the toilet\n已经去过厕所了\n\n-Don't you need to go to the toilet?\n-难道你不需要去上厕所吗?\n-I have been to the toilet already.\n-我已经去上过厕所了.\n"
+         ]
+      },
+      "8" : {
+         "9,10,11,12" : [
+            "it was too late\n太迟了\n\nI tried to save her but it was too late.\n我试着去救她，但一切都太迟了."
+         ]
+      },
+      "4" : {
+         "2,3" : [
+            "look for\n寻找\n\nWhat are you looking for?\n你在找什么?"
+         ]
+      },
+      "10" : {
+         "7,8,9" : [
+            "do housework\n做家务\n\nI hate doing housework.\n我讨厌做家务."
+         ]
+      },
+      "5" : {
+         "1" : [
+            "While...\n当...的时候,一般后跟动词ing\n\nI read it while you were drying your hair.\n你在吹头发的时候我读了它.\n"
+         ]
+      }
+   }
 }

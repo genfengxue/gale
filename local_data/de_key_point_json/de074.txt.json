@@ -1,3 +1,58 @@
 {
-   "74" : {}
+   "74" : {
+      "6" : {
+         "1,2" : [
+            "for instance\n      ['ɪnstəns]\n比如说 = for example\n"
+         ],
+         "5" : [
+            "newsstand n.\n['njuːzˌstænd]\t\n报摊,报架\n"
+         ]
+      },
+      "3" : {
+         "5,6,7,8,9" : [
+            "do a good job\n干的很棒\n\nYou did a good job on your project."
+         ]
+      },
+      "17" : {
+         "3,4" : [
+            "tell from\n从...看出\n\nIt's quite difficult to tell her mood from her face."
+         ]
+      },
+      "14" : {
+         "1,2" : [
+            "I wonder...\n我想知道\n\nI wonder if you could give me some information about places to visit in the area?"
+         ],
+         "3,4" : [
+            "who's who\n谁是谁\n\nYour story is a little bit confusing. I can't figure out who’s who. "
+         ]
+      },
+      "22" : {
+         "4" : [
+            "miss v.\n错过,没看见\n\nI missed the beginning of the film.\n"
+         ]
+      },
+      "4" : {
+         "10" : [
+            "preference n.\n['prefərəns]\n偏好\n\nChoosing furniture is largely a matter of personal preference.\n"
+         ],
+         "4,5,6" : [
+            "learn about\n了解\n\nI've learned a lot about computers since I started working here."
+         ]
+      },
+      "23" : {
+         "2,3,4,5,6,7,8" : [
+            "have too good a time\n玩得很开心, 固定搭配\n\nWe're having too good a time today. We are not thinking about tomorrow.\n"
+         ]
+      },
+      "16" : {
+         "4" : [
+            "vacationer n.\n度假者(美式),英国人则会说holidaymaker"
+         ]
+      },
+      "5" : {
+         "1,2" : [
+            "Like what?\n比如说呢?\n\n-I feel something is wrong.\n-Like what?"
+         ]
+      }
+   }
 }

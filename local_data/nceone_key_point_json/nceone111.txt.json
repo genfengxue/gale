@@ -1,3 +1,72 @@
 {
-   "111" : {}
+   "111" : {
+      "6" : {
+         "3" : [
+            "afford v.\n承担得起\n\nThey walked because they couldn't afford a taxi. \n他们因为坐不起计程车而步行.\n"
+         ]
+      },
+      "11" : {
+         "7,8,9,10" : [
+            "it's worth the money\n它值这个钱\n\nYou can buy whatever you want as long as you think it's worth the money.\n你可以买想买的任何东西，只要你认为它值这个钱."
+         ]
+      },
+      "3" : {
+         "4" : [
+            "expensive adj.\n[ɪk'spensɪv]\n昂贵的\n\nWhat an expensive car!\n好贵的车!\n"
+         ],
+         "5" : [
+            "model\n['mɑdl]\n模型，型号\n\nThis is the most popular model in our shop. \n这是我们店铺中最受欢迎的型号."
+         ]
+      },
+      "7" : {
+         "3,4,5" : [
+            "less...than...\n比...少\n\nI earn less moneny than my hunsband.\n我挣的钱比我丈夫挣的少."
+         ]
+      },
+      "9" : {
+         "6,7,8" : [
+            "as +adj./adv.+ as...\n和...一样..., not as...as...表示和...不一样...\n\nI  am as tall as you.\n我和你一样高.\nYou don't love me as much as I love you.\n你爱我不如我爱你那么多.\n"
+         ]
+      },
+      "12" : {
+         "6" : [
+            "instalment n.\n[ɪn'stɔlmənt]\n分期付款,美式为installment. On在这里为'by means of/using'(靠,用)的意思.\n\nWe agreed to pay for the furniture on monthly installments.\n我们同意每月分期付款购买家具.\n"
+         ]
+      },
+      "2" : {
+         "1,2,3,4,5" : [
+            "how much does it cost\n这个花了多少钱?\n\n-I like your new bag. How much does it cost?\n-我喜欢你的新包,花了多少钱?\n-It costs 40 dollars.\n-花了40美元."
+         ]
+      },
+      "14" : {
+         "3,4,5,6" : [
+            "... a month\n每个月...  =...per month\n\nGenerally I spend 500 dollars on food a month.\n总的来说我每月花500美元在食物上.\n"
+         ]
+      },
+      "1" : {
+         "4" : [
+            "television\n['telɪvɪʒn]\n电视,TV的全称\n"
+         ]
+      },
+      "4" : {
+         "1,2" : [
+            "it costs + 钱\n花了...钱\n\n-How much doest it cost you to fly from China to the UK?\n-你从中国飞到英国花了多少钱?\n-It costs five hundred pounds.\n-花了五百镑.\n"
+         ]
+      },
+      "18" : {
+         "6" : [
+            "millionaire n.\n[ˌmɪljə'ner]\n百万富翁\n同理, billionaire n. 亿万富翁\n\nYou want me to buy you a new car - do you think I'm a millionaire or something?\n你想我给你买辆新车 - 你以为我是百万富翁还是什么的?\n"
+         ]
+      },
+      "16" : {
+         "2" : [
+            "certainly adv.\n一定\n\n-This is rather a difficult question.\n-这真是一个困难的问题.\n -Yes, it's certainly not easy.\n-对的,这个肯定不简单.\n"
+         ]
+      },
+      "13" : {
+         "7" : [
+            "deposit n.\n[dɪ'pɑzɪt]\n押金,定金\n\nThe shop promises to keep the goods for me if I put down a deposit.\n商店答应倘若我付定金就给我保留这批货. \n"
+         ]
+      }
+   }
 }
