@@ -3,11 +3,12 @@ require '../common/init'
 ReleaseNote = _u.getModel 'release_note'
 
 data =
-  version: 'v1.3.9.2'
+  version: 'v0.3.9.1'
   content: """
-  1. this is v1.3.9.2
+  1. this is v0.3.9.1
   """
-  releaseDate: '2015-04-15'
+  releaseDate: '2015-04-10'
+  created: new Date()
 
 ReleaseNote.createQ data
 .then (doc) ->

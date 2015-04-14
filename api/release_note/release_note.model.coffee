@@ -19,6 +19,8 @@ exports.ReleaseNote = BaseModel.subclass
       releaseDate:
         type: String
         required: true
+      created:
+        type: Date
 
     $super()
 

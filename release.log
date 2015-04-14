@@ -1,3 +1,10 @@
+2015-04-14 20:46:58
+mongo gale
+db.release_notes.drop();
+coffee scripts/insert_release_note.coffee
+
+
+
 2015-04-13 18:49:04
 coffee scripts/load_key_point_json_to_db.coffee de 1,2,3,4,5
 
