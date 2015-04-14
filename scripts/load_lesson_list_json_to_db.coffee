@@ -22,8 +22,9 @@ createAll = (file) ->
   datas = require "../#{dataPath}/#{file}"
   Lesson.createQ datas
   .then (results) ->
-    logger.info "success: #{file}"
     logger.info _.pluck results, 'lessonNo'
+    logger.info "success: #{file}"
+    process.exit 0
 #    console.log results
   , (err) ->
     logger.info "fail: #{file}"

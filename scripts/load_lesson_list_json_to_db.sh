@@ -1,0 +1,2 @@
+mongo gale scripts/mongo_drop_lessons.js
+coffee scripts/load_lesson_list_json_to_db.coffee
