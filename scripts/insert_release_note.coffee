@@ -3,16 +3,16 @@ require '../common/init'
 ReleaseNote = _u.getModel 'release_note'
 
 data =
-  version: 'v0.3.9.1'
+  version: 'v1.3.9.2'
   content: """
-  1. 增加了新概念71-143
-  2. 直捷英语导入部分知识点，开始使用知识点功能
-  3. 去掉了某些使用价值较低的功能
+  1. this is v1.3.9.2
   """
-  created: '2015-04-10'
+  releaseDate: '2015-04-15'
 
 ReleaseNote.createQ data
 .then (doc) ->
   console.log doc
+  process.exit 0
 , (err) ->
   logger.info err
+  process.exit 1

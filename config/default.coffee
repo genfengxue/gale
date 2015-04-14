@@ -10,3 +10,5 @@ module.exports =
   secrets:
     session: process.env.EXPRESS_SECRET or 'gale-secret'
   tokenExpiresInMinutes: 60 * 24 * 7
+  qiniuUrl: 'http://7u2qm8.com1.z0.glb.clouddn.com'
+  apkUrl: 'http://7u2qm8.com1.z0.glb.clouddn.com/apk/LearnWithWind%s.apk'

@@ -16,7 +16,7 @@ exports.ReleaseNote = BaseModel.subclass
       content:
         type: String
         required: true
-      created:
+      releaseDate:
         type: String
         required: true
 

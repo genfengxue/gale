@@ -31,3 +31,11 @@
 /api/sentences GET
   query: [courseNo=x&lessonNo] #如果不带courseNo或lessonNo，则会取回所有的记录
   response: [{}], 按照courseNo，lessonNo，sentenceNo这几列升序排列
+
+/api/release_notes/latest GET
+  response:
+    {
+      version: "v1.3.9.2",
+      url: "http://7u2qm8.com1.z0.glb.clouddn.com/apk/LearnWithWind1.3.9.2.apk"
+    }
+
