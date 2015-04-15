@@ -1,6 +1,13 @@
 require './common/init'
 moment = require 'moment'
 
+write = ->
+  if typeof arguments[0] is 'object'
+    arguments[0] = JSON.stringify arguments[0]
+  Array::unshift.call arguments, new Date().toISOString()
+  console.log Array::join.call arguments, '\t'
+
+write({1: 'xxxxx'})
 #auth = require './auth/auth.service'
 #console.log auth.signToken 100
 #console.log JSON.stringify auth.signToken 100

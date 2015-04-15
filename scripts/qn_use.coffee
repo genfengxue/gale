@@ -12,11 +12,39 @@ client = qn.create(
   domain: 'http://7u2qm8.com1.z0.glb.clouddn.com'
 )
 
+copyVideo = (srcFormat, dstFormat, videoNum, cb) ->
+  async.eachSeries [1..4], (part, next) ->
+    oldName = _s.sprintf srcFormat, videoNum, part
+    newName = _s.sprintf dstFormat, videoNum, part
+#    console.log oldName, newName
+#    next()
+    client.copy oldName, newName, (err) ->
+      return next err if err
+      loggerD.write {type:"QINIU_copy", oldName: oldName, newName: newName}
+      next()
+  , cb
+
 #copy mp4 file
-#async.each [1..81], (num, next) ->
-#  oldName = _s.sprintf 'video%s_1.mp4', num
-#  newName = _s.sprintf 'de%03s.mp4', num
-#  console.log oldName, newName
+async.eachSeries [1..81], (videoNum, next) ->
+  srcFormat = 'video%s_%s.mp4'
+  dstFormat = '2_%s_%s.mp4'
+  copyVideo srcFormat, dstFormat, videoNum, next
+, (err) ->
+  console.log err if err
+  console.log "process result: success"
+
+async.eachSeries [82..100], (videoNum, next) ->
+  srcFormat = 'de%03s_%s.mp4'
+  dstFormat = '2_%s_%s.mp4'
+  copyVideo srcFormat, dstFormat, videoNum, next
+, (err) ->
+  console.log err if err
+  console.log "process result: success"
+
+#copy file
+#async.each [82..100], (num, next) ->
+#  oldName = _s.sprintf 'de%03s.JPG', num
+#  newName = _s.sprintf 'de%03s.jpg', num
 #  client.copy oldName, newName, (err) ->
 #    return next err if err
 #    logger.info "QINIU: copy #{oldName} => #{newName}"
@@ -24,18 +52,6 @@ client = qn.create(
 #, (err) ->
 #  console.log err if err
 #  console.log "process result: success"
-
-#copy file
-async.each [82..100], (num, next) ->
-  oldName = _s.sprintf 'de%03s.JPG', num
-  newName = _s.sprintf 'de%03s.jpg', num
-  client.copy oldName, newName, (err) ->
-    return next err if err
-    logger.info "QINIU: copy #{oldName} => #{newName}"
-    next()
-, (err) ->
-  console.log err if err
-  console.log "process result: success"
 
 # delete 1-81
 #async.each [1..81], (num, next) ->
