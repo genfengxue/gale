@@ -51,6 +51,8 @@ logger = log4js.getLogger logCategory
 logger.setLevel 'INFO'
 
 write = ->
+  if typeof arguments[0] is 'object'
+    arguments[0] = JSON.stringify arguments[0]
   Array::unshift.call arguments, new Date().toISOString()
   @info Array::join.call arguments, '\t'
 
