@@ -13,9 +13,12 @@ client = qn.create(
 )
 
 copyVideo = (srcFormat, dstFormat, videoNum, cb) ->
+  copyVideoByDiffNum srcFormat, dstFormat, videoNum, videoNum, cb
+
+copyVideoByDiffNum = (srcFormat, dstFormat, srcVideoNum, dstVideoNum, cb) ->
   async.eachSeries [1..4], (part, next) ->
-    oldName = _s.sprintf srcFormat, videoNum, part
-    newName = _s.sprintf dstFormat, videoNum, part
+    oldName = _s.sprintf srcFormat, srcVideoNum, part
+    newName = _s.sprintf dstFormat, dstVideoNum, part
 #    console.log oldName, newName
 #    next()
     client.copy oldName, newName, (err) ->
@@ -24,22 +27,33 @@ copyVideo = (srcFormat, dstFormat, videoNum, cb) ->
       next()
   , cb
 
-#copy mp4 file
-async.eachSeries [1..81], (videoNum, next) ->
+#copy course 1 mp4 file
+videoNums = _.select [71..143], (num) ->
+  return num % 2
+async.eachSeries videoNums, (videoNum, next) ->
   srcFormat = 'video%s_%s.mp4'
-  dstFormat = '2_%s_%s.mp4'
-  copyVideo srcFormat, dstFormat, videoNum, next
+  dstFormat = '1_%s_%s.mp4'
+  copyVideoByDiffNum srcFormat, dstFormat, 300 + videoNum, videoNum,next
 , (err) ->
   console.log err if err
   console.log "process result: success"
 
-async.eachSeries [82..100], (videoNum, next) ->
-  srcFormat = 'de%03s_%s.mp4'
-  dstFormat = '2_%s_%s.mp4'
-  copyVideo srcFormat, dstFormat, videoNum, next
-, (err) ->
-  console.log err if err
-  console.log "process result: success"
+#copy mp4 file
+#async.eachSeries [1..81], (videoNum, next) ->
+#  srcFormat = 'video%s_%s.mp4'
+#  dstFormat = '2_%s_%s.mp4'
+#  copyVideo srcFormat, dstFormat, videoNum, next
+#, (err) ->
+#  console.log err if err
+#  console.log "process result: success"
+#
+#async.eachSeries [82..100], (videoNum, next) ->
+#  srcFormat = 'de%03s_%s.mp4'
+#  dstFormat = '2_%s_%s.mp4'
+#  copyVideo srcFormat, dstFormat, videoNum, next
+#, (err) ->
+#  console.log err if err
+#  console.log "process result: success"
 
 #copy file
 #async.each [82..100], (num, next) ->
