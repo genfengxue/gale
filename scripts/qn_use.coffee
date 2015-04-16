@@ -33,7 +33,7 @@ videoNums = _.select [71..143], (num) ->
 async.eachSeries videoNums, (videoNum, next) ->
   srcFormat = 'video%s_%s.mp4'
   dstFormat = '1_%s_%s.mp4'
-  copyVideoByDiffNum srcFormat, dstFormat, 300 + videoNum, videoNum,next
+  copyVideoByDiffNum srcFormat, dstFormat, 300 + videoNum, videoNum, next
 , (err) ->
   console.log err if err
   console.log "process result: success"

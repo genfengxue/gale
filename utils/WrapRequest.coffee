@@ -73,7 +73,12 @@ class WrapRequest
 
     mongoQuery.execQ()
     .then (docs) ->
-      res.send docs
+      if req.baseUrl is '/api/sentences' and ~~findParams.conditions.courseNo is 1
+        _.each docs, (doc) ->
+          doc.lessonNo -= 300
+        res.send docs
+      else
+        res.send docs
     .catch next
     .done()
 
