@@ -24,11 +24,9 @@ createAll = (file) ->
   .then (results) ->
     logger.info _.pluck results, 'lessonNo'
     logger.info "success: #{file}"
-    process.exit 0
 #    console.log results
   , (err) ->
     logger.info "fail: #{file}"
     logger.info err
-    process.exit 1
 
 # coffee scripts/load_lesson_list_json_to_db.coffee

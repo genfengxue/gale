@@ -5,6 +5,8 @@ use Data::Dumper;
 use lib 'scripts';
 use Gale qw/write_file json_encode/;
 
+# perl scripts/convert_lesson_list_to_json.pl
+
 my $src_path = 'local_data/lesson_list';
 my $dst_path = "${src_path}_json";
 

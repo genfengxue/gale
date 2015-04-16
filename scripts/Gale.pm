@@ -28,6 +28,12 @@ sub run {
 #    print $x, " ", $y;
 }
 
+sub Const {
+  return {
+    qiniuUrl => 'http://7u2qm8.com1.z0.glb.clouddn.com',
+  };
+}
+
 sub getCourseNoFromName {
   return +{
     nceone => 1,
