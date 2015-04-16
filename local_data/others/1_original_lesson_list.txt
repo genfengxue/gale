@@ -1,0 +1,255 @@
+1
+Excuse me!
+对不起!
+
+3
+Sorry,sir.
+对不起,先生.
+
+5
+Nice to meet you.
+很高兴见到你.
+
+7
+Are you a teacher?
+你是教师吗?
+
+9
+How are you today?
+你今天好吗?
+
+11
+Is this your shirt?
+这是你的衬衫吗?
+
+13
+A new dress
+一件新连衣裙
+
+15
+Your passports, please.
+请出示你们的护照.
+
+17
+How do you do?
+你好!
+
+19
+Tired and thirsty
+又累又渴
+
+21
+Which book?
+哪一本书？
+
+23
+Which glasses?
+哪几只杯子
+
+27
+Mrs.smith's living room
+史密斯太太的客厅
+
+29
+Come in,Amy.
+进来，艾米。
+
+31
+Where's Sally?
+萨利在哪里？
+
+33
+A fine day
+晴天
+
+35
+Our village
+我们的村庄
+
+37
+Making a bookcase
+做书架
+
+39
+Don't drop it!
+别摔了！
+
+41
+Penny's bag
+彭妮的提包
+
+43
+Hurry up!
+快点！
+
+45
+The boss's letter
+老板的信
+
+47
+A cup of coffee
+一杯咖啡
+
+49
+At the butcher's
+在肉店
+
+51
+A pleasant climate
+宜人的气候
+
+53
+An interesting climate
+有趣的气候
+
+55
+The Sawyer family
+索耶一家人
+
+57
+An unusual day
+很不平常的一天
+
+59
+Is that all?
+就这些吗？
+
+61
+A bad cold
+重感冒
+
+63
+Thank you, doctor.
+谢谢你，医生。
+
+65
+Not a baby
+不是一个孩子
+
+67
+The weekend
+周末
+
+69
+The car race
+汽车比赛
+
+71
+He's awful!
+他讨厌透了!
+
+73
+The way to King Street
+到国王街的走法
+
+75
+Uncomfortable shoes
+不舒适的鞋子
+
+77
+Terrible toothache
+要命的牙痛
+
+79
+Carol's shopping list
+卡罗尔的购物单
+
+81
+Roast beef and potatoes
+烤牛肉和土豆
+
+83
+Going on holiday
+度假
+
+85
+Paris in the spring
+巴黎之春
+
+93
+Our new neighbour
+我们的新邻居
+
+95
+Tickets, please.
+请把车票拿出来
+
+97
+A small blue case
+一只蓝色的小箱子
+
+99
+Ow!
+啊哟!
+
+101
+A card from Jimmy
+吉米的明信片
+
+103
+The French test
+法语考试
+
+105
+Full of mistakes
+错误百出
+
+107
+It's too small.
+太小了.
+
+109
+A good idea
+好主意
+
+119
+A true story
+一个真实的故事
+
+121
+The man in a hat
+戴帽子的男士
+
+123
+A Trip to Australia
+澳大利亚之行
+
+125
+Tea for two
+两个人一起喝茶
+
+127
+A famous actress
+著名的女演员
+
+129
+Seventy miles an hour
+时速70英里
+
+131
+Don't be so sure!
+别那么肯定!
+
+133
+Sensational news!
+爆炸性新闻!
+
+135
+The latest report
+最新消息
+
+137
+A pleasant dream
+美好的梦
+
+139
+Is that you,John?
+是你吗,约翰?
+
+141
+Sally's first train ride
+萨莉第一交乘火车旅行
+
+143
+A walk through the woods
+林中散步
