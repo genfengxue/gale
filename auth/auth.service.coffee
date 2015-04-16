@@ -53,7 +53,8 @@ hasRole = (roleRequired) ->
 ###
 
 signToken = (userNo) ->
-  jwt.sign {userNo: userNo}, config.secrets.session, expiresInMinutes: config.tokenExpiresInMinutes
+#  jwt.sign {userNo: userNo}, config.secrets.session, expiresInMinutes: config.tokenExpiresInMinutes
+  jwt.sign {userNo: userNo}, config.secrets.session
 
 ###*
 # Set token cookie directly for oAuth strategies
