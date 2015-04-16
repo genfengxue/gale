@@ -12,31 +12,31 @@ client = qn.create(
   domain: 'http://7u2qm8.com1.z0.glb.clouddn.com'
 )
 
-copyVideo = (srcFormat, dstFormat, videoNum, cb) ->
-  copyVideoByDiffNum srcFormat, dstFormat, videoNum, videoNum, cb
-
-copyVideoByDiffNum = (srcFormat, dstFormat, srcVideoNum, dstVideoNum, cb) ->
-  async.eachSeries [1..4], (part, next) ->
-    oldName = _s.sprintf srcFormat, srcVideoNum, part
-    newName = _s.sprintf dstFormat, dstVideoNum, part
-#    console.log oldName, newName
-#    next()
-    client.copy oldName, newName, (err) ->
-      return next err if err
-      loggerD.write {type:"QINIU_copy", oldName: oldName, newName: newName}
-      next()
-  , cb
-
-#copy course 1 mp4 file
-videoNums = _.select [71..143], (num) ->
-  return num % 2
-async.eachSeries videoNums, (videoNum, next) ->
-  srcFormat = 'video%s_%s.mp4'
-  dstFormat = '1_%s_%s.mp4'
-  copyVideoByDiffNum srcFormat, dstFormat, 300 + videoNum, videoNum, next
-, (err) ->
-  console.log err if err
-  console.log "process result: success"
+#copyVideo = (srcFormat, dstFormat, videoNum, cb) ->
+#  copyVideoByDiffNum srcFormat, dstFormat, videoNum, videoNum, cb
+#
+#copyVideoByDiffNum = (srcFormat, dstFormat, srcVideoNum, dstVideoNum, cb) ->
+#  async.eachSeries [1..4], (part, next) ->
+#    oldName = _s.sprintf srcFormat, srcVideoNum, part
+#    newName = _s.sprintf dstFormat, dstVideoNum, part
+##    console.log oldName, newName
+##    next()
+#    client.copy oldName, newName, (err) ->
+#      return next err if err
+#      loggerD.write {type:"QINIU_copy", oldName: oldName, newName: newName}
+#      next()
+#  , cb
+#
+##copy course 1 mp4 file
+#videoNums = _.select [71..143], (num) ->
+#  return num % 2
+#async.eachSeries videoNums, (videoNum, next) ->
+#  srcFormat = 'video%s_%s.mp4'
+#  dstFormat = '1_%s_%s.mp4'
+#  copyVideoByDiffNum srcFormat, dstFormat, 300 + videoNum, videoNum, next
+#, (err) ->
+#  console.log err if err
+#  console.log "process result: success"
 
 #copy mp4 file
 #async.eachSeries [1..81], (videoNum, next) ->
@@ -91,18 +91,18 @@ async.eachSeries videoNums, (videoNum, next) ->
 
 
 #uploadFile
-###
-dataPath = "/Users/lutao/Downloads/direct_english_lesson_list"
+dataPath = "/Users/lutao/Downloads/nceone001-143-1"
 
 uploadFile = (fileName, cb) ->
   client.uploadFile "#{dataPath}/#{fileName}", {key: "de#{fileName}"}, (err, result) ->
     return cb err if err
     console.log result
+    loggerD.write {type:"QINIU_upload", fileName: fileName}
     cb()
 
 fs.readdir dataPath, (err, files) ->
   return console.log err if err
-  async.each files, (file, next) ->
+  async.eachSeries files, (file, next) ->
     if /.jpg/i.test file
 #      console.log file
 #      next()
@@ -111,4 +111,4 @@ fs.readdir dataPath, (err, files) ->
       next()
   , (err) ->
     console.log err if err
-###
+    logger.info "process result: success"
