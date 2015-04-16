@@ -8,8 +8,8 @@ require './configure_passport'
 router.post '/local', (req, res, next) ->
   passport.authenticate('local', (err, user, info) ->
     error = err ? info
-    if error then return res.json(401, error)
-    if !user then return res.json(404, {message: 'Something went wrong, please try again.'})
+    if error then return res.status(401).json(error)
+    if !user then return res.status(404).json({message: 'Something went wrong, please try again.'})
 
     token = auth.signToken(user.userNo)
     res.send token: token

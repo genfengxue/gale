@@ -24,6 +24,8 @@ exports.User = BaseModel.subclass
       email:
         type: String
         lowercase: true
+        unique: true
+        sparse: true
       hashedPassword :
         type : String
       salt :
@@ -32,6 +34,12 @@ exports.User = BaseModel.subclass
     setupUserSchema @schema
 
     $super()
+
+  findByEmail: (email) ->
+    @findOneQ {email: email}
+
+  findByNickname: (nickname) ->
+    @findOneQ {nickname: nickname}
 
 ###
 Virtuals

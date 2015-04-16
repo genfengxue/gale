@@ -3,6 +3,7 @@ router = express.Router()
 auth = require '../../auth/auth.service'
 
 User = _u.getModel 'user'
+UserUtils = _u.getUtils 'user'
 WrapRequest = new (require '../../utils/WrapRequest')(User)
 
 router.post "/change_password", auth.isAuthenticated(), (req, res, next) ->
@@ -22,6 +23,23 @@ router.post "/change_password", auth.isAuthenticated(), (req, res, next) ->
       logger.info err
   else
     res.sendStatus 403
+
+
+router.post "/update_profile", auth.isAuthenticated(), (req, res, next) ->
+  promises = []
+  if req.body.email
+    promises.push UserUtils.checkEmail req.body.email
+
+  if req.body.nickname
+    promises.push UserUtils.checkNickname req.body.nickname
+
+  Q.all promises
+  .then ->
+    conditions = {userNo: req.user.userNo}
+    pickedUpdatedKeys = ['email', 'nickname']
+    WrapRequest.wrapUpdate req, res, next, conditions, pickedUpdatedKeys
+  .catch next
+  .done()
 
 
 router.get '/me', auth.isAuthenticated(), (req, res, next) ->

@@ -63,6 +63,7 @@ app.use((err, req, res, next) ->
   if (err)
     errorLog.write(meta + err.stack + '\n')
     logger.error(err)
+    res.status(err.status or 500).json(err)
   next()
 )
 

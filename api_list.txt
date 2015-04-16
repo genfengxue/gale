@@ -21,6 +21,15 @@
   body: "oldPassword=xxx&newPassword=yyy"
   response: 200 成功，403失败
 
+/api/users/update_profile POST
+  query: access_token=xxxx
+  body: "nickname=xxxxx&email=lutaoact@xxx.com"
+  response: 200 成功，400失败
+  可能的错误码：
+    {"status":400,"errCode":10030,"errMsg":"当前昵称已经存在"}
+    {"status":400,"errCode":10020,"errMsg":"当前email已经存在"}
+
+
 /api/courses GET #获取course列表
   response: [{}], 按照courseNo升序排列
 

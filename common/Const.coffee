@@ -14,3 +14,4 @@ module.exports =
       KeyPointFilePattern: 'de%03s.txt.json'
       SentenceFilePattern: 'de%03s.srt.json'
       CourseNo: 2
+  isEmail: /^[\w\.-]+@[\w-.]+$/
