@@ -15,6 +15,7 @@ BEGIN {
       json_decode
       json_encode
       getLessonNo
+      getCourseNoFromName
     );
 }
 
@@ -25,6 +26,13 @@ sub run {
 #    my ($x, $y) = (2, 3);
 #    swap($x, $y);
 #    print $x, " ", $y;
+}
+
+sub getCourseNoFromName {
+  return +{
+    nceone => 1,
+    de     => 2,
+  }->{$_[0]};
 }
 
 sub swap {

@@ -11,7 +11,6 @@ module.exports =
       SentenceFilePattern: 'nceone%03s.srt.json'
       CourseNo: 1
     de:
-      KeyPointPath: 'de%03s.txt.json'
       KeyPointFilePattern: 'de%03s.txt.json'
       SentenceFilePattern: 'de%03s.srt.json'
       CourseNo: 2
