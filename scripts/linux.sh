@@ -30,3 +30,13 @@ done
 for i in $(ls); do
   mv $i "de0${i:6:2}.txt"
 done
+
+for i in $(ls nce1video??_*); do
+#  echo $i
+  mv $i "nceone0${i:9:2}.jpg"
+done
+
+for i in $(ls nce1video???_*); do
+#  echo $i
+  mv $i "nceone${i:9:3}.jpg"
+done
