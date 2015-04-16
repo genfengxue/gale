@@ -37,7 +37,10 @@ router.post "/update_profile", auth.isAuthenticated(), (req, res, next) ->
   .then ->
     conditions = {userNo: req.user.userNo}
     pickedUpdatedKeys = ['email', 'nickname']
-    WrapRequest.wrapUpdate req, res, next, conditions, pickedUpdatedKeys
+    update = _.pick req.body, pickedUpdatedKeys
+    User.updateQ conditions, update
+  .then ->
+    res.sendStatus 200
   .catch next
   .done()
 
