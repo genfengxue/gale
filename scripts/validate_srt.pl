@@ -13,15 +13,15 @@ while (<>) {
   }
   s/^\s+|\s+$//g;
   if ($count % 5 == 1) {
-    if (!/\d+/) {
+    if (!/^\d+$/) {
       die "bad format: $ARGV";
     }
   } elsif ($count % 5 == 2) {
-    if (!/[\d:,->]+/) {
+    if (!/^[\d:,\s>\-]+$/) {
       die "bad format: $ARGV";
     }
   } elsif ($count % 5 == 3) {
-    if (!/[\x00-\xff]+/) {
+    if (!/^[\x00-\xff]+$/) {
       die "bad format: $ARGV";
     }
   } elsif ($count % 5 == 4) {
