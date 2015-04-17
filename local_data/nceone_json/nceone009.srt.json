@@ -1,0 +1,114 @@
+[
+   {
+      "lessonNo" : 9,
+      "chinese" : "你好,Helen.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,206 --> 00:00:01,098",
+      "english" : "Hello, Helen."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "你好,Steven.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:01,899 --> 00:00:03,007",
+      "english" : "Hi, Steven."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "你今天好吗?",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:03,548 --> 00:00:04,790",
+      "english" : "How are you today?"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "很好,谢谢你.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:05,503 --> 00:00:06,858",
+      "english" : "Very well, thank you."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "你好吗?",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:12,723 --> 00:00:13,263",
+      "english" : "And you?"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "很好,谢谢.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:14,049 --> 00:00:15,638",
+      "english" : "I'm fine, thanks."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "Tony好吗?",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:16,639 --> 00:00:17,743",
+      "english" : "How is Tony?"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "他很好,谢谢.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:18,467 --> 00:00:20,354",
+      "english" : "He's fine, thanks."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "Emma好吗?",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:21,292 --> 00:00:22,217",
+      "english" : "How's Emma?"
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "她也很好,Helen.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:22,721 --> 00:00:25,139",
+      "english" : "She's very well, too, Helen."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "再见,Helen.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:25,871 --> 00:00:26,798",
+      "english" : "Goodbye, Helen."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "见到你真高兴.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:27,859 --> 00:00:28,911",
+      "english" : "Nice to see you."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "我见到你也很高兴,Steven.",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:30,819 --> 00:00:33,504",
+      "english" : "Nice to see you, too, Steven."
+   },
+   {
+      "lessonNo" : 9,
+      "chinese" : "再见.",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,000 --> 00:00:00,000",
+      "english" : "Goodbye."
+   }
+]

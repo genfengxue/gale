@@ -1,0 +1,44 @@
+1
+My coat and my umbrella please.
+<k></k>
+
+2
+Here is my ticket.
+<k></k>
+
+3
+Thank you, sir. Number five.
+<k></k>
+
+4
+Here's your umbrella and your coat.
+<k></k>
+
+5
+This is not my umbrella.
+<k></k>
+
+6
+Sorry sir.
+<k></k>
+
+7
+Is this your umbrella?
+<k></k>
+
+8
+No, it isn't.
+<k></k>
+
+9
+Is this it?
+<k></k>
+
+10
+Yes, it is.
+<k></k>
+
+11
+Thank you very much.
+<k></k>
+

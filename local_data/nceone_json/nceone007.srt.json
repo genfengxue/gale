@@ -1,0 +1,130 @@
+[
+   {
+      "lessonNo" : 7,
+      "chinese" : "我是个新学生,",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,195 --> 00:00:01,942",
+      "english" : "I am a new student."
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "我的名字叫Robert.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:02,809 --> 00:00:04,395",
+      "english" : "My name's Robert."
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "很高兴见到你.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:06,257 --> 00:00:07,071",
+      "english" : "Nice to meet you."
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "我的名字叫Sophie.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:08,107 --> 00:00:09,778",
+      "english" : "My name's Sophie."
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "你是法国人吗?",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:10,360 --> 00:00:11,699",
+      "english" : "Are you French?"
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "是的,我是法国人.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:13,070 --> 00:00:14,462",
+      "english" : "Yes, I am."
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "你也是法国人吗?",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:15,591 --> 00:00:17,524",
+      "english" : "Are you French too?"
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "不,我不是.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:18,312 --> 00:00:20,282",
+      "english" : "No, I am not."
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "你是哪国人?",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:21,354 --> 00:00:23,504",
+      "english" : "What nationality are you?"
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "我是意大利人.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:23,939 --> 00:00:25,335",
+      "english" : "I'm Italian."
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "你是教师吗?",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:26,241 --> 00:00:28,157",
+      "english" : "Are you a teacher?"
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "不,我不是.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:28,638 --> 00:00:29,881",
+      "english" : "No, I'm not."
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "你是做什么工作的?",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:31,478 --> 00:00:33,015",
+      "english" : "What's your job?"
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "我是电脑录入员.",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:33,947 --> 00:00:36,525",
+      "english" : "I'm a keyboard operator."
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "你是做什么工作的?",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:37,163 --> 00:00:38,238",
+      "english" : "What's your job?"
+   },
+   {
+      "lessonNo" : 7,
+      "chinese" : "我是工程师.",
+      "sentenceNo" : 16,
+      "courseNo" : 1,
+      "timeline" : "00:00:38,758 --> 00:00:40,786",
+      "english" : "I'm an engineer."
+   }
+]

@@ -1,0 +1,72 @@
+1
+Are you Swedish?
+<k></k>
+
+2
+No, we are not.
+<k></k>
+
+3
+We are Danish.
+<k></k>
+
+4
+Are your friends Danish, too?
+<k></k>
+
+5
+No, they aren't.
+<k></k>
+
+6
+They are Norwegian.
+<k></k>
+
+7
+Your passports, please.
+<k></k>
+
+8
+Here they are.
+<k></k>
+
+9
+Are these your cases?
+<k></k>
+
+10
+No, they aren't.
+<k></k>
+
+11
+Our cases are brown.
+<k></k>
+
+12
+Here they are.
+<k></k>
+
+13
+Are you tourists?
+<k></k>
+
+14
+Yes, we are.
+<k></k>
+
+15
+Are your friends tourists too?
+<k></k>
+
+16
+Yes, they are.
+<k></k>
+
+17
+That's fine.
+<k></k>
+
+18
+Thank you very much.
+<k></k>
+

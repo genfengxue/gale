@@ -1,0 +1,90 @@
+[
+   {
+      "lessonNo" : 3,
+      "chinese" : "请把我的大衣和伞拿给我.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,817 --> 00:00:03,957",
+      "english" : "My coat and my umbrella please."
+   },
+   {
+      "lessonNo" : 3,
+      "chinese" : "这是我（寄存东西）的小票.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:04,299 --> 00:00:05,625",
+      "english" : "Here is my ticket."
+   },
+   {
+      "lessonNo" : 3,
+      "chinese" : "谢谢,先生.是5号.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:06,563 --> 00:00:09,935",
+      "english" : "Thank you, sir. Number five."
+   },
+   {
+      "lessonNo" : 3,
+      "chinese" : "这是您的伞和大衣.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:10,409 --> 00:00:13,557",
+      "english" : "Here's your umbrella and your coat."
+   },
+   {
+      "lessonNo" : 3,
+      "chinese" : "这不是我的伞.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:13,941 --> 00:00:16,686",
+      "english" : "This is not my umbrella."
+   },
+   {
+      "lessonNo" : 3,
+      "chinese" : "对不起,先生.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:17,050 --> 00:00:17,962",
+      "english" : "Sorry sir."
+   },
+   {
+      "lessonNo" : 3,
+      "chinese" : "这把伞是您的吗?",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:19,102 --> 00:00:20,984",
+      "english" : "Is this your umbrella?"
+   },
+   {
+      "lessonNo" : 3,
+      "chinese" : "不,不是!",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:21,383 --> 00:00:22,748",
+      "english" : "No, it isn't."
+   },
+   {
+      "lessonNo" : 3,
+      "chinese" : "这把是吗?",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:23,239 --> 00:00:24,329",
+      "english" : "Is this it?"
+   },
+   {
+      "lessonNo" : 3,
+      "chinese" : "是,是这把.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:24,805 --> 00:00:26,484",
+      "english" : "Yes, it is."
+   },
+   {
+      "lessonNo" : 3,
+      "chinese" : "非常感谢.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:27,171 --> 00:00:29,128",
+      "english" : "Thank you very much."
+   }
+]

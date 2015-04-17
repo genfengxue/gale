@@ -1,0 +1,28 @@
+1
+Excuse me!
+<k></k>
+
+2
+Yes?
+<k></k>
+
+3
+Is this your handbag?
+<k></k>
+
+4
+Pardon?
+<k></k>
+
+5
+Is this your handbag?
+<k></k>
+
+6
+Yes, it is.
+<k></k>
+
+7
+Thank you very much.
+<k></k>
+

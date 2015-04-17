@@ -1,0 +1,58 @@
+[
+   {
+      "lessonNo" : 1,
+      "chinese" : "打搅一下.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,403 --> 00:00:01,179",
+      "english" : "Excuse me!"
+   },
+   {
+      "lessonNo" : 1,
+      "chinese" : "什么事?",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:02,006 --> 00:00:02,848",
+      "english" : "Yes?"
+   },
+   {
+      "lessonNo" : 1,
+      "chinese" : "这是您的手提包吗?",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:03,414 --> 00:00:05,345",
+      "english" : "Is this your handbag?"
+   },
+   {
+      "lessonNo" : 1,
+      "chinese" : "对不起,请再说一遍.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:05,847 --> 00:00:06,674",
+      "english" : "Pardon?"
+   },
+   {
+      "lessonNo" : 1,
+      "chinese" : "这是您的手提包吗?",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:07,251 --> 00:00:09,913",
+      "english" : "Is this your handbag?"
+   },
+   {
+      "lessonNo" : 1,
+      "chinese" : "是的,是我的.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:10,353 --> 00:00:11,555",
+      "english" : "Yes, it is."
+   },
+   {
+      "lessonNo" : 1,
+      "chinese" : "非常感谢!",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:12,459 --> 00:00:14,382",
+      "english" : "Thank you very much."
+   }
+]

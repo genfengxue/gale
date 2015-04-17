@@ -1,0 +1,98 @@
+[
+   {
+      "lessonNo" : 13,
+      "chinese" : "你的新连衣裙是什么颜色的?",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,186 --> 00:00:02,469",
+      "english" : "What colour's your new dress?"
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "是绿色的.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:03,146 --> 00:00:04,026",
+      "english" : "It's green."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "到楼上来看看吧.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:05,021 --> 00:00:07,254",
+      "english" : "Come upstairs and see it."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "谢谢.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:08,194 --> 00:00:08,872",
+      "english" : "Thank you."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "瞧,就是这件.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:10,530 --> 00:00:12,469",
+      "english" : "Look! Here it is!"
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "这件连衣裙真好,",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:13,789 --> 00:00:15,667",
+      "english" : "That's a nice dress."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "真漂亮.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:16,613 --> 00:00:17,916",
+      "english" : "It's very smart."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "我的帽子也是新的.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:18,739 --> 00:00:20,278",
+      "english" : "My hat's new, too."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "是什么颜色的?",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:21,327 --> 00:00:22,640",
+      "english" : "What colour is it?"
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "一样的颜色,",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:23,829 --> 00:00:25,404",
+      "english" : "It's the same colour."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "也是绿的.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:26,194 --> 00:00:27,728",
+      "english" : "It's green, too."
+   },
+   {
+      "lessonNo" : 13,
+      "chinese" : "真是一顶可爱的帽子!",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:28,771 --> 00:00:31,577",
+      "english" : "That is a lovely hat!"
+   }
+]

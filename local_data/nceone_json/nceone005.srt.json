@@ -1,0 +1,162 @@
+[
+   {
+      "lessonNo" : 5,
+      "chinese" : "早上好.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,663 --> 00:00:01,276",
+      "english" : "Good morning."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "早上好,Mr. Blake..",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:01,744 --> 00:00:03,867",
+      "english" : "Good morning, Mr. Blake."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "这位是Sophie Dupont小姐.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:04,504 --> 00:00:07,212",
+      "english" : "This is Miss Sophie Dupont."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "Sophie是个新学生.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:08,004 --> 00:00:10,372",
+      "english" : "Sophie is a new student."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "她是法国人.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:11,081 --> 00:00:12,771",
+      "english" : "She is French."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "Sophie,这位是Hans.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:13,431 --> 00:00:16,284",
+      "english" : "Sophie, this is Hans."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "他是德国人.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:16,703 --> 00:00:17,536",
+      "english" : "He is German."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "很高兴见到你.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:18,213 --> 00:00:19,348",
+      "english" : "Nice to meet you."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "这位是Naoko.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:20,298 --> 00:00:22,853",
+      "english" : "And this is Naoko."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "她是日本人.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:23,683 --> 00:00:25,066",
+      "english" : "She's Japanese."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "很高兴见到你.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:25,887 --> 00:00:26,977",
+      "english" : "Nice to meet you."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "这位是Chang-woo.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:28,706 --> 00:00:30,767",
+      "english" : "And this is Chang-woo."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "他是韩国人.",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:31,388 --> 00:00:32,408",
+      "english" : "He's Korean."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "很高兴见到你.",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:33,206 --> 00:00:34,364",
+      "english" : "Nice to meet you."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "这位是Luming.",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:35,884 --> 00:00:37,686",
+      "english" : "And this is Luming."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "他是中国人.",
+      "sentenceNo" : 16,
+      "courseNo" : 1,
+      "timeline" : "00:00:38,466 --> 00:00:39,695",
+      "english" : "He is Chinese."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "很高兴见到你.",
+      "sentenceNo" : 17,
+      "courseNo" : 1,
+      "timeline" : "00:00:40,356 --> 00:00:41,330",
+      "english" : "Nice to meet you."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "这位是Xiaohui.",
+      "sentenceNo" : 18,
+      "courseNo" : 1,
+      "timeline" : "00:00:42,636 --> 00:00:45,024",
+      "english" : "And this is Xiaohui."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "她也是中国人.",
+      "sentenceNo" : 19,
+      "courseNo" : 1,
+      "timeline" : "00:00:45,782 --> 00:00:47,368",
+      "english" : "She's Chinese, too."
+   },
+   {
+      "lessonNo" : 5,
+      "chinese" : "很高兴见到你.",
+      "sentenceNo" : 20,
+      "courseNo" : 1,
+      "timeline" : "00:00:48,266 --> 00:00:49,271",
+      "english" : "Nice to meet you."
+   }
+]

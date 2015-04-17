@@ -1,0 +1,90 @@
+[
+   {
+      "lessonNo" : 19,
+      "chinese" : "怎么啦,孩子们?",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,955 --> 00:00:02,605",
+      "english" : "What's the matter, children?"
+   },
+   {
+      "lessonNo" : 19,
+      "chinese" : "我们累了…… 口也渴,妈妈.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:03,837 --> 00:00:07,361",
+      "english" : "We're tired...and thirsty,Mum."
+   },
+   {
+      "lessonNo" : 19,
+      "chinese" : "你们现在好些了吗?",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:08,059 --> 00:00:09,684",
+      "english" : "Are you all right now?"
+   },
+   {
+      "lessonNo" : 19,
+      "chinese" : "不,还没有.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:10,696 --> 00:00:12,402",
+      "english" : "No, we aren't."
+   },
+   {
+      "lessonNo" : 19,
+      "chinese" : "瞧! 有个卖冰淇淋的.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:13,172 --> 00:00:16,169",
+      "english" : "Look! There's an ice cream man."
+   },
+   {
+      "lessonNo" : 19,
+      "chinese" : "请拿两份冰淇淋.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:16,951 --> 00:00:19,083",
+      "english" : "Two ice creams please."
+   },
+   {
+      "lessonNo" : 19,
+      "chinese" : "拿着,孩子们.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:20,287 --> 00:00:21,900",
+      "english" : "Here you are, children."
+   },
+   {
+      "lessonNo" : 19,
+      "chinese" : "谢谢,妈妈.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:22,731 --> 00:00:23,797",
+      "english" : "Thanks, Mum."
+   },
+   {
+      "lessonNo" : 19,
+      "chinese" : "这些冰淇淋真好吃.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:25,021 --> 00:00:27,614",
+      "english" : "These ice creams are nice."
+   },
+   {
+      "lessonNo" : 19,
+      "chinese" : "你们现在好了吗?",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:28,299 --> 00:00:30,132",
+      "english" : "Are you all right now?"
+   },
+   {
+      "lessonNo" : 19,
+      "chinese" : "是的,现在好了,谢谢您!",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:30,526 --> 00:00:33,785",
+      "english" : "Yes, we are, thank you!"
+   }
+]

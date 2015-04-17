@@ -1,0 +1,64 @@
+1
+I am a new student.
+<k></k>
+
+2
+My name's Robert.
+<k></k>
+
+3
+Nice to meet you.
+<k></k>
+
+4
+My name's Sophie.
+<k></k>
+
+5
+Are you French?
+<k></k>
+
+6
+Yes, I am.
+<k></k>
+
+7
+Are you French too?
+<k></k>
+
+8
+No, I am not.
+<k></k>
+
+9
+What nationality are you?
+<k></k>
+
+10
+I'm Italian.
+<k></k>
+
+11
+Are you a teacher?
+<k></k>
+
+12
+No, I'm not.
+<k></k>
+
+13
+What's your job?
+<k></k>
+
+14
+I'm a keyboard operator.
+<k></k>
+
+15
+What's your job?
+<k></k>
+
+16
+I'm an engineer.
+<k></k>
+

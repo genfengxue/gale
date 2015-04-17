@@ -1,0 +1,130 @@
+[
+   {
+      "lessonNo" : 11,
+      "chinese" : "那是谁的衬衫?",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:02,228 --> 00:00:03,789",
+      "english" : "Whose shirt is that?"
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "Dave,这是你的衬衫吗?",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:04,970 --> 00:00:07,013",
+      "english" : "Is this your shirt, Dave?"
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "不, 先生.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:09,278 --> 00:00:10,121",
+      "english" : "No. Sir."
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "这不是我的衬衫.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:10,588 --> 00:00:12,301",
+      "english" : "It's not my shirt."
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "这是我的衬衫.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:13,228 --> 00:00:14,735",
+      "english" : "This is my shirt."
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "我的衬衫是蓝色的.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:15,244 --> 00:00:16,737",
+      "english" : "My shirt's blue."
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "这件衬衫是Tim的吗?",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:17,735 --> 00:00:20,089",
+      "english" : "Is this shirt Tim's?"
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "也许是,先生.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:21,137 --> 00:00:22,740",
+      "english" : "Perhaps it is, sir."
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "Tim的衬衫是白色的.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:24,081 --> 00:00:25,741",
+      "english" : "Tim's shirt's white."
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "Tim!",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:26,904 --> 00:00:27,171",
+      "english" : "Tim!"
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "什么事,先生?",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:28,831 --> 00:00:29,525",
+      "english" : "Yes, sir?"
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "这是你的衬衫吗?",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:30,633 --> 00:00:32,059",
+      "english" : "Is this your shirt?"
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "是的,先生.",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:32,902 --> 00:00:33,473",
+      "english" : "Yes, sir."
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "给你.",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:34,542 --> 00:00:35,444",
+      "english" : "Here you are."
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "接着!",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:36,208 --> 00:00:36,727",
+      "english" : "Catch!"
+   },
+   {
+      "lessonNo" : 11,
+      "chinese" : "谢谢您,先生.",
+      "sentenceNo" : 16,
+      "courseNo" : 1,
+      "timeline" : "00:00:37,802 --> 00:00:38,997",
+      "english" : "Thank you, sir."
+   }
+]

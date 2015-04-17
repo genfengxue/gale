@@ -1,0 +1,48 @@
+1
+What colour's your new dress?
+<k></k>
+
+2
+It's green.
+<k></k>
+
+3
+Come upstairs and see it.
+<k></k>
+
+4
+Thank you.
+<k></k>
+
+5
+Look! Here it is!
+<k></k>
+
+6
+That's a nice dress.
+<k></k>
+
+7
+It's very smart.
+<k></k>
+
+8
+My hat's new, too.
+<k></k>
+
+9
+What colour is it?
+<k></k>
+
+10
+It's the same colour.
+<k></k>
+
+11
+It's green, too.
+<k></k>
+
+12
+That is a lovely hat!
+<k></k>
+

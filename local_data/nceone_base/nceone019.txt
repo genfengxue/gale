@@ -1,0 +1,44 @@
+1
+What's the matter, children?
+<k></k>
+
+2
+We're tired...and thirsty,Mum.
+<k></k>
+
+3
+Are you all right now?
+<k></k>
+
+4
+No, we aren't.
+<k></k>
+
+5
+Look! There's an ice cream man.
+<k></k>
+
+6
+Two ice creams please.
+<k></k>
+
+7
+Here you are, children.
+<k></k>
+
+8
+Thanks, Mum.
+<k></k>
+
+9
+These ice creams are nice.
+<k></k>
+
+10
+Are you all right now?
+<k></k>
+
+11
+Yes, we are, thank you!
+<k></k>
+

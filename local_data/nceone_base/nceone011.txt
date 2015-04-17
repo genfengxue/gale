@@ -1,0 +1,64 @@
+1
+Whose shirt is that?
+<k></k>
+
+2
+Is this your shirt, Dave?
+<k></k>
+
+3
+No. Sir.
+<k></k>
+
+4
+It's not my shirt.
+<k></k>
+
+5
+This is my shirt.
+<k></k>
+
+6
+My shirt's blue.
+<k></k>
+
+7
+Is this shirt Tim's?
+<k></k>
+
+8
+Perhaps it is, sir.
+<k></k>
+
+9
+Tim's shirt's white.
+<k></k>
+
+10
+Tim!
+<k></k>
+
+11
+Yes, sir?
+<k></k>
+
+12
+Is this your shirt?
+<k></k>
+
+13
+Yes, sir.
+<k></k>
+
+14
+Here you are.
+<k></k>
+
+15
+Catch!
+<k></k>
+
+16
+Thank you, sir.
+<k></k>
+

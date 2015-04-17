@@ -1,0 +1,56 @@
+1
+Hello, Helen.
+<k></k>
+
+2
+Hi, Steven.
+<k></k>
+
+3
+How are you today?
+<k></k>
+
+4
+Very well, thank you.
+<k></k>
+
+5
+And you?
+<k></k>
+
+6
+I'm fine, thanks.
+<k></k>
+
+7
+How is Tony?
+<k></k>
+
+8
+He's fine, thanks.
+<k></k>
+
+9
+How's Emma?
+<k></k>
+
+10
+She's very well, too, Helen.
+<k></k>
+
+11
+Goodbye, Helen.
+<k></k>
+
+12
+Nice to see you.
+<k></k>
+
+13
+Nice to see you, too, Steven.
+<k></k>
+
+14
+Goodbye.
+<k></k>
+

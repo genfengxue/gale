@@ -1,0 +1,80 @@
+1
+Good morning.
+<k></k>
+
+2
+Good morning, Mr. Blake.
+<k></k>
+
+3
+This is Miss Sophie Dupont.
+<k></k>
+
+4
+Sophie is a new student.
+<k></k>
+
+5
+She is French.
+<k></k>
+
+6
+Sophie, this is Hans.
+<k></k>
+
+7
+He is German.
+<k></k>
+
+8
+Nice to meet you.
+<k></k>
+
+9
+And this is Naoko.
+<k></k>
+
+10
+She's Japanese.
+<k></k>
+
+11
+Nice to meet you.
+<k></k>
+
+12
+And this is Chang-woo.
+<k></k>
+
+13
+He's Korean.
+<k></k>
+
+14
+Nice to meet you.
+<k></k>
+
+15
+And this is Luming.
+<k></k>
+
+16
+He is Chinese.
+<k></k>
+
+17
+Nice to meet you.
+<k></k>
+
+18
+And this is Xiaohui.
+<k></k>
+
+19
+She's Chinese, too.
+<k></k>
+
+20
+Nice to meet you.
+<k></k>
+
