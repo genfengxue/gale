@@ -1,3 +1,10 @@
+2015-04-17 16:45:48
+mongo gale
+db.sentences.remove({courseNo: 2, lessonNo: {$gte: 82, $lte: 100}});
+load_srt_for_de 82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100
+
+
+
 2015-04-16 12:18:17
 sh scripts/load_lesson_list_json_to_db.sh
 

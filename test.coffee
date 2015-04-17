@@ -1,7 +1,6 @@
 require './common/init'
 moment = require 'moment'
 
-console.log Const.isEmail.test 'lutaoact@139_.com'
 
 console.log [82..100].join ','
 #results = _.select [131..143], (num) ->

@@ -4,7 +4,7 @@
       "chinese" : "早上好,Nancy.",
       "sentenceNo" : 1,
       "courseNo" : 2,
-      "timeline" : "00:00:06,310 --> 00:00:07,487",
+      "timeline" : "00:00:06,400 --> 00:00:07,900",
       "english" : "Good morning, Nancy."
    },
    {
@@ -12,7 +12,7 @@
       "chinese" : "你好,Yvonne.那是什么?",
       "sentenceNo" : 2,
       "courseNo" : 2,
-      "timeline" : "00:00:08,307 --> 00:00:12,815",
+      "timeline" : "00:00:08,400 --> 00:00:13,300",
       "english" : "Hi, Yvonne. What is that?"
    },
    {
@@ -20,7 +20,7 @@
       "chinese" : "一盒炸面圈.",
       "sentenceNo" : 3,
       "courseNo" : 2,
-      "timeline" : "00:00:13,433 --> 00:00:14,993",
+      "timeline" : "00:00:13,600 --> 00:00:15,400",
       "english" : "It's a box of donuts."
    },
    {
@@ -28,7 +28,7 @@
       "chinese" : "-Yvonne.  -怎么啦?",
       "sentenceNo" : 4,
       "courseNo" : 2,
-      "timeline" : "00:00:15,358 --> 00:00:16,824",
+      "timeline" : "00:00:15,600 --> 00:00:17,250",
       "english" : "-Yvonne.  -What?"
    },
    {
@@ -36,7 +36,7 @@
       "chinese" : "炸面圈对你身体不好.",
       "sentenceNo" : 5,
       "courseNo" : 2,
-      "timeline" : "00:00:17,133 --> 00:00:18,830",
+      "timeline" : "00:00:17,300 --> 00:00:19,250",
       "english" : "Donuts are bad for you."
    },
    {
@@ -44,7 +44,7 @@
       "chinese" : "但它们味道太好了.来一个吗?",
       "sentenceNo" : 6,
       "courseNo" : 2,
-      "timeline" : "00:00:19,157 --> 00:00:23,762",
+      "timeline" : "00:00:19,300 --> 00:00:24,200",
       "english" : "But they taste so good. Want one?"
    },
    {
@@ -52,7 +52,7 @@
       "chinese" : "不,我不想要.",
       "sentenceNo" : 7,
       "courseNo" : 2,
-      "timeline" : "00:00:24,077 --> 00:00:26,308",
+      "timeline" : "00:00:24,300 --> 00:00:26,800",
       "english" : "No, I do not want one."
    },
    {
@@ -60,7 +60,7 @@
       "chinese" : "奶油馅,上面带巧克力的也不要吗?",
       "sentenceNo" : 8,
       "courseNo" : 2,
-      "timeline" : "00:00:26,613 --> 00:00:31,548",
+      "timeline" : "00:00:26,900 --> 00:00:31,948",
       "english" : "Not even a cream-filled donut with chocolate frosting?"
    },
    {
@@ -68,7 +68,7 @@
       "chinese" : "只有一个.",
       "sentenceNo" : 9,
       "courseNo" : 2,
-      "timeline" : "00:00:31,873 --> 00:00:32,763",
+      "timeline" : "00:00:32,000 --> 00:00:33,200",
       "english" : "There's only one."
    },
    {
@@ -76,7 +76,7 @@
       "chinese" : "我去拿两个盘子.",
       "sentenceNo" : 10,
       "courseNo" : 2,
-      "timeline" : "00:00:33,053 --> 00:00:34,431",
+      "timeline" : "00:00:33,300 --> 00:00:34,900",
       "english" : "I'll get a couple of plates."
    },
    {
@@ -84,7 +84,7 @@
       "chinese" : "-能听见我说话吗?   -能.",
       "sentenceNo" : 11,
       "courseNo" : 2,
-      "timeline" : "00:00:36,800 --> 00:00:39,906",
+      "timeline" : "00:00:37,000 --> 00:00:40,400",
       "english" : "-Can you hear me?  -Yes."
    },
    {
@@ -92,7 +92,7 @@
       "chinese" : "天秤座.工作要有耐心.",
       "sentenceNo" : 12,
       "courseNo" : 2,
-      "timeline" : "00:00:40,469 --> 00:00:43,977",
+      "timeline" : "00:00:40,700 --> 00:00:44,400",
       "english" : "Libra. Be patient at work."
    },
    {
@@ -100,7 +100,7 @@
       "chinese" : "财运不错.",
       "sentenceNo" : 13,
       "courseNo" : 2,
-      "timeline" : "00:00:44,454 --> 00:00:47,359",
+      "timeline" : "00:00:44,700 --> 00:00:47,800",
       "english" : "The financial outlook is good."
    },
    {
@@ -108,7 +108,7 @@
       "chinese" : "真不错.我的呢?",
       "sentenceNo" : 14,
       "courseNo" : 2,
-      "timeline" : "00:00:47,661 --> 00:00:50,227",
+      "timeline" : "00:00:47,900 --> 00:00:50,700",
       "english" : "I like that. What's mine?"
    },
    {
@@ -116,7 +116,7 @@
       "chinese" : "白羊座.保持身体健康.",
       "sentenceNo" : 15,
       "courseNo" : 2,
-      "timeline" : "00:00:50,669 --> 00:00:54,883",
+      "timeline" : "00:00:50,900 --> 00:00:55,283",
       "english" : "Aries. Stay healthy."
    },
    {
@@ -124,7 +124,7 @@
       "chinese" : "现在是检查牙齿的好时候.",
       "sentenceNo" : 16,
       "courseNo" : 2,
-      "timeline" : "00:00:55,144 --> 00:00:57,017",
+      "timeline" : "00:00:55,300 --> 00:00:57,417",
       "english" : "Now is a good time for a dental check-up."
    },
    {
@@ -132,7 +132,7 @@
       "chinese" : "-什么?     -检查牙齿.",
       "sentenceNo" : 17,
       "courseNo" : 2,
-      "timeline" : "00:00:57,332 --> 00:00:58,945",
+      "timeline" : "00:00:57,500 --> 00:00:59,400",
       "english" : "-A what?   -A dental check-up."
    },
    {
@@ -140,7 +140,7 @@
       "chinese" : "这些东西是谁写的?",
       "sentenceNo" : 18,
       "courseNo" : 2,
-      "timeline" : "00:00:59,278 --> 00:01:01,336",
+      "timeline" : "00:00:59,500 --> 00:01:01,800",
       "english" : "Who writes these things?"
    },
    {
@@ -148,7 +148,7 @@
       "chinese" : "我不知道.",
       "sentenceNo" : 19,
       "courseNo" : 2,
-      "timeline" : "00:01:01,700 --> 00:01:02,671",
+      "timeline" : "00:01:01,900 --> 00:01:03,100",
       "english" : "I don't know."
    },
    {
@@ -156,7 +156,7 @@
       "chinese" : "今天早晨好吗?",
       "sentenceNo" : 20,
       "courseNo" : 2,
-      "timeline" : "00:01:02,958 --> 00:01:06,348",
+      "timeline" : "00:01:03,200 --> 00:01:06,800",
       "english" : "So how are you this morning?"
    },
    {
@@ -164,7 +164,7 @@
       "chinese" : "很好,除了今晚有个工作晚餐,",
       "sentenceNo" : 21,
       "courseNo" : 2,
-      "timeline" : "00:01:06,666 --> 00:01:10,224",
+      "timeline" : "00:01:06,900 --> 00:01:10,700",
       "english" : "Fine, except I have to go to a business dinner tonight,"
    },
    {
@@ -172,7 +172,7 @@
       "chinese" : "和Douglas的房地产公司的同事一起吃饭.",
       "sentenceNo" : 22,
       "courseNo" : 2,
-      "timeline" : "00:01:10,536 --> 00:01:13,460",
+      "timeline" : "00:01:10,800 --> 00:01:13,900",
       "english" : "with all of Douglas's real estate colleagues."
    },
    {
@@ -180,7 +180,7 @@
       "chinese" : "Now,我爱我的丈夫.",
       "sentenceNo" : 23,
       "courseNo" : 2,
-      "timeline" : "00:01:13,888 --> 00:01:16,256",
+      "timeline" : "00:01:14,100 --> 00:01:16,656",
       "english" : "Now, I love my husband."
    },
    {
@@ -188,7 +188,7 @@
       "chinese" : "他的同事也都很不错.",
       "sentenceNo" : 24,
       "courseNo" : 2,
-      "timeline" : "00:01:16,559 --> 00:01:18,446",
+      "timeline" : "00:01:16,700 --> 00:01:18,846",
       "english" : "And his co-workers are very nice."
    },
    {
@@ -196,7 +196,7 @@
       "chinese" : "但他们全部都是些乐观主义者.",
       "sentenceNo" : 25,
       "courseNo" : 2,
-      "timeline" : "00:01:18,817 --> 00:01:21,805",
+      "timeline" : "00:01:18,900 --> 00:01:22,300",
       "english" : "But they are all optimists."
    },
    {
@@ -204,7 +204,7 @@
       "chinese" : "而你却是一个可怜的,孤独的悲观主义者.",
       "sentenceNo" : 26,
       "courseNo" : 2,
-      "timeline" : "00:01:22,153 --> 00:01:24,865",
+      "timeline" : "00:01:22,400 --> 00:01:25,265",
       "english" : "And you're a poor, lonely pessimist."
    },
    {
@@ -212,7 +212,7 @@
       "chinese" : "-不是. -Well,我喜欢那样的晚餐.",
       "sentenceNo" : 27,
       "courseNo" : 2,
-      "timeline" : "00:01:25,089 --> 00:01:28,111",
+      "timeline" : "00:01:25,300 --> 00:01:28,511",
       "english" : "-No.   -Well, I like those dinners."
    },
    {
@@ -220,7 +220,7 @@
       "chinese" : "潜在的客户.",
       "sentenceNo" : 28,
       "courseNo" : 2,
-      "timeline" : "00:01:28,374 --> 00:01:29,607",
+      "timeline" : "00:01:28,600 --> 00:01:30,007",
       "english" : "Potential clients."
    },
    {
@@ -228,7 +228,7 @@
       "chinese" : "Oh, Douglas把一个客户推荐给我们.叫Klara Kovak.",
       "sentenceNo" : 29,
       "courseNo" : 2,
-      "timeline" : "00:01:29,899 --> 00:01:34,825",
+      "timeline" : "00:01:30,100 --> 00:01:35,300",
       "english" : "Oh, Douglas got us a referral. Klara Kovak."
    },
    {
@@ -236,7 +236,7 @@
       "chinese" : "-太好了.  -她是个匈牙利人.",
       "sentenceNo" : 30,
       "courseNo" : 2,
-      "timeline" : "00:01:36,237 --> 00:01:39,398",
+      "timeline" : "00:01:36,500 --> 00:01:39,800",
       "english" : "-Great.   -She's Hungarian."
    },
    {
@@ -244,7 +244,7 @@
       "chinese" : "-好.   -这可能是一桩大生意,Nancy.",
       "sentenceNo" : 31,
       "courseNo" : 2,
-      "timeline" : "00:01:40,858 --> 00:01:44,232",
+      "timeline" : "00:01:41,100 --> 00:01:44,700",
       "english" : "-OK.   -It could be a big job, Nancy."
    },
    {
@@ -252,7 +252,7 @@
       "chinese" : "-太好了. -她是位女继承人.",
       "sentenceNo" : 32,
       "courseNo" : 2,
-      "timeline" : "00:01:44,950 --> 00:01:48,014",
+      "timeline" : "00:01:45,200 --> 00:01:48,500",
       "english" : "-Great.  -She's an heiress."
    },
    {
@@ -260,7 +260,7 @@
       "chinese" : "太好了.",
       "sentenceNo" : 33,
       "courseNo" : 2,
-      "timeline" : "00:01:48,455 --> 00:01:49,000",
+      "timeline" : "00:01:48,700 --> 00:01:49,400",
       "english" : "Great."
    }
 ]
