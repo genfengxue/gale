@@ -10,24 +10,44 @@ client = qn.create(
 )
 
 class QnUtils
-  deleteFiles: ->
-    funcName = "delete#{_u.convertToCamelCase arguments[0]}s"
-    console.log arguments
-    params = Array::slice.call arguments, 1
-    console.log params, funcName
-    @[funcName].apply @, params
-#    console.log process.env.accessKey
-#    console.log process.env.secretKey
-#    console.log funcName
-#    @["delete#{_u.convertToCamelCase fileType}"]
-#    switch fileType
-#      when 'image'
-#        @[]
+  deleteFilesByType: (type, fileNameFormat, nums) ->
+    buildFileNamesFunc = "build#{_u.convertToCamelCase type}Names"
+    fileNames = @[buildFileNamesFunc] fileNameFormat, nums
+#    console.log fileNames
+    @deleteFiles fileNames
 
   deleteImages: (fileNameFormat, nums) ->
-    async.eachSeries nums, (num, next) =>
-      name = _s.sprintf fileNameFormat, num
-      @processFile 'delete', name, next
+    @deleteFilesByType 'image', fileNameFormat, nums
+
+  deleteVideos: (fileNameFormat, nums) ->
+    @deleteFilesByType 'video', fileNameFormat, nums
+
+  buildVideoNames: (fileNameFormat, nums) ->
+    results = []
+    _.each nums, (num) ->
+      _.each [1..4], (part) ->
+        results.push _s.sprintf fileNameFormat, num, part
+    return results
+
+  buildImageNames: (fileNameFormat, nums) ->
+    return (
+      for num in nums
+        _s.sprintf fileNameFormat, num
+    )
+
+  copyVideos: (srcFormat, dstFormat, nums) ->
+    srcFileNames = @buildVideoNames srcFormat, nums
+    dstFileNames = @buildVideoNames dstFormat, nums
+    async.eachSeries [0..srcFileNames.length - 1], (index, next) =>
+#      console.log srcFileNames[index], dstFileNames[index]
+#      next()
+      @processFile 'copy', srcFileNames[index], dstFileNames[index], next
+    , ->
+      console.log "process finished!"
+
+  deleteFiles: (fileNames) ->
+    async.eachSeries fileNames, (fileName, next) =>
+      @processFile 'delete', fileName, next
     , ->
       console.log "process finished!"
 

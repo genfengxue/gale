@@ -5,7 +5,12 @@ async = require 'async'
 
 # accessKey=xxxxx secretKey=yyyyy coffee scripts/qn_use.coffee
 QnUtils = _u.getUtils 'qn'
-QnUtils.deleteImages 'de%03s.JPG', [82..100]
+#imageNames = QnUtils.buildImageNames 'de%03s.JPG', [82..100]
+#QnUtils.buildVideoNames '2_%s_%s.mp4', [82..100]
+#QnUtils.deleteVideos '2_%s_%s.mp4', [82..100]
+QnUtils.copyVideos 'de%03s_%s.mp4', '2_%s_%s.mp4', [82..100]
+
+#QnUtils.deleteImages 'de%03s.JPG', [82..100]
 #QnUtils.deleteFiles 'video'
 
 #deleteVideo = (fileNameFormat, videoNum, cb) ->
