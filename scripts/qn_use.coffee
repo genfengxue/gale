@@ -4,13 +4,29 @@ fs = require 'fs'
 async = require 'async'
 
 # accessKey=xxxxx secretKey=yyyyy coffee scripts/qn_use.coffee
+QnUtils = _u.getUtils 'qn'
+QnUtils.deleteImages 'de%03s.JPG', [82..100]
+#QnUtils.deleteFiles 'video'
 
-client = qn.create(
-  accessKey: process.env.accessKey
-  secretKey: process.env.secretKey
-  bucket: 'windenglish'
-  domain: 'http://7u2qm8.com1.z0.glb.clouddn.com'
-)
+#deleteVideo = (fileNameFormat, videoNum, cb) ->
+#  async.eachSeries [1..4], (part, next) ->
+#    fileName = _s.sprintf fileNameFormat, videoNum, part
+##    console.log fileName
+##    next()
+#    client.delete fileName, (err) ->
+#      if err
+#        console.log fileName, err
+#      else
+#        loggerD.write {type:"QINIU_delete", fileName: fileName}
+#      next()
+#  , cb
+#
+#async.eachSeries [82..100], (videoNum, next) ->
+##  fileNameFormat = 'de%03s_%s.mp4'
+#  fileNameFormat = '2_%s_%s.mp4'
+#  deleteVideo fileNameFormat, videoNum, next
+#, (err) ->
+#  console.log "process result: success"
 
 #copyVideo = (srcFormat, dstFormat, videoNum, cb) ->
 #  copyVideoByDiffNum srcFormat, dstFormat, videoNum, videoNum, cb
@@ -91,24 +107,24 @@ client = qn.create(
 
 
 #uploadFile
-dataPath = "/Users/lutao/Downloads/nceone001-143-1"
-
-uploadFile = (fileName, cb) ->
-  client.uploadFile "#{dataPath}/#{fileName}", {key: "de#{fileName}"}, (err, result) ->
-    return cb err if err
-    console.log result
-    loggerD.write {type:"QINIU_upload", fileName: fileName}
-    cb()
-
-fs.readdir dataPath, (err, files) ->
-  return console.log err if err
-  async.eachSeries files, (file, next) ->
-    if /.jpg/i.test file
-#      console.log file
+#dataPath = "/Users/lutao/Downloads/nceone001-143-1"
+#
+#uploadFile = (fileName, cb) ->
+#  client.uploadFile "#{dataPath}/#{fileName}", {key: "de#{fileName}"}, (err, result) ->
+#    return cb err if err
+#    console.log result
+#    loggerD.write {type:"QINIU_upload", fileName: fileName}
+#    cb()
+#
+#fs.readdir dataPath, (err, files) ->
+#  return console.log err if err
+#  async.eachSeries files, (file, next) ->
+#    if /.jpg/i.test file
+##      console.log file
+##      next()
+#      uploadFile file, next
+#    else
 #      next()
-      uploadFile file, next
-    else
-      next()
-  , (err) ->
-    console.log err if err
-    logger.info "process result: success"
+#  , (err) ->
+#    console.log err if err
+#    logger.info "process result: success"
