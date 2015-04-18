@@ -1,0 +1,65 @@
+1
+00:00:00,216 --> 00:00:03,767
+Mrs.Smith's living room is large.
+Smith夫人的客厅很大.
+
+2
+00:00:04,356 --> 00:00:07,271
+There is a television in the room.
+客厅里有台电视机.
+
+3
+00:00:08,071 --> 00:00:11,054
+The television is near the window.
+电视机靠近窗子.
+
+4
+00:00:12,533 --> 00:00:16,477
+There are some magazines on the television.
+电视机上放着几本杂志.
+
+5
+00:00:17,575 --> 00:00:20,340
+There is a table in the room.
+客厅里有一张桌子.
+
+6
+00:00:22,497 --> 00:00:25,856
+There are some newspapers on the table.
+桌上放着几份报纸.
+
+7
+00:00:26,508 --> 00:00:29,566
+There are some armchairs in the room.
+客厅里有几把扶手椅.
+
+8
+00:00:30,402 --> 00:00:33,203
+The armchairs are near the table.
+那些扶手椅靠近桌子.
+
+9
+00:00:34,063 --> 00:00:36,960
+There is a stereo in the room.
+客厅里有台立体声的音响.
+
+10
+00:00:38,283 --> 00:00:41,260
+The stereo is near the door.
+音响靠近门.
+
+11
+00:00:42,642 --> 00:00:45,557
+There are some books on the stereo.
+音响上面有几本书.
+
+12
+00:00:46,251 --> 00:00:48,643
+There are some pictures in the room.
+客厅里有几幅画.
+
+13
+00:00:50,199 --> 00:00:52,837
+The pictures are on the wall.
+画挂在墙上.
+

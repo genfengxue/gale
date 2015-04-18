@@ -1,0 +1,60 @@
+1
+This is a photograph of our village.
+<k></k>
+
+2
+Our village is in a valley.
+<k></k>
+
+3
+It is between two hills.
+<k></k>
+
+4
+The village is on a river.
+<k></k>
+
+5
+Here is another photograph of the village.
+<k></k>
+
+6
+My wife and I are walking along the banks of the river.
+<k></k>
+
+7
+We are on the left.
+<k></k>
+
+8
+There is a boy in the water.
+<k></k>
+
+9
+He is swimming across the river.
+<k></k>
+
+10
+Here is another photograph.
+<k></k>
+
+11
+This is the school building.
+<k></k>
+
+12
+It is beside a park.
+<k></k>
+
+13
+The park is on the right.
+<k></k>
+
+14
+Some children are coming out of the building.
+<k></k>
+
+15
+Some of them are going into the park.
+<k></k>
+

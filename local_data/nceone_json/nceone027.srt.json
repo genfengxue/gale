@@ -1,0 +1,106 @@
+[
+   {
+      "lessonNo" : 27,
+      "chinese" : "Smith夫人的客厅很大.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,216 --> 00:00:03,767",
+      "english" : "Mrs.Smith's living room is large."
+   },
+   {
+      "lessonNo" : 27,
+      "chinese" : "客厅里有台电视机.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:04,356 --> 00:00:07,271",
+      "english" : "There is a television in the room."
+   },
+   {
+      "lessonNo" : 27,
+      "chinese" : "电视机靠近窗子.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:08,071 --> 00:00:11,054",
+      "english" : "The television is near the window."
+   },
+   {
+      "lessonNo" : 27,
+      "chinese" : "电视机上放着几本杂志.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:12,533 --> 00:00:16,477",
+      "english" : "There are some magazines on the television."
+   },
+   {
+      "lessonNo" : 27,
+      "chinese" : "客厅里有一张桌子.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:17,575 --> 00:00:20,340",
+      "english" : "There is a table in the room."
+   },
+   {
+      "lessonNo" : 27,
+      "chinese" : "桌上放着几份报纸.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:22,497 --> 00:00:25,856",
+      "english" : "There are some newspapers on the table."
+   },
+   {
+      "lessonNo" : 27,
+      "chinese" : "客厅里有几把扶手椅.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:26,508 --> 00:00:29,566",
+      "english" : "There are some armchairs in the room."
+   },
+   {
+      "lessonNo" : 27,
+      "chinese" : "那些扶手椅靠近桌子.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:30,402 --> 00:00:33,203",
+      "english" : "The armchairs are near the table."
+   },
+   {
+      "lessonNo" : 27,
+      "chinese" : "客厅里有台立体声的音响.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:34,063 --> 00:00:36,960",
+      "english" : "There is a stereo in the room."
+   },
+   {
+      "lessonNo" : 27,
+      "chinese" : "音响靠近门.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:38,283 --> 00:00:41,260",
+      "english" : "The stereo is near the door."
+   },
+   {
+      "lessonNo" : 27,
+      "chinese" : "音响上面有几本书.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:42,642 --> 00:00:45,557",
+      "english" : "There are some books on the stereo."
+   },
+   {
+      "lessonNo" : 27,
+      "chinese" : "客厅里有几幅画.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:46,251 --> 00:00:48,643",
+      "english" : "There are some pictures in the room."
+   },
+   {
+      "lessonNo" : 27,
+      "chinese" : "画挂在墙上.",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:50,199 --> 00:00:52,837",
+      "english" : "The pictures are on the wall."
+   }
+]

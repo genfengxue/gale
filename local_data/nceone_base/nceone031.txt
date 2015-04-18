@@ -1,0 +1,56 @@
+1
+Where's Sally, Jack?
+<k></k>
+
+2
+She's in the garden, Jean.
+<k></k>
+
+3
+What's she doing?
+<k></k>
+
+4
+She's sitting under the tree.
+<k></k>
+
+5
+Is Tim in the garden, too?
+<k></k>
+
+6
+Yes, he is.
+<k></k>
+
+7
+He's climbing the tree.
+<k></k>
+
+8
+I beg your pardon?
+<k></k>
+
+9
+Who's climbing the tree?
+<k></k>
+
+10
+Tim is.
+<k></k>
+
+11
+What about the dog?
+<k></k>
+
+12
+The dog's in the garden, too.
+<k></k>
+
+13
+It's running across the grass.
+<k></k>
+
+14
+It's running after a cat.
+<k></k>
+

@@ -1,0 +1,74 @@
+[
+   {
+      "lessonNo" : 21,
+      "chinese" : "请拿本书给我,Jane.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,870 --> 00:00:03,189",
+      "english" : "Give me a book please, Jane."
+   },
+   {
+      "lessonNo" : 21,
+      "chinese" : "哪一本?",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:04,013 --> 00:00:05,013",
+      "english" : "Which book?"
+   },
+   {
+      "lessonNo" : 21,
+      "chinese" : "是这本吗?",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:05,647 --> 00:00:06,157",
+      "english" : "This one?"
+   },
+   {
+      "lessonNo" : 21,
+      "chinese" : "不,不是那本.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:07,125 --> 00:00:09,339",
+      "english" : "No, not that one."
+   },
+   {
+      "lessonNo" : 21,
+      "chinese" : "是那本红皮的.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:09,865 --> 00:00:10,702",
+      "english" : "The red one."
+   },
+   {
+      "lessonNo" : 21,
+      "chinese" : "这本吗?",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:11,443 --> 00:00:12,266",
+      "english" : "This one?"
+   },
+   {
+      "lessonNo" : 21,
+      "chinese" : "是的,请给我.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:12,883 --> 00:00:13,973",
+      "english" : "Yes, please."
+   },
+   {
+      "lessonNo" : 21,
+      "chinese" : "给你.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:14,861 --> 00:00:16,088",
+      "english" : "Here you are."
+   },
+   {
+      "lessonNo" : 21,
+      "chinese" : "谢谢.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,000 --> 00:00:00,000",
+      "english" : "Thank you."
+   }
+]

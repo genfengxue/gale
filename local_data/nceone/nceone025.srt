@@ -1,0 +1,60 @@
+1
+00:00:00,874 --> 00:00:03,926
+Mrs.Smith's kitchen is small.
+Smith夫人的厨房很小.
+
+2
+00:00:05,070 --> 00:00:08,499
+There is a refrigerator in the kitchen.
+厨房里有个电冰箱.
+
+3
+00:00:09,319 --> 00:00:11,634
+The refrigerator is white.
+冰箱的颜色是白的.
+
+4
+00:00:12,377 --> 00:00:14,235
+It is on the right.
+它位于房间右侧.
+
+5
+00:00:15,730 --> 00:00:19,371
+There is an electric cooker in the kitchen.
+厨房里有个电灶.
+
+6
+00:00:19,920 --> 00:00:21,356
+The cooker is blue.
+电灶的颜色是蓝的.
+
+7
+00:00:22,249 --> 00:00:23,967
+It is on the left.
+它位于房间左侧.
+
+8
+00:00:25,467 --> 00:00:29,192
+There is a table in the middle of the room.
+房间的中央有张桌子.
+
+9
+00:00:30,141 --> 00:00:32,592
+There is a bottle on the table.
+桌子上有个瓶子.
+
+10
+00:00:33,497 --> 00:00:35,466
+The bottle is empty.
+瓶子是空的.
+
+11
+00:00:36,476 --> 00:00:39,701
+There is a cup on the table, too.
+桌子上还有一只杯子.
+
+12
+00:00:40,370 --> 00:00:42,048
+The cup is clean.
+杯子很干净.
+

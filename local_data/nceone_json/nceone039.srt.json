@@ -1,0 +1,98 @@
+[
+   {
+      "lessonNo" : 39,
+      "chinese" : "你打算如何处理那花瓶, Penny?",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:01,415 --> 00:00:05,713",
+      "english" : "What are you going to do with that vase, Penny?"
+   },
+   {
+      "lessonNo" : 39,
+      "chinese" : "我打算把它放在这张桌子上, Sam.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:06,803 --> 00:00:10,472",
+      "english" : "I'm going to put it on this table, Sam."
+   },
+   {
+      "lessonNo" : 39,
+      "chinese" : "不要放在那儿.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:11,480 --> 00:00:12,770",
+      "english" : "Don't do that."
+   },
+   {
+      "lessonNo" : 39,
+      "chinese" : "把它给我.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:13,958 --> 00:00:15,246",
+      "english" : "Give it to me."
+   },
+   {
+      "lessonNo" : 39,
+      "chinese" : "你打算怎么办?",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:16,629 --> 00:00:18,970",
+      "english" : "What are you going to do with it?"
+   },
+   {
+      "lessonNo" : 39,
+      "chinese" : "我准备把它放在这儿, 放在窗前.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:20,207 --> 00:00:25,272",
+      "english" : "I'm going to put it here, in front of the window."
+   },
+   {
+      "lessonNo" : 39,
+      "chinese" : "小心点!",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:26,140 --> 00:00:27,374",
+      "english" : "Be careful!"
+   },
+   {
+      "lessonNo" : 39,
+      "chinese" : "别摔了!",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:28,199 --> 00:00:29,526",
+      "english" : "Don't drop it!"
+   },
+   {
+      "lessonNo" : 39,
+      "chinese" : "别放在那儿, Sam.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:30,888 --> 00:00:32,938",
+      "english" : "Don't put it there, Sam."
+   },
+   {
+      "lessonNo" : 39,
+      "chinese" : "放在这儿, 这个架子上.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:34,357 --> 00:00:37,388",
+      "english" : "Put it here, on this shelf."
+   },
+   {
+      "lessonNo" : 39,
+      "chinese" : "就这样! 这是只漂亮的花瓶.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:38,600 --> 00:00:43,382",
+      "english" : "There we are! It's a lovely vase."
+   },
+   {
+      "lessonNo" : 39,
+      "chinese" : "那些花也很漂亮啊.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:44,416 --> 00:00:47,446",
+      "english" : "Those flowers are lovely, too."
+   }
+]

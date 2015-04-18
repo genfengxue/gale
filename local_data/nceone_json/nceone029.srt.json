@@ -1,0 +1,74 @@
+[
+   {
+      "lessonNo" : 29,
+      "chinese" : "进来, Amy.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,868 --> 00:00:02,273",
+      "english" : "Come in, Amy."
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "请把门关上.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:02,813 --> 00:00:04,315",
+      "english" : "Shut the door, please."
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "这卧室太不整洁了.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:04,784 --> 00:00:07,663",
+      "english" : "This bedroom's very untidy."
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "我应该做些什么呢, Jones夫人?",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:08,408 --> 00:00:11,064",
+      "english" : "What must I do, Mrs. Jones?"
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "打开窗子, 给房间通通风.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:11,592 --> 00:00:14,642",
+      "english" : "Open the window and air the room."
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "然后把这些衣服放进衣橱里去.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:16,257 --> 00:00:19,944",
+      "english" : "Then put these clothes in the wardrobe."
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "再把床整理一下.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:20,921 --> 00:00:22,795",
+      "english" : "Then make the bed."
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "掸掉梳妆台上的灰尘.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:23,782 --> 00:00:25,861",
+      "english" : "Dust the dressing table."
+   },
+   {
+      "lessonNo" : 29,
+      "chinese" : "然后扫扫地.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:27,045 --> 00:00:29,414",
+      "english" : "Then sweep the floor."
+   }
+]

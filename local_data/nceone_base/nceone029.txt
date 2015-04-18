@@ -1,0 +1,36 @@
+1
+Come in, Amy.
+<k></k>
+
+2
+Shut the door, please.
+<k></k>
+
+3
+This bedroom's very untidy.
+<k></k>
+
+4
+What must I do, Mrs. Jones?
+<k></k>
+
+5
+Open the window and air the room.
+<k></k>
+
+6
+Then put these clothes in the wardrobe.
+<k></k>
+
+7
+Then make the bed.
+<k></k>
+
+8
+Dust the dressing table.
+<k></k>
+
+9
+Then sweep the floor.
+<k></k>
+

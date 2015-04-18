@@ -1,0 +1,48 @@
+1
+What are you going to do with that vase, Penny?
+<k></k>
+
+2
+I'm going to put it on this table, Sam.
+<k></k>
+
+3
+Don't do that.
+<k></k>
+
+4
+Give it to me.
+<k></k>
+
+5
+What are you going to do with it?
+<k></k>
+
+6
+I'm going to put it here, in front of the window.
+<k></k>
+
+7
+Be careful!
+<k></k>
+
+8
+Don't drop it!
+<k></k>
+
+9
+Don't put it there, Sam.
+<k></k>
+
+10
+Put it here, on this shelf.
+<k></k>
+
+11
+There we are! It's a lovely vase.
+<k></k>
+
+12
+Those flowers are lovely, too.
+<k></k>
+

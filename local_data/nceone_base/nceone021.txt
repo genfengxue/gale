@@ -1,0 +1,36 @@
+1
+Give me a book please, Jane.
+<k></k>
+
+2
+Which book?
+<k></k>
+
+3
+This one?
+<k></k>
+
+4
+No, not that one.
+<k></k>
+
+5
+The red one.
+<k></k>
+
+6
+This one?
+<k></k>
+
+7
+Yes, please.
+<k></k>
+
+8
+Here you are.
+<k></k>
+
+9
+Thank you.
+<k></k>
+

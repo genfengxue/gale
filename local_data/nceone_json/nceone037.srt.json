@@ -1,0 +1,146 @@
+[
+   {
+      "lessonNo" : 37,
+      "chinese" : "你干得真辛苦, George.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:01,423 --> 00:00:03,501",
+      "english" : "You're working hard, George."
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "你在干什么呢?",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:04,398 --> 00:00:05,672",
+      "english" : "What are you doing?"
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "我正在做书架.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:06,490 --> 00:00:08,684",
+      "english" : "I'm making a bookcase."
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "请把那把锤子拿给我, Dan.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:09,294 --> 00:00:11,695",
+      "english" : "Give me that hammer please, Dan."
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "哪一把?",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:13,440 --> 00:00:14,259",
+      "english" : "Which hammer?"
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "是这把吗?",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:14,739 --> 00:00:15,313",
+      "english" : "This one?"
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "不,不是那把.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:16,368 --> 00:00:18,124",
+      "english" : "No, not that one."
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "是那把大的.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:19,404 --> 00:00:20,260",
+      "english" : "The big one."
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "给你.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:20,836 --> 00:00:21,422",
+      "english" : "Here you are."
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "谢谢, Dan.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:22,529 --> 00:00:23,283",
+      "english" : "Thanks, Dan."
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "你现在打算干什么, George?",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:24,725 --> 00:00:27,800",
+      "english" : "What are you going to do now,George?"
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "我打算把它漆一下.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:28,879 --> 00:00:30,804",
+      "english" : "I'm going to paint it."
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "你打算把它漆成什么颜色?",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:31,904 --> 00:00:34,820",
+      "english" : "What colour are you going to paint it?"
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "我想漆成粉红色.",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:35,433 --> 00:00:37,788",
+      "english" : "I'm going to paint it pink."
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "粉红色!",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:38,638 --> 00:00:39,457",
+      "english" : "Pink!"
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "这个书架不是为我做的.",
+      "sentenceNo" : 16,
+      "courseNo" : 1,
+      "timeline" : "00:00:40,058 --> 00:00:41,871",
+      "english" : "This bookcase isn't for me."
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "是为我的女儿Susan做的.",
+      "sentenceNo" : 17,
+      "courseNo" : 1,
+      "timeline" : "00:00:42,906 --> 00:00:44,983",
+      "english" : "It's for my daughter, Susan."
+   },
+   {
+      "lessonNo" : 37,
+      "chinese" : "粉红色是她最喜欢的颜色.",
+      "sentenceNo" : 18,
+      "courseNo" : 1,
+      "timeline" : "00:00:45,659 --> 00:00:47,866",
+      "english" : "Pink's her favourite colour."
+   }
+]

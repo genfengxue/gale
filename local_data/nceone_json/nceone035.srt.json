@@ -1,0 +1,122 @@
+[
+   {
+      "lessonNo" : 35,
+      "chinese" : "这是我们村庄的一张照片.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:01,666 --> 00:00:05,157",
+      "english" : "This is a photograph of our village."
+   },
+   {
+      "lessonNo" : 35,
+      "chinese" : "我们的村庄坐落在一个山谷之中.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:05,709 --> 00:00:08,130",
+      "english" : "Our village is in a valley."
+   },
+   {
+      "lessonNo" : 35,
+      "chinese" : "它位于两座小山之间.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:09,048 --> 00:00:11,250",
+      "english" : "It is between two hills."
+   },
+   {
+      "lessonNo" : 35,
+      "chinese" : "它靠近一条小河.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:12,136 --> 00:00:14,341",
+      "english" : "The village is on a river."
+   },
+   {
+      "lessonNo" : 35,
+      "chinese" : "这是我们村庄的另一张照片.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:16,047 --> 00:00:19,981",
+      "english" : "Here is another photograph of the village."
+   },
+   {
+      "lessonNo" : 35,
+      "chinese" : "我和妻子正沿河岸走着.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:21,431 --> 00:00:26,974",
+      "english" : "My wife and I are walking along the banks of the river."
+   },
+   {
+      "lessonNo" : 35,
+      "chinese" : "我们在河的左侧.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:27,939 --> 00:00:29,669",
+      "english" : "We are on the left."
+   },
+   {
+      "lessonNo" : 35,
+      "chinese" : "河里面有个男孩.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:30,684 --> 00:00:32,762",
+      "english" : "There is a boy in the water."
+   },
+   {
+      "lessonNo" : 35,
+      "chinese" : "他正横渡小河.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:33,744 --> 00:00:36,345",
+      "english" : "He is swimming across the river."
+   },
+   {
+      "lessonNo" : 35,
+      "chinese" : "这是另一张照片.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:37,105 --> 00:00:39,192",
+      "english" : "Here is another photograph."
+   },
+   {
+      "lessonNo" : 35,
+      "chinese" : "这是学校大楼.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:40,026 --> 00:00:41,731",
+      "english" : "This is the school building."
+   },
+   {
+      "lessonNo" : 35,
+      "chinese" : "它位于公园的旁边.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:42,788 --> 00:00:44,881",
+      "english" : "It is beside a park."
+   },
+   {
+      "lessonNo" : 35,
+      "chinese" : "公园在右面.",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:45,876 --> 00:00:47,959",
+      "english" : "The park is on the right."
+   },
+   {
+      "lessonNo" : 35,
+      "chinese" : "一些孩子正从楼里出来.",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:49,522 --> 00:00:53,084",
+      "english" : "Some children are coming out of the building."
+   },
+   {
+      "lessonNo" : 35,
+      "chinese" : "他们中有几个正走进公园.",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:53,659 --> 00:00:56,874",
+      "english" : "Some of them are going into the park."
+   }
+]

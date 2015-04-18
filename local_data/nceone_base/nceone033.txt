@@ -1,0 +1,44 @@
+1
+It is a fine day today.
+<k></k>
+
+2
+There are some clouds in the sky,
+<k></k>
+
+3
+but the sun is shining.
+<k></k>
+
+4
+Mr. Jones is with his family.
+<k></k>
+
+5
+They are walking over the bridge.
+<k></k>
+
+6
+There are some boats on the river.
+<k></k>
+
+7
+Mr. Jones and his wife are looking at them.
+<k></k>
+
+8
+Sally is looking at a big ship.
+<k></k>
+
+9
+The ship is going under the bridge.
+<k></k>
+
+10
+Tim is looking at an aeroplane.
+<k></k>
+
+11
+The aeroplane is flying over the river.
+<k></k>
+

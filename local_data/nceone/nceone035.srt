@@ -1,0 +1,75 @@
+1
+00:00:01,666 --> 00:00:05,157
+This is a photograph of our village.
+这是我们村庄的一张照片.
+
+2
+00:00:05,709 --> 00:00:08,130
+Our village is in a valley.
+我们的村庄坐落在一个山谷之中.
+
+3
+00:00:09,048 --> 00:00:11,250
+It is between two hills.
+它位于两座小山之间.
+
+4
+00:00:12,136 --> 00:00:14,341
+The village is on a river.
+它靠近一条小河.
+
+5
+00:00:16,047 --> 00:00:19,981
+Here is another photograph of the village.
+这是我们村庄的另一张照片.
+
+6
+00:00:21,431 --> 00:00:26,974
+My wife and I are walking along the banks of the river.
+我和妻子正沿河岸走着.
+
+7
+00:00:27,939 --> 00:00:29,669
+We are on the left.
+我们在河的左侧.
+
+8
+00:00:30,684 --> 00:00:32,762
+There is a boy in the water.
+河里面有个男孩.
+
+9
+00:00:33,744 --> 00:00:36,345
+He is swimming across the river.
+他正横渡小河.
+
+10
+00:00:37,105 --> 00:00:39,192
+Here is another photograph.
+这是另一张照片.
+
+11
+00:00:40,026 --> 00:00:41,731
+This is the school building.
+这是学校大楼.
+
+12
+00:00:42,788 --> 00:00:44,881
+It is beside a park.
+它位于公园的旁边.
+
+13
+00:00:45,876 --> 00:00:47,959
+The park is on the right.
+公园在右面.
+
+14
+00:00:49,522 --> 00:00:53,084
+Some children are coming out of the building.
+一些孩子正从楼里出来.
+
+15
+00:00:53,659 --> 00:00:56,874
+Some of them are going into the park.
+他们中有几个正走进公园.
+

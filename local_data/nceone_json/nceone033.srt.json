@@ -1,0 +1,90 @@
+[
+   {
+      "lessonNo" : 33,
+      "chinese" : "今天天气好.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:01,234 --> 00:00:03,794",
+      "english" : "It is a fine day today."
+   },
+   {
+      "lessonNo" : 33,
+      "chinese" : "天空中飘着几朵云,",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:04,657 --> 00:00:07,532",
+      "english" : "There are some clouds in the sky,"
+   },
+   {
+      "lessonNo" : 33,
+      "chinese" : "但阳光灿烂.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:08,400 --> 00:00:10,215",
+      "english" : "but the sun is shining."
+   },
+   {
+      "lessonNo" : 33,
+      "chinese" : "Jones先生同他的家人在一起.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:10,870 --> 00:00:13,501",
+      "english" : "Mr. Jones is with his family."
+   },
+   {
+      "lessonNo" : 33,
+      "chinese" : "他们正在过桥.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:14,066 --> 00:00:16,294",
+      "english" : "They are walking over the bridge."
+   },
+   {
+      "lessonNo" : 33,
+      "chinese" : "河上有几艘船.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:17,118 --> 00:00:19,375",
+      "english" : "There are some boats on the river."
+   },
+   {
+      "lessonNo" : 33,
+      "chinese" : "Jones先生和他的妻子正在看这些船.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:20,555 --> 00:00:25,008",
+      "english" : "Mr. Jones and his wife are looking at them."
+   },
+   {
+      "lessonNo" : 33,
+      "chinese" : "Sally正在看一艘大船.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:25,924 --> 00:00:28,967",
+      "english" : "Sally is looking at a big ship."
+   },
+   {
+      "lessonNo" : 33,
+      "chinese" : "那船正从桥下驶过.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:29,654 --> 00:00:32,439",
+      "english" : "The ship is going under the bridge."
+   },
+   {
+      "lessonNo" : 33,
+      "chinese" : "Tim正望着一架飞机.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:33,166 --> 00:00:35,801",
+      "english" : "Tim is looking at an aeroplane."
+   },
+   {
+      "lessonNo" : 33,
+      "chinese" : "飞机正从河上飞过.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:36,641 --> 00:00:39,900",
+      "english" : "The aeroplane is flying over the river."
+   }
+]

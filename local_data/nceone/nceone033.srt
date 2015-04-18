@@ -1,0 +1,55 @@
+1
+00:00:01,234 --> 00:00:03,794
+It is a fine day today.
+今天天气好.
+
+2
+00:00:04,657 --> 00:00:07,532
+There are some clouds in the sky,
+天空中飘着几朵云,
+
+3
+00:00:08,400 --> 00:00:10,215
+but the sun is shining.
+但阳光灿烂.
+
+4
+00:00:10,870 --> 00:00:13,501
+Mr. Jones is with his family.
+Jones先生同他的家人在一起.
+
+5
+00:00:14,066 --> 00:00:16,294
+They are walking over the bridge.
+他们正在过桥.
+
+6
+00:00:17,118 --> 00:00:19,375
+There are some boats on the river.
+河上有几艘船.
+
+7
+00:00:20,555 --> 00:00:25,008
+Mr. Jones and his wife are looking at them.
+Jones先生和他的妻子正在看这些船.
+
+8
+00:00:25,924 --> 00:00:28,967
+Sally is looking at a big ship.
+Sally正在看一艘大船.
+
+9
+00:00:29,654 --> 00:00:32,439
+The ship is going under the bridge.
+那船正从桥下驶过.
+
+10
+00:00:33,166 --> 00:00:35,801
+Tim is looking at an aeroplane.
+Tim正望着一架飞机.
+
+11
+00:00:36,641 --> 00:00:39,900
+The aeroplane is flying over the river.
+飞机正从河上飞过.
+

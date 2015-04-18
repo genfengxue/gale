@@ -1,0 +1,48 @@
+1
+Mrs.Smith's kitchen is small.
+<k></k>
+
+2
+There is a refrigerator in the kitchen.
+<k></k>
+
+3
+The refrigerator is white.
+<k></k>
+
+4
+It is on the right.
+<k></k>
+
+5
+There is an electric cooker in the kitchen.
+<k></k>
+
+6
+The cooker is blue.
+<k></k>
+
+7
+It is on the left.
+<k></k>
+
+8
+There is a table in the middle of the room.
+<k></k>
+
+9
+There is a bottle on the table.
+<k></k>
+
+10
+The bottle is empty.
+<k></k>
+
+11
+There is a cup on the table, too.
+<k></k>
+
+12
+The cup is clean.
+<k></k>
+

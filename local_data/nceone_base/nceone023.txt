@@ -1,0 +1,36 @@
+1
+Give me some glasses please, Jane.
+<k></k>
+
+2
+Which glasses?
+<k></k>
+
+3
+These glasses?
+<k></k>
+
+4
+No, not those.
+<k></k>
+
+5
+The ones on the shelf.
+<k></k>
+
+6
+These?
+<k></k>
+
+7
+Yes, please.
+<k></k>
+
+8
+Here you are.
+<k></k>
+
+9
+Thanks.
+<k></k>
+

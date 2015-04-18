@@ -1,0 +1,72 @@
+1
+You're working hard, George.
+<k></k>
+
+2
+What are you doing?
+<k></k>
+
+3
+I'm making a bookcase.
+<k></k>
+
+4
+Give me that hammer please, Dan.
+<k></k>
+
+5
+Which hammer?
+<k></k>
+
+6
+This one?
+<k></k>
+
+7
+No, not that one.
+<k></k>
+
+8
+The big one.
+<k></k>
+
+9
+Here you are.
+<k></k>
+
+10
+Thanks, Dan.
+<k></k>
+
+11
+What are you going to do now,George?
+<k></k>
+
+12
+I'm going to paint it.
+<k></k>
+
+13
+What colour are you going to paint it?
+<k></k>
+
+14
+I'm going to paint it pink.
+<k></k>
+
+15
+Pink!
+<k></k>
+
+16
+This bookcase isn't for me.
+<k></k>
+
+17
+It's for my daughter, Susan.
+<k></k>
+
+18
+Pink's her favourite colour.
+<k></k>
+

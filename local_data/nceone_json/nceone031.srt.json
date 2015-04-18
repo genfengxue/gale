@@ -1,0 +1,114 @@
+[
+   {
+      "lessonNo" : 31,
+      "chinese" : "Jack,Sally在哪儿?",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,825 --> 00:00:02,737",
+      "english" : "Where's Sally, Jack?"
+   },
+   {
+      "lessonNo" : 31,
+      "chinese" : "她在花园里, Jean.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:03,301 --> 00:00:05,309",
+      "english" : "She's in the garden, Jean."
+   },
+   {
+      "lessonNo" : 31,
+      "chinese" : "她在干什么?",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:05,969 --> 00:00:07,176",
+      "english" : "What's she doing?"
+   },
+   {
+      "lessonNo" : 31,
+      "chinese" : "她正在树荫下坐着.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:07,864 --> 00:00:10,163",
+      "english" : "She's sitting under the tree."
+   },
+   {
+      "lessonNo" : 31,
+      "chinese" : "Tim也在花园里吗?",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:11,122 --> 00:00:13,778",
+      "english" : "Is Tim in the garden, too?"
+   },
+   {
+      "lessonNo" : 31,
+      "chinese" : "是的, 他也在花园里.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:14,392 --> 00:00:15,623",
+      "english" : "Yes, he is."
+   },
+   {
+      "lessonNo" : 31,
+      "chinese" : "他正在爬树.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:16,472 --> 00:00:18,029",
+      "english" : "He's climbing the tree."
+   },
+   {
+      "lessonNo" : 31,
+      "chinese" : "你说什么?",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:19,043 --> 00:00:20,502",
+      "english" : "I beg your pardon?"
+   },
+   {
+      "lessonNo" : 31,
+      "chinese" : "谁在爬树?",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:21,303 --> 00:00:22,765",
+      "english" : "Who's climbing the tree?"
+   },
+   {
+      "lessonNo" : 31,
+      "chinese" : "Tim在爬树.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:23,658 --> 00:00:24,557",
+      "english" : "Tim is."
+   },
+   {
+      "lessonNo" : 31,
+      "chinese" : "那么狗呢?",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:25,314 --> 00:00:27,041",
+      "english" : "What about the dog?"
+   },
+   {
+      "lessonNo" : 31,
+      "chinese" : "狗也在花园里.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:27,695 --> 00:00:29,954",
+      "english" : "The dog's in the garden, too."
+   },
+   {
+      "lessonNo" : 31,
+      "chinese" : "它正在草地上跑.",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:30,455 --> 00:00:32,767",
+      "english" : "It's running across the grass."
+   },
+   {
+      "lessonNo" : 31,
+      "chinese" : "在追一只猫.",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:33,415 --> 00:00:35,982",
+      "english" : "It's running after a cat."
+   }
+]

@@ -1,0 +1,98 @@
+[
+   {
+      "lessonNo" : 25,
+      "chinese" : "Smith夫人的厨房很小.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,874 --> 00:00:03,926",
+      "english" : "Mrs.Smith's kitchen is small."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "厨房里有个电冰箱.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:05,070 --> 00:00:08,499",
+      "english" : "There is a refrigerator in the kitchen."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "冰箱的颜色是白的.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:09,319 --> 00:00:11,634",
+      "english" : "The refrigerator is white."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "它位于房间右侧.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:12,377 --> 00:00:14,235",
+      "english" : "It is on the right."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "厨房里有个电灶.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:15,730 --> 00:00:19,371",
+      "english" : "There is an electric cooker in the kitchen."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "电灶的颜色是蓝的.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:19,920 --> 00:00:21,356",
+      "english" : "The cooker is blue."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "它位于房间左侧.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:22,249 --> 00:00:23,967",
+      "english" : "It is on the left."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "房间的中央有张桌子.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:25,467 --> 00:00:29,192",
+      "english" : "There is a table in the middle of the room."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "桌子上有个瓶子.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:30,141 --> 00:00:32,592",
+      "english" : "There is a bottle on the table."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "瓶子是空的.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:33,497 --> 00:00:35,466",
+      "english" : "The bottle is empty."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "桌子上还有一只杯子.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:36,476 --> 00:00:39,701",
+      "english" : "There is a cup on the table, too."
+   },
+   {
+      "lessonNo" : 25,
+      "chinese" : "杯子很干净.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:40,370 --> 00:00:42,048",
+      "english" : "The cup is clean."
+   }
+]
