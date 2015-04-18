@@ -20,4 +20,21 @@ router.get "/", (req, res, next) ->
 
   WrapRequest.wrapIndex req, res, next, findParams
 
+
+router.post '/:id/update_key/:keyId', auth.isAdmin(), (req, res, next) ->
+  newKey = req.body.key
+  conditions = {_id: req.params.id}
+  Sentence.findOneQ conditions
+  .then (sentence) ->
+    _.each sentence.keyPoints, (keyPoint) ->
+      if keyPoint._id.toString() is req.params.keyId
+        keyPoint.key = newKey
+
+    sentence.saveQ()
+  .then (doc) ->
+    res.send doc
+  .catch next
+  .done()
+
+
 module.exports = router
