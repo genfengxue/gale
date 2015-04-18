@@ -23,11 +23,11 @@ router.post "/", auth.isAdmin(), (req, res, next) ->
   data = _.pick req.body, pickedKeys
   WrapRequest.wrapCreate req, res, next, data
 
+
 pickedUpdatedKeys = ["question", "text", "audio", "image", "categories", "tags"]
-router.put "/:id", auth.isAdmin(), (req, res, next) ->
+router.patch "/:id", auth.isAdmin(), (req, res, next) ->
   conditions = {_id: req.params.id}
-  update = _.pick req.body, pickedUpdatedKeys
-  WrapRequest.wrapUpdate req, res, next, conditions, update
+  WrapRequest.wrapUpdate req, res, next, conditions, pickedUpdatedKeys
 
 
 router.delete "/:id", auth.isAdmin(), (req, res, next) ->
