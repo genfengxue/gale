@@ -3,7 +3,8 @@ require '../common/init'
 ReleaseNote = _u.getModel 'release_note'
 
 data =
-  version: 'v0.3.9.1'
+  versionCode: 1
+  versionName: 'v0.3.9.1'
   content: """
   1. this is v0.3.9.1
   """

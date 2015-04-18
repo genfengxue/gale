@@ -33,7 +33,7 @@
           <% _.each(releaseNotes, function(releaseNote) { %>
             <li>
               <div>
-                <h3><%= releaseNote.version %></h3>
+                <h3><%= releaseNote.versionName %></h3>
                 <div><%- releaseNote.content.replace(/\n/g, "<br>") %></div>
                 <time><%= releaseNote.created %></time>
               </div>

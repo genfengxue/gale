@@ -9,7 +9,11 @@ exports.ReleaseNote = BaseModel.subclass
   }
   initialize: ($super) ->
     @schema = new Schema
-      version:
+      versionCode:
+        type: Number
+        required: true
+        unique: true
+      versionName:
         type: String
         required: true
         unique: true
