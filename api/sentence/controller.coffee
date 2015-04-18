@@ -1,6 +1,7 @@
 express = require("express")
 router = express.Router()
 
+auth = require '../../auth/auth.service'
 Sentence = _u.getModel 'sentence'
 WrapRequest = new (require '../../utils/WrapRequest')(Sentence)
 

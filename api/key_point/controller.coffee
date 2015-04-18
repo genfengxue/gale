@@ -6,7 +6,16 @@ KeyPoint = _u.getModel 'key_point'
 WrapRequest = new (require '../../utils/WrapRequest')(KeyPoint)
 
 router.get "/", (req, res, next) ->
-  WrapRequest.wrapIndex req, res, next, {}
+  conditions = {}
+  #关键字搜索
+  if req.query.keyword
+    regex = new RegExp(_u.escapeRegex(req.query.keyword), 'i')
+    conditions.text = regex
+
+  findParams =
+    conditions: conditions
+
+  WrapRequest.wrapIndex req, res, next, findParams
 
 
 pickedKeys = ["question", "text", "audio", "image", "categories", "tags"]
