@@ -9,7 +9,10 @@ router.get "/latest", (req, res, next) ->
   ReleaseNote.findOneQ {}, null, {sort: {releaseDate: -1}}
   .then (doc) ->
     res.send
-      version: doc.version
-      url: _s.sprintf config.apkUrl, doc.version.substr 1
+      versionCode: doc.versionCode
+      versionName: doc.versionName
+      url: _s.sprintf config.apkUrl, doc.versionName.substr 1
+  .catch next
+  .done()
 
 module.exports = router
