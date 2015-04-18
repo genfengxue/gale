@@ -22,7 +22,7 @@ router.get "/", (req, res, next) ->
   WrapRequest.wrapIndex req, res, next, findParams
 
 
-router.post '/:id/update_key/:keyId', auth.isAdmin(), (req, res, next) ->
+router.patch '/:id/update_key/:keyId', auth.isAdmin(), (req, res, next) ->
   newKey = req.body.key
   conditions = {_id: req.params.id}
   Sentence.findOneQ conditions
