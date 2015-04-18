@@ -1,6 +1,6 @@
 1
 00:00:00,216 --> 00:00:03,767
-Mrs.Smith's living room is large.
+Mrs. Smith's living room is large.
 Smith夫人的客厅很大.
 
 2

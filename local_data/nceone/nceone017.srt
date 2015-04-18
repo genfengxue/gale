@@ -5,12 +5,12 @@ Come and meet our employees, Mr. Richards.
 
 2
 00:00:05,349 --> 00:00:07,094
-Thank you, Mr.Jackson.
+Thank you, Mr. Jackson.
 谢谢,Jackson先生.
 
 3
 00:00:07,864 --> 00:00:13,901
-This is Nicola Grey,and this is Claire Taylor.
+This is Nicola Grey, and this is Claire Taylor.
 这位是Nicola Grey,这位是Claire Taylor.
 
 4
@@ -35,7 +35,7 @@ They're keyboard operators.
 
 8
 00:00:25,157 --> 00:00:29,991
-This is Michael Baker,and this is Jeremy Short.
+This is Michael Baker, and this is Jeremy Short.
 这位是Michael Baker, 这位是Jeremy Short.
 
 9

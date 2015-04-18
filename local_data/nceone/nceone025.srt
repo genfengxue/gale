@@ -1,6 +1,6 @@
 1
 00:00:00,874 --> 00:00:03,926
-Mrs.Smith's kitchen is small.
+Mrs. Smith's kitchen is small.
 Smith夫人的厨房很小.
 
 2
