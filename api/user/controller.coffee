@@ -27,11 +27,12 @@ router.post "/change_password", auth.isAuthenticated(), (req, res, next) ->
 
 router.post "/update_profile", auth.isAuthenticated(), (req, res, next) ->
   promises = []
+  userNo = req.user.userNo
   if req.body.email
-    promises.push UserUtils.checkEmail req.body.email
+    promises.push UserUtils.checkEmail userNo, req.body.email
 
   if req.body.nickname
-    promises.push UserUtils.checkNickname req.body.nickname
+    promises.push UserUtils.checkNickname userNo, req.body.nickname
 
   Q.all promises
   .then ->

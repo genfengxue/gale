@@ -3,7 +3,7 @@ require '../common/init'
 User = _u.getModel 'user'
 
 class UserUtils
-  checkEmail: (email) ->
+  checkEmail: (userNo, email) ->
     if not Const.isEmail.test email
       return Q.reject(
         status: 200
@@ -13,17 +13,17 @@ class UserUtils
 
     User.findByEmail email
     .then (user) ->
-      if user
+      if user and ~~user.userNo != ~~userNo
         Q.reject(
           status: 200
           errCode: ErrCode.DuplicateEmail
           errMsg: '当前email已经存在'
         )
 
-  checkNickname: (nickname) ->
+  checkNickname: (userNo, nickname) ->
     User.findByNickname nickname
     .then (user) ->
-      if user
+      if user and ~~user.userNo != ~~userNo
         Q.reject(
           status: 200
           errCode: ErrCode.DuplicateNickname
