@@ -3,12 +3,12 @@ require '../common/init'
 ReleaseNote = _u.getModel 'release_note'
 
 data =
-  versionCode: 2
-  versionName: 'v0.4'
+  versionCode: 3
+  versionName: 'v0.9'
   content: """
-  1. this is v0.4
+  1 这是0.9版本，等待1.0的出现
   """
-  releaseDate: '2015-04-19'
+  releaseDate: '2015-04-20'
   created: new Date()
 
 ReleaseNote.createQ data
