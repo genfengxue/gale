@@ -2,11 +2,12 @@ require '../common/init'
 
 ReleaseNote = _u.getModel 'release_note'
 
+versionName = 'v0.9.1'
 data =
-  versionCode: 3
-  versionName: 'v0.9'
+  versionCode: 4
+  versionName: versionName
   content: """
-  1 这是0.9版本，等待1.0的出现
+  #{versionName}
   """
   releaseDate: '2015-04-20'
   created: new Date()

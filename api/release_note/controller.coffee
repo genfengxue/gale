@@ -6,7 +6,7 @@ ReleaseNote = _u.getModel 'release_note'
 WrapRequest = new (require '../../utils/WrapRequest')(ReleaseNote)
 
 router.get "/latest", (req, res, next) ->
-  ReleaseNote.findOneQ {}, null, {sort: {releaseDate: -1}}
+  ReleaseNote.findOneQ {}, null, {sort: {versionCode: -1}}
   .then (doc) ->
     res.send
       versionCode: doc.versionCode
