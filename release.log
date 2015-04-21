@@ -1,3 +1,9 @@
+2015-04-21 10:56:19
+coffee scripts/create_user.coffee
+
+
+
+
 2015-04-17 16:45:48
 mongo gale
 db.sentences.remove({courseNo: 2, lessonNo: {$gte: 82, $lte: 100}});

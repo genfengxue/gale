@@ -28,10 +28,10 @@ router.post "/login", (req, res, next) ->
 
 router.post "/add_user", auth.isAdmin(), (req, res, next) ->
   tmpResult = {}
-  User.countQ {}
-  .then (count) ->
+  User.findOneQ {}, null, {sort: {userNo: -1}}
+  .then (user) ->
     sha1Hash = crypto.createHash('sha1')
-    userNo = count + 1
+    userNo = user.userNo + 1
     tmpResult.password = (sha1Hash.update(userNo.toString()).digest('hex')).substr 0, 6
 
     data =
