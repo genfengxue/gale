@@ -2,7 +2,7 @@ require('./init');
 var Class = require('./Class').Class;
 var mongoose;
 var models = {};
-//var createdModifiedPlugin = require('mongoose-createdmodified').createdModifiedPlugin;
+var createdModifiedPlugin = require('mongoose-createdmodified').createdModifiedPlugin;
 
 var methods = [
     // mongoose.Model static
@@ -46,9 +46,7 @@ var body = {
     },
 
     createModel : function(name){
-//        if (name !== 'invert_index') {
-//          this.schema.plugin(createdModifiedPlugin, {index: true});
-//        }
+        this.schema.plugin(createdModifiedPlugin, {index: true});
         if(!models[name]) {
             models[name] = mongoose.model(name, this.schema);
         }

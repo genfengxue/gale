@@ -19,6 +19,7 @@ exports.ActiveTime = BaseModel.subclass
       vocabulary: Number
       class: Number
       input: Number
+      comment: String
 
     @schema.index {userNo: 1, date: 1}, {unique: true}
 
