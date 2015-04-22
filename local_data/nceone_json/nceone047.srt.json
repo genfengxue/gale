@@ -1,0 +1,106 @@
+[
+   {
+      "lessonNo" : 47,
+      "chinese" : "你喜欢咖啡吗, Ann?",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:01,686 --> 00:00:03,751",
+      "english" : "Do you like coffee, Ann?"
+   },
+   {
+      "lessonNo" : 47,
+      "chinese" : "是的, 我喜欢.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:04,698 --> 00:00:06,220",
+      "english" : "Yes, I do."
+   },
+   {
+      "lessonNo" : 47,
+      "chinese" : "你想要一杯吗?",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:06,979 --> 00:00:08,493",
+      "english" : "Do you want a cup?"
+   },
+   {
+      "lessonNo" : 47,
+      "chinese" : "好的, 请来一杯, Christine.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:09,857 --> 00:00:12,261",
+      "english" : "Yes, please, Christine."
+   },
+   {
+      "lessonNo" : 47,
+      "chinese" : "你要放些糖吗?",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:13,710 --> 00:00:15,896",
+      "english" : "Do you want any sugar?"
+   },
+   {
+      "lessonNo" : 47,
+      "chinese" : "好的, 请放一些.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:17,127 --> 00:00:18,375",
+      "english" : "Yes, please."
+   },
+   {
+      "lessonNo" : 47,
+      "chinese" : "要放些牛奶吗?",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:19,696 --> 00:00:21,635",
+      "english" : "Do you want any milk?"
+   },
+   {
+      "lessonNo" : 47,
+      "chinese" : "我不喜欢在我的咖啡里面放牛奶.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:22,981 --> 00:00:26,078",
+      "english" : "I don't like milk in my coffee."
+   },
+   {
+      "lessonNo" : 47,
+      "chinese" : "我喜欢黑咖啡.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:26,817 --> 00:00:29,300",
+      "english" : "I like black coffee."
+   },
+   {
+      "lessonNo" : 47,
+      "chinese" : "你喜欢饼干吗?",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:30,146 --> 00:00:32,070",
+      "english" : "Do you like biscuits?"
+   },
+   {
+      "lessonNo" : 47,
+      "chinese" : "是的, 我喜欢.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:33,409 --> 00:00:34,719",
+      "english" : "Yes. I do."
+   },
+   {
+      "lessonNo" : 47,
+      "chinese" : "你想要一块吗?",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:35,672 --> 00:00:36,966",
+      "english" : "Do you want one?"
+   },
+   {
+      "lessonNo" : 47,
+      "chinese" : "好的, 请来一块.",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:38,340 --> 00:00:39,468",
+      "english" : "Yes, please."
+   }
+]

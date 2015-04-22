@@ -1,5 +1,5 @@
 1
-Mrs.Smith's living room is large.
+Mrs. Smith's living room is large.
 <k></k>
 
 2

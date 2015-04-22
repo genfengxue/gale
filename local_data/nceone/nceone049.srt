@@ -1,0 +1,85 @@
+1
+00:00:01,967 --> 00:00:05,515
+Do you want any meat today. Mrs. Bird?
+您今天要买点肉吗, Bird夫人?
+
+2
+00:00:06,042 --> 00:00:06,788
+Yes, please.
+是的, 我买一点.
+
+3
+00:00:07,705 --> 00:00:10,508
+Do you want beef or lamb?
+您要牛肉还是要羔羊肉?
+
+4
+00:00:11,840 --> 00:00:12,941
+Beef, please.
+请给我牛肉.
+
+5
+00:00:13,918 --> 00:00:15,859
+This lamb's very good.
+这羊羔肉很好.
+
+6
+00:00:17,517 --> 00:00:20,877
+I like lamb, but my husband doesn't.
+我喜欢羊羔肉, 可我丈夫不喜欢.
+
+7
+00:00:21,735 --> 00:00:23,617
+What about some steak?
+来点牛排吗?
+
+8
+00:00:24,548 --> 00:00:26,265
+This is a nice piece.
+这块很好.
+
+9
+00:00:27,333 --> 00:00:29,561
+Give me that piece, please.
+请给我那块吧.
+
+10
+00:00:30,495 --> 00:00:33,298
+And a pound of mince, too.
+再来一磅绞肉.
+
+11
+00:00:34,143 --> 00:00:37,470
+Do you want a chicken, Mrs. Bird?
+您要买只鸡吗, Bird夫人?
+
+12
+00:00:38,221 --> 00:00:39,323
+They're very nice.
+这些鸡很好.
+
+13
+00:00:40,491 --> 00:00:41,383
+No, thank you.
+不要了, 谢谢.
+
+14
+00:00:43,193 --> 00:00:45,274
+My husband likes steak,
+我丈夫喜欢牛排, 
+
+15
+00:00:45,751 --> 00:00:47,771
+but he doesn't like chicken.
+但他不喜欢鸡.
+
+16
+00:00:48,700 --> 00:00:51,815
+To tell you the truth, Mrs. Bird, 
+说老实话, Bird夫人, 
+
+17
+00:00:52,479 --> 00:00:54,729
+I don't like chicken either!
+我也不喜欢鸡.
+

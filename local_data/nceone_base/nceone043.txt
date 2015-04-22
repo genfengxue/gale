@@ -1,0 +1,72 @@
+1
+Can you make the tea, Sam?
+<k></k>
+
+2
+Yes, of course I can, Penny.
+<k></k>
+
+3
+Is there any water in this kettle?
+<k></k>
+
+4
+Yes, there is.
+<k></k>
+
+5
+Where's the tea?
+<k></k>
+
+6
+It's over there, behind the teapot.
+<k></k>
+
+7
+Can you see it?
+<k></k>
+
+8
+I can see the teapot,
+<k></k>
+
+9
+but I can't see the tea.
+<k></k>
+
+10
+There it is!
+<k></k>
+
+11
+It's in front of you!
+<k></k>
+
+12
+Ah yes, I can see it now.
+<k></k>
+
+13
+Where are the cups?
+<k></k>
+
+14
+There are some in the cupboard.
+<k></k>
+
+15
+Can you find them?
+<k></k>
+
+16
+Yes. Here they are.
+<k></k>
+
+17
+Hurry up, Sam!
+<k></k>
+
+18
+The kettle's boiling!
+<k></k>
+

@@ -1,0 +1,80 @@
+1
+How's Jimmy today?
+<k></k>
+
+2
+Better. Thank you, Doctor.
+<k></k>
+
+3
+Can I see him please, Mrs. Williams?
+<k></k>
+
+4
+Certainly, doctor.
+<k></k>
+
+5
+Come upstairs.
+<k></k>
+
+6
+You look very well, Jimmy.
+<k></k>
+
+7
+You are better now,
+<k></k>
+
+8
+but you mustn't get up yet.
+<k></k>
+
+9
+The boy mustn't go to school yet, Mrs. Williams.
+<k></k>
+
+10
+And he mustn't eat rich food.
+<k></k>
+
+11
+Does he have a temperature, doctor?
+<k></k>
+
+12
+No, he doesn't.
+<k></k>
+
+13
+Must he stay in bed?
+<k></k>
+
+14
+Yes. He must remain in bed for another two days.
+<k></k>
+
+15
+He can get up for about two hours each day,
+<k></k>
+
+16
+but you must keep the room warm.
+<k></k>
+
+17
+Where's Mr. Williams this evening?
+<k></k>
+
+18
+He's in bed, doctor.
+<k></k>
+
+19
+Can you see him please?
+<k></k>
+
+20
+He has a bad cold, too!
+<k></k>
+

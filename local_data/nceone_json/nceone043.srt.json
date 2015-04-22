@@ -1,0 +1,146 @@
+[
+   {
+      "lessonNo" : 43,
+      "chinese" : "你能沏茶吗, Sam?",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:01,908 --> 00:00:04,293",
+      "english" : "Can you make the tea, Sam?"
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "会的，我当然可以，Penny.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:05,494 --> 00:00:08,470",
+      "english" : "Yes, of course I can, Penny."
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "这水壶里有水吗?",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:09,453 --> 00:00:12,050",
+      "english" : "Is there any water in this kettle?"
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "有水.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:13,182 --> 00:00:14,549",
+      "english" : "Yes, there is."
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "茶叶在哪儿?",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:15,389 --> 00:00:16,191",
+      "english" : "Where's the tea?"
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "就在那儿, 茶壶后面.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:18,195 --> 00:00:21,626",
+      "english" : "It's over there, behind the teapot."
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "你看见了吗?",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:22,653 --> 00:00:24,146",
+      "english" : "Can you see it?"
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "茶壶我看见了,",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:25,814 --> 00:00:27,820",
+      "english" : "I can see the teapot,"
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "但茶叶没看到.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:28,804 --> 00:00:31,040",
+      "english" : "but I can't see the tea."
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "那不是么!",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:33,123 --> 00:00:34,122",
+      "english" : "There it is!"
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "就在你面前!",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:34,681 --> 00:00:36,123",
+      "english" : "It's in front of you!"
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "噢, 是啊, 我现在看到了.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:37,066 --> 00:00:40,804",
+      "english" : "Ah yes, I can see it now."
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "茶杯在哪儿呢?",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:41,565 --> 00:00:42,841",
+      "english" : "Where are the cups?"
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "碗橱里有几只.",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:44,229 --> 00:00:46,442",
+      "english" : "There are some in the cupboard."
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "你找得到吗?",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:47,419 --> 00:00:48,680",
+      "english" : "Can you find them?"
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "找得到. 就在这儿呢.",
+      "sentenceNo" : 16,
+      "courseNo" : 1,
+      "timeline" : "00:00:50,130 --> 00:00:51,994",
+      "english" : "Yes. Here they are."
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "快, Sam!",
+      "sentenceNo" : 17,
+      "courseNo" : 1,
+      "timeline" : "00:00:53,943 --> 00:00:55,200",
+      "english" : "Hurry up, Sam!"
+   },
+   {
+      "lessonNo" : 43,
+      "chinese" : "水开了!",
+      "sentenceNo" : 18,
+      "courseNo" : 1,
+      "timeline" : "00:00:55,884 --> 00:00:57,664",
+      "english" : "The kettle's boiling!"
+   }
+]

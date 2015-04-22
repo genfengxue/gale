@@ -1,0 +1,100 @@
+1
+00:00:01,587 --> 00:00:02,985
+How's Jimmy today?
+Jimmy今天怎么样了?
+
+2
+00:00:03,799 --> 00:00:05,787
+Better. Thank you, Doctor.
+他好些了. 谢谢您, 医生.
+
+3
+00:00:07,525 --> 00:00:10,760
+Can I see him please, Mrs. Williams?
+我可以看看他吗, Williams夫人?
+
+4
+00:00:12,111 --> 00:00:13,690
+Certainly, doctor.
+当然可以, 医生.
+
+5
+00:00:14,050 --> 00:00:14,688
+Come upstairs.
+上楼吧.
+
+6
+00:00:16,235 --> 00:00:18,152
+You look very well, Jimmy.
+你看上去很好, Jimmy.
+
+7
+00:00:19,704 --> 00:00:20,704
+You are better now,
+你现在好些了,
+
+8
+00:00:21,326 --> 00:00:23,480
+but you mustn't get up yet.
+但你还不应该起床.
+
+9
+00:00:25,362 --> 00:00:29,495
+The boy mustn't go to school yet, Mrs. Williams.
+这孩子还不能去上学, Williams夫人，
+
+10
+00:00:30,299 --> 00:00:33,034
+And he mustn't eat rich food.
+而且不能吃油腻的食物.
+
+11
+00:00:33,889 --> 00:00:37,077
+Does he have a temperature, doctor?
+他还发烧吗, 医生?
+
+12
+00:00:37,594 --> 00:00:38,819
+No, he doesn't.
+不, 他不发烧了.
+
+13
+00:00:39,955 --> 00:00:42,240
+Must he stay in bed?
+他还必须卧床吗?
+
+14
+00:00:43,285 --> 00:00:48,017
+Yes. He must remain in bed for another two days.
+是的. 他还必须卧床两天.
+
+15
+00:00:49,525 --> 00:00:53,767
+He can get up for about two hours each day,
+他每天可以起来两个小时,
+
+16
+00:00:54,572 --> 00:00:57,697
+but you must keep the room warm.
+但您必须保持房间温暖.
+
+17
+00:00:58,544 --> 00:01:01,497
+Where's Mr. Williams this evening?
+Williams先生今晚去哪儿了?
+
+18
+00:01:02,188 --> 00:01:04,460
+He's in bed, doctor.
+他在床上呢, 医生.
+
+19
+00:01:05,600 --> 00:01:07,693
+Can you see him please?
+您能看看他吗?
+
+20
+00:01:08,911 --> 00:01:11,843
+He has a bad cold, too!
+他也得了重感冒!
+

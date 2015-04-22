@@ -1,0 +1,64 @@
+1
+Where do you come from?
+<k></k>
+
+2
+I come from Greece.
+<k></k>
+
+3
+What's the climate like in your country?
+<k></k>
+
+4
+It's very pleasant.
+<k></k>
+
+5
+What's the weather like in spring?
+<k></k>
+
+6
+It's often windy in March.
+<k></k>
+
+7
+It's always warm in April and May,
+<k></k>
+
+8
+but it rains sometimes.
+<k></k>
+
+9
+What's it like in summer?
+<k></k>
+
+10
+The sun shines every day.
+<k></k>
+
+11
+Is it cold or warm in autumn?
+<k></k>
+
+12
+It's always warm in September and October.
+<k></k>
+
+13
+It's often cold in November and it rains sometimes.
+<k></k>
+
+14
+Is it very cold in winter?
+<k></k>
+
+15
+It's often cold in December, January and February.
+<k></k>
+
+16
+It snows sometimes.
+<k></k>
+

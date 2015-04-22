@@ -1,0 +1,130 @@
+[
+   {
+      "lessonNo" : 67,
+      "chinese" : "你好. 刚才你在肉店里吗?",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:02,406 --> 00:00:05,596",
+      "english" : "Hello. Were you at the butcher's?"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "是的, 我在肉店里.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:06,469 --> 00:00:07,835",
+      "english" : "Yes. I was."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "你也在肉店里吗?",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:08,772 --> 00:00:11,458",
+      "english" : "Were you at the butcher's, too?"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "不, 我不是.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:11,923 --> 00:00:13,905",
+      "english" : "No, I wasn't."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "我在蔬菜水果店里.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:14,588 --> 00:00:17,517",
+      "english" : "I was at the greengrocer's."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "Jimmy今天怎么样?",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:18,222 --> 00:00:19,534",
+      "english" : "How's Jimmy today?"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "他很好, 谢谢你.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:20,900 --> 00:00:23,456",
+      "english" : "He's very well, thank you."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "上星期他没上学吧?",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:24,618 --> 00:00:27,905",
+      "english" : "Was he absent from school last week?"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "是的, 他没上学.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:28,804 --> 00:00:29,951",
+      "english" : "Yes, he was."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "他星期一, 星期二, 星期三和星期四没去上学.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:31,467 --> 00:00:37,763",
+      "english" : "He was absent on Monday, Tuesday, Wednesday and Thursday."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "你们身体都好吗?",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:39,015 --> 00:00:41,063",
+      "english" : "How are you all keeping?"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "很好, 谢谢你.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:41,808 --> 00:00:43,126",
+      "english" : "Very well, thank you."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "我们打算到乡下去三天.",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:44,586 --> 00:00:48,673",
+      "english" : "We're going to spend three days in the country."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "在我母亲家度周末.",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:49,673 --> 00:00:53,897",
+      "english" : "We're going to stay at my mother's for the weekend."
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "星期五, 星期六和星期日在乡下过!",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:55,381 --> 00:00:59,577",
+      "english" : "Friday, Saturday and Sunday in the country!"
+   },
+   {
+      "lessonNo" : 67,
+      "chinese" : "你们真幸运啊!",
+      "sentenceNo" : 16,
+      "courseNo" : 1,
+      "timeline" : "00:01:00,686 --> 00:01:02,853",
+      "english" : "Aren't you lucky!"
+   }
+]

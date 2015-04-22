@@ -1,0 +1,80 @@
+1
+What are you going to do this evening. Jill?
+<k></k>
+
+2
+I'm going to meet some friends, Dad.
+<k></k>
+
+3
+You mustn't come home late.
+<k></k>
+
+4
+You must be home at half past ten.
+<k></k>
+
+5
+I can't get home so early, Dad!
+<k></k>
+
+6
+Can I have the key to the front door, please?
+<k></k>
+
+7
+No, you can't.
+<k></k>
+
+8
+Jill's eighteen years old, Tom.
+<k></k>
+
+9
+She's not a baby.
+<k></k>
+
+10
+Give her the key.
+<k></k>
+
+11
+She always comes home early.
+<k></k>
+
+12
+Oh, all right!
+<k></k>
+
+13
+Here you are.
+<k></k>
+
+14
+Do you hear?
+<k></k>
+
+15
+Yes. Dad.
+<k></k>
+
+16
+Thanks, Mum.
+<k></k>
+
+17
+That's all right. Goodbye.
+<k></k>
+
+18
+Enjoy yourself!
+<k></k>
+
+19
+We always enjoy ourselves, Mum.
+<k></k>
+
+20
+Bye-bye.
+<k></k>
+

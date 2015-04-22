@@ -1,0 +1,72 @@
+1
+Can you come here a minute please, Bob?
+<k></k>
+
+2
+Yes, sir?
+<k></k>
+
+3
+Where's Pamela?
+<k></k>
+
+4
+She's next door.
+<k></k>
+
+5
+She's in her office, sir.
+<k></k>
+
+6
+Can she type this letter for me?
+<k></k>
+
+7
+Ask her please.
+<k></k>
+
+8
+Yes, sir.
+<k></k>
+
+9
+Can you type this letter for the boss please, Pamela?
+<k></k>
+
+10
+Yes, of course I can.
+<k></k>
+
+11
+Here you are.
+<k></k>
+
+12
+Thank you, Bob.
+<k></k>
+
+13
+Bob!
+<k></k>
+
+14
+Yes?
+<k></k>
+
+15
+What's the matter?
+<k></k>
+
+16
+I can't type this letter.
+<k></k>
+
+17
+I can't read it!
+<k></k>
+
+18
+The boss's handwriting is terrible!
+<k></k>
+

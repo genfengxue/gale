@@ -1,0 +1,122 @@
+[
+   {
+      "lessonNo" : 41,
+      "chinese" : "那个提包重吗, Penny?",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:00,966 --> 00:00:03,520",
+      "english" : "Is that bag heavy, Penny?"
+   },
+   {
+      "lessonNo" : 41,
+      "chinese" : "不太重.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:04,423 --> 00:00:05,442",
+      "english" : "Not very."
+   },
+   {
+      "lessonNo" : 41,
+      "chinese" : "放这儿.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:07,044 --> 00:00:07,539",
+      "english" : "Here!"
+   },
+   {
+      "lessonNo" : 41,
+      "chinese" : "把它放在这把椅子上.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:07,935 --> 00:00:09,542",
+      "english" : "Put it on this chair."
+   },
+   {
+      "lessonNo" : 41,
+      "chinese" : "里面是什么东西?",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:11,122 --> 00:00:12,444",
+      "english" : "What's in it?"
+   },
+   {
+      "lessonNo" : 41,
+      "chinese" : "一块乳酪.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:13,776 --> 00:00:15,307",
+      "english" : "A piece of cheese."
+   },
+   {
+      "lessonNo" : 41,
+      "chinese" : "一块面包.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:16,154 --> 00:00:17,596",
+      "english" : "A loaf of bread."
+   },
+   {
+      "lessonNo" : 41,
+      "chinese" : "一块肥皂.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:18,447 --> 00:00:19,584",
+      "english" : "A bar of soap."
+   },
+   {
+      "lessonNo" : 41,
+      "chinese" : "一块巧克力.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:20,342 --> 00:00:21,846",
+      "english" : "A bar of Chocolate."
+   },
+   {
+      "lessonNo" : 41,
+      "chinese" : "一瓶牛奶.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:22,539 --> 00:00:23,839",
+      "english" : "A bottle of milk."
+   },
+   {
+      "lessonNo" : 41,
+      "chinese" : "一磅糖.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:24,625 --> 00:00:25,919",
+      "english" : "A pound of sugar."
+   },
+   {
+      "lessonNo" : 41,
+      "chinese" : "半磅咖啡.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:26,832 --> 00:00:28,875",
+      "english" : "Half a pound of coffee."
+   },
+   {
+      "lessonNo" : 41,
+      "chinese" : "1/4 磅茶叶和一听烟丝.",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:29,892 --> 00:00:35,115",
+      "english" : "A quarter of a pound of tea. And a tin of tobacco."
+   },
+   {
+      "lessonNo" : 41,
+      "chinese" : "那听烟丝是给我的吗?",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:36,158 --> 00:00:39,241",
+      "english" : "Is that tin of tobacco for me?"
+   },
+   {
+      "lessonNo" : 41,
+      "chinese" : "噢, 当然不会是给我的!",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:40,022 --> 00:00:43,250",
+      "english" : "Well, it's certainly not for me!"
+   }
+]

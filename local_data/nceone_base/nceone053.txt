@@ -1,0 +1,64 @@
+1
+Where do you come from?
+<k></k>
+
+2
+I come from England.
+<k></k>
+
+3
+What's the climate like in your country?
+<k></k>
+
+4
+It's mild, but it's not always pleasant.
+<k></k>
+
+5
+The weather's often cold in the North and windy in the East.
+<k></k>
+
+6
+It's often wet in the West and sometimes warm in the south.
+<k></k>
+
+7
+Which seasons do you like best?
+<k></k>
+
+8
+I like spring and summer.
+<k></k>
+
+9
+The days are long and the nights are short.
+<k></k>
+
+10
+The sun rises early and sets late.
+<k></k>
+
+11
+I don't like autumn and winter.
+<k></k>
+
+12
+The days are short and the nights are long.
+<k></k>
+
+13
+The sun rises late and sets early.
+<k></k>
+
+14
+Our climate is not very good,
+<k></k>
+
+15
+but it's certainly interesting.
+<k></k>
+
+16
+It's our favourite subject of conversation.
+<k></k>
+

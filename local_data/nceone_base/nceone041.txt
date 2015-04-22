@@ -1,0 +1,60 @@
+1
+Is that bag heavy, Penny?
+<k></k>
+
+2
+Not very.
+<k></k>
+
+3
+Here!
+<k></k>
+
+4
+Put it on this chair.
+<k></k>
+
+5
+What's in it?
+<k></k>
+
+6
+A piece of cheese.
+<k></k>
+
+7
+A loaf of bread.
+<k></k>
+
+8
+A bar of soap.
+<k></k>
+
+9
+A bar of Chocolate.
+<k></k>
+
+10
+A bottle of milk.
+<k></k>
+
+11
+A pound of sugar.
+<k></k>
+
+12
+Half a pound of coffee.
+<k></k>
+
+13
+A quarter of a pound of tea. And a tin of tobacco.
+<k></k>
+
+14
+Is that tin of tobacco for me?
+<k></k>
+
+15
+Well, it's certainly not for me!
+<k></k>
+

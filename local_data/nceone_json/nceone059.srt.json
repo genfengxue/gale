@@ -1,0 +1,146 @@
+[
+   {
+      "lessonNo" : 59,
+      "chinese" : "请给我拿几个信封.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:01,306 --> 00:00:04,152",
+      "english" : "I want some envelopes, please."
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "您要大号的还是小号的?",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:05,468 --> 00:00:09,110",
+      "english" : "Do you want the large size or the small size?"
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "请拿大号的.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:10,183 --> 00:00:12,407",
+      "english" : "The large size, please."
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "您有信纸吗?",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:13,697 --> 00:00:16,396",
+      "english" : "Do you have any writing paper?"
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "有.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:17,418 --> 00:00:18,210",
+      "english" : "Yes, we do."
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "我没有小本的信纸,",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:19,355 --> 00:00:22,340",
+      "english" : "I don't have any small pads."
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "我只有大本的.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:23,152 --> 00:00:25,126",
+      "english" : "I only have large ones."
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "您要一本吗?",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:26,541 --> 00:00:28,271",
+      "english" : "Do you want a pad?"
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "好, 请拿一本.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:29,612 --> 00:00:30,564",
+      "english" : "Yes, please."
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "我还要些胶水.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:31,784 --> 00:00:33,908",
+      "english" : "And I want some glue."
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "一瓶胶水.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:34,721 --> 00:00:36,099",
+      "english" : "A bottle of glue."
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "我只有小盒的.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:37,209 --> 00:00:39,702",
+      "english" : "I only have small boxes."
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "您要一盒吗?",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:40,358 --> 00:00:41,534",
+      "english" : "Do you want one?"
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "不了, 谢谢你.",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:42,415 --> 00:00:43,363",
+      "english" : "No, thank you."
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "就要这些吗?",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:44,287 --> 00:00:45,114",
+      "english" : "Is that all?"
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "就这些, 谢谢你.",
+      "sentenceNo" : 16,
+      "courseNo" : 1,
+      "timeline" : "00:00:46,168 --> 00:00:47,799",
+      "english" : "That's all, thank you."
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "您还要什么吗?",
+      "sentenceNo" : 17,
+      "courseNo" : 1,
+      "timeline" : "00:00:48,628 --> 00:00:50,118",
+      "english" : "What else do you want?"
+   },
+   {
+      "lessonNo" : 59,
+      "chinese" : "我要找给我的零钱.",
+      "sentenceNo" : 18,
+      "courseNo" : 1,
+      "timeline" : "00:00:50,769 --> 00:00:53,129",
+      "english" : "I want my change."
+   }
+]

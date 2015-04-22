@@ -1,0 +1,80 @@
+1
+00:00:02,406 --> 00:00:05,596
+Hello. Were you at the butcher's?
+你好. 刚才你在肉店里吗?
+
+2
+00:00:06,469 --> 00:00:07,835
+Yes. I was.
+是的, 我在肉店里.
+
+3
+00:00:08,772 --> 00:00:11,458
+Were you at the butcher's, too?
+你也在肉店里吗?
+
+4
+00:00:11,923 --> 00:00:13,905
+No, I wasn't.
+不, 我不是.
+
+5
+00:00:14,588 --> 00:00:17,517
+I was at the greengrocer's.
+我在蔬菜水果店里.
+
+6
+00:00:18,222 --> 00:00:19,534
+How's Jimmy today?
+Jimmy今天怎么样?
+
+7
+00:00:20,900 --> 00:00:23,456
+He's very well, thank you.
+他很好, 谢谢你.
+
+8
+00:00:24,618 --> 00:00:27,905
+Was he absent from school last week?
+上星期他没上学吧?
+
+9
+00:00:28,804 --> 00:00:29,951
+Yes, he was.
+是的, 他没上学.
+
+10
+00:00:31,467 --> 00:00:37,763
+He was absent on Monday, Tuesday, Wednesday and Thursday.
+他星期一, 星期二, 星期三和星期四没去上学.
+
+11
+00:00:39,015 --> 00:00:41,063
+How are you all keeping?
+你们身体都好吗?
+
+12
+00:00:41,808 --> 00:00:43,126
+Very well, thank you.
+很好, 谢谢你.
+
+13
+00:00:44,586 --> 00:00:48,673
+We're going to spend three days in the country.
+我们打算到乡下去三天.
+
+14
+00:00:49,673 --> 00:00:53,897
+We're going to stay at my mother's for the weekend.
+在我母亲家度周末.
+
+15
+00:00:55,381 --> 00:00:59,577
+Friday, Saturday and Sunday in the country!
+星期五, 星期六和星期日在乡下过!
+
+16
+00:01:00,686 --> 00:01:02,853
+Aren't you lucky!
+你们真幸运啊!
+

@@ -1,0 +1,64 @@
+1
+Hello. Were you at the butcher's?
+<k></k>
+
+2
+Yes. I was.
+<k></k>
+
+3
+Were you at the butcher's, too?
+<k></k>
+
+4
+No, I wasn't.
+<k></k>
+
+5
+I was at the greengrocer's.
+<k></k>
+
+6
+How's Jimmy today?
+<k></k>
+
+7
+He's very well, thank you.
+<k></k>
+
+8
+Was he absent from school last week?
+<k></k>
+
+9
+Yes, he was.
+<k></k>
+
+10
+He was absent on Monday, Tuesday, Wednesday and Thursday.
+<k></k>
+
+11
+How are you all keeping?
+<k></k>
+
+12
+Very well, thank you.
+<k></k>
+
+13
+We're going to spend three days in the country.
+<k></k>
+
+14
+We're going to stay at my mother's for the weekend.
+<k></k>
+
+15
+Friday, Saturday and Sunday in the country!
+<k></k>
+
+16
+Aren't you lucky!
+<k></k>
+

@@ -1,0 +1,162 @@
+[
+   {
+      "lessonNo" : 63,
+      "chinese" : "Jimmy今天怎么样了?",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:01,587 --> 00:00:02,985",
+      "english" : "How's Jimmy today?"
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "他好些了. 谢谢您, 医生.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:03,799 --> 00:00:05,787",
+      "english" : "Better. Thank you, Doctor."
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "我可以看看他吗, Williams夫人?",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:07,525 --> 00:00:10,760",
+      "english" : "Can I see him please, Mrs. Williams?"
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "当然可以, 医生.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:12,111 --> 00:00:13,690",
+      "english" : "Certainly, doctor."
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "上楼吧.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:14,050 --> 00:00:14,688",
+      "english" : "Come upstairs."
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "你看上去很好, Jimmy.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:16,235 --> 00:00:18,152",
+      "english" : "You look very well, Jimmy."
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "你现在好些了,",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:19,704 --> 00:00:20,704",
+      "english" : "You are better now,"
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "但你还不应该起床.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:21,326 --> 00:00:23,480",
+      "english" : "but you mustn't get up yet."
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "这孩子还不能去上学, Williams夫人，",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:25,362 --> 00:00:29,495",
+      "english" : "The boy mustn't go to school yet, Mrs. Williams."
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "而且不能吃油腻的食物.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:30,299 --> 00:00:33,034",
+      "english" : "And he mustn't eat rich food."
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "他还发烧吗, 医生?",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:33,889 --> 00:00:37,077",
+      "english" : "Does he have a temperature, doctor?"
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "不, 他不发烧了.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:37,594 --> 00:00:38,819",
+      "english" : "No, he doesn't."
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "他还必须卧床吗?",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:39,955 --> 00:00:42,240",
+      "english" : "Must he stay in bed?"
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "是的. 他还必须卧床两天.",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:43,285 --> 00:00:48,017",
+      "english" : "Yes. He must remain in bed for another two days."
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "他每天可以起来两个小时,",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:49,525 --> 00:00:53,767",
+      "english" : "He can get up for about two hours each day,"
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "但您必须保持房间温暖.",
+      "sentenceNo" : 16,
+      "courseNo" : 1,
+      "timeline" : "00:00:54,572 --> 00:00:57,697",
+      "english" : "but you must keep the room warm."
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "Williams先生今晚去哪儿了?",
+      "sentenceNo" : 17,
+      "courseNo" : 1,
+      "timeline" : "00:00:58,544 --> 00:01:01,497",
+      "english" : "Where's Mr. Williams this evening?"
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "他在床上呢, 医生.",
+      "sentenceNo" : 18,
+      "courseNo" : 1,
+      "timeline" : "00:01:02,188 --> 00:01:04,460",
+      "english" : "He's in bed, doctor."
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "您能看看他吗?",
+      "sentenceNo" : 19,
+      "courseNo" : 1,
+      "timeline" : "00:01:05,600 --> 00:01:07,693",
+      "english" : "Can you see him please?"
+   },
+   {
+      "lessonNo" : 63,
+      "chinese" : "他也得了重感冒!",
+      "sentenceNo" : 20,
+      "courseNo" : 1,
+      "timeline" : "00:01:08,911 --> 00:01:11,843",
+      "english" : "He has a bad cold, too!"
+   }
+]

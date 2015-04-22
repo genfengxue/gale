@@ -1,0 +1,68 @@
+1
+Where's Jimmy?
+<k></k>
+
+2
+He's in bed.
+<k></k>
+
+3
+What's the matter with him?
+<k></k>
+
+4
+He feels ill.
+<k></k>
+
+5
+He looks ill.
+<k></k>
+
+6
+We must call the doctor.
+<k></k>
+
+7
+Yes, we must.
+<k></k>
+
+8
+Can you remember the doctor's telephone number?
+<k></k>
+
+9
+Yes. It's 09754.
+<k></k>
+
+10
+Open your mouth, Jimmy.
+<k></k>
+
+11
+Show me your tongue. Say, "Ah'.
+<k></k>
+
+12
+What's the matter with him, doctor?
+<k></k>
+
+13
+He has a bad cold, Mr. Williams,
+<k></k>
+
+14
+so he must stay in bed for a week.
+<k></k>
+
+15
+That's good news for Jimmy.
+<k></k>
+
+16
+Good news? Why?
+<k></k>
+
+17
+Because he doesn't like school!
+<k></k>
+

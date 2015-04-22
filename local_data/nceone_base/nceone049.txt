@@ -1,0 +1,68 @@
+1
+Do you want any meat today. Mrs. Bird?
+<k></k>
+
+2
+Yes, please.
+<k></k>
+
+3
+Do you want beef or lamb?
+<k></k>
+
+4
+Beef, please.
+<k></k>
+
+5
+This lamb's very good.
+<k></k>
+
+6
+I like lamb, but my husband doesn't.
+<k></k>
+
+7
+What about some steak?
+<k></k>
+
+8
+This is a nice piece.
+<k></k>
+
+9
+Give me that piece, please.
+<k></k>
+
+10
+And a pound of mince, too.
+<k></k>
+
+11
+Do you want a chicken, Mrs. Bird?
+<k></k>
+
+12
+They're very nice.
+<k></k>
+
+13
+No, thank you.
+<k></k>
+
+14
+My husband likes steak,
+<k></k>
+
+15
+but he doesn't like chicken.
+<k></k>
+
+16
+To tell you the truth, Mrs. Bird,
+<k></k>
+
+17
+I don't like chicken either!
+<k></k>
+

@@ -1,0 +1,138 @@
+[
+   {
+      "lessonNo" : 61,
+      "chinese" : "Jimmy在哪儿？",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:02,028 --> 00:00:02,805",
+      "english" : "Where's Jimmy?"
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "他躺在床上.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:03,888 --> 00:00:05,062",
+      "english" : "He's in bed."
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "他怎么啦?",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:06,126 --> 00:00:07,799",
+      "english" : "What's the matter with him?"
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "他觉得不舒服.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:09,227 --> 00:00:11,046",
+      "english" : "He feels ill."
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "他看上去是病了.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:12,386 --> 00:00:13,782",
+      "english" : "He looks ill."
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "我们得去请医生.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:14,771 --> 00:00:16,814",
+      "english" : "We must call the doctor."
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "是的, 一定得请.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:18,175 --> 00:00:19,615",
+      "english" : "Yes, we must."
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "你还得医生的电话号码吗?",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:21,090 --> 00:00:25,035",
+      "english" : "Can you remember the doctor's telephone number?"
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "记得. 是09754.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:25,869 --> 00:00:31,215",
+      "english" : "Yes. It's 09754."
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "把嘴张开, Jimmy.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:31,774 --> 00:00:33,443",
+      "english" : "Open your mouth, Jimmy."
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "让我们看看你的舌头. 说\"啊--\"",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:34,073 --> 00:00:37,953",
+      "english" : "Show me your tongue. Say, \"Ah'."
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "他怎么了, 医生?",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:39,355 --> 00:00:41,572",
+      "english" : "What's the matter with him, doctor?"
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "他得了重感冒, Williams先生,",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:42,740 --> 00:00:45,825",
+      "english" : "He has a bad cold, Mr. Williams,"
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "因此他必须卧床一周.",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:46,428 --> 00:00:49,871",
+      "english" : "so he must stay in bed for a week."
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "对Jimmy来说, 这可是个好消息.",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:50,886 --> 00:00:53,538",
+      "english" : "That's good news for Jimmy."
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "好消息? 为什么?",
+      "sentenceNo" : 16,
+      "courseNo" : 1,
+      "timeline" : "00:00:54,432 --> 00:00:55,940",
+      "english" : "Good news? Why?"
+   },
+   {
+      "lessonNo" : 61,
+      "chinese" : "因为他不喜欢上学!",
+      "sentenceNo" : 17,
+      "courseNo" : 1,
+      "timeline" : "00:00:57,386 --> 00:01:00,106",
+      "english" : "Because he doesn't like school!"
+   }
+]

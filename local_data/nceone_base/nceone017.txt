@@ -3,11 +3,11 @@ Come and meet our employees, Mr. Richards.
 <k></k>
 
 2
-Thank you, Mr.Jackson.
+Thank you, Mr. Jackson.
 <k></k>
 
 3
-This is Nicola Grey,and this is Claire Taylor.
+This is Nicola Grey, and this is Claire Taylor.
 <k></k>
 
 4
@@ -27,7 +27,7 @@ They're keyboard operators.
 <k></k>
 
 8
-This is Michael Baker,and this is Jeremy Short.
+This is Michael Baker, and this is Jeremy Short.
 <k></k>
 
 9

@@ -1,0 +1,80 @@
+1
+00:00:01,547 --> 00:00:02,993
+Where do you come from?
+你来自哪里?
+
+2
+00:00:03,896 --> 00:00:05,654
+I come from England.
+我来自英格兰.
+
+3
+00:00:07,447 --> 00:00:10,370
+What's the climate like in your country?
+你们国家的气候怎么样?
+
+4
+00:00:11,802 --> 00:00:15,395
+It's mild, but it's not always pleasant.
+气候温和, 但也不总是宜人的.
+
+5
+00:00:16,917 --> 00:00:22,409
+The weather's often cold in the North and windy in the East.
+北部的天气常常寒冷, 东部则常常刮风.
+
+6
+00:00:23,336 --> 00:00:29,540
+It's often wet in the West and sometimes warm in the south.
+西部常下雨, 南部有时则很暖和.
+
+7
+00:00:30,379 --> 00:00:33,045
+Which seasons do you like best?
+你最喜欢哪些季节?
+
+8
+00:00:34,486 --> 00:00:36,770
+I like spring and summer.
+我最喜欢春季和夏季.
+
+9
+00:00:38,305 --> 00:00:42,629
+The days are long and the nights are short.
+此时白天长而夜晚短.
+
+10
+00:00:43,542 --> 00:00:46,507
+The sun rises early and sets late.
+太阳升得早而落得晚.
+
+11
+00:00:47,959 --> 00:00:50,694
+I don't like autumn and winter.
+我不喜欢秋季和冬季.
+
+12
+00:00:51,945 --> 00:00:55,737
+The days are short and the nights are long.
+此时白天短而夜晚长.
+
+13
+00:00:57,069 --> 00:01:00,699
+The sun rises late and sets early.
+太阳升得迟而落得早.
+
+14
+00:01:01,966 --> 00:01:04,826
+Our climate is not very good,
+我们国家的气候并不很好,
+
+15
+00:01:05,290 --> 00:01:07,469
+but it's certainly interesting.
+但又确实很有意思.
+
+16
+00:01:08,849 --> 00:01:12,501
+It's our favourite subject of conversation.
+天气是我们最喜欢谈论的话题.
+

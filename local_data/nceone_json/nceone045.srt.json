@@ -1,0 +1,146 @@
+[
+   {
+      "lessonNo" : 45,
+      "chinese" : "请你来一下好吗, Bob?",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:01,271 --> 00:00:04,606",
+      "english" : "Can you come here a minute please, Bob?"
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "什么事，先生?",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:05,588 --> 00:00:06,400",
+      "english" : "Yes, sir?"
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "Pamela在哪儿?",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:07,563 --> 00:00:08,691",
+      "english" : "Where's Pamela?"
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "她在隔壁.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:09,438 --> 00:00:10,716",
+      "english" : "She's next door."
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "她在她的办公室里, 先生.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:11,705 --> 00:00:13,496",
+      "english" : "She's in her office, sir."
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "她能为我打一下这封信吗?",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:14,235 --> 00:00:16,812",
+      "english" : "Can she type this letter for me?"
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "请问问她.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:17,854 --> 00:00:19,054",
+      "english" : "Ask her please."
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "好的, 先生.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:20,270 --> 00:00:21,164",
+      "english" : "Yes, sir."
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "请你把这封信给老板打一下可以吗, Pamela?",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:23,755 --> 00:00:27,977",
+      "english" : "Can you type this letter for the boss please, Pamela?"
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "可以, 当然可以.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:28,593 --> 00:00:30,825",
+      "english" : "Yes, of course I can."
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "给你这信.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:31,937 --> 00:00:32,619",
+      "english" : "Here you are."
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "谢谢你, Bob.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:33,612 --> 00:00:34,630",
+      "english" : "Thank you, Bob."
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "Bob!",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:35,755 --> 00:00:36,189",
+      "english" : "Bob!"
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "Yes?",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:39,011 --> 00:00:39,644",
+      "english" : "Yes?"
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "怎么回事?",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:40,221 --> 00:00:41,066",
+      "english" : "What's the matter?"
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "我打不了这封信.",
+      "sentenceNo" : 16,
+      "courseNo" : 1,
+      "timeline" : "00:00:41,777 --> 00:00:43,608",
+      "english" : "I can't type this letter."
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "我看不懂这封信!",
+      "sentenceNo" : 17,
+      "courseNo" : 1,
+      "timeline" : "00:00:44,681 --> 00:00:46,372",
+      "english" : "I can't read it!"
+   },
+   {
+      "lessonNo" : 45,
+      "chinese" : "老板的书写太糟糕了!",
+      "sentenceNo" : 18,
+      "courseNo" : 1,
+      "timeline" : "00:00:47,367 --> 00:00:50,518",
+      "english" : "The boss's handwriting is terrible!"
+   }
+]

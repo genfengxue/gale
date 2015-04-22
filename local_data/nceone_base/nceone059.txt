@@ -1,0 +1,72 @@
+1
+I want some envelopes, please.
+<k></k>
+
+2
+Do you want the large size or the small size?
+<k></k>
+
+3
+The large size, please.
+<k></k>
+
+4
+Do you have any writing paper?
+<k></k>
+
+5
+Yes, we do.
+<k></k>
+
+6
+I don't have any small pads.
+<k></k>
+
+7
+I only have large ones.
+<k></k>
+
+8
+Do you want a pad?
+<k></k>
+
+9
+Yes, please.
+<k></k>
+
+10
+And I want some glue.
+<k></k>
+
+11
+A bottle of glue.
+<k></k>
+
+12
+I only have small boxes.
+<k></k>
+
+13
+Do you want one?
+<k></k>
+
+14
+No, thank you.
+<k></k>
+
+15
+Is that all?
+<k></k>
+
+16
+That's all, thank you.
+<k></k>
+
+17
+What else do you want?
+<k></k>
+
+18
+I want my change.
+<k></k>
+

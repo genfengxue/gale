@@ -1,0 +1,130 @@
+[
+   {
+      "lessonNo" : 51,
+      "chinese" : "你来自哪里?",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:01,349 --> 00:00:03,039",
+      "english" : "Where do you come from?"
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "我来自Greece.",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:03,764 --> 00:00:05,420",
+      "english" : "I come from Greece."
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "你们的国家的气候怎么样?",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:06,352 --> 00:00:09,050",
+      "english" : "What's the climate like in your country?"
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "气候非常宜人.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:10,123 --> 00:00:11,852",
+      "english" : "It's very pleasant."
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "春季的天气怎么样?",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:12,781 --> 00:00:14,888",
+      "english" : "What's the weather like in spring?"
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "3月里常常刮风.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:15,918 --> 00:00:18,508",
+      "english" : "It's often windy in March."
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "4月和5月的天气总是暖洋洋的,",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:19,319 --> 00:00:22,666",
+      "english" : "It's always warm in April and May,"
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "但有时下雨.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:23,447 --> 00:00:25,091",
+      "english" : "but it rains sometimes."
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "夏季的天气如何呢?",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:26,112 --> 00:00:27,978",
+      "english" : "What's it like in summer?"
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "每天都出太阳.",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:28,817 --> 00:00:30,967",
+      "english" : "The sun shines every day."
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "秋季的天气是冷还是暖呢?",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:31,858 --> 00:00:34,512",
+      "english" : "Is it cold or warm in autumn?"
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "9月和10月总是很暖和.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:35,501 --> 00:00:39,484",
+      "english" : "It's always warm in September and October."
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "11月常常就冷了, 而且有时下雨.",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:40,371 --> 00:00:46,042",
+      "english" : "It's often cold in November and it rains sometimes."
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "冬季的天气很冷吗?",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:46,889 --> 00:00:49,470",
+      "english" : "Is it very cold in winter?"
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "12月, 1月和2月常常很冷，",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:50,490 --> 00:00:55,872",
+      "english" : "It's often cold in December, January and February."
+   },
+   {
+      "lessonNo" : 51,
+      "chinese" : "有时还下雪.",
+      "sentenceNo" : 16,
+      "courseNo" : 1,
+      "timeline" : "00:00:57,284 --> 00:00:58,967",
+      "english" : "It snows sometimes."
+   }
+]

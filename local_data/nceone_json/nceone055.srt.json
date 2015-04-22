@@ -1,0 +1,146 @@
+[
+   {
+      "lessonNo" : 55,
+      "chinese" : "Sawyers一家住在国王街87号.",
+      "sentenceNo" : 1,
+      "courseNo" : 1,
+      "timeline" : "00:00:03,089 --> 00:00:06,967",
+      "english" : "The Sawyers live at 87 King Street."
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "早上,",
+      "sentenceNo" : 2,
+      "courseNo" : 1,
+      "timeline" : "00:00:08,456 --> 00:00:09,259",
+      "english" : "In the morning,"
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "Sawyers先生去上班, 孩子们去上学.",
+      "sentenceNo" : 3,
+      "courseNo" : 1,
+      "timeline" : "00:00:09,938 --> 00:00:15,520",
+      "english" : "Mr. Sawyer goes to work and the children go to school."
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "父亲每天送孩子们去上学.",
+      "sentenceNo" : 4,
+      "courseNo" : 1,
+      "timeline" : "00:00:16,796 --> 00:00:20,401",
+      "english" : "Their father takes them to school every day."
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "Sawyers夫人每天呆在家里.",
+      "sentenceNo" : 5,
+      "courseNo" : 1,
+      "timeline" : "00:00:21,828 --> 00:00:24,965",
+      "english" : "Mrs. Sawyer stays at home every day."
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "她料理家务.",
+      "sentenceNo" : 6,
+      "courseNo" : 1,
+      "timeline" : "00:00:26,030 --> 00:00:27,794",
+      "english" : "She does the housework."
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "她总是在正午吃午饭.",
+      "sentenceNo" : 7,
+      "courseNo" : 1,
+      "timeline" : "00:00:28,924 --> 00:00:31,923",
+      "english" : "She always eats her lunch at noon."
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "下午, 她通常会见她的朋友们.",
+      "sentenceNo" : 8,
+      "courseNo" : 1,
+      "timeline" : "00:00:33,701 --> 00:00:37,679",
+      "english" : "In the afternoon, she usually sees her friends."
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "她们经常在一起喝茶.",
+      "sentenceNo" : 9,
+      "courseNo" : 1,
+      "timeline" : "00:00:38,697 --> 00:00:41,249",
+      "english" : "They often drink tea together."
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "傍晚,",
+      "sentenceNo" : 10,
+      "courseNo" : 1,
+      "timeline" : "00:00:42,355 --> 00:00:43,264",
+      "english" : "In the evening,"
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "孩子们放学回家.",
+      "sentenceNo" : 11,
+      "courseNo" : 1,
+      "timeline" : "00:00:43,655 --> 00:00:45,842",
+      "english" : "the children come home from school."
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "他们到家很早.",
+      "sentenceNo" : 12,
+      "courseNo" : 1,
+      "timeline" : "00:00:46,887 --> 00:00:48,588",
+      "english" : "They arrive home early."
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "Sawyers先生下班回家.",
+      "sentenceNo" : 13,
+      "courseNo" : 1,
+      "timeline" : "00:00:50,177 --> 00:00:52,795",
+      "english" : "Mr. Sawyer comes home from work."
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "他到家很晚.",
+      "sentenceNo" : 14,
+      "courseNo" : 1,
+      "timeline" : "00:00:53,874 --> 00:00:55,585",
+      "english" : "He arrives home late."
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "晚上, 孩子们总是做他们的作业.",
+      "sentenceNo" : 15,
+      "courseNo" : 1,
+      "timeline" : "00:00:57,106 --> 00:01:00,696",
+      "english" : "At night, the children always do their homework."
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "然后去睡觉.",
+      "sentenceNo" : 16,
+      "courseNo" : 1,
+      "timeline" : "00:01:01,992 --> 00:01:03,581",
+      "english" : "Then they go to bed."
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "Sawyers先生总是读报纸,",
+      "sentenceNo" : 17,
+      "courseNo" : 1,
+      "timeline" : "00:01:05,270 --> 00:01:08,484",
+      "english" : "Mr. Sawyer usually reads his newspaper,"
+   },
+   {
+      "lessonNo" : 55,
+      "chinese" : "但有时和他的妻子一起看电视.",
+      "sentenceNo" : 18,
+      "courseNo" : 1,
+      "timeline" : "00:01:10,503 --> 00:01:14,252",
+      "english" : "but sometimes he and his wife watch television."
+   }
+]

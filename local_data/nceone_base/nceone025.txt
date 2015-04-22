@@ -1,5 +1,5 @@
 1
-Mrs.Smith's kitchen is small.
+Mrs. Smith's kitchen is small.
 <k></k>
 
 2

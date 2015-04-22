@@ -1,0 +1,80 @@
+1
+It is eight o'clock.
+<k></k>
+
+2
+The children go to school by car every day,
+<k></k>
+
+3
+but today, they are going to school on foot.
+<k></k>
+
+4
+It is ten o'clock.
+<k></k>
+
+5
+Mrs. Sawyer usually stays at home in the morning,
+<k></k>
+
+6
+but this morning, she is going to the shops.
+<k></k>
+
+7
+It is four o'clock.
+<k></k>
+
+8
+In the afternoon,
+<k></k>
+
+9
+Mrs. Sawyer usually drinks tea in the living room.
+<k></k>
+
+10
+But this afternoon, she is drinking tea in the garden.
+<k></k>
+
+11
+It is six o'clock.
+<k></k>
+
+12
+In the evening,
+<k></k>
+
+13
+the children usually do their homework,
+<k></k>
+
+14
+but this evening,
+<k></k>
+
+15
+they are not doing their homework.
+<k></k>
+
+16
+At the moment, they are playing in the garden.
+<k></k>
+
+17
+It is nine o'clock.
+<k></k>
+
+18
+Mr. Sawyer usually reads his newspaper at night.
+<k></k>
+
+19
+But he's not reading his newspaper tonight.
+<k></k>
+
+20
+At the moment, he's reading an interesting book.
+<k></k>
+

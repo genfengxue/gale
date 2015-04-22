@@ -1,0 +1,52 @@
+1
+Do you like coffee, Ann?
+<k></k>
+
+2
+Yes, I do.
+<k></k>
+
+3
+Do you want a cup?
+<k></k>
+
+4
+Yes, please, Christine.
+<k></k>
+
+5
+Do you want any sugar?
+<k></k>
+
+6
+Yes, please.
+<k></k>
+
+7
+Do you want any milk?
+<k></k>
+
+8
+I don't like milk in my coffee.
+<k></k>
+
+9
+I like black coffee.
+<k></k>
+
+10
+Do you like biscuits?
+<k></k>
+
+11
+Yes. I do.
+<k></k>
+
+12
+Do you want one?
+<k></k>
+
+13
+Yes, please.
+<k></k>
+
