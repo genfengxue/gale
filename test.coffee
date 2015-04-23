@@ -2,10 +2,10 @@ require './common/init'
 moment = require 'moment'
 
 
-console.log [82..100].join ','
-#results = _.select [131..143], (num) ->
-#  return num % 2
-#console.log results.join ','
+#console.log [82..100].join ','
+results = _.select [1..69], (num) ->
+  return num % 2
+console.log results.join ','
 
 #write = ->
 #  if typeof arguments[0] is 'object'

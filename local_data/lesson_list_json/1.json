@@ -1,5 +1,277 @@
 [
    {
+      "lessonNo" : "1",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone001.jpg",
+      "englishTitle" : "Excuse me!",
+      "chineseTitle" : "对不起!",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone001.mp4"
+   },
+   {
+      "lessonNo" : "3",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone003.jpg",
+      "englishTitle" : "Sorry,sir.",
+      "chineseTitle" : "对不起,先生.",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone003.mp4"
+   },
+   {
+      "lessonNo" : "5",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone005.jpg",
+      "englishTitle" : "Nice to meet you.",
+      "chineseTitle" : "很高兴见到你.",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone005.mp4"
+   },
+   {
+      "lessonNo" : "7",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone007.jpg",
+      "englishTitle" : "Are you a teacher?",
+      "chineseTitle" : "你是教师吗?",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone007.mp4"
+   },
+   {
+      "lessonNo" : "9",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone009.jpg",
+      "englishTitle" : "How are you today?",
+      "chineseTitle" : "你今天好吗?",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone009.mp4"
+   },
+   {
+      "lessonNo" : "11",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone011.jpg",
+      "englishTitle" : "Is this your shirt?",
+      "chineseTitle" : "这是你的衬衫吗?",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone011.mp4"
+   },
+   {
+      "lessonNo" : "13",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone013.jpg",
+      "englishTitle" : "A new dress",
+      "chineseTitle" : "一件新连衣裙",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone013.mp4"
+   },
+   {
+      "lessonNo" : "15",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone015.jpg",
+      "englishTitle" : "Your passports, please.",
+      "chineseTitle" : "请出示你们的护照.",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone015.mp4"
+   },
+   {
+      "lessonNo" : "17",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone017.jpg",
+      "englishTitle" : "How do you do?",
+      "chineseTitle" : "你好!",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone017.mp4"
+   },
+   {
+      "lessonNo" : "19",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone019.jpg",
+      "englishTitle" : "Tired and thirsty",
+      "chineseTitle" : "又累又渴",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone019.mp4"
+   },
+   {
+      "lessonNo" : "21",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone021.jpg",
+      "englishTitle" : "Which book?",
+      "chineseTitle" : "哪一本书？",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone021.mp4"
+   },
+   {
+      "lessonNo" : "23",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone023.jpg",
+      "englishTitle" : "Which glasses?",
+      "chineseTitle" : "哪几只杯子",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone023.mp4"
+   },
+   {
+      "lessonNo" : "27",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone027.jpg",
+      "englishTitle" : "Mrs.smith's living room",
+      "chineseTitle" : "史密斯太太的客厅",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone027.mp4"
+   },
+   {
+      "lessonNo" : "29",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone029.jpg",
+      "englishTitle" : "Come in,Amy.",
+      "chineseTitle" : "进来，艾米。",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone029.mp4"
+   },
+   {
+      "lessonNo" : "31",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone031.jpg",
+      "englishTitle" : "Where's Sally?",
+      "chineseTitle" : "萨利在哪里？",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone031.mp4"
+   },
+   {
+      "lessonNo" : "33",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone033.jpg",
+      "englishTitle" : "A fine day",
+      "chineseTitle" : "晴天",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone033.mp4"
+   },
+   {
+      "lessonNo" : "35",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone035.jpg",
+      "englishTitle" : "Our village",
+      "chineseTitle" : "我们的村庄",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone035.mp4"
+   },
+   {
+      "lessonNo" : "37",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone037.jpg",
+      "englishTitle" : "Making a bookcase",
+      "chineseTitle" : "做书架",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone037.mp4"
+   },
+   {
+      "lessonNo" : "39",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone039.jpg",
+      "englishTitle" : "Don't drop it!",
+      "chineseTitle" : "别摔了！",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone039.mp4"
+   },
+   {
+      "lessonNo" : "41",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone041.jpg",
+      "englishTitle" : "Penny's bag",
+      "chineseTitle" : "彭妮的提包",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone041.mp4"
+   },
+   {
+      "lessonNo" : "43",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone043.jpg",
+      "englishTitle" : "Hurry up!",
+      "chineseTitle" : "快点！",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone043.mp4"
+   },
+   {
+      "lessonNo" : "45",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone045.jpg",
+      "englishTitle" : "The boss's letter",
+      "chineseTitle" : "老板的信",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone045.mp4"
+   },
+   {
+      "lessonNo" : "47",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone047.jpg",
+      "englishTitle" : "A cup of coffee",
+      "chineseTitle" : "一杯咖啡",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone047.mp4"
+   },
+   {
+      "lessonNo" : "49",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone049.jpg",
+      "englishTitle" : "At the butcher's",
+      "chineseTitle" : "在肉店",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone049.mp4"
+   },
+   {
+      "lessonNo" : "51",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone051.jpg",
+      "englishTitle" : "A pleasant climate",
+      "chineseTitle" : "宜人的气候",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone051.mp4"
+   },
+   {
+      "lessonNo" : "53",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone053.jpg",
+      "englishTitle" : "An interesting climate",
+      "chineseTitle" : "有趣的气候",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone053.mp4"
+   },
+   {
+      "lessonNo" : "55",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone055.jpg",
+      "englishTitle" : "The Sawyer family",
+      "chineseTitle" : "索耶一家人",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone055.mp4"
+   },
+   {
+      "lessonNo" : "57",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone057.jpg",
+      "englishTitle" : "An unusual day",
+      "chineseTitle" : "很不平常的一天",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone057.mp4"
+   },
+   {
+      "lessonNo" : "59",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone059.jpg",
+      "englishTitle" : "Is that all?",
+      "chineseTitle" : "就这些吗？",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone059.mp4"
+   },
+   {
+      "lessonNo" : "61",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone061.jpg",
+      "englishTitle" : "A bad cold",
+      "chineseTitle" : "重感冒",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone061.mp4"
+   },
+   {
+      "lessonNo" : "63",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone063.jpg",
+      "englishTitle" : "Thank you, doctor.",
+      "chineseTitle" : "谢谢你，医生。",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone063.mp4"
+   },
+   {
+      "lessonNo" : "65",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone065.jpg",
+      "englishTitle" : "Not a baby",
+      "chineseTitle" : "不是一个孩子",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone065.mp4"
+   },
+   {
+      "lessonNo" : "67",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone067.jpg",
+      "englishTitle" : "The weekend",
+      "chineseTitle" : "周末",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone067.mp4"
+   },
+   {
+      "lessonNo" : "69",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone069.jpg",
+      "englishTitle" : "The car race",
+      "chineseTitle" : "汽车比赛",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone069.mp4"
+   },
+   {
       "lessonNo" : "71",
       "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone071.jpg",
       "englishTitle" : "He's awful!",
