@@ -8,7 +8,13 @@ QnUtils = _u.getUtils 'qn'
 #imageNames = QnUtils.buildImageNames 'de%03s.JPG', [82..100]
 #QnUtils.buildVideoNames '2_%s_%s.mp4', [82..100]
 #QnUtils.deleteVideos '2_%s_%s.mp4', [82..100]
-QnUtils.copyVideos 'de%03s_%s.mp4', '2_%s_%s.mp4', [82..100]
+nums = _.select [1..19], (num) ->
+  return num % 2
+QnUtils.copyVideos 'nceone%03s_%s.mp4', '1_%s_%s.mp4', nums
+
+nums = _.select [21..69], (num) ->
+  return num % 2
+QnUtils.copyVideos 'nceone%03s-%s.mp4', '1_%s_%s.mp4', nums
 
 #QnUtils.deleteImages 'de%03s.JPG', [82..100]
 #QnUtils.deleteFiles 'video'
