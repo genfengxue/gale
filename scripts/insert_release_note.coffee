@@ -2,9 +2,9 @@ require '../common/init'
 
 ReleaseNote = _u.getModel 'release_note'
 
-versionName = 'v1.0'
+versionName = 'v1.0.2'
 data =
-  versionCode: 6
+  versionCode: 7
   versionName: versionName
   content: """
   #{versionName}
