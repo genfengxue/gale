@@ -3,17 +3,13 @@ router = express.Router()
 
 auth = require '../../auth/auth.service'
 Sentence = _u.getModel 'sentence'
+KeyPoint = _u.getModel 'key_point'
 WrapRequest = new (require '../../utils/WrapRequest')(Sentence)
 
 router.get "/", (req, res, next) ->
   conditions = {}
-  conditions.courseNo = req.query.courseNo if req.query.courseNo
-  conditions.lessonNo = req.query.lessonNo if req.query.lessonNo
-  # 这几行代码是有问题的，未来会被删掉，主要是为了兼容vita之前拿数据的方式，courseNo为1的时候，他把所有的lessonNo加了300
-  courseNo = ~~conditions.courseNo
-  lessonNo = ~~conditions.lessonNo
-  if courseNo is 1 and lessonNo > 0 and lessonNo < 300
-    conditions.lessonNo = lessonNo + 300
+  conditions.courseNo = ~~req.query.courseNo if req.query.courseNo
+  conditions.lessonNo = ~~req.query.lessonNo if req.query.lessonNo
 
   findParams =
     conditions: conditions
@@ -29,6 +25,12 @@ router.patch '/:id/update_key/:keyId', auth.isAdmin(), (req, res, next) ->
   .then (sentence) ->
     _.each sentence.keyPoints, (keyPoint) ->
       if keyPoint._id.toString() is req.params.keyId
+        loggerD.write {
+          type: 'sentence_change_key'
+          keyId: keyPoint._id
+          from: keyPoint.key
+          to: newKey
+        }
         keyPoint.key = newKey
 
     sentence.saveQ()
@@ -36,6 +38,21 @@ router.patch '/:id/update_key/:keyId', auth.isAdmin(), (req, res, next) ->
     res.send doc
   .catch next
   .done()
+
+
+router.patch '/:id/new_key_point', auth.isAdmin(), (req, res, next) ->
+  text = req.body.text
+  key = req.body.key
+  kp =
+    text: text
+
+  conditions = {_id: req.params.id}
+
+  KeyPoint.createQ kp
+  .then (doc) ->
+    Sentence.findOneQ conditions
+  .then (sentence) ->
+    console.log "TODO"
 
 
 module.exports = router
