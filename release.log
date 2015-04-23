@@ -1,3 +1,9 @@
+2015-04-23 17:40:26
+mongo gale
+db.sentences.update({courseNo: 1, lessonNo: {$gte: 300}}, {$inc: {lessonNo: -300}}, {multi: true});
+
+
+
 2015-04-21 10:56:19
 coffee scripts/create_user.coffee
 
