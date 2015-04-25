@@ -9,6 +9,7 @@ client = qn.create(
   domain: 'http://7u2qm8.com1.z0.glb.clouddn.com'
 )
 
+#改写成支持操作和类型两种参数
 class QnUtils
   deleteFilesByType: (type, fileNameFormat, nums) ->
     buildFileNamesFunc = "build#{_u.convertToCamelCase type}Names"
