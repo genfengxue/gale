@@ -40,6 +40,13 @@ router.patch '/:id/update_key/:keyId', auth.isAdmin(), (req, res, next) ->
   .done()
 
 
+router.patch '/:id', auth.isAdmin(), (req, res, next) ->
+  pickedUpdatedKeys = ['english', 'chinese']
+  sentenceId = req.params.id
+  conditions = _id: sentenceId
+  WrapRequest.wrapUpdate req, res, next, conditions, pickedUpdatedKeys
+
+
 router.patch '/:id/new_key_point', auth.isAdmin(), (req, res, next) ->
   text = req.body.text
   key = req.body.key
