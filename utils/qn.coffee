@@ -36,6 +36,16 @@ class QnUtils
         _s.sprintf fileNameFormat, num
     )
 
+  copyImages: (srcFormat, dstFormat, nums) ->
+    srcFileNames = @buildImageNames srcFormat, nums
+    dstFileNames = @buildImageNames dstFormat, nums
+    async.eachSeries [0..srcFileNames.length - 1], (index, next) =>
+#      console.log srcFileNames[index], dstFileNames[index]
+#      next()
+      @processFile 'copy', srcFileNames[index], dstFileNames[index], next
+    , ->
+      console.log "process finished!"
+
   copyVideos: (srcFormat, dstFormat, nums) ->
     srcFileNames = @buildVideoNames srcFormat, nums
     dstFileNames = @buildVideoNames dstFormat, nums
