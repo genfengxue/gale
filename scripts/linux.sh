@@ -49,3 +49,8 @@ for i in $(ls nce1video???_*); do
 #  echo $i
   mv $i "nceone${i:9:3}.jpg"
 done
+
+#处理QQ号
+for i in *.txt; do
+  gsed 'N;N;s/\n//g;' $i | awk 'BEGIN{FS="\t"} {print $2, $3, $4}' > ${i/.txt/.new.txt}
+done
