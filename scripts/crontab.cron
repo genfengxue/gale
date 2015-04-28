@@ -1,0 +1,2 @@
+#每周日凌晨的00:05备份数据库
+5 0 * * 0 /usr/bin/mongodump -d gale -o /data/backup/gale_$(date +'\%Y\%m\%d\%H\%M\%S')
