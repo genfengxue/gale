@@ -1,0 +1,170 @@
+[
+   {
+      "lessonNo" : 101,
+      "chinese" : "你好... Danny?",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:09,200 --> 00:00:11,000",
+      "english" : "Hi... Danny?"
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "你好, Nancy. 你好. 你好吗?",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:11,700 --> 00:00:15,000",
+      "english" : "Hi Nancy. Hi. How are you?"
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "很好, 谢谢. 礼服不错.",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:15,900 --> 00:00:21,300",
+      "english" : "Fine, thanks. Nice tuxedo."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "我, 我, 我要去参加一个婚礼.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:21,700 --> 00:00:26,000",
+      "english" : "I'm... I'm... I'm going to a wedding."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "有那么一分钟, 你看上去像个送气球的.",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:26,800 --> 00:00:32,300",
+      "english" : "For a minute there, you looked like one of those balloon-delivery guys."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "这气球是为婚礼准备的.",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:33,900 --> 00:00:36,100",
+      "english" : "The balloons are for the wedding."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "Oh.",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:36,500 --> 00:00:37,502",
+      "english" : "Oh."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "这对新婚夫妇是丹麦人, 丹麦人有一个古老的风俗.",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:38,300 --> 00:00:43,500",
+      "english" : "The couple is Danish, and the Danes have an old custom."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "事实上, 并没有那么古老, 但气球是其中的一部分.",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:43,600 --> 00:00:47,200",
+      "english" : "Actually, it's not that old, but the balloons are part of it."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "是婚礼的一部分.",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:00:47,800 --> 00:00:49,300",
+      "english" : "Part of the wedding."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "是的.",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:00:49,300 --> 00:00:50,000",
+      "english" : "Yes."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "每个国家的人都有自己的传统.",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:00:50,900 --> 00:00:52,464",
+      "english" : "Everybody has something."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "美国人扔鸟食.",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:00:52,600 --> 00:00:54,150",
+      "english" : "Americans throw birdseed."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "日本人有橡皮蛋糕.",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:00:54,200 --> 00:00:56,405",
+      "english" : "The Japanese have rubber cakes."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "在Liechtenstein, 人们把新娘从喜宴上抢走.",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:00:56,500 --> 00:00:59,900",
+      "english" : "In Liechtenstein, they kidnap the bride from the reception."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "...或者那是Zimbabwean人的习俗吧?",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:01:00,000 --> 00:01:02,400",
+      "english" : "... Or is that the Zimbabweans?"
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "You know, Nancy, 我正要外出.",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:01:04,100 --> 00:01:07,800",
+      "english" : "You know, Nancy, I was just on my way out."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "当然. 别因为我而耽搁了.",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:01:08,000 --> 00:01:10,150",
+      "english" : "Of course. Don't let me keep you."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "你当然不想参加婚礼迟到, 尤其如果你是新娘家的客人的话.",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:01:10,200 --> 00:01:13,400",
+      "english" : "You don't want to be late for a wedding, especially if you're in the bridal party."
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "你是伴郎吗?",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:01:13,450 --> 00:01:14,700",
+      "english" : "Are you the best man?"
+   },
+   {
+      "lessonNo" : 101,
+      "chinese" : "不是. 是的. 算是吧. 很高兴和你聊天. 再见.",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:01:14,800 --> 00:01:19,950",
+      "english" : "No. Yes. Sort of. Nice talking to you. Bye."
+   }
+]

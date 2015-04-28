@@ -1,0 +1,104 @@
+1
+OK. I'll tell him you called.
+<k></k>
+
+2
+Hey, that was Lisa.
+<k></k>
+
+3
+She said you were supposed to meet her.
+<k></k>
+
+4
+I know. I was. Was she mad?
+<k></k>
+
+5
+Was she mad!
+<k></k>
+
+6
+Oh boy, I blew it.
+<k></k>
+
+7
+Well, she said she was going home and she'd call you later.
+<k></k>
+
+8
+What happened?
+<k></k>
+
+9
+I taped in the Square this morning.
+<k></k>
+
+10
+Then I had a meeting over at school with my advisor.
+<k></k>
+
+11
+First of all, he was 45 minutes late.
+<k></k>
+
+12
+Then after a complete progress report, he decides to go over the whole project from the top.
+<k></k>
+
+13
+What a pain!
+<k></k>
+
+14
+I wanted to just get up and walk out.
+<k></k>
+
+15
+Temper, Michael. He is your graduate advisor.
+<k></k>
+
+16
+Lisa will calm down.
+<k></k>
+
+17
+It's nothing a little gesture on your part won't fix.
+<k></k>
+
+18
+Ask her to marry you.
+<k></k>
+
+19
+Let's not go to extremes.
+<k></k>
+
+20
+Tell her it'll never happen again.
+<k></k>
+
+21
+I told her that the last time.
+<k></k>
+
+22
+Well well well, you do have a problem, don't you?
+<k></k>
+
+23
+I could grovel.
+<k></k>
+
+24
+Groveling is an option. Now, personally I don't grovel.
+<k></k>
+
+25
+I just inspire women to break up with me.
+<k></k>
+
+26
+Maybe you should try groveling.
+<k></k>
+

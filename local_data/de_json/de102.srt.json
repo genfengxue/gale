@@ -1,0 +1,186 @@
+[
+   {
+      "lessonNo" : 102,
+      "chinese" : "我最喜欢的天气, 我想一年中最好的时候是秋天,",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:06,500 --> 00:00:11,000",
+      "english" : "The kinds of weather that I like best, I think the best time a year is the fall,"
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "一年中的这个季节空气清新, 凉爽, 感觉更干净.",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:11,100 --> 00:00:14,800",
+      "english" : "that time a year where the air is crisp and cool and it seems to be cleaner."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "春天是我最喜欢的季节.",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:14,900 --> 00:00:16,750",
+      "english" : "Spring is my favourite kind of weather."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "我喜欢现在这样的天气, 今天好极了.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:16,800 --> 00:00:19,400",
+      "english" : "I like this weather. Today is a perfect day."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "不是太热, 也不是太冷, 可以在户外活动.",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:19,430 --> 00:00:22,000",
+      "english" : "Not too hot, not too cool, you can do things outside."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "不幸的是, 我们住在Washington D.C, 那里有两种天气: 坏天气和热天气.",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:22,001 --> 00:00:29,100",
+      "english" : "We live, unfortunately, in Washington D. C. which has sort of two weathers: bad and hot."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "冬天并不像真正的冬天, 而夏天却非常非常炎热.",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:29,150 --> 00:00:34,620",
+      "english" : "Winter, a little bit of winter but not really, and then mostly very, very hot summer."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "我喜欢这儿的秋天, 过去几年的秋天真是不错.",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:34,620 --> 00:00:38,650",
+      "english" : "I love the autumn here, and actually the past couple of years we've been having really nice falls."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "我通常会看天气频道.",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:38,650 --> 00:00:41,400",
+      "english" : "I usually watch the weather channel."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "报纸上有, 新闻中也有. 对, 新闻和天气频道.",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:00:41,492 --> 00:00:44,800",
+      "english" : "The paper. On the news. Yes, news, weather channel."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "我喜欢看天气预报, 他们在播天气预报时还同时展示全国地图.",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:00:44,900 --> 00:00:48,300",
+      "english" : "I like to watch them when they give you the weather report showing the map of the whole country"
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "你能看到天气系统和天气在变化.",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:00:48,400 --> 00:00:52,700",
+      "english" : "and you can then see the weather systems, weather moving."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "我看看报纸, 然后看看外面的天, 比较一下谁预报更准.",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:00:52,750 --> 00:00:57,300",
+      "english" : "I look at the newspaper and then l look outside and see, er, which, which is a better predictor."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "有个查询天气的免费电话, 拨通电话后有天气预报的录音, 我每天都要打两三次.",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:00:57,300 --> 00:01:04,050",
+      "english" : "There's a free weather, er, phone number that you can call for like a recorded weather forecast and I call probably two or three times a day."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "是真的. 我得知道穿什么衣服, you know.",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:01:05,500 --> 00:01:08,800",
+      "english" : "I do. I have to know what to wear, you know."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "天气说变就变, 天气预报怎么说并不起多大作用.",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:01:08,900 --> 00:01:12,450",
+      "english" : "It changes so quickly that it doesn't really matter what the weather forecasts say."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "如果我一早起来要去工作, 天在下雨, 那, 这种天气会使我情绪有点儿低落.",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:01:12,500 --> 00:01:18,550",
+      "english" : "If I wake up in the morning needing to go to work and it's raining, that, kind of dampens my spirits a little bit."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "我想如果早晨空气清新凉爽, 阳光明媚, 你就会感到轻松愉快, 兴高采烈.",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:01:18,600 --> 00:01:23,800",
+      "english" : "I think if it's a nice, crisp, cool morning, the sun is shining, you feel, you feel bright and cheery yourself."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "阳光使人精力充沛.",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:01:23,900 --> 00:01:26,100",
+      "english" : "The sun is very energizing."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "我不能住在总是下雨或阴冷的地方.",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:01:26,150 --> 00:01:28,700",
+      "english" : "I couldn't live somewhere where it's rainy or cold all the time."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "在Washington又热又湿时, 我们什么都不想做,",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:01:28,800 --> 00:01:31,850",
+      "english" : "When it's hot and humid in Washington, we don't want to do anything and,"
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "you know, 昨天下雨, you know, 天阴沉沉的, 每个人心情都不好.",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:01:31,900 --> 00:01:38,300",
+      "english" : "you know, I think yesterday was a really rainy, you know, overcast day, everybody was a little down."
+   },
+   {
+      "lessonNo" : 102,
+      "chinese" : "今天天好了, 我们又都振作了起来.",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:01:38,350 --> 00:01:40,350",
+      "english" : "Today it's beautiful, so we're all up again."
+   }
+]
