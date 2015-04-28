@@ -4,7 +4,7 @@ do
   j="${i}_tmp"
   iconv -f GBK -t UTF-8 $i > $j
   mv $j $i
-  dos2unix $i
+  dos2unix -r $i
 done
 
 #字幕处理UTF-16
@@ -13,5 +13,5 @@ do
   j="${i}_tmp"
   iconv -f UTF-16 -t UTF-8 $i > $j
   mv $j $i
-  dos2unix $i
+  dos2unix -r $i
 done
