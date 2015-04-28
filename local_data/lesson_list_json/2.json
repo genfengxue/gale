@@ -798,5 +798,69 @@
       "chineseTitle" : "一个全新的人!",
       "courseNo" : 2,
       "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de100.mp4"
+   },
+   {
+      "lessonNo" : "101",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de101.jpg",
+      "englishTitle" : "Strange customs",
+      "chineseTitle" : "奇怪的风俗",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de101.mp4"
+   },
+   {
+      "lessonNo" : "102",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de102.jpg",
+      "englishTitle" : "Four Seasons Guide to Massachusetts",
+      "chineseTitle" : "Massachusetts州四季游指南",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de102.mp4"
+   },
+   {
+      "lessonNo" : "103",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de103.jpg",
+      "englishTitle" : "You're impossible!",
+      "chineseTitle" : "真拿你没办法!",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de103.mp4"
+   },
+   {
+      "lessonNo" : "104",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de104.jpg",
+      "englishTitle" : "The Jersey devil",
+      "chineseTitle" : "Jersey魔鬼",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de104.mp4"
+   },
+   {
+      "lessonNo" : "105",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de105.jpg",
+      "englishTitle" : "First impressions",
+      "chineseTitle" : "第一印象",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de105.mp4"
+   },
+   {
+      "lessonNo" : "106",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de106.jpg",
+      "englishTitle" : "Parking downtown",
+      "chineseTitle" : "闹市区内停车",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de106.mp4"
+   },
+   {
+      "lessonNo" : "107",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de107.jpg",
+      "englishTitle" : "Yvonne!",
+      "chineseTitle" : "Yvonne!",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de107.mp4"
+   },
+   {
+      "lessonNo" : "108",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de108.jpg",
+      "englishTitle" : "Try groveling",
+      "chineseTitle" : "低声下气",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de108.mp4"
    }
 ]

@@ -397,3 +397,35 @@ The rules of the game
 100
 A new man!
 一个全新的人!
+
+101
+Strange customs
+奇怪的风俗
+
+102
+Four Seasons Guide to Massachusetts
+Massachusetts州四季游指南
+
+103
+You're impossible!
+真拿你没办法!
+
+104
+The Jersey devil
+Jersey魔鬼
+
+105
+First impressions
+第一印象
+
+106
+Parking downtown
+闹市区内停车
+
+107
+Yvonne!
+Yvonne!
+
+108
+Try groveling
+低声下气
