@@ -21,9 +21,6 @@ class SentenceUtils
     promises = for key, texts of keyPointMap
       @importOneKey key, texts
 
-    if courseNo is Const.Course.nceone.CourseNo
-      lessonNo += 300
-
     Q.all promises
     .then (keyPoints) ->
       Sentence.updateQ {courseNo: courseNo, lessonNo: lessonNo, sentenceNo: sentenceNo}, {$set: {keyPoints: keyPoints}}
