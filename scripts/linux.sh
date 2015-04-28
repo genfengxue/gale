@@ -52,5 +52,5 @@ done
 
 #处理QQ号
 for i in *.txt; do
-  gsed 'N;N;s/\n//g;' $i | awk 'BEGIN{FS="\t"} {print $2, $3, $4}' > ${i/.txt/.new.txt}
+  gsed 'N;N;s/\n/\t/g;' $i | awk 'BEGIN{FS="\t+"} {print $2, $3, $4}' > processed/${i/.txt/.new.txt}
 done
