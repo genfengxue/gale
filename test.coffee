@@ -2,7 +2,7 @@ require './common/init'
 moment = require 'moment'
 
 
-console.log [101..108].join ','
+console.log [82..90].join ','
 #results = _.select [1..69], (num) ->
 #  return num % 2
 #console.log results.join ','

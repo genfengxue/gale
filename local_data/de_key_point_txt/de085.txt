@@ -1,0 +1,188 @@
+1
+Hi, `Michael`. Hi, Danny.
+<k>Michael
+['maɪkəl]</k>
+
+1
+Hi, Michael. Hi, `Danny`.
+<k>Danny
+[ˈdæni]</k>
+
+2
+Hi, `Nancy`.
+<k>Nancy
+['nænsɪ]</k>
+
+3
+`Yvonne`, have you met our new tenants?
+<k>Yvonne
+ [ɪ'vɒn]</k>
+
+3
+Yvonne, have you met our new `tenants`?
+<k>tenant
+['tenənt]
+n. 房客</k>
+
+5
+Yvonne `Washington`, Michael Chung and Danny DeMarco.
+<k>Washington
+['wɑʃɪŋtən]</k>
+
+
+5
+Yvonne Washington, Michael `Chung` and Danny DeMarco.
+<k>Chung
+[tʃʌŋ]
+钟(姓)</k>
+
+5
+Yvonne Washington, Michael Chung and Danny `DeMarco`.
+<k>DeMarco
+[dɪ'mɑrko]
+(意大利姓氏)</k>
+
+
+9
+Of course. `How could I forget that sofa`?
+<k>How could I forget that sofa?
+我怎么忘得了那沙发?
+意思是你们的沙发让我印象深刻
+</k>
+
+
+14
+so I'm here `quite a bit`.
+<k>quite a bit
+相当数量的，这里为“我会常常出现在这里”
+
+She's got quite a bit of money.</k>
+
+
+16
+`Interior design`.
+<k>interior design
+[ɪn'tɪriər]
+室内设计
+</k>
+
+
+19
+Oh, `I hardly think so`.
+<k>I hardly think so
+我可不这么想
+=I don't think so 只是语气较为委婉
+hardly adv. 几乎不
+
+-Let's redecorate the living room. Let's paint it blue.
+-Oh, I hardly think so.
+</k>
+
+
+21
+Besides, I'm sure `Lisa` will help us redecorate.
+<k>Lisa
+[ˈlisə]</k>
+
+21
+Besides, I'm sure Lisa will help us `redecorate`.
+<k>redecorate
+[ˌri'dekəreɪt]	
+v. 重新装修
+
+We're redecorating the kitchen.
+</k>
+
+
+23
+`Just getting home from work`, Danny?
+<k>just getting home from work
+刚下班回来
+
+-Mr. Chung, just getting home from work?
+-Yeap.</k>
+
+24
+Yeah. `I'm beat`.
+<k>I'm beat
+我太累了
+beat这里指extremely tired
+
+I'm beat. I'm going to bed.
+</k>
+
+
+26
+`Kinko's`. The night shift.
+<k>Kinko's
+美国FedEx公司旗下的连锁店, 一方面作为快递点, 一方面提供一些打印, 复印等服务</k>
+
+26
+Kinko's. The `night shift`.
+<k>night shift
+夜班
+
+People who work on the night shift are paid more.
+</k>
+
+
+28
+Oh no. Michael is a serious `film maker`.
+<k>film maker
+制片人</k>
+
+
+31
+And I do `work at night`, occasionally.
+<k>work at night
+上夜班
+
+This job requires working at night.
+</k>
+
+31
+And I `do` work at night, occasionally.
+<k>do后边跟动词原形, 表示强调
+
+I do think you should take that job at the Kinko's. You could use the cash.
+</k>
+
+31
+And I do work at night, `occasionally`.
+<k>occasionally
+[ə'keɪʒnəli]
+adv. 偶尔地
+
+Occasionally I'll have a piece of chocolate, but it's quite rare.
+</k>
+
+32
+Actually, Yvonne, `we've got to run`.
+<k>we've got to run
+我们必须赶紧走了
+run在这里指有急事要匆忙离开,并非一定要跑
+
+Would you run around to the post office and get me some stamps?
+</k>
+
+
+34
+`So far, so good`.
+<k>So far, so good
+到目前为止还不错</k>
+
+
+37
+It must be hard to `work all night`.
+<k>work all night
+工作一整夜
+
+My father is a policeman. He needs to work all night occasionally.</k>
+
+38
+Unless you `sleep all day`.
+<k>sleep all day
+睡一整天
+
+I was so beat yesterday. I slept all day.</k>
+

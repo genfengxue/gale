@@ -1,0 +1,60 @@
+1
+OK. Did `Cavett` say we would have any essay questions?
+<k>Cavett
+[ˈkavɪt]</k>
+
+1
+OK. Did Cavett say we would have any `essay questions`?
+<k>essay question
+问答题</k>
+
+2
+No. Just `multiple choice`.
+<k>multiple choice
+选择题.
+这里的multiple指的是有多个选项, 并不是指有多个正确选项.
+单选和多选都称之为multiple choice</k>
+
+3
+`We must be done`.
+<k>we must be done
+我们应该做完了(复习好了)
+must这里表示肯定的推测</k>
+
+
+10
+`Justine`. The party may not even happen
+<k>Justine
+['dʒʌstin]</k>
+
+
+15
+Anyway, my parents would like to `throw a party` for me.
+<k>throw a party
+举办宴会
+
+Janet threw a party for Jack's fiftieth birthday.
+</k>
+
+
+18
+`Sweet sixteen`?
+<k>sweet sixteen
+特定短语,特指十六岁生日宴会; 
+西方的女孩会在16岁时过一个比较特别的生日宴会</k>
+
+26
+`On the other hand`, a bunch of us could just go out.
+<k>on the other hand
+另一方面
+
+We could go to Indonesia for vocation this year. On the other hand, we could also visit your parents in China.</k>
+
+26
+On the other hand, `a bunch of` us could just go out.
+<k>a bunch of
+一堆...
+
+They're a bunch of hooligans (['hulɪɡən] 小流氓).
+</k>
+

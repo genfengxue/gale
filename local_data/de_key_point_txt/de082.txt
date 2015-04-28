@@ -1,0 +1,104 @@
+4
+Do you want a `muffin`?
+<k>muffin
+['mʌfɪn]
+n. 马芬蛋糕</k>
+
+6
+Do you want a cup, `Nancy`?
+<k>Nancy
+['nænsi]</k>
+
+8
+Is `Beth` awake?
+<k>Beth
+[beθ]</k>
+
+
+10
+I'm `giving her a ride` to school.
+<k>give sb. a ride
+(顺便)载某人
+
+*I couldn't find my car key but fortunately Jane gave me a ride.</k>
+
+11
+Very clever, `Counselor` Hobart.
+<k>counselor
+['kaʊnsələ]
+n. 律师
+</k>
+
+11
+Very clever, Counselor `Hobart`.
+<k>Hobart
+[ˈhoʊˌbɑrt]
+</k>
+
+12
+She will get out of bed for a `lift`.
+<k>lift
+n. 顺风车
+跟give sb. a ride的ride是一个意思
+
+I'll give you a lift to the station if you like.
+</k>
+
+13
+`What is your day like`?
+<k>What is your day like?
+你今天是怎么安排的?
+固定说法</k>
+
+
+15
+And I'm `in court` this afternoon.
+<k>in court
+上庭(法庭)
+
+He's due to appear in court again on Monday.
+</k>
+
+
+18
+`Yvonne` and I have a meeting with a client.
+<k>Yvonne
+[ɪ'vɒn]
+</k>
+
+
+20
+`Bill Collins`.
+<k>Bill Collins
+[bɪl] [ˈkɑlɪnz]</k>
+
+21
+We're almost finished with his `condo`.
+<k>condo
+['kɒndoʊ]	
+n. 公寓
+condominium ['kɒndəˌmɪnɪəm]	n. 的简称
+</k>
+
+35
+How about some `cereal`?
+<k>cereal
+['sɪriəl]
+n. 麦片
+</k>
+
+39
+-`Richard`!  -Dad!
+<k>Richard
+['ritʃəd]</k>
+
+41
+`Oops`! Well, then I will have a muffin.
+<k>Oops
+[ʊps]
+int. 哎呀
+表示惊讶狼狈遗憾的惊叹
+
+Oops! That's the second time I've spilt coffee today!
+</k>
+
