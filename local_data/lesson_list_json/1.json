@@ -336,6 +336,30 @@
       "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone085.mp4"
    },
    {
+      "lessonNo" : "87",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone087.jpg",
+      "englishTitle" : "A car crash",
+      "chineseTitle" : "车祸",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone087.mp4"
+   },
+   {
+      "lessonNo" : "89",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone089.jpg",
+      "englishTitle" : "For sale",
+      "chineseTitle" : "待售",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone089.mp4"
+   },
+   {
+      "lessonNo" : "91",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone091.jpg",
+      "englishTitle" : "Poor Ian!",
+      "chineseTitle" : "可怜的伊恩!",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone091.mp4"
+   },
+   {
       "lessonNo" : "93",
       "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone093.jpg",
       "englishTitle" : "Our new neighbour",
@@ -406,6 +430,38 @@
       "chineseTitle" : "好主意",
       "courseNo" : 1,
       "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone109.mp4"
+   },
+   {
+      "lessonNo" : "111",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone111.jpg",
+      "englishTitle" : "The most expensive model",
+      "chineseTitle" : "最昂贵的型号",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone111.mp4"
+   },
+   {
+      "lessonNo" : "113",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone113.jpg",
+      "englishTitle" : "Small changes",
+      "chineseTitle" : "零钱",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone113.mp4"
+   },
+   {
+      "lessonNo" : "115",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone115.jpg",
+      "englishTitle" : "Knock, Knock!",
+      "chineseTitle" : "敲门!",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone115.mp4"
+   },
+   {
+      "lessonNo" : "117",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone117.jpg",
+      "englishTitle" : "Tommy's breakfast",
+      "chineseTitle" : "Tommy的早餐",
+      "courseNo" : 1,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/nceone117.mp4"
    },
    {
       "lessonNo" : "119",
