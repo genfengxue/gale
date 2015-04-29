@@ -30,21 +30,25 @@ router.post "/add_user", auth.isAdmin(), (req, res, next) ->
   tmpResult = {}
   User.findOneQ {}, null, {sort: {userNo: -1}}
   .then (user) ->
-    sha1Hash = crypto.createHash('sha1')
     userNo = user.userNo + 1
-    tmpResult.password = (sha1Hash.update(userNo.toString()).digest('hex')).substr 0, 6
+    tmpResult.password = random.nextInt(100000, 1000000).toString()
 
-    data =
+    tmpResult.data =
       userNo: userNo
       role: req.body.role
+      nickname: req.body.nickname
       password: tmpResult.password
 
-    User.createQ data
+    User.createQ tmpResult.data
   .then (doc) ->
-    # 用来以后找回初始密码
-    loggerD.write JSON.stringify {userNo: doc.userNo, role: doc.role, password: tmpResult.password}
+    # 记个日志用来以后找回初始密码
+    loggerD.write {type: 'add_user', data: tmpResult.data}
 
-    res.send {userNo: doc.userNo, role: doc.role, password: tmpResult.password, msg: '密码很重要，忘记了要很麻烦才能找回来'}
+    res.send """
+    昵称：#{doc.nickname}<br>
+    账号: #{doc.userNo}<br>
+    密码：#{tmpResult.password}<br>
+    """
   .catch next
   .done()
 

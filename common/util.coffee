@@ -1,7 +1,7 @@
 async = require('async')
 _ = require('lodash')
 _s = require('underscore.string')
-random = new (require('./mt').MersenneTwister)
+random = new (require('./mt').MersenneTwister)()
 assert = require('assert')
 Const = require './Const'
 

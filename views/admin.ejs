@@ -21,6 +21,7 @@
 <% } else { %>
 <p>添加新用户</p>
 <form action="/admin/add_user?access_token=<%= token %>" method="post">
+  昵称：<input type="text" name="nickname" /><br>
   <input type="radio" name="role" value="1" checked="checked" />student<br>
   <input type="radio" name="role" value="2" />teacher<br>
   <input type="radio" name="role" value="20" />admin<br>
