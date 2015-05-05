@@ -5,6 +5,7 @@ auth = require '../../auth/auth.service'
 Sentence = _u.getModel 'sentence'
 KeyPoint = _u.getModel 'key_point'
 WrapRequest = new (require '../../utils/WrapRequest')(Sentence)
+SentenceUtils = _u.getUtils 'sentence'
 
 router.get "/", (req, res, next) ->
   conditions = {}
@@ -47,19 +48,32 @@ router.patch '/:id', auth.isAdmin(), (req, res, next) ->
   WrapRequest.wrapUpdate req, res, next, conditions, pickedUpdatedKeys
 
 
+#在sentence上新增知识点
 router.patch '/:id/new_key_point', auth.isAdmin(), (req, res, next) ->
   text = req.body.text
   key = req.body.key
-  kp =
-    text: text
 
   conditions = {_id: req.params.id}
 
-  KeyPoint.createQ kp
-  .then (doc) ->
+  tmpResult = {}
+  texts = [text] #接受一个text的数组
+  SentenceUtils.importOneKey key, texts
+  .then (keyPoint) ->
+    tmpResult.keyPoint = keyPoint
     Sentence.findOneQ conditions
   .then (sentence) ->
-    console.log "TODO"
+    unless sentence
+      return Q.reject
+        status: 400
+        errCode: ErrCode.CannotFindThisId
+        errMsg: '无法找到这条记录'
+
+    sentence.keyPoints.push tmpResult.keyPoint
+    sentence.saveQ()
+  .then (result) ->
+    res.send result[0]
+  .catch next
+  .done()
 
 
 module.exports = router
