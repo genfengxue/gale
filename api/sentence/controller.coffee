@@ -11,6 +11,7 @@ router.get "/", (req, res, next) ->
   conditions = {}
   conditions.courseNo = ~~req.query.courseNo if req.query.courseNo
   conditions.lessonNo = ~~req.query.lessonNo if req.query.lessonNo
+  conditions.sentenceNo = ~~req.query.sentenceNo if req.query.sentenceNo
 
   findParams =
     conditions: conditions
@@ -18,7 +19,7 @@ router.get "/", (req, res, next) ->
 
   WrapRequest.wrapIndex req, res, next, findParams
 
-
+#更新sentence中的key
 router.patch '/:id/update_key/:keyId', auth.isAdmin(), (req, res, next) ->
   newKey = req.body.key
   conditions = {_id: req.params.id}
@@ -37,6 +38,17 @@ router.patch '/:id/update_key/:keyId', auth.isAdmin(), (req, res, next) ->
     sentence.saveQ()
   .then (doc) ->
     res.send doc
+  .catch next
+  .done()
+
+#删除sentence中的key
+router.patch '/:id/delete_key/:keyId', auth.isAdmin(), (req, res, next) ->
+  sentenceId = req.params.id
+  keyId = req.params.keyId
+
+  Sentence.updateQ {_id: sentenceId}, {$pull: {keyPoints: {_id: keyId}}}
+  .then (result) ->
+    res.send result
   .catch next
   .done()
 
