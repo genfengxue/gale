@@ -2,15 +2,16 @@ require '../common/init'
 
 ReleaseNote = _u.getModel 'release_note'
 
-versionName = 'v1.0.3'
+versionName = 'v1.0.4'
 data =
-  versionCode: 8
+  versionCode: 9
   versionName: versionName
   content: """
   #{versionName}
-  现在终于可以优雅地退出了，不用点半天了
+  1 返回列表时回到上次操作的位置
+  2 下载失败时打印更多的信息
   """
-  releaseDate: '2015-04-23'
+  releaseDate: '2015-05-06'
   created: new Date()
 
 ReleaseNote.createQ data
