@@ -61,7 +61,7 @@ router.patch '/:id', auth.isAdmin(), (req, res, next) ->
 
 
 #在sentence上新增知识点
-router.patch '/:id/new_key_point', auth.isAdmin(), (req, res, next) ->
+router.post '/:id/new_key_point', auth.isAdmin(), (req, res, next) ->
   text = req.body.text
   key = req.body.key
 
