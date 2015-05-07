@@ -6,7 +6,7 @@ ReleaseNote = _u.getModel 'release_note'
 router.get "/", (req, res, next) ->
   ReleaseNote.findQ {}, null, {sort: {versionCode: -1}}
   .then (releaseNotes) ->
-    res.render 'release_notes', {releaseNotes: releaseNotes}
+    res.render 'release_notes', {releaseNotes: releaseNotes, embedded: req.query.embedded?}
   .catch next
   .done()
 
