@@ -83,7 +83,9 @@ router.post '/:id/new_key_point', auth.isAdmin(), (req, res, next) ->
     sentence.keyPoints.push tmpResult.keyPoint
     sentence.saveQ()
   .then (result) ->
-    res.send result[0]
+    result[0].populateQ 'keyPoints.kps.kp'
+  .then (doc) ->
+    res.send doc
   .catch next
   .done()
 
