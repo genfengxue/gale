@@ -1,17 +1,18 @@
 require './common/init'
 moment = require 'moment'
 
+console.log !!"0"
 
-UserData = _u.getModel 'user_data'
-data =
-  userNo: 10
-  dataTag: 'kp_click'
-  content: JSON.stringify {kpId: 'xxxx'}
-UserData.createQ data
-.then (data) ->
-  console.log data
-, (err) ->
-  console.log err
+#UserData = _u.getModel 'user_data'
+#data =
+#  userNo: 10
+#  dataTag: 'kp_click'
+#  content: JSON.stringify {kpId: 'xxxx'}
+#UserData.createQ data
+#.then (data) ->
+#  console.log data
+#, (err) ->
+#  console.log err
 
 
 #console.log [82..90].join ','

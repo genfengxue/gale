@@ -48,3 +48,14 @@
       versionName: "v1.3.9.2",
       url: "http://7u2qm8.com1.z0.glb.clouddn.com/apk/LearnWithWind1.3.9.2.apk"
     }
+
+#多条用户数据同时同步
+/api/user_datas/multi POST
+  query: access_token=xxxx
+  header:
+    Content-Type: application/json
+  body: [{}]
+  response: 200 成功，400失败
+  可能的错误码：
+    {"status":400,"errCode":10050,"errMsg":"记录条数有错误: 0"}
+    {"status":400,"errCode":10060,"errMsg":"dataTag: undefined; content: {\"kpId\":\"xxxx\"}; 两个字段都不能为空"}
