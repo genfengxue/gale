@@ -429,3 +429,43 @@ Yvonne!
 108
 Try groveling
 低声下气
+
+141 
+Health and fitness 
+健康与健身
+
+142 
+Train strain 
+火车劳损
+
+143 
+Pets 
+宠物
+
+144 
+Good news 
+好消息
+
+145 
+Cabs, cars and candidates 
+车租车,小汽车与候选人
+
+146 
+Telephones 
+电话
+
+147 
+Things are going well 
+一切进展顺利
+
+148 
+Why not? 
+为什么不行?
+
+149 
+Because I said mo 
+因为我说不
+
+150 
+Promise 
+诺言
