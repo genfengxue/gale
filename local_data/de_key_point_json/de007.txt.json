@@ -1,3 +1,45 @@
 {
-   "7" : {}
+   "7" : {
+      "4" : {
+         "2" : [
+            "vegetarian\n[ˌvedʒə'teriən]\nn. 素食主义者\n\n"
+         ]
+      },
+      "18" : {
+         "4,5,6,7,8,9" : [
+            "anything that\n任何...的\n\nI eat anything that isn't vegetables.\n(如果真的有这样的人, Dean是不是要跪了)\n\n这句话的意思是有的严格素食主义者是不吃鸡蛋牛奶等食物的, 因为这些食物也是来自动物.\n而不严格的素食主义者, 不吃肉类, 而吃鸡蛋牛奶. 所以Dean就是不严格的素食主义者.\n"
+         ]
+      },
+      "7" : {
+         "1,2,3,4,5,6,7,8,9" : [
+            "too...to...\n太...以至于而不能...\n\nI am too full to move.(吃饱了的)\nThe project is too big to be finished in time.\n"
+         ]
+      },
+      "16" : {
+         "4" : [
+            "cauliflower\n[ˈkɔliflaʊər]\n n. 花菜"
+         ],
+         "1" : [
+            "Spinach\n['spɪnɪtʃ]\nn. 菠菜"
+         ],
+         "2" : [
+            "broccoli\n['brɑkəli]\nn. 西兰花\n"
+         ]
+      },
+      "2" : {
+         "1,2" : [
+            "sb./sth./spl. + adj.\n固定搭配,不能说good someplace.\n\n-What kind of clothes are you looking for?\n-I'm not sure. Something fabulous?"
+         ]
+      },
+      "15" : {
+         "4,5" : [
+            "picky eater\n挑食者\n\n*My child is a picky eater. There are like a thousand things he doesn't eat.\n\npicky adj. 挑剔的\nShe's very picky about clothes."
+         ]
+      },
+      "14" : {
+         "1" : [
+            "Elena\n[ə'leinə]"
+         ]
+      }
+   }
 }

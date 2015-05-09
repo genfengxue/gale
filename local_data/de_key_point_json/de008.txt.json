@@ -1,3 +1,57 @@
 {
-   "8" : {}
+   "8" : {
+      "11" : {
+         "4,5" : [
+            "hamburger special\n特色汉堡,特价汉堡\n在很多餐厅每天会提供几款特殊菜供选择\n也可以说hamburger of the day (今日特供汉堡) "
+         ]
+      },
+      "26" : {
+         "7,8" : [
+            "mineral water\n矿泉水"
+         ]
+      },
+      "9" : {
+         "4" : [
+            "eggplant\n ['eɡplænt]\t\nn. 茄子,欧洲称为 aubergine  ['oʊbərʒin]\t"
+         ]
+      },
+      "17" : {
+         "5,6,7" : [
+            "baked vegetable parmesan\n\t\t\t\t ['pɑrməʃɑn]\n烤蔬菜干酪\nparmesan n. 意大利帕尔玛干酪,常磨碎撒在意面上.\n"
+         ]
+      },
+      "12" : {
+         "1,2" : [
+            "no offense\n并无冒犯之意\n在说一些可能会冒犯别人的话之前讲\n\nI'm moving out. No offence, but I just don't like the atmosphere here. \n\n"
+         ]
+      },
+      "20" : {
+         "5" : [
+            "roll\nn. 圆或长面包\n\nSix brown rolls, please."
+         ]
+      },
+      "22" : {
+         "7" : [
+            "vinegar\n['vɪnɪɡər]\nn. 醋"
+         ]
+      },
+      "13" : {
+         "3" : [
+            "vegetarian\n[ˌvedʒə'teriən]\nn. 素食主义者\n"
+         ]
+      },
+      "29" : {
+         "1,2" : [
+            "all set\n一切就绪,准备好了(口语)\n\nThey were at the starting line and all set to begin."
+         ]
+      },
+      "5" : {
+         "5,6" : [
+            "over there\n那边\n\nYou coat is over there.\n"
+         ],
+         "7,8,9" : [
+            "by + sth./sb.\n靠近...\n\nDo you want a seat by the window?\n"
+         ]
+      }
+   }
 }

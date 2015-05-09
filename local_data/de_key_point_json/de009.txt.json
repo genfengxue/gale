@@ -1,3 +1,29 @@
 {
-   "9" : {}
+   "9" : {
+      "8" : {
+         "9,10" : [
+            "shuttle bus\n['ʃʌtl]\n往返班车\n\nHe almost missed the last shuttle bus to the airport.\n"
+         ]
+      },
+      "21" : {
+         "1,2,3" : [
+            "this isn't happening\n这怎么会发生, 这不会发生,表示强烈的惊讶不满语气\n\n-I'm sorry sir, we lost you bags.\n-This isn't happening. I can't lose that bag"
+         ]
+      },
+      "18" : {
+         "1,2,3" : [
+            "what's going on\n发生了什么\n= what's happening\n\nI heard somebody screaming. What's going on?"
+         ]
+      },
+      "15" : {
+         "2" : [
+            "porter\n['pɔrtər]\nn. 搬运工(尤其是酒店车站机场的),杂务工\n\nThe car drove off to the train station, and the porters put her luggage on the train.\n"
+         ]
+      },
+      "5" : {
+         "4" : [
+            "trolley\n ['trɑli]\t\nn. 手推车\n\nMost supermarkets provide shopping trolleys.\n"
+         ]
+      }
+   }
 }

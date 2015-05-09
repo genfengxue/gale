@@ -1,0 +1,34 @@
+{
+   "96" : {
+      "22" : {
+         "1,2,3,4" : [
+            "you have a point\n你说的有理\n\n-We should make cautious decision slowly instead of rushing it.\n-You have a point.\n"
+         ]
+      },
+      "3" : {
+         "2" : [
+            "unplug\n [ˌʌn'plʌɡ]\t\nv. 拔掉插头\n\nPlease unplug the TV before you go to bed. "
+         ]
+      },
+      "16" : {
+         "8,9" : [
+            "sceen calls\n检查来电,指确认到底是谁打电话来而决定是否接听\n(不是所有的电话都有来电显示)\n\nCall screening is the process of evaluating the characteristics of a telephone call before deciding how or whether to answer it."
+         ]
+      },
+      "9" : {
+         "1,2" : [
+            "数字 to 数字\n表示比赛得分\n从这里看来描述比分也可以用to, 但是一般情况下我们对于4:2直接说four two, 中间不用to\n\n=What's the score?\n-3 to 2"
+         ]
+      },
+      "2" : {
+         "4,5,6" : [
+            "drive sb. crazy\n让某人发狂\n\nThat noise is driving me crazy."
+         ]
+      },
+      "15" : {
+         "8,9" : [
+            "answering machine\n电话应答机,英式为 answerphone\n过去的一种机器, 连接电话来实现自动答复和录制未接来电\n\nI called several times, but only got the answering machine.\n"
+         ]
+      }
+   }
+}

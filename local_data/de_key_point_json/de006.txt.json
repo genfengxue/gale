@@ -1,3 +1,65 @@
 {
-   "6" : {}
+   "6" : {
+      "25" : {
+         "4" : [
+            "mystery\n['mɪstri]\t\nn. 迷\n这里表示电脑很难搞懂\n注意这里mystery不用复数. 因为把computers看做一个整体是一个mystery, 而不是说每台电脑都是一个mystery\n\nYou could never figure out women. They are a mystery! "
+         ]
+      },
+      "6" : {
+         "3" : [
+            "cover\nn. 封面\n\n"
+         ]
+      },
+      "21" : {
+         "1,2,3,4" : [
+            "it‘s a good thought\n这是个好主意\n\n这里thought可以与idea, point替换\n "
+         ]
+      },
+      "17" : {
+         "" : [
+            "go on\n继续\n\n也可以说countinue或keep going"
+         ]
+      },
+      "2" : {
+         "4" : [
+            "Wendy\n['wendi]"
+         ],
+         "1,2,3" : [
+            "sb. is with ...\n某人跟...待在一起\n\n-Where is Peter?\n-He's with his girlfriend in his room. God knows what they are doing!"
+         ]
+      },
+      "15" : {
+         "3,4,5" : [
+            "what's the idea?\n你的点子是什么呢?\n\n-I have a fantastic marketing strategy!\n-What's the idea?\n-We can invite some potential customers to our office and do a workshop. Of course we can also..."
+         ]
+      },
+      "1" : {
+         "1" : [
+            "George\n[dʒɔdʒ]\n"
+         ],
+         "8,9" : [
+            "... take long\n耗时长\n\nWill it take long to finish the brochure?\n"
+         ]
+      },
+      "4" : {
+         "8" : [
+            "brochure\n[broʊ'ʃʊr]\nn. 小手册 = booklet\n\n注意与leaflet的区别,leaflet指只有一张的传单,而brochure和booklet是小册子\nch在这里发[ʃ]的音,与chef(主厨)的ch一样,因为是法语外来词"
+         ]
+      },
+      "23" : {
+         "6" : [
+            "graphics\n[ˈɡræfɪks]\nn. 图表\n"
+         ]
+      },
+      "16" : {
+         "4,5,6" : [
+            "is/are perfect for\n非常适合...\n\nThese shoes are perfect for you.\n"
+         ]
+      },
+      "19" : {
+         "5" : [
+            "modem\n ['məʊdem]\n n. 路由器\n注意它的发音.\n \n"
+         ]
+      }
+   }
 }
