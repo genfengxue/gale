@@ -1,3 +1,8 @@
+2015-05-09 22:42:05
+load_lesson_list
+load_srt_for_de $(coffee test.coffee) #141,142,143,144,145,146,147,148,149,150
+
+
 2015-05-09 22:21:11
 load_kp_for_de $(coffee test.coffee) #6,7,8,9,91,92,93,94,95,96,97,98,99
 

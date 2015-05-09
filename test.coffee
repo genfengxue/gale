@@ -1,8 +1,9 @@
 require './common/init'
 moment = require 'moment'
 
+console.log [141..150].join ','
 
-console.log [6..9].join(',') + ',' + [91..99].join(',')
+#console.log [6..9].join(',') + ',' + [91..99].join(',')
 
 #console.log !!"0"
 
@@ -19,7 +20,6 @@ console.log [6..9].join(',') + ',' + [91..99].join(',')
 #  console.log err
 
 
-#console.log [82..90].join ','
 #results = _.select [1..69], (num) ->
 #  return num % 2
 #console.log results.join ','
