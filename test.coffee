@@ -1,7 +1,11 @@
 require './common/init'
 moment = require 'moment'
 
-console.log !!"0"
+
+console.log [6..9].join(',') + ',' + [91..99].join(',')
+
+#console.log !!"0"
+
 
 #UserData = _u.getModel 'user_data'
 #data =
