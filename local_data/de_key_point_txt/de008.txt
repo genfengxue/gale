@@ -1,116 +1,86 @@
-1
--Hi.  - Hi.
-<k></k>
 
-2
-Do you have a table for three?
-<k></k>
-
-3
-Yes.
-<k></k>
-
-4
-This way please.
-<k></k>
 
 5
-We have a table over there, by the window. Or over here, by the wall.
-<k></k>
+We have a table `over there`, by the window. Or over here, by the wall.
+<k>over there
+那边
 
-6
-That one?
-<k></k>
+You coat is over there.
+</k>
 
-7
-Yeah.
-<k></k>
+5
+We have a table over there, `by the window`. Or over here, by the wall.
+<k>by + sth./sb.
+靠近...
 
-8
-What do you want?
-<k></k>
+Do you want a seat by the window?
+</k>
 
 9
-I want the eggplant.
-<k></k>
-
-10
-Mmm.  How about you,Kevin?
-<k></k>
+I want the `eggplant`.
+<k>eggplant
+ ['eɡplænt]	
+n. 茄子,欧洲称为 aubergine  ['oʊbərʒin]	</k>
 
 11
-I want the hamburger special.
-<k></k>
+I want the `hamburger special`.
+<k>hamburger special
+特色汉堡,特价汉堡
+在很多餐厅每天会提供几款特殊菜供选择
+也可以说hamburger of the day (今日特供汉堡) </k>
 
 12
-No offense,Dean.
-<k></k>
+`No offense`, Dean.
+<k>no offense
+并无冒犯之意
+在说一些可能会冒犯别人的话之前讲
+
+I'm moving out. No offence, but I just don't like the atmosphere here. 
+
+</k>
+
+
 
 13
-I'm the vegetarian,not you.
-<k></k>
+I'm the `vegetarian`, not you.
+<k>vegetarian
+[ˌvedʒə'teriən]
+n. 素食主义者
+</k>
 
-14
-What can I get for you?
-<k></k>
-
-15
-The eggplant,please.
-<k></k>
-
-16
--I'm sorry. We don't have the eggplant. -Oh.
-<k></k>
 
 17
-We have a nice baked vegetable parmesan.
-<k></k>
+We have a nice `baked vegetable parmesan`.
+<k>baked vegetable parmesan
+				 ['pɑrməʃɑn]
+烤蔬菜干酪
+parmesan n. 意大利帕尔玛干酪,常磨碎撒在意面上.
+</k>
 
-18
-That's fine.
-<k></k>
-
-19
--Do you have fruit salad? -Yes.
-<k></k>
 
 20
-That please,with some rolls.
-<k></k>
+That please, with some `rolls`.
+<k>roll
+n. 圆或长面包
 
-21
-I want the hamburger special,please.
-<k></k>
+Six brown rolls, please.</k>
+
 
 22
-With onions and peppers,and some vinegar for the fries.
-<k></k>
-
-23
-Vinegar?
-<k></k>
-
-24
-You can try one.
-<k></k>
-
-25
-Do you want any drinks?
-<k></k>
+With onions and peppers, and some `vinegar` for the fries.
+<k>vinegar
+['vɪnɪɡər]
+n. 醋</k>
 
 26
-Do you have that nice Italian mineral water?
-<k></k>
-
-27
-Sure. Anything else?
-<k></k>
-
-28
-No,thanks.
-<k></k>
+Do you have that nice Italian `mineral water`?
+<k>mineral water
+矿泉水</k>
 
 29
-All set.
-<k></k>
+`All set`.
+<k>all set
+一切就绪,准备好了(口语)
+
+They were at the starting line and all set to begin.</k>
 

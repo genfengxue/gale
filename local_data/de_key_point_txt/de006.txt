@@ -1,100 +1,109 @@
 1
-George,we can talk,but it can't take long.
-<k></k>
+`George`, we can talk, but it can't take long.
+<k>George
+[dʒɔdʒ]
+</k>
+
+1
+George, we can talk, but it can't `take long`.
+<k>... take long
+耗时长
+
+Will it take long to finish the brochure?
+</k>
+
 
 2
-The baby's with Wendy.
-<k></k>
+`The baby's with` Wendy.
+<k>sb. is with ...
+某人跟...待在一起
 
-3
-No problem.
-<k></k>
+-Where is Peter?
+-He's with his girlfriend in his room. God knows what they are doing!</k>
+
+2
+The baby's with `Wendy`.
+<k>Wendy
+['wendi]</k>
+
 
 4
-These are my ideas for the new brochure.
-<k></k>
+These are my ideas for the new `brochure`.
+<k>brochure
+[broʊ'ʃʊr]
+n. 小手册 = booklet
 
-5
-Ok. So... what's this?
-<k></k>
+注意与leaflet的区别,leaflet指只有一张的传单,而brochure和booklet是小册子
+ch在这里发[ʃ]的音,与chef(主厨)的ch一样,因为是法语外来词</k>
+
 
 6
-It's the cover. I know that.
-<k></k>
+It's the `cover`. I know that.
+<k>cover
+n. 封面
 
-7
-What is this?
-<k></k>
+</k>
 
-8
-Oh! It's a table,
-<k></k>
-
-9
-and those are flowers
-<k></k>
-
-10
-and that's a cup of coffee.
-<k></k>
-
-11
-And what's this here?
-<k></k>
-
-12
-It's a computer.
-<k></k>
-
-13
-That's a computer?
-<k></k>
-
-14
-I'm not an artist.
-<k></k>
 
 15
-Ok.so what's the idea?
-<k></k>
+Ok. so `what's the idea`?
+<k>what's the idea?
+你的点子是什么呢?
+
+-I have a fantastic marketing strategy!
+-What's the idea?
+-We can invite some potential customers to our office and do a workshop. Of course we can also...</k>
 
 16
-The Sheraton Boston is perfect for business meetings.
-<k></k>
+The Sheraton Boston `is perfect for` business meetings.
+<k>is/are perfect for
+非常适合...
+
+These shoes are perfect for you.
+</k>
 
 17
 Go on.
-<k></k>
+<k>go on
+继续
 
-18
-Great lacation, Facilities.
-<k></k>
+也可以说countinue或keep going</k>
+
 
 19
-This is technology:computers and modems.
-<k></k>
+This is technology:computers and `modems`.
+<k>modem
+ ['məʊdem]
+ n. 路由器
+注意它的发音.
+ 
+</k>
 
-20
-And that's us. We're the experts.
-<k></k>
 
 21
-It's a good thought,George.
-<k></k>
+`It's a good thought`, George.
+<k>it‘s a good thought
+这是个好主意
 
-22
-But I can't understand the drawings.
-<k></k>
+这里thought可以与idea, point替换
+ </k>
+
 
 23
-Use the computer. Use the graphics.
-<k></k>
+Use the computer. Use the `graphics`.
+<k>graphics
+[ˈɡræfɪks]
+n. 图表
+</k>
 
-24
-Me?  -Why not?
-<k></k>
 
 25
-Computers? They're a mystery!
-<k></k>
+Computers? They're a `mystery`!
+<k>mystery
+['mɪstri]	
+n. 迷
+这里表示电脑很难搞懂
+注意这里mystery不用复数. 因为把computers看做一个整体是一个mystery, 而不是说每台电脑都是一个mystery
+
+You could never figure out women. They are a mystery! </k>
 

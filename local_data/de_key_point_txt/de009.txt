@@ -1,124 +1,48 @@
-1
-What are you doing?
-<k></k>
-
-2
-Just taking your bags,sir.
-<k></k>
-
-3
-Ah...So,Mr.Yamamoto?
-<k></k>
-
-4
-Yes,yes.
-<k></k>
 
 5
-Where is that trolley going?
-<k></k>
+Where is that `trolley` going?
+<k>trolley
+ ['trɑli]	
+n. 手推车
 
-6
-To the airport.
-<k></k>
-
-7
-The airport?
-<k></k>
+Most supermarkets provide shopping trolleys.
+</k>
 
 8
-Well,no. The trolley's going outside to the shuttle bus.
-<k></k>
+Well, no. The trolley's going outside to the `shuttle bus`.
+<k>shuttle bus
+['ʃʌtl]
+往返班车
 
-9
-The shuttle's going to the airport.
-<k></k>
+He almost missed the last shuttle bus to the airport.
+</k>
 
-10
-But I'm just checking in!
-<k></k>
 
-11
-That's right sir.
-<k></k>
-
-12
-Do you have any bags?
-<k></k>
-
-13
-They're going to the airport!
-<k></k>
-
-14
-What?
-<k></k>
 
 15
-The porter is putting my bags on the shuttle!
-<k></k>
+The `porter` is putting my bags on the shuttle!
+<k>porter
+['pɔrtər]
+n. 搬运工(尤其是酒店车站机场的),杂务工
 
-16
-Carl! Carl!
-<k></k>
+The car drove off to the train station, and the porters put her luggage on the train.
+</k>
 
-17
-The bags go to Mr.Yamamoto's room!
-<k></k>
+
 
 18
-What's going on?
-<k></k>
+`What's going on`?
+<k>what's going on
+发生了什么
+= what's happening
 
-19
--His bags are going to the airport! -My bags are going to the airport!
-<k></k>
-
-20
-I hope you had a pleasant stay.
-<k></k>
+I heard somebody screaming. What's going on?</k>
 
 21
-This isn't happening.
-<k></k>
+`This isn't happening`.
+<k>this isn't happening
+这怎么会发生, 这不会发生,表示强烈的惊讶不满语气
 
-22
-Don't worry. I'm calling.
-<k></k>
-
-23
-I'm calling.
-<k></k>
-
-24
-What's happening now?
-<k></k>
-
-25
-Mr.Yamamoto's bags are on their way to the airport..
-<k></k>
-
-26
-So?
-<k></k>
-
-27
-I'm trying to get them back.
-<k></k>
-
-28
-Why?
-<k></k>
-
-29
-Our guest is just checking in.
-<k></k>
-
-30
-Uh oh!
-<k></k>
-
-31
-Not without my bags!
-<k></k>
+-I'm sorry sir, we lost you bags.
+-This isn't happening. I can't lose that bag</k>
 
