@@ -862,5 +862,85 @@
       "chineseTitle" : "低声下气",
       "courseNo" : 2,
       "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de108.mp4"
+   },
+   {
+      "lessonNo" : "141",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de141.jpg",
+      "englishTitle" : "Health and fitness",
+      "chineseTitle" : "健康与健身",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de141.mp4"
+   },
+   {
+      "lessonNo" : "142",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de142.jpg",
+      "englishTitle" : "Train strain",
+      "chineseTitle" : "火车劳损",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de142.mp4"
+   },
+   {
+      "lessonNo" : "143",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de143.jpg",
+      "englishTitle" : "Pets",
+      "chineseTitle" : "宠物",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de143.mp4"
+   },
+   {
+      "lessonNo" : "144",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de144.jpg",
+      "englishTitle" : "Good news",
+      "chineseTitle" : "好消息",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de144.mp4"
+   },
+   {
+      "lessonNo" : "145",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de145.jpg",
+      "englishTitle" : "Cabs, cars and candidates",
+      "chineseTitle" : "车租车,小汽车与候选人",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de145.mp4"
+   },
+   {
+      "lessonNo" : "146",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de146.jpg",
+      "englishTitle" : "Telephones",
+      "chineseTitle" : "电话",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de146.mp4"
+   },
+   {
+      "lessonNo" : "147",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de147.jpg",
+      "englishTitle" : "Things are going well",
+      "chineseTitle" : "一切进展顺利",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de147.mp4"
+   },
+   {
+      "lessonNo" : "148",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de148.jpg",
+      "englishTitle" : "Why not?",
+      "chineseTitle" : "为什么不行?",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de148.mp4"
+   },
+   {
+      "lessonNo" : "149",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de149.jpg",
+      "englishTitle" : "Because I said mo",
+      "chineseTitle" : "因为我说不",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de149.mp4"
+   },
+   {
+      "lessonNo" : "150",
+      "imageUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de150.jpg",
+      "englishTitle" : "Promise",
+      "chineseTitle" : "诺言",
+      "courseNo" : 2,
+      "videoUrl" : "http://7u2qm8.com1.z0.glb.clouddn.com/de150.mp4"
    }
 ]
