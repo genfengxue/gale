@@ -1,0 +1,306 @@
+[
+   {
+      "lessonNo" : 113,
+      "chinese" : "你上哪儿去了?",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:14,900 --> 00:00:15,906",
+      "english" : "Where have you been?"
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "就在这儿. 你上哪儿去了?",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:16,700 --> 00:00:18,045",
+      "english" : "Right here. Where have you been?"
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "就在这儿. Saks的门口.",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:18,000 --> 00:00:20,254",
+      "english" : "Right here. By the entrance to Saks."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "我们约好在这儿碰面的.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:20,300 --> 00:00:21,811",
+      "english" : "Where we agreed to meet."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "我们讲好在Saks的门口附近.",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:21,900 --> 00:00:24,113",
+      "english" : "We said near the entrance to Saks."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "我刚才就在Saks的门口附近.",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:24,300 --> 00:00:26,189",
+      "english" : "I was near the entrance to Saks."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "在另一边.",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:26,200 --> 00:00:27,097",
+      "english" : "On the other side."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "那不是门口附近.",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:27,400 --> 00:00:28,572",
+      "english" : "That's not near the entrance."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "那是电梯附近.",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:28,600 --> 00:00:29,897",
+      "english" : "That's near the escalator."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "我一直在找你.",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:00:30,000 --> 00:00:31,416",
+      "english" : "I was looking for you."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "是啊, 是啊. 要不是我看见你, 你早就从我身边走过去了.",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:00:31,500 --> 00:00:35,528",
+      "english" : "Yeah, yeah. You would have walked right by me if I hadn't seen you."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "来. 拿着这个.",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:00:35,800 --> 00:00:37,497",
+      "english" : "Here. Hold this."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "我想检查一下东西.",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:00:37,900 --> 00:00:39,501",
+      "english" : "I want to check something."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "我是什么, 柜子吗?",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:00:41,900 --> 00:00:43,302",
+      "english" : "What am I, a closet?"
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "什么? 你把你所能想到的东西都买回来了但是没有买水池...",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:00:44,403 --> 00:00:46,880",
+      "english" : "What, you buy everything but the kitchen sink..."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "别说了, Joe.",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:00:46,742 --> 00:00:48,830",
+      "english" : "Don't start, Joe."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "看见了? 很合适.",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:00:53,300 --> 00:00:55,745",
+      "english" : "See? It fits."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "配你的眼睛很漂亮.",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:00:56,400 --> 00:00:58,379",
+      "english" : "It's very nice with your eyes."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "你满意吗?",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:00:59,200 --> 00:01:00,477",
+      "english" : "Are you satisfied?"
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "那么刚才你做什么了?",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:01:01,300 --> 00:01:02,818",
+      "english" : "So what did you do?"
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "我去了药店, 还... ah,",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:01:03,500 --> 00:01:06,088",
+      "english" : "I went up to the drugstore and... ah,"
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "量了一下血压.",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:01:07,300 --> 00:01:08,768",
+      "english" : "had a blood pressure test."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "血压?",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:01:09,700 --> 00:01:10,614",
+      "english" : "Blood pressure?"
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "你认为你血压高吗?",
+      "sentenceNo" : 24,
+      "courseNo" : 2,
+      "timeline" : "00:01:10,660 --> 00:01:12,208",
+      "english" : "You think you have high blood pressure?"
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "Well, 我一直都想搞清楚这个问题.",
+      "sentenceNo" : 25,
+      "courseNo" : 2,
+      "timeline" : "00:01:12,210 --> 00:01:13,513",
+      "english" : "Well, I've been wondering about it."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "再说, 量血压是免费的.",
+      "sentenceNo" : 26,
+      "courseNo" : 2,
+      "timeline" : "00:01:13,600 --> 00:01:15,242",
+      "english" : "Besides, the test was free."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "你为什么会认为自己血压高呢?",
+      "sentenceNo" : 27,
+      "courseNo" : 2,
+      "timeline" : "00:01:15,600 --> 00:01:17,497",
+      "english" : "Why do you think you have high blood pressure?"
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "Marie.",
+      "sentenceNo" : 28,
+      "courseNo" : 2,
+      "timeline" : "00:01:17,700 --> 00:01:18,444",
+      "english" : "Marie."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "你这么想有多久了?",
+      "sentenceNo" : 29,
+      "courseNo" : 2,
+      "timeline" : "00:01:18,600 --> 00:01:20,174",
+      "english" : "How long have you thought this?"
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "为什么从不跟我说这些事?",
+      "sentenceNo" : 30,
+      "courseNo" : 2,
+      "timeline" : "00:01:20,700 --> 00:01:22,092",
+      "english" : "Why do you never tell me these things?"
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "Marie.",
+      "sentenceNo" : 31,
+      "courseNo" : 2,
+      "timeline" : "00:01:22,100 --> 00:01:23,047",
+      "english" : "Marie."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "你没跟我谈起过你的双光眼镜.",
+      "sentenceNo" : 32,
+      "courseNo" : 2,
+      "timeline" : "00:01:23,093 --> 00:01:25,179",
+      "english" : "You didn't tell me about your bifocals."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "你也不跟我谈你的血压.",
+      "sentenceNo" : 33,
+      "courseNo" : 2,
+      "timeline" : "00:01:25,202 --> 00:01:27,311",
+      "english" : "You don't tell me about your blood pressure."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "如果你戴着帽子,",
+      "sentenceNo" : 34,
+      "courseNo" : 2,
+      "timeline" : "00:01:28,321 --> 00:01:29,326",
+      "english" : "If you wore a hat,"
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "我都不会知道你是秃顶.",
+      "sentenceNo" : 35,
+      "courseNo" : 2,
+      "timeline" : "00:01:29,340 --> 00:01:31,714",
+      "english" : "I wouldn't know you were bald."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "走吧. 我累坏了.",
+      "sentenceNo" : 36,
+      "courseNo" : 2,
+      "timeline" : "00:01:38,000 --> 00:01:39,638",
+      "english" : "Let's go. I'm exhausted."
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "你怎么会觉得累呢?",
+      "sentenceNo" : 37,
+      "courseNo" : 2,
+      "timeline" : "00:01:43,000 --> 00:01:44,355",
+      "english" : "How can you be tired?"
+   },
+   {
+      "lessonNo" : 113,
+      "chinese" : "你刚刚打了个盹儿.",
+      "sentenceNo" : 38,
+      "courseNo" : 2,
+      "timeline" : "00:01:44,450 --> 00:01:45,397",
+      "english" : "You just took a nap."
+   }
+]

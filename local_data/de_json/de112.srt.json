@@ -1,0 +1,306 @@
+[
+   {
+      "lessonNo" : 112,
+      "chinese" : "怎么了? 你没听见我敲门吗?",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:11,500 --> 00:00:13,400",
+      "english" : "Hello? Didn't you hear me knock?"
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "你好妈妈. 对不起.",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:13,500 --> 00:00:15,663",
+      "english" : "Hi Mom. I'm sorry."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "我心里正想事儿呢.",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:15,700 --> 00:00:17,225",
+      "english" : "I'm a little preoccupied."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "有什么事儿吗?",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:17,300 --> 00:00:18,200",
+      "english" : "What's wrong?"
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "我的钥匙找不到了.",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:18,700 --> 00:00:20,450",
+      "english" : "I can't find my keys."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "我老是把钥匙弄丢.",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:22,000 --> 00:00:23,950",
+      "english" : "I'm always losing them."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "你还记得你小时候我是怎么做的吗?",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:24,100 --> 00:00:26,250",
+      "english" : "Do you remember what I did when you were little?"
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "怎么做的?",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:00:26,300 --> 00:00:26,900",
+      "english" : "What?"
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "在冬天,",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:00:27,400 --> 00:00:28,131",
+      "english" : "In the winter,"
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "你老是弄丢手套.",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:00:28,132 --> 00:00:29,950",
+      "english" : "you were always losing your gloves."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "所以我就用小别针把它们别在你的袖子上.",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:00:30,000 --> 00:00:32,950",
+      "english" : "And so I would attach them to your sleeves with little clips."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "这个办法通常很管用,",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:00:33,100 --> 00:00:33,987",
+      "english" : "It generally worked,"
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "但是有时候你还是有本事把它们弄丢.",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:00:34,200 --> 00:00:36,364",
+      "english" : "although sometimes you still managed to lose them."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "别问我是怎么丢的.",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:00:36,390 --> 00:00:37,550",
+      "english" : "Don't ask me how."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "但愿我能把钥匙别在袖子上.",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:00:37,600 --> 00:00:40,700",
+      "english" : "I wish I could clip my keys to my sleeves."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "也许你怀孕了.",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:00:40,800 --> 00:00:41,891",
+      "english" : "Maybe you're pregnant."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "妈妈.",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:00:41,900 --> 00:00:42,393",
+      "english" : "Mother."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "我怀孕时老是心不在焉.",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:00:42,400 --> 00:00:45,337",
+      "english" : "I was always very absent-minded when I was pregnant."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "我倒没有心不在焉.",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:00:45,400 --> 00:00:47,100",
+      "english" : "I was not absent-minded."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "只是老想吃奶酪汉堡.",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:00:47,300 --> 00:00:49,434",
+      "english" : "I constantly craved cheeseburgers."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "一点儿不错.",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:00:49,440 --> 00:00:50,500",
+      "english" : "That's right."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "奶酪汉堡? Hi外婆.",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:00:50,700 --> 00:00:53,183",
+      "english" : "Cheeseburgers? Hi Grammy."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "我不知道您今天会来.",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:00:53,200 --> 00:00:54,700",
+      "english" : "I didn't know you were here today."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "Well, 我通常星期三做头发.",
+      "sentenceNo" : 24,
+      "courseNo" : 2,
+      "timeline" : "00:00:54,800 --> 00:00:57,042",
+      "english" : "Well, I usually get my hair done on Wednesdays."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "但是我的发型师这周休假,",
+      "sentenceNo" : 25,
+      "courseNo" : 2,
+      "timeline" : "00:00:57,080 --> 00:00:59,174",
+      "english" : "But my stylist is on vacation this week,"
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "所以我决定来看你们.",
+      "sentenceNo" : 26,
+      "courseNo" : 2,
+      "timeline" : "00:00:59,200 --> 00:01:00,800",
+      "english" : "so I decided to visit."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "过来, 宝贝. 你好吗?",
+      "sentenceNo" : 27,
+      "courseNo" : 2,
+      "timeline" : "00:01:00,900 --> 00:01:02,940",
+      "english" : "Come here, sweetheart. How are you?"
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "很好.",
+      "sentenceNo" : 28,
+      "courseNo" : 2,
+      "timeline" : "00:01:03,000 --> 00:01:03,551",
+      "english" : "Good."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "你决定好怎么过生日了吗?",
+      "sentenceNo" : 29,
+      "courseNo" : 2,
+      "timeline" : "00:01:03,600 --> 00:01:05,950",
+      "english" : "Have you decided what you want to do for your birthday?"
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "我们要在这儿开晚会,",
+      "sentenceNo" : 30,
+      "courseNo" : 2,
+      "timeline" : "00:01:06,400 --> 00:01:07,719",
+      "english" : "We're having a party here,"
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "然后我和朋友们一起出去.",
+      "sentenceNo" : 31,
+      "courseNo" : 2,
+      "timeline" : "00:01:07,900 --> 00:01:09,219",
+      "english" : "then I'm going out with my friends."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "太棒了.",
+      "sentenceNo" : 32,
+      "courseNo" : 2,
+      "timeline" : "00:01:09,300 --> 00:01:10,798",
+      "english" : "That sounds terrific."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "是啊.",
+      "sentenceNo" : 33,
+      "courseNo" : 2,
+      "timeline" : "00:01:10,798 --> 00:01:11,300",
+      "english" : "Yeah."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "您留下来吃晚饭是吗?",
+      "sentenceNo" : 34,
+      "courseNo" : 2,
+      "timeline" : "00:01:12,200 --> 00:01:13,500",
+      "english" : "So are you staying for dinner?"
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "为什么不呀?",
+      "sentenceNo" : 35,
+      "courseNo" : 2,
+      "timeline" : "00:01:13,700 --> 00:01:14,500",
+      "english" : "Why don't you?"
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "我们打算去买些快餐,",
+      "sentenceNo" : 36,
+      "courseNo" : 2,
+      "timeline" : "00:01:15,000 --> 00:01:16,281",
+      "english" : "We're planning to get take-out,"
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "如果我能找到我的...",
+      "sentenceNo" : 37,
+      "courseNo" : 2,
+      "timeline" : "00:01:16,300 --> 00:01:17,737",
+      "english" : "if I can ever find my..."
+   },
+   {
+      "lessonNo" : 112,
+      "chinese" : "妈妈, 你的钥匙怎么在水果盘里?",
+      "sentenceNo" : 38,
+      "courseNo" : 2,
+      "timeline" : "00:01:17,790 --> 00:01:20,955",
+      "english" : "Mom, why are your keys in the fruit bowl?"
+   }
+]

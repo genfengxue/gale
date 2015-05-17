@@ -1,0 +1,290 @@
+[
+   {
+      "lessonNo" : 111,
+      "chinese" : "Richard! 你好.",
+      "sentenceNo" : 1,
+      "courseNo" : 2,
+      "timeline" : "00:00:47,900 --> 00:00:49,850",
+      "english" : "Richard! Hello."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "我没有让你们等很长时间吧.",
+      "sentenceNo" : 2,
+      "courseNo" : 2,
+      "timeline" : "00:00:50,100 --> 00:00:52,012",
+      "english" : "I hope I haven't kept you waiting very long."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "没有, 没有.我们也刚刚到.",
+      "sentenceNo" : 3,
+      "courseNo" : 2,
+      "timeline" : "00:00:52,100 --> 00:00:53,580",
+      "english" : "No, no. We just arrived."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "Nancy, 这位是Constanza Fuentes.",
+      "sentenceNo" : 4,
+      "courseNo" : 2,
+      "timeline" : "00:00:53,606 --> 00:00:55,469",
+      "english" : "Nancy, this is Constanza Fuentes."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "Constanza, 这是我妻子Nancy.",
+      "sentenceNo" : 5,
+      "courseNo" : 2,
+      "timeline" : "00:00:55,500 --> 00:00:56,631",
+      "english" : "Constanza, my wife Nancy."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "认识你很高兴.",
+      "sentenceNo" : 6,
+      "courseNo" : 2,
+      "timeline" : "00:00:56,680 --> 00:00:58,282",
+      "english" : "I am so pleased to meet you."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "我说, 咱们上楼吧.",
+      "sentenceNo" : 7,
+      "courseNo" : 2,
+      "timeline" : "00:00:58,300 --> 00:00:59,845",
+      "english" : "Listen, let's go upstairs."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "我带你们到处看看.",
+      "sentenceNo" : 8,
+      "courseNo" : 2,
+      "timeline" : "00:01:00,000 --> 00:01:01,354",
+      "english" : "I'd love to show you around."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "你是叫Nancy Hobart,",
+      "sentenceNo" : 9,
+      "courseNo" : 2,
+      "timeline" : "00:01:07,900 --> 00:01:09,366",
+      "english" : "Is it Nancy Hobart,"
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "还是姓你娘家的姓?",
+      "sentenceNo" : 10,
+      "courseNo" : 2,
+      "timeline" : "00:01:09,390 --> 00:01:10,790",
+      "english" : "or did you keep your own name?"
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "我姓Hobart.",
+      "sentenceNo" : 11,
+      "courseNo" : 2,
+      "timeline" : "00:01:10,800 --> 00:01:11,470",
+      "english" : "It's Hobart."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "我和Richard结婚时就改随他的姓了.",
+      "sentenceNo" : 12,
+      "courseNo" : 2,
+      "timeline" : "00:01:11,500 --> 00:01:13,327",
+      "english" : "I took Richard's name when we got married."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "Oh, 我也是姓我丈夫的姓.",
+      "sentenceNo" : 13,
+      "courseNo" : 2,
+      "timeline" : "00:01:13,700 --> 00:01:15,438",
+      "english" : "Oh, I took my husband's name, too."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "不过那是很久以前的传统了.",
+      "sentenceNo" : 14,
+      "courseNo" : 2,
+      "timeline" : "00:01:15,600 --> 00:01:17,187",
+      "english" : "But that was a long time ago."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "如今, 很多女性都不改随夫姓了.",
+      "sentenceNo" : 15,
+      "courseNo" : 2,
+      "timeline" : "00:01:17,700 --> 00:01:19,258",
+      "english" : "These days, many women don't."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "我们结婚那会儿, 要是不改随夫姓的话会很麻烦的.",
+      "sentenceNo" : 16,
+      "courseNo" : 2,
+      "timeline" : "00:01:19,400 --> 00:01:23,321",
+      "english" : "At the time, it was more trouble to keep my own name than to change it to his."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "不过我女儿的中间名用的是我的姓.",
+      "sentenceNo" : 17,
+      "courseNo" : 2,
+      "timeline" : "00:01:23,340 --> 00:01:26,265",
+      "english" : "So we gave mine to our daughter as a middle name."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "你女儿叫Beth, 对吧?",
+      "sentenceNo" : 18,
+      "courseNo" : 2,
+      "timeline" : "00:01:26,300 --> 00:01:27,743",
+      "english" : "Your daughter is Beth, right?"
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "Elizabeth Jane Ellis Hobart.",
+      "sentenceNo" : 19,
+      "courseNo" : 2,
+      "timeline" : "00:01:27,800 --> 00:01:29,772",
+      "english" : "Elizabeth Jane Ellis Hobart."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "Oh, 这名宇真好听.",
+      "sentenceNo" : 20,
+      "courseNo" : 2,
+      "timeline" : "00:01:29,780 --> 00:01:30,864",
+      "english" : "Oh, it's beautiful."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "听上去像是作家的名字, 对吗?",
+      "sentenceNo" : 21,
+      "courseNo" : 2,
+      "timeline" : "00:01:30,870 --> 00:01:32,779",
+      "english" : "It sounds like an author's name, doesn't it?"
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "我倒觉得听上去像是律师的名字.",
+      "sentenceNo" : 22,
+      "courseNo" : 2,
+      "timeline" : "00:01:32,800 --> 00:01:34,806",
+      "english" : "I think it sounds like an attorney's name."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "Beth觉得呢?",
+      "sentenceNo" : 23,
+      "courseNo" : 2,
+      "timeline" : "00:01:35,300 --> 00:01:36,459",
+      "english" : "And what does Beth think?"
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "她希望她的名字听起来像是位了不起的网球运动员.",
+      "sentenceNo" : 24,
+      "courseNo" : 2,
+      "timeline" : "00:01:36,500 --> 00:01:39,189",
+      "english" : "She'd like to think it's the name of a great tennis player."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "那我太高兴了.",
+      "sentenceNo" : 25,
+      "courseNo" : 2,
+      "timeline" : "00:01:39,190 --> 00:01:40,536",
+      "english" : "I'm glad to hear it."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "要知道候选人的家庭成员经常会受到公众的注意.",
+      "sentenceNo" : 26,
+      "courseNo" : 2,
+      "timeline" : "00:01:40,580 --> 00:01:43,382",
+      "english" : "You know the families of candidates are often in the public eye."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "有些孩子会觉得受不了.",
+      "sentenceNo" : 27,
+      "courseNo" : 2,
+      "timeline" : "00:01:43,400 --> 00:01:45,329",
+      "english" : "Some kids have a hard time with it."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "不过也许你们的女儿不大会介意这些.",
+      "sentenceNo" : 28,
+      "courseNo" : 2,
+      "timeline" : "00:01:45,600 --> 00:01:48,554",
+      "english" : "But perhaps that daughter of yours wouldn't mind it so much."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "那也得以后才知道.",
+      "sentenceNo" : 29,
+      "courseNo" : 2,
+      "timeline" : "00:01:48,700 --> 00:01:49,538",
+      "english" : "We'll see."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "毕竟父亲要做名人这件事她还是头一次碰到.",
+      "sentenceNo" : 30,
+      "courseNo" : 2,
+      "timeline" : "00:01:49,800 --> 00:01:52,747",
+      "english" : "It's all very new to her the idea of her father as a celebrity."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "Nancy...",
+      "sentenceNo" : 31,
+      "courseNo" : 2,
+      "timeline" : "00:01:52,747 --> 00:01:53,282",
+      "english" : "Nancy..."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "我是说有点儿小名气的人.",
+      "sentenceNo" : 32,
+      "courseNo" : 2,
+      "timeline" : "00:01:53,500 --> 00:01:55,194",
+      "english" : "A minor celebrity."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "Oh, 不, Nancy.",
+      "sentenceNo" : 33,
+      "courseNo" : 2,
+      "timeline" : "00:01:55,200 --> 00:01:56,244",
+      "english" : "Oh, no, Nancy."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "我们要是想让他做名人的话,",
+      "sentenceNo" : 34,
+      "courseNo" : 2,
+      "timeline" : "00:01:56,500 --> 00:01:57,890",
+      "english" : "If we are going to have a celebrity,"
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "那就让他做个大名人.",
+      "sentenceNo" : 35,
+      "courseNo" : 2,
+      "timeline" : "00:01:57,900 --> 00:01:58,985",
+      "english" : "let's do it in a big way."
+   },
+   {
+      "lessonNo" : 111,
+      "chinese" : "让我们也有一个明星!",
+      "sentenceNo" : 36,
+      "courseNo" : 2,
+      "timeline" : "00:01:59,000 --> 00:01:59,997",
+      "english" : "Let's have a star!"
+   }
+]
