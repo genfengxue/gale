@@ -22,7 +22,7 @@ exports.AsyncClass = Class.subclass({
     $_bindSelf: function(tasks) {
         for (var i in tasks) {
             var task = tasks[i];
-            if (task instanceof Array) {
+            if (task instanceof Array) {//用来包装auto方法，它的task参数会出现数组值
                 var func = task[task.length-1];
                 task[task.length-1] = this._createFunc(func)
             } else {
