@@ -95,7 +95,7 @@ Nan...
 
 20
 00:01:04,240 --> 00:01:06,600
-...that the colors be soothing.
+... that the colors be soothing.
 色彩要让人感到平和、放松.
 
 21
@@ -115,7 +115,7 @@ However, the surgeon and my partner could not agree on green.
 
 24
 00:01:19,340 --> 00:01:22,800
-Green is...green, right?
+Green is... green, right?
 绿色就是绿色，对不对?
 
 25

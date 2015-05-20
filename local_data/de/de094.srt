@@ -130,7 +130,7 @@ You said it on Friday.
 
 27
 00:01:04,162 --> 00:01:07,500
-Last week, "next week" means "this week" this week.
+Last week, "next week" means " this week" this week.
 上周说的"下周"到这周就变成"这周"了.
 
 28
