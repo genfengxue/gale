@@ -1,0 +1,58 @@
+1
+`Excuse me`!
+<k>excuse me
+抱歉打扰一下,劳驾
+在打扰别人的时候,如提问,打断别人,穿过人群等情况使用
+
+Excuse me, can I get past, please? 
+劳驾, 能让我过去吗? 
+</k>
+
+2
+`Yes`?
+<k>Yes?
+嗯? 怎么了?
+用于回应别人开始的新对话
+
+-Mom!
+-妈妈!
+-Yes?
+-嗯?
+-Can you come here?
+-你能来一下吗?
+</k>
+
+3
+`Is this your handbag`?
+<k>Is this your...?
+这是你的...吗?
+
+handbag 
+['hændbæɡ]	
+n. 手提包
+
+Is this your boyfriend?
+这是你的男朋友吗?</k>
+
+4
+`Pardon`?
+<k>pardon
+['pɑrdn]	
+抱歉, 请重讲一遍
+
+Pardon, could you say that again?
+抱歉(我没听清),您能再讲一次吗? </k>
+
+
+6
+`Yes, it is`.
+<k>Yes, it is.
+是的，它是.
+对于Is this...?的肯定回答，否定回答为:No, it isn't.</k>
+
+7
+`Thank you very much`.
+<k>Thank you very much.
+非常感谢你
+简短的可以讲thank you或thanks</k>
+

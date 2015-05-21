@@ -1,0 +1,59 @@
+1
+My `coat` and my umbrella please.
+<k>coat
+[koʊt]
+n. 外套</k>
+
+1
+My coat and my `umbrella` please.
+<k>umbrella
+[ʌm'brelə]	
+n. 雨伞</k>
+
+2
+`Here is` my ticket.
+<k>Here is...
+这是...
+常用于递给别人东西的时候
+
+Here is the money.
+(递给别人)这是钱.</k>
+
+2
+Here is my `ticket`.
+<k>ticket
+['tɪkɪt]
+n. 票</k>
+
+3
+Thank you, `sir`. Number five.
+<k>sir
+[sər]
+先生,对不认识的男生的称呼,女性为madam</k>
+
+5
+`This is not` my umbrella.
+<k>This is not...
+这不是...
+
+This is not my coat.
+这不是我的外套.</k>
+
+8
+`No, it isn't`.
+<k>No, it isn't.
+不，它不是.
+对Is this...?的否定回答</k>
+
+9
+Is this `it`?
+<k>it
+它
+在重复出现同一个物品的时候,可以用代词it代替
+
+-Is this your ticket?
+-这是你的票吗?
+-No, that's not it
+-不,它不是.</k>
+
+

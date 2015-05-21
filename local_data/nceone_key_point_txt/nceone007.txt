@@ -1,0 +1,55 @@
+
+
+2
+My name's `Robert`.
+<k>Robert
+['rɔbət]</k>
+
+4
+My name's `Sophie`.
+<k>Sophie
+['sɔfi]</k>
+
+5
+`Are you French`?
+<k>Are you...?
+你是...吗?
+
+Are you Chinese?
+你是中国人吗?</k>
+
+9
+What `nationality` are you?
+<k>nationality
+[ˌnæʃə'næləti]
+n. 国籍
+</k>
+
+10
+I'm `Italian`.
+<k>Italian
+[ɪ'tæliən]
+意大利人</k>
+
+13
+`What's your job`?
+<k>what's your job
+你的工作是什么?
+还可以说what do you do?
+</k>
+
+14
+I'm a `keyboard operator`.
+<k>keyboard operator
+['kiːbɔrd] ['ɑpəreɪtər]
+打字员
+keboard operator = keyboarder
+</k>
+
+
+16
+I'm an `engineer`.
+<k>engineer
+[ˌendʒɪ'nɪr]
+工程师</k>
+

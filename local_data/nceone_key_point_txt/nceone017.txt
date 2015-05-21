@@ -1,0 +1,134 @@
+1
+`Come and meet` our employees, Mr. Richards.
+<k>come and meet
+来认识一下...
+
+Come and meet my friend Lucy.
+来认识一下我的朋友Lucy.</k>
+
+1
+Come and meet our `employees`, Mr. Richards.
+<k>employee
+[ɪm'plɔɪi]
+n. 雇员, 雇主为 employer [ɪm'plɔɪər]	
+
+
+I am an employee of BMW.
+我是宝马的雇员.
+</k>
+
+1
+Come and meet our employees, Mr. `Richards`.
+<k>Richards
+ [ˈrɪtʃədz]
+</k>
+
+
+2
+Thank you, Mr.`Jackson`.
+<k>Jackson
+['dʒæksən]</k>
+
+3
+This is `Nicola Grey`,and this is Claire Taylor.
+<k>Nicola Grey
+[nikɔlɑ] [ɡreɪ]	
+</k>
+
+3
+This is Nicola Grey,and this is `Claire Taylor`.
+<k>Claire Taylor
+[kleə] [ˈtelər]</k>
+
+4
+`How do you do`?
+<k>How do you do?
+你好吗?
+
+见到不熟悉的人打招呼的方式,回应应该为How do you do?
+见到熟人的打招呼的方式为How are you?</k>
+
+5
+Those women are very `hard-working`.
+<k>hard-working
+adj. 努力工作的
+
+My father is a hard-working employee.
+我的父亲是个努力工作的雇员.</k>
+
+6
+`What are their jobs`?
+<k>what is/are one's job(s)?
+某人的工作是什么?
+
+-What is your job?
+-你的工作是什么?
+-I am a teacher.
+-我是个老师.</k>
+
+7
+They're `keyboard operators`.
+<k>keyboard operator
+['kiːbɔrd] ['ɑpəreɪtər]
+打字员
+keboard operator = keyboarder</k>
+
+8
+This is `Michael Baker`,and this is Jeremy Short.
+<k>Michael Baker
+['maɪkəl]['beɪkər]</k>
+
+8
+This is Michael Baker,and this is `Jeremy Short`.
+<k>Jeremy Short
+[ˈdʒerimi][ʃɔrt]
+</k>
+
+10
+They aren't very `busy`!
+<k>busy
+['bɪzi]
+adj. 繁忙的
+
+I'm busy with my work.
+我的工作很忙.</k>
+
+
+12
+They're `sales reps`.
+<k>sales rep
+[seɪlz]	[rep]	
+n. 销售代表
+sales representative [ˌreprɪ'zentətɪv]的简称</k>
+
+13
+They're very `lazy`.
+<k>lazy
+['leɪzi]
+adj. 懒的
+
+He is not a lazy boy.
+他不是一个懒的男孩.
+</k>
+
+14
+`Who is this` young man?
+<k>who is this ...?
+这个...是谁?
+回答应为This is ...
+
+Who is this boy?
+这个小男孩是谁?</k>
+
+15
+This is `Jim`. He's our office assistant.
+<k>Jim
+[dʒɪm]
+</k>
+
+15
+This is Jim. He's our `office assistant`.
+<k>office assistant
+['ɔfɪs]	[ə'sɪstənt]
+办公室助理</k>
+

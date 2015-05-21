@@ -1,0 +1,59 @@
+1
+Hello, `Helen`.
+<k>Helen
+['helən]</k>
+
+2
+Hi, `Steven`.
+<k>Steven
+[ˈstivn]</k>
+
+3
+`How are you today`?
+<k>How are you today?
+你今天怎么样?(固定说法)
+</k>
+
+4
+`Very well`, thank you.
+<k>very well
+非常好
+well在这里指身体健康,没有生病
+</k>
+
+5
+`And you`?
+<k>and you?
+你呢?
+
+-Are you going to study English, Lily?
+-Lily,你是要去学英语么?
+-Yes, and you?
+-是的,你呢?
+-Me too.
+-我也是.</k>
+
+6
+`I'm fine`, thanks.
+<k>I'm fine.
+我很好
+</k>
+
+7
+How is `Tony`?
+<k>Tony
+['toʊni]</k>
+
+
+9
+How's `Emma`?
+<k>Emma
+[ˈemə]</k>
+
+12
+`Nice to see you`.
+<k>nice to see you
+很高兴见到你(和对方认识), 既可以用于刚刚见到对方, 也可以用于和对方结束对话时
+注意与nice to mee you(和对方不认识)进行区别</k>
+
+

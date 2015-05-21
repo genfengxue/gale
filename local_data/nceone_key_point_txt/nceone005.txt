@@ -1,0 +1,91 @@
+1
+`Good morning`.
+<k>早上好(00：00—12：00)
+见面问好的方式.同样有good afternoon 下午好 (12;00-18:00)
+good evening 晚上好 (18:00-00:00)
+good night 晚安(离开去睡觉时讲)</k>
+
+2
+Good morning, `Mr. Blake`.
+<k>Mr. Blake
+['mɪstər][bleɪk]
+布莱克先生
+Mr.用于对男士的尊称</k>
+
+3
+`This is` Miss Sophie Dupont.
+<k>This is...
+这是...(用于介绍某人时使用)
+
+This is my father.
+这是我的父亲.
+</k>
+
+3
+This is `Miss Sophie Dupont`.
+<k>Miss Sophie Dupont
+[mɪs]['sɔfɪ][du'pɑnt]</k>
+
+5
+She is `French`.
+<k>French
+[frentʃ]	
+法国人, 法国为France [fræns].
+</k>
+
+6
+Sophie, this is `Hans`.
+<k>Hans
+[hænz]
+</k>
+
+7
+He is `German`.
+<k>German
+['dʒərmən]	
+德国人
+德国为 Germnay ['dʒərməni]	
+</k>
+
+8
+`Nice to meet you`.
+<k>nice to meet you
+很高兴见到你
+用于第一次与别人见面时</k>
+
+
+
+10
+She's `Japanese`.
+<k>Japanese
+[ˌdʒæpə'niz]
+日本人
+日本为Japan  [dʒə'pæn]</k>
+
+
+13
+He's `Korean`.
+<k>Korean
+ [kə'riən]	
+韩国人
+韩国为(South) Korea [kə'riə]</k>
+
+
+16
+He is `Chinese`.
+<k>Chinese
+[ˌtʃaɪ'niz]
+中国人
+中国为China ['tʃaɪnə]</k>
+
+
+19
+She's Chinese, `too`.
+<k>too
+也
+用于肯定句句尾
+
+-I love you.
+-我爱你
+-I love you too.
+-我也爱你</k>

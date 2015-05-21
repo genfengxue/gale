@@ -1,0 +1,108 @@
+1
+Are `you` Swedish?
+<k>you
+你,你们
+根据后文回答,这里指你们</k>
+
+1
+Are you `Swedish`?
+<k>Swedish
+['swidɪʃ]
+n. 瑞典人,瑞典为 Sweden['swiːdn]	
+</k>
+
+2
+`No, we are not`.
+<k>No, we are not.
+不,我们不是.
+对Are you...?的否定回答,肯定回答为Yes, we are.
+
+-Are you Japanese?
+-你是日本人吗?
+-No, we aren't.
+-不,我们不是.
+-Are you Chinese then?
+-那你是中国人吗?
+-Yes, we are.
+-是,我们是.</k>
+
+3
+We are `Danish`.
+<k>Danish
+ ['deɪnɪʃ]
+n. 丹麦人,丹麦为 Denmark  ['denmɑrk]</k>
+
+4
+Are your `friends` Danish, too?
+<k>friend
+[frend]	
+n. 朋友(friends为复数)
+
+This is my friend Tom.
+这是我的朋友Tom.
+</k>
+
+5
+`No, they aren't`.
+<k>No, they aren't.
+不,他们不是.
+对Are they...?的否定回答,肯定回答为Yes, they are.
+
+-Are they German?
+-他们是德国人吗?
+-No, they aren't.
+-不,他们不是.
+-Are they French then?
+-那他们是法国人吗?
+-Yes, they are.
+-是,他们是.
+</k>
+
+6
+They are `Norwegian`.
+<k>Norwegian
+[nɔr'widʒən]	
+n. 挪威人,挪威为 Norway ['nɔrweɪ]
+ </k>
+
+7
+`Your passports, please`.
+<k>Your ..., please.
+(请出示)您的...
+passport ['pæspɔrt] n. 护照
+
+Your ticket please.
+(请出示)您的票.
+</k>
+
+
+9
+`Are these your cases`?
+<k>Are these your...?
+这些是你的...吗?
+case [keɪs] n. 箱子
+
+Are these your pants?
+这些是你的裤子吗?
+</k>
+
+11
+Our cases are `brown`.
+<k>brown
+[braʊn]
+adj. 棕色的
+
+My eyes are brown.
+我的眼睛是棕色的.</k>
+
+13
+Are you `tourists`?
+<k>tourist
+['tʊrɪst]	
+n. 游客
+
+We are Chinese tourists.
+我们是中国游客.</k>
+
+
+

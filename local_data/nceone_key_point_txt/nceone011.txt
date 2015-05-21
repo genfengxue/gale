@@ -1,0 +1,67 @@
+1
+`Whose shirt is that`?
+<k>Whose...is that?
+那个...是谁的?
+
+Whose coat is that?
+这是谁的外套?</k>
+
+2
+Is this your shirt, `Dave`?
+<k>Dave
+[deɪv]</k>
+
+6
+My shirt's `blue`.
+<k>blue
+[blu]
+adj. 蓝色的
+
+The sky is blue.
+天空是蓝色的.
+</k>
+
+7
+`Is this shirt Tim's`?
+<k>Is this...one's?
+这个...是某人的吗?
+
+Tim [tɪm]
+也可以说Is this Tim's shirt?(这是Tim的外套吗?)</k>
+
+8
+`Perhaps` it is, sir.
+<k>perhaps
+[pər'hæps]
+adv. 也许
+
+Perhaps this is your ticket.
+也许这是你的票.
+</k>
+
+9
+Tim's shirt's `white`.
+<k>white
+[waɪt]
+adj. 白色的
+
+Clouds are white.
+云是白色的.
+</k>
+
+
+14
+Here you are.
+<k>here you are
+给你
+
+This your umbrella, here you are.
+这是你的伞,给你.</k>
+
+15
+Catch!
+<k>catch
+接住,抓住,拿住
+</k>
+
+
