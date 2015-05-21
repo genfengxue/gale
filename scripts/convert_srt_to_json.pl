@@ -7,6 +7,7 @@ use JSON;
 use lib 'scripts';
 use Gale qw/getLessonNo write_file json_encode/;
 
+# PERL_HASH_SEED=0x00 PERL_PERTURB_KEYS=0
 # perl scripts/convert_srt_to_json.pl nceone
 # perl scripts/convert_srt_to_json.pl de
 
