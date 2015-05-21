@@ -1,0 +1,55 @@
+{
+   "13" : {
+      "6" : {
+         "1,2,3,4" : [
+            "that's a nice...\n那是个好的(漂亮的)...(表示称赞)\n\nThat's a nice house.\n那是间漂亮的房子."
+         ]
+      },
+      "12" : {
+         "4" : [
+            "lovely\n['lʌvli]\t\nadj. 可爱的\n\nThis lovely dress is Lily's.\n这条可爱的连衣裙是Lily的.\n"
+         ]
+      },
+      "7" : {
+         "3" : [
+            "smart\n[smɑrt]\nadj. 漂亮的\n\nThis is a smart coat.\n这是件漂亮的外套.\n"
+         ]
+      },
+      "5" : {
+         "1" : [
+            "look\n [lʊk]\t\nv. 看,瞧\n\nLook! This is my dress!\n看,这是我的连衣裙!\n"
+         ],
+         "2,3,4" : [
+            "here it is\n它在这儿\n\n-Where is my umbrella?\n-我的伞在哪里?\n-Here it is.\n-它在这儿呢.\n"
+         ]
+      },
+      "2" : {
+         "2" : [
+            "green\n[ɡrin]\t\nadj. 绿色的\n\nThe grass is green.\n小草是绿色的. "
+         ]
+      },
+      "3" : {
+         "1,2" : [
+            "come upstairs\n上楼来\nupstairs [ˌʌp'sterz] adv. 楼上\n\n-Mom!\n-妈妈!\n-Yes?\n-嗯?\n-Come upstairs!\n-上楼来一下!\n"
+         ]
+      },
+      "10" : {
+         "2,3,4" : [
+            "the same colour\n同样的颜色\n\n-My dress is blue.\n-我的连衣裙是蓝色的.\n-My dress is the same colour.\n-我的连衣裙(跟你的)是同样的颜色."
+         ]
+      },
+      "1" : {
+         "1,2" : [
+            "what colour is/are ...?\n...是什么颜色?\ncolour ['kʌlər] n. 颜色,美式拼写为color.\n\nWhat colour is your hair?\n你的头发是什么颜色?"
+         ],
+         "5" : [
+            "dress\n[dres]\t\nn. 连衣裙\n\nIs this your dress?\n这是你的连衣裙吗? "
+         ]
+      },
+      "8" : {
+         "2" : [
+            "hat\n[hæt] \nn. 帽子\n\nWhose hat is it?\n这是谁的帽子?\n"
+         ]
+      }
+   }
+}

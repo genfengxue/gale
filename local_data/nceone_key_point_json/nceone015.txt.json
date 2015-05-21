@@ -1,0 +1,57 @@
+{
+   "15" : {
+      "13" : {
+         "3" : [
+            "tourist\n['tʊrɪst]\t\nn. 游客\n\nWe are Chinese tourists.\n我们是中国游客."
+         ]
+      },
+      "6" : {
+         "3" : [
+            "Norwegian\n[nɔr'widʒən]\t\nn. 挪威人,挪威为 Norway ['nɔrweɪ]\n "
+         ]
+      },
+      "7" : {
+         "1,2,3" : [
+            "Your ..., please.\n(请出示)您的...\npassport ['pæspɔrt] n. 护照\n\nYour ticket please.\n(请出示)您的票.\n"
+         ]
+      },
+      "5" : {
+         "1,2,3" : [
+            "No, they aren't.\n不,他们不是.\n对Are they...?的否定回答,肯定回答为Yes, they are.\n\n-Are they German?\n-他们是德国人吗?\n-No, they aren't.\n-不,他们不是.\n-Are they French then?\n-那他们是法国人吗?\n-Yes, they are.\n-是,他们是.\n"
+         ]
+      },
+      "2" : {
+         "1,2,3,4" : [
+            "No, we are not.\n不,我们不是.\n对Are you...?的否定回答,肯定回答为Yes, we are.\n\n-Are you Japanese?\n-你是日本人吗?\n-No, we aren't.\n-不,我们不是.\n-Are you Chinese then?\n-那你是中国人吗?\n-Yes, we are.\n-是,我们是."
+         ]
+      },
+      "3" : {
+         "3" : [
+            "Danish\n ['deɪnɪʃ]\nn. 丹麦人,丹麦为 Denmark  ['denmɑrk]"
+         ]
+      },
+      "9" : {
+         "1,2,3,4" : [
+            "Are these your...?\n这些是你的...吗?\ncase [keɪs] n. 箱子\n\nAre these your pants?\n这些是你的裤子吗?\n"
+         ]
+      },
+      "11" : {
+         "4" : [
+            "brown\n[braʊn]\nadj. 棕色的\n\nMy eyes are brown.\n我的眼睛是棕色的."
+         ]
+      },
+      "1" : {
+         "3" : [
+            "Swedish\n['swidɪʃ]\nn. 瑞典人,瑞典为 Sweden['swiːdn]\t\n"
+         ],
+         "2" : [
+            "you\n你,你们\n根据后文回答,这里指你们"
+         ]
+      },
+      "4" : {
+         "3" : [
+            "friend\n[frend]\t\nn. 朋友(friends为复数)\n\nThis is my friend Tom.\n这是我的朋友Tom.\n"
+         ]
+      }
+   }
+}

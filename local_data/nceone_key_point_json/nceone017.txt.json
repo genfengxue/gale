@@ -1,0 +1,84 @@
+{
+   "17" : {
+      "14" : {
+         "1,2,3" : [
+            "who is this ...?\n这个...是谁?\n回答应为This is ...\n\nWho is this boy?\n这个小男孩是谁?"
+         ]
+      },
+      "13" : {
+         "3" : [
+            "lazy\n['leɪzi]\nadj. 懒的\n\nHe is not a lazy boy.\n他不是一个懒的男孩.\n"
+         ]
+      },
+      "6" : {
+         "1,2,3,4" : [
+            "what is/are one's job(s)?\n某人的工作是什么?\n\n-What is your job?\n-你的工作是什么?\n-I am a teacher.\n-我是个老师."
+         ]
+      },
+      "12" : {
+         "2,3" : [
+            "sales rep\n[seɪlz]\t[rep]\t\nn. 销售代表\nsales representative [ˌreprɪ'zentətɪv]的简称"
+         ]
+      },
+      "7" : {
+         "2,3" : [
+            "keyboard operator\n['kiːbɔrd] ['ɑpəreɪtər]\n打字员\nkeboard operator = keyboarder"
+         ]
+      },
+      "15" : {
+         "6,7" : [
+            "office assistant\n['ɔfɪs]\t[ə'sɪstənt]\n办公室助理"
+         ],
+         "3" : [
+            "Jim\n[dʒɪm]\n"
+         ]
+      },
+      "5" : {
+         "5" : [
+            "hard-working\nadj. 努力工作的\n\nMy father is a hard-working employee.\n我的父亲是个努力工作的雇员."
+         ]
+      },
+      "2" : {
+         "4" : [
+            "Jackson\n['dʒæksən]"
+         ]
+      },
+      "3" : {
+         "8,9" : [
+            "Claire Taylor\n[kleə] [ˈtelər]"
+         ],
+         "3,4" : [
+            "Nicola Grey\n[nikɔlɑ] [ɡreɪ]\t\n"
+         ]
+      },
+      "10" : {
+         "4" : [
+            "busy\n['bɪzi]\nadj. 繁忙的\n\nI'm busy with my work.\n我的工作很忙."
+         ]
+      },
+      "1" : {
+         "1,2,3" : [
+            "come and meet\n来认识一下...\n\nCome and meet my friend Lucy.\n来认识一下我的朋友Lucy."
+         ],
+         "7" : [
+            "Richards\n [ˈrɪtʃədz]\n"
+         ],
+         "5" : [
+            "employee\n[ɪm'plɔɪi]\nn. 雇员, 雇主为 employer [ɪm'plɔɪər]\t\n\n\nI am an employee of BMW.\n我是宝马的雇员.\n"
+         ]
+      },
+      "8" : {
+         "8,9" : [
+            "Jeremy Short\n[ˈdʒerimi][ʃɔrt]\n"
+         ],
+         "3,4" : [
+            "Michael Baker\n['maɪkəl]['beɪkər]"
+         ]
+      },
+      "4" : {
+         "1,2,3,4" : [
+            "How do you do?\n你好吗?\n\n见到不熟悉的人打招呼的方式,回应应该为How do you do?\n见到熟人的打招呼的方式为How are you?"
+         ]
+      }
+   }
+}

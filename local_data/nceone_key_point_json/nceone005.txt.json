@@ -1,0 +1,62 @@
+{
+   "5" : {
+      "16" : {
+         "3" : [
+            "Chinese\n[ˌtʃaɪ'niz]\n中国人\n中国为China ['tʃaɪnə]"
+         ]
+      },
+      "13" : {
+         "2" : [
+            "Korean\n [kə'riən]\t\n韩国人\n韩国为(South) Korea [kə'riə]"
+         ]
+      },
+      "6" : {
+         "4" : [
+            "Hans\n[hænz]\n"
+         ]
+      },
+      "7" : {
+         "3" : [
+            "German\n['dʒərmən]\t\n德国人\n德国为 Germnay ['dʒərməni]\t\n"
+         ]
+      },
+      "5" : {
+         "3" : [
+            "French\n[frentʃ]\t\n法国人, 法国为France [fræns].\n"
+         ]
+      },
+      "2" : {
+         "3,4" : [
+            "Mr. Blake\n['mɪstər][bleɪk]\n布莱克先生\nMr.用于对男士的尊称"
+         ]
+      },
+      "3" : {
+         "1,2" : [
+            "This is...\n这是...(用于介绍某人时使用)\n\nThis is my father.\n这是我的父亲.\n"
+         ],
+         "3,4,5" : [
+            "Miss Sophie Dupont\n[mɪs]['sɔfɪ][du'pɑnt]"
+         ]
+      },
+      "19" : {
+         "3" : [
+            "too\n也\n用于肯定句句尾\n\n-I love you.\n-我爱你\n-I love you too.\n-我也爱你"
+         ]
+      },
+      "10" : {
+         "2" : [
+            "Japanese\n[ˌdʒæpə'niz]\n日本人\n日本为Japan  [dʒə'pæn]"
+         ]
+      },
+      "1" : {
+         "1,2" : [
+            "早上好(00：00—12：00)\n见面问好的方式.同样有good afternoon 下午好 (12;00-18:00)\ngood evening 晚上好 (18:00-00:00)\ngood night 晚安(离开去睡觉时讲)"
+         ]
+      },
+      "8" : {
+         "1,2,3,4" : [
+            "nice to meet you\n很高兴见到你\n用于第一次与别人见面时"
+         ]
+      }
+   }
+}

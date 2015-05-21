@@ -1,0 +1,40 @@
+{
+   "3" : {
+      "9" : {
+         "3" : [
+            "it\n它\n在重复出现同一个物品的时候,可以用代词it代替\n\n-Is this your ticket?\n-这是你的票吗?\n-No, that's not it\n-不,它不是."
+         ]
+      },
+      "5" : {
+         "1,2,3" : [
+            "This is not...\n这不是...\n\nThis is not my coat.\n这不是我的外套."
+         ]
+      },
+      "1" : {
+         "5" : [
+            "umbrella\n[ʌm'brelə]\t\nn. 雨伞"
+         ],
+         "2" : [
+            "coat\n[koʊt]\nn. 外套"
+         ]
+      },
+      "8" : {
+         "1,2,3" : [
+            "No, it isn't.\n不，它不是.\n对Is this...?的否定回答"
+         ]
+      },
+      "3" : {
+         "3" : [
+            "sir\n[sər]\n先生,对不认识的男生的称呼,女性为madam"
+         ]
+      },
+      "2" : {
+         "1,2" : [
+            "Here is...\n这是...\n常用于递给别人东西的时候\n\nHere is the money.\n(递给别人)这是钱."
+         ],
+         "4" : [
+            "ticket\n['tɪkɪt]\nn. 票"
+         ]
+      }
+   }
+}
