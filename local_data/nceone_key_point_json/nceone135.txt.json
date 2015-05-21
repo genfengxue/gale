@@ -1,8 +1,8 @@
 {
    "135" : {
-      "3" : {
-         "3,4,5,6" : [
-            "make up one's mind\n下定决心,打定主意\n\nI can't make up my mind whether to have the fish or the chicken.\n我无法打定主意究竟要吃鱼还是吃鸡.\n"
+      "12" : {
+         "3,4" : [
+            "the latest\n最新的\n\nHave you seen her latest movie?\n你看最新的电影了吗? "
          ]
       },
       "7" : {
@@ -10,42 +10,14 @@
             "introduce sb. to sb.\n介绍某人给某人\n\nI guess you haven't met Mr. Lee. Let me introduce him to you.\n你大概还没见过李先生吧，让我来介绍他给你."
          ]
       },
-      "9" : {
-         "4,5" : [
-            "get married\n结婚\n\nI got married when I was 20.\n我二十岁时结的婚."
-         ]
-      },
-      "12" : {
-         "3,4" : [
-            "the latest\n最新的\n\nHave you seen her latest movie?\n你看最新的电影了吗? "
-         ]
-      },
       "2" : {
          "2" : [
             "may\n可能\nmay表示可能性较低, 语气较弱.\n\n-Will you come to the party tonight?\n你今晚会来参加派对吗?\n-I may.\n我可能会来.\n"
          ]
       },
-      "8" : {
-         "4" : [
-            "Carlos\n[ˈkɑrlɔs]\n卡洛斯\n"
-         ]
-      },
-      "1" : {
-         "8" : [
-            "Marsh\n[mɑrʃ]\n马什"
-         ],
-         "6" : [
-            "retire \n[rɪ'taɪər]\nv. 退休\n\nMy father retired at the age of 60.\n我父亲在60岁的时候退休了."
-         ]
-      },
-      "4" : {
-         "3,4" : [
-            "have to\n必须\nhave to表示内心不情愿但不得不, must表示自己内心愿意的必须.\n"
-         ]
-      },
-      "18" : {
-         "2" : [
-            "sensational adj. \n[sen'seɪʃənl]\n轰动的\n\nThe sensational report didn't have much effect on them.\n那起轰动的新闻报导对他们并无多大影响.\n"
+      "3" : {
+         "3,4,5,6" : [
+            "make up one's mind\n下定决心,打定主意\n\nI can't make up my mind whether to have the fish or the chicken.\n我无法打定主意究竟要吃鱼还是吃鸡.\n"
          ]
       },
       "19" : {
@@ -56,6 +28,34 @@
       "10" : {
          "2" : [
             "Liz\n[lɪz]\n利兹"
+         ]
+      },
+      "9" : {
+         "4,5" : [
+            "get married\n结婚\n\nI got married when I was 20.\n我二十岁时结的婚."
+         ]
+      },
+      "1" : {
+         "6" : [
+            "retire \n[rɪ'taɪər]\nv. 退休\n\nMy father retired at the age of 60.\n我父亲在60岁的时候退休了."
+         ],
+         "8" : [
+            "Marsh\n[mɑrʃ]\n马什"
+         ]
+      },
+      "18" : {
+         "2" : [
+            "sensational adj. \n[sen'seɪʃənl]\n轰动的\n\nThe sensational report didn't have much effect on them.\n那起轰动的新闻报导对他们并无多大影响.\n"
+         ]
+      },
+      "8" : {
+         "4" : [
+            "Carlos\n[ˈkɑrlɔs]\n卡洛斯\n"
+         ]
+      },
+      "4" : {
+         "3,4" : [
+            "have to\n必须\nhave to表示内心不情愿但不得不, must表示自己内心愿意的必须.\n"
          ]
       }
    }

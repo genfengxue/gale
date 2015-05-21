@@ -1,19 +1,42 @@
 {
    "119" : {
-      "6" : {
-         "7,8" : [
-            "turn on\n打开\n\nCould you please turn on the light?\n你能把灯打开吗?"
+      "16" : {
+         "1,2,3" : [
+            "go back to ...\n回去继续...\n\nDon't stand there. Go back to work!\n别站在那里，回去继续工作！"
+         ]
+      },
+      "13" : {
+         "4" : [
+            "Henry\n['henri]\n亨利"
          ],
+         "3" : [
+            "parrot n.\n['pærət]\n鹦鹉"
+         ]
+      },
+      "6" : {
          "10" : [
             "torch\n[tɔrtʃ]\n手电筒（英式） \n美式为flashlight"
+         ],
+         "7,8" : [
+            "turn on\n打开\n\nCould you please turn on the light?\n你能把灯打开吗?"
+         ]
+      },
+      "5" : {
+         "10,11,12" : [
+            "dining room\n客厅"
          ]
       },
       "3" : {
-         "4,5,6,7" : [
-            "a friend of mine\n我的朋友= one of my friends"
-         ],
          "1,2,3" : [
             "It happened to sb.\n这事发生在某人身上\n\nIt happened to me once.\n这事发生在我身上过一次。"
+         ],
+         "4,5,6,7" : [
+            "a friend of mine\n我的朋友= one of my friends"
+         ]
+      },
+      "10" : {
+         "4" : [
+            "noise n.\n[nɔɪz]\n响声，杂音"
          ]
       },
       "9" : {
@@ -33,34 +56,11 @@
          ]
       },
       "4" : {
-         "4" : [
-            "George\n[dʒɔdʒ]\n乔治\n"
-         ],
          "10" : [
             "thieves \n[θivz] \nthief的复数"
-         ]
-      },
-      "16" : {
-         "1,2,3" : [
-            "go back to ...\n回去继续...\n\nDon't stand there. Go back to work!\n别站在那里，回去继续工作！"
-         ]
-      },
-      "10" : {
-         "4" : [
-            "noise n.\n[nɔɪz]\n响声，杂音"
-         ]
-      },
-      "13" : {
-         "4" : [
-            "Henry\n['henri]\n亨利"
          ],
-         "3" : [
-            "parrot n.\n['pærət]\n鹦鹉"
-         ]
-      },
-      "5" : {
-         "10,11,12" : [
-            "dining room\n客厅"
+         "4" : [
+            "George\n[dʒɔdʒ]\n乔治\n"
          ]
       }
    }

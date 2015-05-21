@@ -1,21 +1,19 @@
 {
    "143" : {
+      "13" : {
+         "5" : [
+            "tin \nn.锡制罐头\n\nOne tin of beer please!\n来一听啤酒!\n"
+         ],
+         "4" : [
+            "rusty \nadj. 生锈的\n\nNobody likes a rusty car.\n没人喜欢生锈了的车.\n"
+         ]
+      },
       "6" : {
          "1,2" : [
             "litter basket \nn. 垃圾箱\n"
          ],
          "5" : [
             "place \nv. 置放\n\nPlace your hand under your desks.\n把你们的手放到桌子下边去.(老师对一群学生说)"
-         ]
-      },
-      "3" : {
-         "3,4" : [
-            "hundreds of...\n成百的\n同理thousands of ... 成千的 millions/billions of ... 成百万/十亿的...\n\nHundreds of people lost their lives in this disaster.\n成百的人在这场灾难中去世了.\n"
-         ]
-      },
-      "7" : {
-         "4,5,6" : [
-            "throw one's rubbish\n丢某人的垃圾\n\nPlease throw your rubbish in the litter basket.\n请将垃圾丢进垃圾桶."
          ]
       },
       "12" : {
@@ -29,9 +27,9 @@
             "be covered with\n被...覆盖\n\nThe road is covered with snow.\n道路被雪覆盖了."
          ]
       },
-      "2" : {
-         "5,6" : [
-            "beauty spot\n风景区\n"
+      "7" : {
+         "4,5,6" : [
+            "throw one's rubbish\n丢某人的垃圾\n\nPlease throw your rubbish in the litter basket.\n请将垃圾丢进垃圾桶."
          ]
       },
       "15" : {
@@ -39,9 +37,24 @@
             "prosecute \nv.起诉\n\nHe was prosecuted for fraud.\n他因诈骗被起诉.\n"
          ]
       },
-      "8" : {
-         "4,5,6,7" : [
-            "go for a walk\n散步\n\nI want to go for a walk. Do you want to join me?\n我想去散个步,你要跟我一起吗?"
+      "5" : {
+         "9,10,11" : [
+            "tidy \nadj.整齐的\nclean and tidy常常连在一起用, 表示整洁的\n\nThe house is clean and tidy.\n房子是整洁的.\n"
+         ]
+      },
+      "2" : {
+         "5,6" : [
+            "beauty spot\n风景区\n"
+         ]
+      },
+      "3" : {
+         "3,4" : [
+            "hundreds of...\n成百的\n同理thousands of ... 成千的 millions/billions of ... 成百万/十亿的...\n\nHundreds of people lost their lives in this disaster.\n成百的人在这场灾难中去世了.\n"
+         ]
+      },
+      "10" : {
+         "9" : [
+            "refrigerator n.\n[rɪ'frɪdʒəreɪtər]\t\n冰箱, 也可用fridge "
          ]
       },
       "1" : {
@@ -52,27 +65,14 @@
             "woods \nn.树林\n"
          ]
       },
+      "8" : {
+         "4,5,6,7" : [
+            "go for a walk\n散步\n\nI want to go for a walk. Do you want to join me?\n我想去散个步,你要跟我一起吗?"
+         ]
+      },
       "4" : {
          "3,4" : [
             "walk through\n走过,通过\n\nIf you walk through the hall, you'll see my collection of aircraft models.\n如果你走过门厅，就可以看到我的飞机模型收藏.\n"
-         ]
-      },
-      "13" : {
-         "4" : [
-            "rusty \nadj. 生锈的\n\nNobody likes a rusty car.\n没人喜欢生锈了的车.\n"
-         ],
-         "5" : [
-            "tin \nn.锡制罐头\n\nOne tin of beer please!\n来一听啤酒!\n"
-         ]
-      },
-      "10" : {
-         "9" : [
-            "refrigerator n.\n[rɪ'frɪdʒəreɪtər]\t\n冰箱, 也可用fridge "
-         ]
-      },
-      "5" : {
-         "9,10,11" : [
-            "tidy \nadj.整齐的\nclean and tidy常常连在一起用, 表示整洁的\n\nThe house is clean and tidy.\n房子是整洁的.\n"
          ]
       }
    }

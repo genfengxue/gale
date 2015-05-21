@@ -1,28 +1,11 @@
 {
    "141" : {
-      "11" : {
-         "5,6" : [
-            "make up \nvt. 化妆\n\nI don't like girls who make up their faces everyday.\n我不喜欢每天都化妆的女孩.\n"
-         ]
-      },
-      "3" : {
-         "7,8,9,10,11,12,13" : [
-            "have never done ... before\n从未做过....\n\nI have never been abroad before.\n我从未出过国."
-         ]
-      },
-      "7" : {
-         "9" : [
-            "curiously\n['kjʊəriəsli] \nadv. 好奇地\n\nAs the only foreigner in the town, local people often look at me curiously.\n作为小镇上唯一的一位外国人, 当地居民常常好奇地看着我.\n"
-         ]
-      },
-      "2" : {
-         "6,7" : [
-            "by train\n乘坐火车\n\nWill you go there by sea, by air or by train?\n你是乘船, 飞机还是火车去那里?"
-         ]
-      },
-      "15" : {
-         "5" : [
-            "ugly adj.\n['ʌɡli]\t\n丑的\n"
+      "16" : {
+         "8" : [
+            "embarrassed \n[ɪm'bærəst]\nadj. 尴尬的\n\nI was too embarrassed to admit that I was scared.\n我觉得太尴尬而不敢承认自己被吓到了.\n "
+         ],
+         "3" : [
+            "amused \n[ə'mjuzd]\nadj. 被逗乐的\namuse v. 娱乐\n\nI was amused by his funny face.\n我被他的鬼脸逗乐了.\n"
          ]
       },
       "14" : {
@@ -30,30 +13,32 @@
             "put away\n放在一边\n\nPut your phone away! You should focus on your homework! \n把手机放到一边去! 你应该专心写作业!\n"
          ]
       },
-      "8" : {
-         "3,4,5" : [
-            "be dressed in\n穿着 = wear\n\nThe man was dressed in blue jeans and a white T-shirt.\n那个男的穿着蓝色的牛仔裤和白色的T恤衫"
+      "7" : {
+         "9" : [
+            "curiously\n['kjʊəriəsli] \nadv. 好奇地\n\nAs the only foreigner in the town, local people often look at me curiously.\n作为小镇上唯一的一位外国人, 当地居民常常好奇地看着我.\n"
          ]
       },
-      "1" : {
-         "6" : [
-            "Sally\n[ˈsæli]\n萨丽"
-         ],
-         "4" : [
-            "four-year-old adj.\n四岁的\n用年纪做形容词时:数字-year-old,不能用years\n\nThe eight-year-old boy waved his hand to me.\n那个八岁的小男孩向我挥手.\n"
+      "15" : {
+         "5" : [
+            "ugly adj.\n['ʌɡli]\t\n丑的\n"
          ]
       },
-      "4" : {
-         "2,3,4,5" : [
-            "sit near the window\n坐在窗户旁边\n\nDon't you want to sit near the window in the aircraft?\n难道你不想坐在飞机的窗户旁边吗?"
-         ]
-      },
-      "16" : {
-         "8" : [
-            "embarrassed \n[ɪm'bærəst]\nadj. 尴尬的\n\nI was too embarrassed to admit that I was scared.\n我觉得太尴尬而不敢承认自己被吓到了.\n "
+      "5" : {
+         "10,11,12" : [
+            "sit opposite sb.\n坐在某人对面\n\nDo you mind if I sit opposite you?\n你介意我坐在你对面吗?"
          ],
          "3" : [
-            "amused \n[ə'mjuzd]\nadj. 被逗乐的\namuse v. 娱乐\n\nI was amused by his funny face.\n我被他的鬼脸逗乐了.\n"
+            "middle-aged adj.\n中年的\n\nMiddle-aged people often have trouble with balancing their life and work.\n中年人士经常苦于无法得到生活和工作的平衡."
+         ]
+      },
+      "2" : {
+         "6,7" : [
+            "by train\n乘坐火车\n\nWill you go there by sea, by air or by train?\n你是乘船, 飞机还是火车去那里?"
+         ]
+      },
+      "3" : {
+         "7,8,9,10,11,12,13" : [
+            "have never done ... before\n从未做过....\n\nI have never been abroad before.\n我从未出过国."
          ]
       },
       "10" : {
@@ -64,12 +49,27 @@
             "handbag \nn. 手提包"
          ]
       },
-      "5" : {
-         "3" : [
-            "middle-aged adj.\n中年的\n\nMiddle-aged people often have trouble with balancing their life and work.\n中年人士经常苦于无法得到生活和工作的平衡."
+      "11" : {
+         "5,6" : [
+            "make up \nvt. 化妆\n\nI don't like girls who make up their faces everyday.\n我不喜欢每天都化妆的女孩.\n"
+         ]
+      },
+      "1" : {
+         "6" : [
+            "Sally\n[ˈsæli]\n萨丽"
          ],
-         "10,11,12" : [
-            "sit opposite sb.\n坐在某人对面\n\nDo you mind if I sit opposite you?\n你介意我坐在你对面吗?"
+         "4" : [
+            "four-year-old adj.\n四岁的\n用年纪做形容词时:数字-year-old,不能用years\n\nThe eight-year-old boy waved his hand to me.\n那个八岁的小男孩向我挥手.\n"
+         ]
+      },
+      "8" : {
+         "3,4,5" : [
+            "be dressed in\n穿着 = wear\n\nThe man was dressed in blue jeans and a white T-shirt.\n那个男的穿着蓝色的牛仔裤和白色的T恤衫"
+         ]
+      },
+      "4" : {
+         "2,3,4,5" : [
+            "sit near the window\n坐在窗户旁边\n\nDon't you want to sit near the window in the aircraft?\n难道你不想坐在飞机的窗户旁边吗?"
          ]
       }
    }

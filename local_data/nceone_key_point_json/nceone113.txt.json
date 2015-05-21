@@ -1,8 +1,33 @@
 {
    "113" : {
+      "16" : {
+         "3" : [
+            "millionaire n.\n[ˌmɪljə'ner]\n百万富翁\n同理, billionaire n. 亿万富翁\n\nYou want me to buy you a new car - do you think I'm a millionaire or something?\n你想我给你买辆新车 - 你以为我是百万富翁还是什么的?\n"
+         ]
+      },
+      "14" : {
+         "3,4" : [
+            "get off v.\n下车\nget on上车\nget off/on一般与bus, train, boat and aircraft连用,如果是car用get in/into/out of the car\n\nShall we get off the bus now?\n我们现在该下车了吧?\n"
+         ]
+      },
       "6" : {
          "6" : [
             "passenger n.\n['pæsɪndʒər]\n乘客\n\nTwo passengers behind are talking loudly.\n两位后座的乘客在大声地谈话.\n"
+         ]
+      },
+      "12" : {
+         "1,2,3" : [
+            "Neither + 助动词 + sb.\n某人也没...\n\n-Did you see it?\n-你看见了吗?\n-No. \n-没有.\n-Neither did I.\n-我也没有.\n"
+         ]
+      },
+      "15" : {
+         "1,2" : [
+            "none of...\n一个也没...\n两个都没有用neither, 超过两个都没有用none.\n\nNone of my children has blonde hair.\n我的孩子(超过两个)没有一个是金黄头发的.\nNeither of my parents likes my boyfriend.\n我的父母(只有两个人)都不喜欢我的男朋友.\n"
+         ]
+      },
+      "2" : {
+         "1,2" : [
+            "Trafalgar Square\n[trə'fælgər] [skwer]\n特拉法尔加广场, 伦敦市中心的一个广场\n"
          ]
       },
       "3" : {
@@ -11,6 +36,16 @@
          ],
          "9" : [
             "note n.\n纸币\n\nDo you want the money in notes or coins?\n你要纸币要硬币?\n"
+         ]
+      },
+      "19" : {
+         "1,2,3" : [
+            "so + v. + sb.\n某人也是.\n\n-I like that actress.\n-我喜欢那个女演员.\n-So do I.\n-我也喜欢.\n"
+         ]
+      },
+      "10" : {
+         "7" : [
+            "madam n.\n['mædəm]\n女士(对不认识的女性的敬称)\n\nMay I carry your cases for you, Madam?\n我能为你提包吗,女士?\n"
          ]
       },
       "9" : {
@@ -23,24 +58,9 @@
             "except prep./conj.\n除了...之外\n\nThe museum is open daily except Mondays.\n博物馆每天除了周一之外每天都开.\n"
          ]
       },
-      "12" : {
-         "1,2,3" : [
-            "Neither + 助动词 + sb.\n某人也没...\n\n-Did you see it?\n-你看见了吗?\n-No. \n-没有.\n-Neither did I.\n-我也没有.\n"
-         ]
-      },
-      "2" : {
-         "1,2" : [
-            "Trafalgar Square\n[trə'fælgər] [skwer]\n特拉法尔加广场, 伦敦市中心的一个广场\n"
-         ]
-      },
-      "15" : {
-         "1,2" : [
-            "none of...\n一个也没...\n两个都没有用neither, 超过两个都没有用none.\n\nNone of my children has blonde hair.\n我的孩子(超过两个)没有一个是金黄头发的.\nNeither of my parents likes my boyfriend.\n我的父母(只有两个人)都不喜欢我的男朋友.\n"
-         ]
-      },
-      "14" : {
-         "3,4" : [
-            "get off v.\n下车\nget on上车\nget off/on一般与bus, train, boat and aircraft连用,如果是car用get in/into/out of the car\n\nShall we get off the bus now?\n我们现在该下车了吧?\n"
+      "1" : {
+         "1" : [
+            "fare n.\n[fer]\n票价(尤其指交通),这里指请买票.\n\nTrain fares are going up again.\n火车票价又要涨了.\n"
          ]
       },
       "8" : {
@@ -48,29 +68,9 @@
             "I've got none.\n我没有\nnone在这里指没有同一类的东西，注意与I've got nothing(我什么也没有)的区别.\n\n-Do you have any cigarette?\n-你有香烟么?\n-I've got none.\n-我没有(香烟,但有其他东西).\n\n-Do you have any cigarette?\n-你有香烟么?\n-I've got nothing!\n-我什么都没有!(没有香烟，也没有其他任何东西)\n"
          ]
       },
-      "1" : {
-         "1" : [
-            "fare n.\n[fer]\n票价(尤其指交通),这里指请买票.\n\nTrain fares are going up again.\n火车票价又要涨了.\n"
-         ]
-      },
       "4" : {
          "6" : [
             "change n.\n零钱\n\nDon't forget your change!\n不要忘了找你的零钱!\n"
-         ]
-      },
-      "19" : {
-         "1,2,3" : [
-            "so + v. + sb.\n某人也是.\n\n-I like that actress.\n-我喜欢那个女演员.\n-So do I.\n-我也喜欢.\n"
-         ]
-      },
-      "16" : {
-         "3" : [
-            "millionaire n.\n[ˌmɪljə'ner]\n百万富翁\n同理, billionaire n. 亿万富翁\n\nYou want me to buy you a new car - do you think I'm a millionaire or something?\n你想我给你买辆新车 - 你以为我是百万富翁还是什么的?\n"
-         ]
-      },
-      "10" : {
-         "7" : [
-            "madam n.\n['mædəm]\n女士(对不认识的女性的敬称)\n\nMay I carry your cases for you, Madam?\n我能为你提包吗,女士?\n"
          ]
       }
    }

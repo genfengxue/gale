@@ -1,46 +1,5 @@
 {
    "99" : {
-      "6" : {
-         "1,2,3,4" : [
-            "try and do sth\n试着做某事"
-         ]
-      },
-      "11" : {
-         "2,3,4" : [
-            "Carter\n['kɑrtɚ]\n人名\n\nphone sb\n给某人打电话"
-         ]
-      },
-      "3" : {
-         "2" : [
-            "slip\nvi 滑倒, 失足"
-         ],
-         "4,5" : [
-            "fall downstairs\n摔到了楼下"
-         ]
-      },
-      "12" : {
-         "3,4" : [
-            "says that\n说...\n\nAndy says that he can't stand up.\nAndy说他无法站起来"
-         ],
-         "8,9" : [
-            "at once\n马上"
-         ]
-      },
-      "8" : {
-         "1" : [
-            "Here\n在口语中单独用here这个词, 表示\"来\", \"给你\"等意思.\n"
-         ]
-      },
-      "1" : {
-         "1" : [
-            "Ow!\n语气词, 表示很疼"
-         ]
-      },
-      "4" : {
-         "3,4" : [
-            "hurt sb\n伤到某人"
-         ]
-      },
       "13" : {
          "6,7" : [
             "X-ray\nX光透视"
@@ -49,14 +8,55 @@
             "I'm sure that...\n我确信...\n\nI'm sure that I've hurt my back.\n我确信我把我的后背摔坏了."
          ]
       },
-      "10" : {
-         "6,7,8,9" : [
-            "had better do sth\n最好做某事"
+      "6" : {
+         "1,2,3,4" : [
+            "try and do sth\n试着做某事"
+         ]
+      },
+      "12" : {
+         "8,9" : [
+            "at once\n马上"
+         ],
+         "3,4" : [
+            "says that\n说...\n\nAndy says that he can't stand up.\nAndy说他无法站起来"
          ]
       },
       "5" : {
          "8,9,10" : [
             "hurt sth\n伤到某物"
+         ]
+      },
+      "3" : {
+         "4,5" : [
+            "fall downstairs\n摔到了楼下"
+         ],
+         "2" : [
+            "slip\nvi 滑倒, 失足"
+         ]
+      },
+      "10" : {
+         "6,7,8,9" : [
+            "had better do sth\n最好做某事"
+         ]
+      },
+      "11" : {
+         "2,3,4" : [
+            "Carter\n['kɑrtɚ]\n人名\n\nphone sb\n给某人打电话"
+         ]
+      },
+      "1" : {
+         "1" : [
+            "Ow!\n语气词, 表示很疼"
+         ]
+      },
+      "8" : {
+         "1" : [
+            "Here\n在口语中单独用here这个词, 表示\"来\", \"给你\"等意思.\n"
+         ]
+      },
+      "4" : {
+         "3,4" : [
+            "hurt sb\n伤到某人"
          ]
       }
    }

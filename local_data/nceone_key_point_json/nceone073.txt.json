@@ -1,15 +1,5 @@
 {
    "73" : {
-      "3" : {
-         "3,4,5" : [
-            "lose one's way\n丢失某人的路, 迷路\n\nI lost my way in the city today.\nRon never loses his way."
-         ]
-      },
-      "9" : {
-         "2,3" : [
-            "speak German\n讲德语\n\nI can't speak Spanish at all\nI can speak a little French but I can't understand a word\n\n将一门语言用speak, 不能用talk, say, tell"
-         ]
-      },
       "12" : {
          "2,3" : [
             "take out\n取出\n\nHe took out a cellphone and called her friend Pauline to ask her the way.\n\nPlease take out your phrase books, students.\n"
@@ -18,9 +8,29 @@
             "phrasebook\n常用语手册\n\n把一门语言最常用最基本的一些表达罗列供大家作为工具的书叫做phrasebook"
          ]
       },
+      "5" : {
+         "3,4,5,6" : [
+            "ask sb sth.\n问某人...\n\nAsk that man the time.\nAsk that girl the way to the nearest subway station."
+         ]
+      },
       "2" : {
          "1,2,3,4,5,6,7" : [
             "don't/dosn't know...very well\n不是很了解...\n\nI don't know Pauline very well.\nI know her boss very  well.\n\n注意这里的时态使用了一般现在时; 因为Mrs. Mills不熟悉London不是发生在过去的一个行为, 而是从过去到现在Mrs. Mills的一个一般性的属性.\n"
+         ]
+      },
+      "3" : {
+         "3,4,5" : [
+            "lose one's way\n丢失某人的路, 迷路\n\nI lost my way in the city today.\nRon never loses his way."
+         ]
+      },
+      "10" : {
+         "4" : [
+            "tour=n&v 旅行\ntourist=旅行者\n\n-ist是表示人的后缀"
+         ]
+      },
+      "9" : {
+         "2,3" : [
+            "speak German\n讲德语\n\nI can't speak Spanish at all\nI can speak a little French but I can't understand a word\n\n将一门语言用speak, 不能用talk, say, tell"
          ]
       },
       "1" : {
@@ -31,16 +41,6 @@
       "4" : {
          "7,8,9" : [
             "a bus stop\n一个公交车站\n\nstop是名词,表示停留的地方, 即车站. 这就好像我们古文里出现的动词做名词的感觉.\n\na subway stop=地铁站\na taxi stop=出租车上下点"
-         ]
-      },
-      "10" : {
-         "4" : [
-            "tour=n&v 旅行\ntourist=旅行者\n\n-ist是表示人的后缀"
-         ]
-      },
-      "5" : {
-         "3,4,5,6" : [
-            "ask sb sth.\n问某人...\n\nAsk that man the time.\nAsk that girl the way to the nearest subway station."
          ]
       }
    }

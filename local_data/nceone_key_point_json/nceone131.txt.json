@@ -1,13 +1,21 @@
 {
    "131" : {
+      "14" : {
+         "4,5" : [
+            "look after\n照看\n\nWill you look after my cat while I'm away? \n在我离开的时候,你能帮我照看我的猫吗?\n"
+         ]
+      },
       "6" : {
          "3,4,5,6" : [
             "make up one's mind\n下定决心,打定主意\n\nI can't make up my mind whether to have the fish or the chicken.\n我无法打定主意究竟要吃鱼还是吃鸡.\n"
          ]
       },
-      "4" : {
-         "7" : [
-            "Egypt\n['idʒɪpt]\n埃及"
+      "7" : {
+         "7,8" : [
+            "by air\n由空路,乘飞机\n\n"
+         ],
+         "4,5" : [
+            "by sea\n由海路,乘船\n\nWe made up our minds to go to Shanghai by sea.\n我们下定主意坐船去上海.\n"
          ]
       },
       "1" : {
@@ -20,22 +28,14 @@
             "in the end\n最后,结果\n\nI has been in a marriage for a long time but in the end I got divorced.\n我在一段婚姻里待了很长一段时间，但最后我还是离婚了。"
          ]
       },
-      "7" : {
-         "7,8" : [
-            "by air\n由空路,乘飞机\n\n"
-         ],
-         "4,5" : [
-            "by sea\n由海路,乘船\n\nWe made up our minds to go to Shanghai by sea.\n我们下定主意坐船去上海.\n"
+      "4" : {
+         "7" : [
+            "Egypt\n['idʒɪpt]\n埃及"
          ]
       },
       "2" : {
          "3,4" : [
             "go abroad\n去国外\n\nWe always go abroad in the summer.\n夏天我们总是去国外度假.\n"
-         ]
-      },
-      "14" : {
-         "4,5" : [
-            "look after\n照看\n\nWill you look after my cat while I'm away? \n在我离开的时候,你能帮我照看我的猫吗?\n"
          ]
       }
    }

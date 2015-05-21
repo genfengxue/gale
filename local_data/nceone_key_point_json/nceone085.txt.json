@@ -1,15 +1,5 @@
 {
    "85" : {
-      "8" : {
-         "4,5" : [
-            "on television 在电视上\n\nI can't believe I am on television now!\n我不敢相信我上电视了!\nHave you ever seen any good comedy on televison?\n你在电视上看到过好的喜剧吗?"
-         ]
-      },
-      "3" : {
-         "1,2,3,4,5" : [
-            "Have you been to..\n你是否去过...\n表示去了又回来了\n\nHave you been to the United States?\n你以前去过美国吗?"
-         ]
-      },
       "17" : {
          "3,4,5" : [
             "all the time 一直,老是 \n通常用于强调某种不太愉快的事情一直在发生\n\nI wish you could have more time for me instead of working all the time! （如果男友常常工作没时间陪你，可以这么说）\n"
@@ -18,6 +8,16 @@
       "5" : {
          "1,2" : [
             "What's on? \n什么在上映呢\n\nYou want to watch some TV?\n想看会电视吗?\nWhat's on?\n有什么节目呢"
+         ]
+      },
+      "8" : {
+         "4,5" : [
+            "on television 在电视上\n\nI can't believe I am on television now!\n我不敢相信我上电视了!\nHave you ever seen any good comedy on televison?\n你在电视上看到过好的喜剧吗?"
+         ]
+      },
+      "3" : {
+         "1,2,3,4,5" : [
+            "Have you been to..\n你是否去过...\n表示去了又回来了\n\nHave you been to the United States?\n你以前去过美国吗?"
          ]
       }
    }

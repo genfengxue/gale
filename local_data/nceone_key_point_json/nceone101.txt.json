@@ -1,5 +1,20 @@
 {
    "101" : {
+      "16" : {
+         "1,2,3" : [
+            "Is that all?\n就这些吗?\n\n-Is that all? 就这些了吗?\n-Yes, that's all. 对，就这些。"
+         ]
+      },
+      "14" : {
+         "6" : [
+            "well一般是副词, 这里是形容词, 表示身体健康的."
+         ]
+      },
+      "13" : {
+         "1,2" : [
+            "He says\n句中有错"
+         ]
+      },
       "6" : {
          "1,2" : [
             "You know ...\n你知道...吧\n\nYou know he is Penny's boyfriend.\n你知道他是潘妮的男朋友吧。"
@@ -8,9 +23,9 @@
             "Youth Hostels Association \n青年招待所协会"
          ]
       },
-      "11" : {
-         "2,3" : [
-            "speak up 大声说出来\nCould you speak up? We can't hear at the back.\n你能大声说吗？我们在后面听不见。"
+      "12" : {
+         "3,4,5,6" : [
+            "I can't hear you.\n我听不到你\n\n-I traveled to China last week.\n我上周去了中国。\n-You what? I can't hear you. \n什么？我听不见你。"
          ]
       },
       "7" : {
@@ -18,35 +33,35 @@
             "... what?\n对你没听清或没听过的部分发问，加上这部分前一个词\n\n- I bought a caravan.我买了辆房车\n- A what? 什么?"
          ]
       },
-      "12" : {
-         "3,4,5,6" : [
-            "I can't hear you.\n我听不到你\n\n-I traveled to China last week.\n我上周去了中国。\n-You what? I can't hear you. \n什么？我听不见你。"
-         ]
-      },
-      "2" : {
-         "6" : [
-            " ['skɒtlәnd]\n苏格兰"
-         ],
-         "1,2,3,4,5" : [
-            "sb. have just arrived in/at + spl.\n刚到...\n\nHe has just arrived at Jimmy's place.\n他刚到吉米家。\n\nin后边接大地方, at后边接小地方"
-         ],
-         "12,13" : [
-            "/ˈjuːθˌhɒs.təl/\n青年旅社"
-         ]
-      },
       "15" : {
          "1,2" : [
             "在信的结尾我们一般说\nLove,\nJimmy\n当然这个说明双方的关系是很亲密的, 亲人或爱人.\n\n如果是同事之间, 可以写\nRegards,\nJimmy"
          ]
       },
-      "14" : {
-         "6" : [
-            "well一般是副词, 这里是形容词, 表示身体健康的."
+      "5" : {
+         "3" : [
+            "he's = he is"
          ]
       },
-      "8" : {
-         "9" : [
-            "[əˌsoʊʃi'eɪʃn]\t\n协会"
+      "2" : {
+         "12,13" : [
+            "/ˈjuːθˌhɒs.təl/\n青年旅社"
+         ],
+         "6" : [
+            " ['skɒtlәnd]\n苏格兰"
+         ],
+         "1,2,3,4,5" : [
+            "sb. have just arrived in/at + spl.\n刚到...\n\nHe has just arrived at Jimmy's place.\n他刚到吉米家。\n\nin后边接大地方, at后边接小地方"
+         ]
+      },
+      "10" : {
+         "6,7,8,9,10,11" : [
+            "I hope you are all well\n祝你们大家身体都好, well这里指身体健康\n\nI hope your parents are both well.\n祝你父母身体健康"
+         ]
+      },
+      "11" : {
+         "2,3" : [
+            "speak up 大声说出来\nCould you speak up? We can't hear at the back.\n你能大声说吗？我们在后面听不见。"
          ]
       },
       "1" : {
@@ -57,29 +72,14 @@
             "Jimmy\n/ˈdʒɪ.mi/\n人名\n\ncard\n明信片\n\nRead sth. to me please.\n请把...念给我听\n\nRead the contract to me please.\n请把合同念给我听。"
          ]
       },
+      "8" : {
+         "9" : [
+            "[əˌsoʊʃi'eɪʃn]\t\n协会"
+         ]
+      },
       "4" : {
          "3" : [
             "he's = he has"
-         ]
-      },
-      "16" : {
-         "1,2,3" : [
-            "Is that all?\n就这些吗?\n\n-Is that all? 就这些了吗?\n-Yes, that's all. 对，就这些。"
-         ]
-      },
-      "13" : {
-         "1,2" : [
-            "He says\n句中有错"
-         ]
-      },
-      "10" : {
-         "6,7,8,9,10,11" : [
-            "I hope you are all well\n祝你们大家身体都好, well这里指身体健康\n\nI hope your parents are both well.\n祝你父母身体健康"
-         ]
-      },
-      "5" : {
-         "3" : [
-            "he's = he is"
          ]
       }
    }

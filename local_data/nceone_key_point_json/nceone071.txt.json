@@ -1,13 +1,8 @@
 {
    "71" : {
-      "11" : {
-         "3,4" : [
-            "arrive home\n回到家\n\nhome是副词, 而非名词.\n类似的 go home\n"
-         ]
-      },
-      "3" : {
+      "12" : {
          "2" : [
-            "awful\n糟糕的\n\nI just had an awful day.\nThe food here is awful"
+            "telephone\n打电话. 注意这里是不及物动词, 后边没有任何宾语\n\nDid he telephone again?\nI'm going to telephone her one last time.\n\n英语中有的动词既可以是及物动词, 也可以是不及物动词, 比如这里的telephone"
          ]
       },
       "7" : {
@@ -15,14 +10,12 @@
             "answer the phone/telephone\n回答电话, 接电话\n\nCould you help me answer the phone?\nMy mom answered the phone for me.\n\nreply the telephone是错误的说法\n\n类似的我们还说\nanswer the door=回答敲门声, 去开门"
          ]
       },
-      "9" : {
+      "5" : {
          "5,6" : [
-            "type letters\n打信\n\nletter有字母和信两个意思, 这里显然是后者.\n\nShe was typing a letter when I saw her.\nShe was typing a document this morning."
-         ]
-      },
-      "12" : {
-         "2" : [
-            "telephone\n打电话. 注意这里是不及物动词, 后边没有任何宾语\n\nDid he telephone again?\nI'm going to telephone her one last time.\n\n英语中有的动词既可以是及物动词, 也可以是不及物动词, 比如这里的telephone"
+            "yesterday morning\n昨天早上\n\nI went shoe shopping yesterday morning.\nI bought a pair of shoes yesterday morning.\n\n注意昨天早上不说last morning\n\nyesterday evening=昨天晚上\nlast night=昨天晚上(last不能跟morning, afternoon, evening搭配)"
+         ],
+         "2,3,4" : [
+            "telephone sb/spl.\n打电话给某人/某地\n\nPlease don't telephone my home.\nPlease don't telephone me after 9:00 p.m."
          ]
       },
       "2" : {
@@ -31,6 +24,39 @@
          ],
          "5" : [
             "[pɔ:'lin]"
+         ]
+      },
+      "3" : {
+         "2" : [
+            "awful\n糟糕的\n\nI just had an awful day.\nThe food here is awful"
+         ]
+      },
+      "19" : {
+         "1,2" : [
+            "Please don't do...\n请不要做, 命令强硬的语气\n\nPlease don't call my daughter again!\nPlease don't do this again!"
+         ]
+      },
+      "10" : {
+         "1,2" : [
+            "She can't do...\n她不能做\n\nShe can't be your girlfriend.\nShe can't answer the phone."
+         ],
+         "3,4,5" : [
+            "speak to you\n和你讲话\n\nspeak to you=speak with you=talk to you=talk with you.\n\n但是不能说say to you, tell you"
+         ]
+      },
+      "9" : {
+         "5,6" : [
+            "type letters\n打信\n\nletter有字母和信两个意思, 这里显然是后者.\n\nShe was typing a letter when I saw her.\nShe was typing a document this morning."
+         ]
+      },
+      "11" : {
+         "3,4" : [
+            "arrive home\n回到家\n\nhome是副词, 而非名词.\n类似的 go home\n"
+         ]
+      },
+      "18" : {
+         "4,5" : [
+            "This is...\n这是...\n\nThis is Ron. I'd like to talk to Pauline.\nThis is her boss. She's busy.\n\nThis is可以用在电话用语里指代自己. 虽然我们中学教科书上讲, 电话里不能用I'm...但我观察美国人口语中其实也经常在电话中直接说\nI'm Ron.\nI'm her boss."
          ]
       },
       "8" : {
@@ -47,32 +73,6 @@
          ],
          "4,5" : [
             "four times\n四次\n\nI called you four times yesterday\nI got up four times last night.\n\nonce=一次\ntwice=两次\nthree times=三次\n超过3次都用times, 少于3次一般用once和twice"
-         ]
-      },
-      "18" : {
-         "4,5" : [
-            "This is...\n这是...\n\nThis is Ron. I'd like to talk to Pauline.\nThis is her boss. She's busy.\n\nThis is可以用在电话用语里指代自己. 虽然我们中学教科书上讲, 电话里不能用I'm...但我观察美国人口语中其实也经常在电话中直接说\nI'm Ron.\nI'm her boss."
-         ]
-      },
-      "19" : {
-         "1,2" : [
-            "Please don't do...\n请不要做, 命令强硬的语气\n\nPlease don't call my daughter again!\nPlease don't do this again!"
-         ]
-      },
-      "10" : {
-         "1,2" : [
-            "She can't do...\n她不能做\n\nShe can't be your girlfriend.\nShe can't answer the phone."
-         ],
-         "3,4,5" : [
-            "speak to you\n和你讲话\n\nspeak to you=speak with you=talk to you=talk with you.\n\n但是不能说say to you, tell you"
-         ]
-      },
-      "5" : {
-         "5,6" : [
-            "yesterday morning\n昨天早上\n\nI went shoe shopping yesterday morning.\nI bought a pair of shoes yesterday morning.\n\n注意昨天早上不说last morning\n\nyesterday evening=昨天晚上\nlast night=昨天晚上(last不能跟morning, afternoon, evening搭配)"
-         ],
-         "2,3,4" : [
-            "telephone sb/spl.\n打电话给某人/某地\n\nPlease don't telephone my home.\nPlease don't telephone me after 9:00 p.m."
          ]
       }
    }

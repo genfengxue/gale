@@ -1,24 +1,18 @@
 {
    "97" : {
+      "13" : {
+         "1,2,3,4" : [
+            "penny 便士(单数)\npence 便士(复数)\n\n1 penny=1 cent, 就是一分钱"
+         ]
+      },
       "6" : {
          "4" : [
             "mine\n我的东西\n名词性物主代词, 类似于yours的用法. 后边不需要再跟别的词\n\nThis coat isn't mine\n这件外套不是我的\nIt's yours.\n它是你的"
          ]
       },
-      "11" : {
-         "3,4,5" : [
-            "83, Bridge Street\n大桥路83号"
-         ]
-      },
-      "3" : {
-         "7,8" : [
-            "It's got sth\n它拥有...\n\nI love my car. It's got a great design.\n我喜爱的车. 它拥有非常棒的设计."
-         ],
-         "10" : [
-            "zip\nn 拉链"
-         ],
-         "2,3,4,5" : [
-            "a small blue case\n一个小的蓝色的箱子\n\ncase=箱子\n\nsmall blue, 多个形容词连用, 主观的评价的形容词放在前边, 客观的属性的形容词放在后边"
+      "5" : {
+         "1,2,3,4" : [
+            "这句话如果你不好理解可以改为陈述句, 一般地都可以把疑问句改为陈述句来方便自己理解.\n\nThis case is yours.\n这个箱子是你的.\n\nyours=your case/bag\n名词性物主代词, 后边不需要加别的词就直接可以表示前边提到过的\"你的某某东西\""
          ]
       },
       "2" : {
@@ -26,31 +20,31 @@
             "[dɪ'skraɪb]\nvt 描述"
          ]
       },
-      "8" : {
-         "1,2,3" : [
-            "This one's got\n这一个拥有\n\nThis one's got a good color\n这一个拥有不错的颜色"
+      "3" : {
+         "10" : [
+            "zip\nn 拉链"
+         ],
+         "7,8" : [
+            "It's got sth\n它拥有...\n\nI love my car. It's got a great design.\n我喜爱的车. 它拥有非常棒的设计."
+         ],
+         "2,3,4,5" : [
+            "a small blue case\n一个小的蓝色的箱子\n\ncase=箱子\n\nsmall blue, 多个形容词连用, 主观的评价的形容词放在前边, 客观的属性的形容词放在后边"
+         ]
+      },
+      "11" : {
+         "3,4,5" : [
+            "83, Bridge Street\n大桥路83号"
          ]
       },
       "1" : {
+         "10,11,12" : [
+            "the other day\n不久前某一天；几天以前"
+         ],
          "6,7,8,9" : [
             "the train to London\n去往伦敦的火车\nto London后置修饰the train\n\nThe bus to school\n去往学校的公交车.\nYou've just missed the bus to school\n你刚刚错过了去学校的公交车"
          ],
          "2,3,4" : [
             "suitcase\n['sjutkeɪs]\t\n旅行箱\n\nleave sth+地点.\n把某物丢在(忘在)某地\n\nI left my book at your house yesterday\n我昨天把我的书忘在你家了"
-         ],
-         "10,11,12" : [
-            "the other day\n不久前某一天；几天以前"
-         ]
-      },
-      "4" : {
-         "6" : [
-            "handle\n['hændl]\nn 把手"
-         ],
-         "3" : [
-            "['leɪbl]\n标签\n买衣服时衣服上的标签就称作label"
-         ],
-         "7,8,9,10,11,12,13" : [
-            "with...\nwith引起的一个短语, 修饰handle"
          ]
       },
       "18" : {
@@ -58,14 +52,20 @@
             "belong to sb\n属于某人\n\n注意不能说成是belong to mine.\n\nThis case isn't mine\n=This case doesn't belong to me."
          ]
       },
-      "13" : {
-         "1,2,3,4" : [
-            "penny 便士(单数)\npence 便士(复数)\n\n1 penny=1 cent, 就是一分钱"
+      "8" : {
+         "1,2,3" : [
+            "This one's got\n这一个拥有\n\nThis one's got a good color\n这一个拥有不错的颜色"
          ]
       },
-      "5" : {
-         "1,2,3,4" : [
-            "这句话如果你不好理解可以改为陈述句, 一般地都可以把疑问句改为陈述句来方便自己理解.\n\nThis case is yours.\n这个箱子是你的.\n\nyours=your case/bag\n名词性物主代词, 后边不需要加别的词就直接可以表示前边提到过的\"你的某某东西\""
+      "4" : {
+         "7,8,9,10,11,12,13" : [
+            "with...\nwith引起的一个短语, 修饰handle"
+         ],
+         "6" : [
+            "handle\n['hændl]\nn 把手"
+         ],
+         "3" : [
+            "['leɪbl]\n标签\n买衣服时衣服上的标签就称作label"
          ]
       }
    }

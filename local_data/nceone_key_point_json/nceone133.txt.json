@@ -1,8 +1,40 @@
 {
    "133" : {
+      "12" : {
+         "2,3" : [
+            "is wearing...\n穿着...(强调此时此刻)\nShe was wearing yellow that day.\n她那天穿着黄色的衣服.(这里用yellow就指代了一件黄色的衣服)"
+         ],
+         "9,10" : [
+            "mink coat\n[mɪŋk][koʊt]\n貂皮大衣\n"
+         ]
+      },
+      "10" : {
+         "7,8" : [
+            "Alan Jones\n[ˈælən][dʒəunz]\n艾伦.琼斯\n"
+         ],
+         "1" : [
+            "Karen\n['karən]\n卡伦\n"
+         ],
+         "4,5,6" : [
+            "by sb.\n由某人...(这里是报道)\n\nThis news is reported by BBC.\n这段新闻是由BBC(英国广播电视台)报道的.\n"
+         ],
+         "3" : [
+            "sensational adj. \n[sen'seɪʃənl]\n轰动的\n\nThe sensational report didn't have much effect on them.\n那起轰动的新闻报导对他们并无多大影响.\n"
+         ]
+      },
+      "7" : {
+         "8,9,10,11" : [
+            "for a long time\n很长一段时间内\n\nI haven't watched movies for a long time.\n我很长一段时间没看电影了."
+         ]
+      },
       "11" : {
          "3,4" : [
             "arrive at\n抵达小地方\n对比: arrive in 抵达大地方\n\nWhen you arrive at the airport, I will come pick you up.\n当你抵达机场的时候，我会来接你.\nThey will arrive in New York at noon. \n他们将于中午到达纽约. \n"
+         ]
+      },
+      "5" : {
+         "4" : [
+            "retire v.\n[rɪ'taɪər]\n退休\n\nMy father retired at the age of 60.\n我父亲在60岁的时候退休了."
          ]
       },
       "1" : {
@@ -13,38 +45,6 @@
       "18" : {
          "1,2,3" : [
             "I wonder why...\n我很想知道为什么(此处省略了前文)\n\nI wonder why my parents wouldn't allow me to study psychology.\n我很想知道为什么我父母不让我学心理学.\n"
-         ]
-      },
-      "7" : {
-         "8,9,10,11" : [
-            "for a long time\n很长一段时间内\n\nI haven't watched movies for a long time.\n我很长一段时间没看电影了."
-         ]
-      },
-      "10" : {
-         "1" : [
-            "Karen\n['karən]\n卡伦\n"
-         ],
-         "7,8" : [
-            "Alan Jones\n[ˈælən][dʒəunz]\n艾伦.琼斯\n"
-         ],
-         "3" : [
-            "sensational adj. \n[sen'seɪʃənl]\n轰动的\n\nThe sensational report didn't have much effect on them.\n那起轰动的新闻报导对他们并无多大影响.\n"
-         ],
-         "4,5,6" : [
-            "by sb.\n由某人...(这里是报道)\n\nThis news is reported by BBC.\n这段新闻是由BBC(英国广播电视台)报道的.\n"
-         ]
-      },
-      "12" : {
-         "9,10" : [
-            "mink coat\n[mɪŋk][koʊt]\n貂皮大衣\n"
-         ],
-         "2,3" : [
-            "is wearing...\n穿着...(强调此时此刻)\nShe was wearing yellow that day.\n她那天穿着黄色的衣服.(这里用yellow就指代了一件黄色的衣服)"
-         ]
-      },
-      "5" : {
-         "4" : [
-            "retire v.\n[rɪ'taɪər]\n退休\n\nMy father retired at the age of 60.\n我父亲在60岁的时候退休了."
          ]
       }
    }

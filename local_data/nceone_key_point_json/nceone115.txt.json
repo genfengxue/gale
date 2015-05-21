@@ -1,64 +1,8 @@
 {
    "115" : {
-      "6" : {
-         "1" : [
-            "Carol\n['kærəl]\n凯罗(女)\n"
-         ],
-         "3" : [
-            "Tom\n[tɑm]\n汤姆"
-         ],
-         "4,5,6" : [
-            "invite sb. to + n.\n邀请某人来某地\n另外invite sb. for + n. 邀请某人为某事\n另外invite sb. to + v. 邀请某人做某事\n\nMy best friend invited me to her wedding.\n= My best friend invited me for her wedding.\n= My best friend invited me to attend her wedding.\n我的挚友邀请我参加她的婚礼.\n\n注意在to+ v.的结构中, to表示目的; 在 to+ n.的结构中, to表示方向.\n"
-         ]
-      },
-      "11" : {
-         "3,4,5" : [
-            "in the garden\n在花园里\n\nDogs are running in the garden.\n狗狗们在花园里奔跑."
-         ]
-      },
-      "7" : {
-         "1,2,3,4" : [
-            "look through the window\n透过窗户看\n\nIf you look through the window, you'll see a beautiful view.\n你若透过窗户看出去,你会瞧见美丽的景色.\n"
-         ]
-      },
-      "9" : {
-         "1,2,3" : [
-            "nothing at all\n什么也没有\n\n-Did you find anything in my bag?\n-在我包里找到什么了吗?\n-There is nothing at all in your bag.\n-你的包里什么也没有."
-         ]
-      },
-      "2" : {
-         "4" : [
-            "Helen\n['helən]\n海伦\n"
-         ]
-      },
       "14" : {
          "5" : [
             "out adv.\n外面\n\nThe mountains are much higher out here in the west.\n在西部山更高(因为西部更开阔所以称为out)\n"
-         ]
-      },
-      "22" : {
-         "1,2,3" : [
-            "sb. is joking\n某人在开玩笑\n\nDon't take it seriously. He's just joking.\n别当真,他只是在开玩笑.\n"
-         ]
-      },
-      "1" : {
-         "1,2,3" : [
-            "Isn't there anyone...?\n难道就没有一个人...?\n\nIsn't there anyone in the office?\n难道办公室一个人都没有吗?\n"
-         ]
-      },
-      "4" : {
-         "3,4,5" : [
-            "there's no one\n没有一个人... \nno one = nobody\n\nThere is no one/nobody that could help you.\n没有一个人能帮助你."
-         ]
-      },
-      "18" : {
-         "2,3,4" : [
-            "There's none left.\n一个也没有了.\nnone指没有同一类的物品了,这里指没有beer了\n\n-Can you give me more sugar?\n-可以再给我一些糖吗?\n-There's none left. \n-没有糖了."
-         ]
-      },
-      "19" : {
-         "5" : [
-            "lemonade n.\n[ˌlemə'neɪd]\n柠檬汁\n"
          ]
       },
       "13" : {
@@ -66,14 +10,70 @@
             "have lunch\n吃午饭\n\nWhen will you have lunch today?\n你今天几点吃午饭?"
          ]
       },
-      "10" : {
-         "4,5" : [
-            "back door\n后门\n\nIn western countries many houses have back doors.\n在西方国家里很多房子有后门.\n"
+      "6" : {
+         "1" : [
+            "Carol\n['kærəl]\n凯罗(女)\n"
+         ],
+         "4,5,6" : [
+            "invite sb. to + n.\n邀请某人来某地\n另外invite sb. for + n. 邀请某人为某事\n另外invite sb. to + v. 邀请某人做某事\n\nMy best friend invited me to her wedding.\n= My best friend invited me for her wedding.\n= My best friend invited me to attend her wedding.\n我的挚友邀请我参加她的婚礼.\n\n注意在to+ v.的结构中, to表示目的; 在 to+ n.的结构中, to表示方向.\n"
+         ],
+         "3" : [
+            "Tom\n[tɑm]\n汤姆"
+         ]
+      },
+      "7" : {
+         "1,2,3,4" : [
+            "look through the window\n透过窗户看\n\nIf you look through the window, you'll see a beautiful view.\n你若透过窗户看出去,你会瞧见美丽的景色.\n"
          ]
       },
       "5" : {
          "2,3" : [
             "that's impossible\n这不可能\n\n-They broke up!\n-他们分手了.\n-That's impossible. They were always so sweet together.\n-这不可能,他们曾经感情看起来很好啊."
+         ]
+      },
+      "2" : {
+         "4" : [
+            "Helen\n['helən]\n海伦\n"
+         ]
+      },
+      "22" : {
+         "1,2,3" : [
+            "sb. is joking\n某人在开玩笑\n\nDon't take it seriously. He's just joking.\n别当真,他只是在开玩笑.\n"
+         ]
+      },
+      "19" : {
+         "5" : [
+            "lemonade n.\n[ˌlemə'neɪd]\n柠檬汁\n"
+         ]
+      },
+      "10" : {
+         "4,5" : [
+            "back door\n后门\n\nIn western countries many houses have back doors.\n在西方国家里很多房子有后门.\n"
+         ]
+      },
+      "9" : {
+         "1,2,3" : [
+            "nothing at all\n什么也没有\n\n-Did you find anything in my bag?\n-在我包里找到什么了吗?\n-There is nothing at all in your bag.\n-你的包里什么也没有."
+         ]
+      },
+      "11" : {
+         "3,4,5" : [
+            "in the garden\n在花园里\n\nDogs are running in the garden.\n狗狗们在花园里奔跑."
+         ]
+      },
+      "1" : {
+         "1,2,3" : [
+            "Isn't there anyone...?\n难道就没有一个人...?\n\nIsn't there anyone in the office?\n难道办公室一个人都没有吗?\n"
+         ]
+      },
+      "18" : {
+         "2,3,4" : [
+            "There's none left.\n一个也没有了.\nnone指没有同一类的物品了,这里指没有beer了\n\n-Can you give me more sugar?\n-可以再给我一些糖吗?\n-There's none left. \n-没有糖了."
+         ]
+      },
+      "4" : {
+         "3,4,5" : [
+            "there's no one\n没有一个人... \nno one = nobody\n\nThere is no one/nobody that could help you.\n没有一个人能帮助你."
          ]
       }
    }

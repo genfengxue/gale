@@ -5,14 +5,14 @@
             "What a + (adj.) + n.!\n表示感叹\n\nWhat a cute baby!\n多可爱的宝宝！"
          ]
       },
-      "9" : {
-         "2,3,4,5,6,7" : [
-            "the man I told you about\n我跟你说过的那个人\n\nThis is Wind, the man I told you about.\n这是风，我跟你说过的那个人。"
-         ]
-      },
       "12" : {
          "4,5,6,7" : [
             "offer sb. a job\n给某人提供一份工作\n\nSorry, I am not the manager. I can't offer you a job.\n抱歉，我不是经理。我无法给你提供一份工作。"
+         ]
+      },
+      "5" : {
+         "5,6,7" : [
+            "during the trip\n旅行途中\n\nI took some photographs during the trip.\n旅行途中我拍了一些照片。"
          ]
       },
       "2" : {
@@ -23,12 +23,22 @@
             "Mike\n[maɪk]\n麦克"
          ]
       },
+      "19" : {
+         "3,4,5" : [
+            "shave off v.\n剃光\n\nWhy don't you shave your beard off?\n为啥你不把你的胡子剃光？"
+         ]
+      },
+      "9" : {
+         "2,3,4,5,6,7" : [
+            "the man I told you about\n我跟你说过的那个人\n\nThis is Wind, the man I told you about.\n这是风，我跟你说过的那个人。"
+         ]
+      },
       "1" : {
-         "6" : [
-            "photograph n.\n['foʊtəɡræf]\n照片，photograph是photo的全称"
-         ],
          "13" : [
             "Australia\n[ɔ'streɪljə]\n澳大利亚"
+         ],
+         "6" : [
+            "photograph n.\n['foʊtəɡræf]\n照片，photograph是photo的全称"
          ],
          "2" : [
             "Scott \n[skɑt]\n斯科特"
@@ -37,16 +47,6 @@
       "18" : {
          "2,3,4" : [
             "grow a beard\n蓄胡子\ngrow-grew-grown\n\nHe's growing a beard. \n他正在蓄胡子。"
-         ]
-      },
-      "19" : {
-         "3,4,5" : [
-            "shave off v.\n剃光\n\nWhy don't you shave your beard off?\n为啥你不把你的胡子剃光？"
-         ]
-      },
-      "5" : {
-         "5,6,7" : [
-            "during the trip\n旅行途中\n\nI took some photographs during the trip.\n旅行途中我拍了一些照片。"
          ]
       }
    }

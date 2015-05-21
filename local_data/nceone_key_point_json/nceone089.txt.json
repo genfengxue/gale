@@ -1,15 +1,5 @@
 {
    "89" : {
-      "6" : {
-         "1,2,3,4,5,6" : [
-            "How long have you done sth?\n你做...多久了\n\nHow long have you played guitar?\n你弹吉他多久了?\nHow long have you taught English?\n你教英语多久了?"
-         ]
-      },
-      "21" : {
-         "3,4,5,6" : [
-            "have the last word\n说最后一句话, 也就是拥有最后的决定权的意思\n\n\nOur head chef has the final word on what is served each week.\n我们的主厨拥有最终的决定权对于每周上什么菜"
-         ]
-      },
       "16" : {
          "1,2,3,4,5" : [
             "That's a lot of money! \n\n这里表示感叹很贵！所以想表达很贵不只有\"expensive\"，也可以试试\"That's a lot of money!\"\n"
@@ -20,19 +10,29 @@
             "in the country\n在下乡\n\nThe view in the country is much more beautiful than that in the city.\n乡村的风景比城市好的多"
          ]
       },
+      "21" : {
+         "3,4,5,6" : [
+            "have the last word\n说最后一句话, 也就是拥有最后的决定权的意思\n\n\nOur head chef has the final word on what is served each week.\n我们的主厨拥有最终的决定权对于每周上什么菜"
+         ]
+      },
+      "6" : {
+         "1,2,3,4,5,6" : [
+            "How long have you done sth?\n你做...多久了\n\nHow long have you played guitar?\n你弹吉他多久了?\nHow long have you taught English?\n你教英语多久了?"
+         ]
+      },
       "17" : {
          "2,3,4,5,6" : [
             "worth every penny\n值每一分钱, 物有所值.\npenny表示一分钱. 每一分钱都花的非常值得\n\nThey think the price it too high but I feel it's worth every penny of it.\n他们认为价格太高, 但我觉得每一分都非常值得"
          ]
       },
-      "2" : {
-         "7,8" : [
-            "for sale\n出售\n同理for rent表示出租\n\nIs the painting for sale?\n这幅画出售吗?\nYou could find plenty of houses for rent on this website.\n你在这个网站可以找到许多房子出租"
-         ]
-      },
       "15" : {
          "1,2" : [
             "1英镑=9人民币"
+         ]
+      },
+      "2" : {
+         "7,8" : [
+            "for sale\n出售\n同理for rent表示出租\n\nIs the painting for sale?\n这幅画出售吗?\nYou could find plenty of houses for rent on this website.\n你在这个网站可以找到许多房子出租"
          ]
       }
    }
