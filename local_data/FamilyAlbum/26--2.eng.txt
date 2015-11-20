@@ -1,92 +1,92 @@
-Do you like the dress?(26--2)
-I love it.(26--2)
-I designed it myself.(26--2)
-It's beautiful.(26--2)
-Are you ready?(26--2)
-We're supposed to be there(26--2)
-before the guests arrive.(26--2)
-I know. I know.(26--2)
-Help me with this tie, will you?(26--2)
-Honey, I'm scared to death.(26--2)
-But this is what you've been working for all these years.(26--2)
-No, no.(26--2)
-I worked to put together a book of photographs.(26--2)
-This is show business.(26--2)
-Well, it's all part of the same job.(26--2)
-Just relax and enjoy it.(26--2)
-You're right.(26--2)
-I earned this,and I'm going to enjoy it.(26--2)
-As soon as I recover from my nervous breakdown.(26--2)
-What are you afraid of?(26--2)
-Everything.(26--2)
-A critic was there this morning.(26--2)
-He probably hates my work.(26--2)
-I have to sign copies of my book for a lot of people(26--2)
-I never met before.(26--2)
-My new shoes hurt my feet...(26--2)
-You're going to be a great success.(26--2)
-Are you ready?(26--2)
-As soon as I get these cuff links on.(26--2)
-Let me help.(26--2)
-Mom and Dad are already on their way down to the gallery.(26--2)
-There! You look very attractive.(26--2)
-Thank you.(26--2)
-Well, I suppose I've run out of excuses.(26--2)
-Mm-hmm. Let's go ...(26--2)
-Oh, one minute.(26--2)
-Before we go to the gallery,(26--2)
-I just want to tell you(26--2)
-that I never could have done this book(26--2)
-without your help and your love.(26--2)
-I appreciate it.(26--2)
-Thanks.(26--2)
-Now, no more stalling.(26--2)
-What is it?(26--2)
-There's nobody here!(26--2)
-Of course not, Richard.(26--2)
-Your show doesn't begin until eight thirty.(26--2)
-Oh. Right.(26--2)
-Richard! Welcome! Good luck tonight!(26--2)
-Well, thanks.(26--2)
-This is my publisher, Harvey Carlson.(26--2)
-You've met my wife Marilyn...(26--2)
--Charmed.(26--2)
--Hi(26--2)
-My mother, Ellen Stewart.(26--2)
-Harvey Carlson.(26--2)
-It's good to meet you.(26--2)
-This is my father, Dr. Philip Stewart...(26--2)
-Nice to meet you, Mr. Carlson.(26--2)
-My brother Robbie...(26--2)
-Hi.(26--2)
-Hi.(26--2)
-And this is my sister Susan and her husband Harry Bennett(26--2)
-and his daughter Michelle.(26--2)
-It's nice to meet you.(26--2)
-And this gentleman is my grandfather, Malcolm Stewart.(26--2)
-Welcome, Mr. Stewart.(26--2)
-Well, make yourselves comfortable.(26--2)
-There are hors d'oeuvres at the table, fruit punch at the bar.(26--2)
-Help yourselves.(26--2)
-Can I get you something, Mr. Stewart?(26--2)
-No, thank you. (26--2)
-You can feel very proud of your grandson, Mr. Stewart.(26--2)
-I do.(26--2)
-I'm proud of all my grandchildren, Mr. Carlson.(26--2)
-Of course.(26--2)
-Feel free to look around.(26--2)
-If you need anything, just ask.(26--2)
-Thank you.(26--2)
-Harvey?(26--2)
-Yes?(26--2)
-Did Mitchell Johnson's review come out yet?(26--2)
-Not yet.(26--2)
-The newspapers don't come out till about ten o'clock.(26--2)
-When they come out, we'll get it.(26--2)
-Thanks.(26--2)
-Ready?(26--2)
-Yes. Have the people arrived?(26--2)
-The guests are waiting.(26--2)
-Tom's about to open the doors.(26--2)
-Good luck! And stop worrying!(26--2)
-They're going to love it.(26--2)
+Do you like the dress?
+I love it.
+I designed it myself.
+It's beautiful.
+Are you ready?
+We're supposed to be there
+before the guests arrive.
+I know. I know.
+Help me with this tie, will you?
+Honey, I'm scared to death.
+But this is what you've been working for all these years.
+No, no.
+I worked to put together a book of photographs.
+This is show business.
+Well, it's all part of the same job.
+Just relax and enjoy it.
+You're right.
+I earned this,and I'm going to enjoy it.
+As soon as I recover from my nervous breakdown.
+What are you afraid of?
+Everything.
+A critic was there this morning.
+He probably hates my work.
+I have to sign copies of my book for a lot of people
+I never met before.
+My new shoes hurt my feet...
+You're going to be a great success.
+Are you ready?
+As soon as I get these cuff links on.
+Let me help.
+Mom and Dad are already on their way down to the gallery.
+There! You look very attractive.
+Thank you.
+Well, I suppose I've run out of excuses.
+Mm-hmm. Let's go ...
+Oh, one minute.
+Before we go to the gallery,
+I just want to tell you
+that I never could have done this book
+without your help and your love.
+I appreciate it.
+Thanks.
+Now, no more stalling.
+What is it?
+There's nobody here!
+Of course not, Richard.
+Your show doesn't begin until eight thirty.
+Oh. Right.
+Richard! Welcome! Good luck tonight!
+Well, thanks.
+This is my publisher, Harvey Carlson.
+You've met my wife Marilyn...
+-Charmed.
+-Hi
+My mother, Ellen Stewart.
+Harvey Carlson.
+It's good to meet you.
+This is my father, Dr. Philip Stewart...
+Nice to meet you, Mr. Carlson.
+My brother Robbie...
+Hi.
+Hi.
+And this is my sister Susan and her husband Harry Bennett
+and his daughter Michelle.
+It's nice to meet you.
+And this gentleman is my grandfather, Malcolm Stewart.
+Welcome, Mr. Stewart.
+Well, make yourselves comfortable.
+There are hors d'oeuvres at the table, fruit punch at the bar.
+Help yourselves.
+Can I get you something, Mr. Stewart?
+No, thank you. 
+You can feel very proud of your grandson, Mr. Stewart.
+I do.
+I'm proud of all my grandchildren, Mr. Carlson.
+Of course.
+Feel free to look around.
+If you need anything, just ask.
+Thank you.
+Harvey?
+Yes?
+Did Mitchell Johnson's review come out yet?
+Not yet.
+The newspapers don't come out till about ten o'clock.
+When they come out, we'll get it.
+Thanks.
+Ready?
+Yes. Have the people arrived?
+The guests are waiting.
+Tom's about to open the doors.
+Good luck! And stop worrying!
+They're going to love it.

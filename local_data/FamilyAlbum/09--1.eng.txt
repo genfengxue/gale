@@ -1,94 +1,94 @@
-Who is it?(09--1)
-Dad.(09--1)
-Come on in, Dad.(09--1)
-I thought you might be hungry.(09--1)
-I brought you a chicken sandwich and a glass of milk.(09--1)
-I am hungry.(09--1)
-Thanks, Dad.(09--1)
-What time is it, anyway?(09--1)
-Ten o'clock.(09--1)
-What are you working on?(09--1)
-I'm writing a story for the high-school paper.(09--1)
-Can't you finish it tomorrow?(09--1)
-No, I have to turn it in in the morning.(09--1)
-What's it about?(09--1)
-I'm writing an article on the feelings about graduation.(09--1)
-And ... how do you feel?(09--1)
-Me?(09--1)
-A little scared.(09--1)
-And excited, too.(09--1)
-I felt the same way.(09--1)
-The scary part's leaving home and moving to college.(09--1)
-Oh, leaving home is part of growing up.(09--1)
-Well, don't work all night.(09--1)
-I don't mind.(09--1)
-I enjoy writing.(09--1)
-Well,(09--1)
-maybe you should think about becoming a writer.(09--1)
-Maybe I should.(09--1)
-You have lots of time to decide.(09--1)
-That's the worst part--making decisions.(09--1)
-You'll be OK.(09--1)
-Good night, Son.(09--1)
-Good night, Dad.(09--1)
-"Hail to the victors valiant,(09--1)
-Hail to the conquering heroes,(09--1)
-Hail, Hail to Michigan,(09--1)
-The champions of the West!"(09--1)
-Ah, good morning, Robbie.(09--1)
-Good morning, Dad.(09--1)
-How's my grandson?(09--1)
-Fine, Grandpa. Fine!(09--1)
-What's all the cheering about?(09--1)
-Did the University of Michigan win another football game?(09--1)
-Better than that.(09--1)
-Tell him, Philip.(09--1)
-I just spoke with Charley Rafer.(09--1)
-Who's Charley Rafer?(09--1)
-He's the Dean of Admissions for the University of Michigan.(09--1)
-And it turns out he's a classmate of Philip's.(09--1)
-We were both on the tennis team.(09--1)
-Great!(09--1)
-It is great.(09--1)
-He's going to be in New York tomorrow(09--1)
-to interview applicants for admission.(09--1)
-And he's agreed to fit you into his schedule.(09--1)
-But I may not want to go to Michigan.(09--1)
-It's one of the best schools in the country, Robbie.(09--1)
-I studied medicine there.(09--1)
-Your grandfather went to the Engineering School there.(09--1)
-I know that, but ...(09--1)
-You said you wanted to be a doctor like your father.(09--1)
-Not exactly.(09--1)
-You couldn't pick a finer medical school than Michigan.(09--1)
-Yes, I know that.(09--1)
-Let's meet with Charley at the university club.(09--1)
-Ten o'clock tomorrow morning.(09--1)
-It doesn't mean you're going to Michigan.(09--1)
-It doesn't mean you have to be a doctor.(09--1)
-But the interview will be good experience for you.(09--1)
-In that case, it's OK.(09--1)
-Dad, growing up means(09--1)
-making my own decisions, doesn't it?(09--1)
-You're right, Robbie.(09--1)
-But, like your Grandpa suggested,(09--1)
-have the interview.(09--1)
-And then make your own decision.(09--1)
-That sounds fine.(09--1)
-I know it's sudden, Robbie,(09--1)
-but this is an important opportunity.(09--1)
-We'll head down there first thing tomorrow morning.(09--1)
-OK?(09--1)
-Sure, Dad.(09--1)
-I want you to know something, Son.(09--1)
-I'm ... very proud of you.(09--1)
-Thanks, Dad.(09--1)
-Well, I've got an appointment at the hospital.(09--1)
-I'll see you all at dinnertime.(09--1)
-Bye, Dad.(09--1)
-Is something still wrong, Robbie?(09--1)
-I'll be OK.(09--1)
-Going away to college for the first time(09--1)
-always makes one a little nervous.(09--1)
-I guess so.(09--1)
-I'll be OK. I just need time to think.(09--1)
+Who is it?
+Dad.
+Come on in, Dad.
+I thought you might be hungry.
+I brought you a chicken sandwich and a glass of milk.
+I am hungry.
+Thanks, Dad.
+What time is it, anyway?
+Ten o'clock.
+What are you working on?
+I'm writing a story for the high-school paper.
+Can't you finish it tomorrow?
+No, I have to turn it in in the morning.
+What's it about?
+I'm writing an article on the feelings about graduation.
+And ... how do you feel?
+Me?
+A little scared.
+And excited, too.
+I felt the same way.
+The scary part's leaving home and moving to college.
+Oh, leaving home is part of growing up.
+Well, don't work all night.
+I don't mind.
+I enjoy writing.
+Well,
+maybe you should think about becoming a writer.
+Maybe I should.
+You have lots of time to decide.
+That's the worst part--making decisions.
+You'll be OK.
+Good night, Son.
+Good night, Dad.
+"Hail to the victors valiant,
+Hail to the conquering heroes,
+Hail, Hail to Michigan,
+The champions of the West!"
+Ah, good morning, Robbie.
+Good morning, Dad.
+How's my grandson?
+Fine, Grandpa. Fine!
+What's all the cheering about?
+Did the University of Michigan win another football game?
+Better than that.
+Tell him, Philip.
+I just spoke with Charley Rafer.
+Who's Charley Rafer?
+He's the Dean of Admissions for the University of Michigan.
+And it turns out he's a classmate of Philip's.
+We were both on the tennis team.
+Great!
+It is great.
+He's going to be in New York tomorrow
+to interview applicants for admission.
+And he's agreed to fit you into his schedule.
+But I may not want to go to Michigan.
+It's one of the best schools in the country, Robbie.
+I studied medicine there.
+Your grandfather went to the Engineering School there.
+I know that, but ...
+You said you wanted to be a doctor like your father.
+Not exactly.
+You couldn't pick a finer medical school than Michigan.
+Yes, I know that.
+Let's meet with Charley at the university club.
+Ten o'clock tomorrow morning.
+It doesn't mean you're going to Michigan.
+It doesn't mean you have to be a doctor.
+But the interview will be good experience for you.
+In that case, it's OK.
+Dad, growing up means
+making my own decisions, doesn't it?
+You're right, Robbie.
+But, like your Grandpa suggested,
+have the interview.
+And then make your own decision.
+That sounds fine.
+I know it's sudden, Robbie,
+but this is an important opportunity.
+We'll head down there first thing tomorrow morning.
+OK?
+Sure, Dad.
+I want you to know something, Son.
+I'm ... very proud of you.
+Thanks, Dad.
+Well, I've got an appointment at the hospital.
+I'll see you all at dinnertime.
+Bye, Dad.
+Is something still wrong, Robbie?
+I'll be OK.
+Going away to college for the first time
+always makes one a little nervous.
+I guess so.
+I'll be OK. I just need time to think.

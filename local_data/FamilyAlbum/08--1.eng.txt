@@ -1,69 +1,69 @@
-Molly, I need your special talent for handling special matters.(08--1)
-Like what special matters?(08--1)
-Well, I have a scheduling problem.(08--1)
-Yes?(08--1)
-I have three tonsillectomies set for Friday with Dr. Earl.(08--1)
-Yes?(08--1)
-I need to fit a fourth operation into his schedule.(08--1)
-And ... I know you can do it.(08--1)
-Who's the patient?(08--1)
-Carl Herrera.(08--1)
-The boy has infected tonsils,(08--1)
-and we should remove them as soon as possible.(08--1)
-Well, I'll try to arrange the schedule, Dr. Stewart.(08--1)
-But it's not going to be easy.(08--1)
-I know you'll be able to take care of it.(08--1)
-Well, Mrs. Herrera,(08--1)
-Carl will be perfectly fine after we remove his tonsils.(08--1)
-Thank you for your reassurance, Dr. Stewart.(08--1)
-He's had so many colds and sore throats recently.(08--1)
-Well, it's a very easy operation, Carl.(08--1)
-You won't feel a thing.(08--1)
-But when do they do it?(08--1)
-This Friday.(08--1)
-But Saturday's my birthday.(08--1)
-Well, we could reschedule the operation, Mrs. Herrera,(08--1)
-but I don't want to put it off too long.(08--1)
-No, I think it's important to do it now.(08--1)
-We can have a birthday party for you, Carl,(08--1)
-When you come out of the hospital.(08--1)
-But it won't be on my birthday.(08--1)
-But your health is more important, Carl. Believe me.(08--1)
-I don't want my tonsils out.(08--1)
-Nurse Baker, would you come in, please?(08--1)
-Hello, Mrs. Herrera. Hi, Carl, How're you doing?(08--1)
-I don't want my tonsils out.(08--1)
-Come with me, Carl.(08--1)
-You and I will talk this over.(08--1)
-She has a special way with kids.(08--1)
-She sure does.(08--1)
-Carl, does your throat hurt?(08--1)
-Yes.(08--1)
-OK. Do you want to get better?(08--1)
-Yes.(08--1)
-OK. We want you to get better, too.(08--1)
-You'll have your tonsils out tomorrow,(08--1)
-and you won't get so many colds anymore.(08--1)
-But if I have my tonsils out tomorrow,(08--1)
-I'll miss my birthday party on Saturday.(08--1)
-I know.(08--1)
-It's a problem, isn't it?(08--1)
-Let me try to work something out.(08--1)
-What?(08--1)
-I have to think about it.(08--1)
-You're fooling me.(08--1)
-Oh, I'm not, Carl.(08--1)
-Give me a chance to think about it,(08--1)
-and I'll come up with something.(08--1)
-A surprise? (08--1)
-Maybe.(08--1)
-But you just put on your pajamas and robe,(08--1)
-and I'll think of a surprise.(08--1)
-Will it hurt?(08--1)
-No.(08--1)
-There are other boys and girls here,(08--1)
-and they're having their tonsils out.(08--1)
-You'll meet them.(08--1)
-I don't want to.(08--1)
-Change your clothes, Carl.(08--1)
-Everything will be just fine.(08--1)
+Molly, I need your special talent for handling special matters.
+Like what special matters?
+Well, I have a scheduling problem.
+Yes?
+I have three tonsillectomies set for Friday with Dr. Earl.
+Yes?
+I need to fit a fourth operation into his schedule.
+And ... I know you can do it.
+Who's the patient?
+Carl Herrera.
+The boy has infected tonsils,
+and we should remove them as soon as possible.
+Well, I'll try to arrange the schedule, Dr. Stewart.
+But it's not going to be easy.
+I know you'll be able to take care of it.
+Well, Mrs. Herrera,
+Carl will be perfectly fine after we remove his tonsils.
+Thank you for your reassurance, Dr. Stewart.
+He's had so many colds and sore throats recently.
+Well, it's a very easy operation, Carl.
+You won't feel a thing.
+But when do they do it?
+This Friday.
+But Saturday's my birthday.
+Well, we could reschedule the operation, Mrs. Herrera,
+but I don't want to put it off too long.
+No, I think it's important to do it now.
+We can have a birthday party for you, Carl,
+When you come out of the hospital.
+But it won't be on my birthday.
+But your health is more important, Carl. Believe me.
+I don't want my tonsils out.
+Nurse Baker, would you come in, please?
+Hello, Mrs. Herrera. Hi, Carl, How're you doing?
+I don't want my tonsils out.
+Come with me, Carl.
+You and I will talk this over.
+She has a special way with kids.
+She sure does.
+Carl, does your throat hurt?
+Yes.
+OK. Do you want to get better?
+Yes.
+OK. We want you to get better, too.
+You'll have your tonsils out tomorrow,
+and you won't get so many colds anymore.
+But if I have my tonsils out tomorrow,
+I'll miss my birthday party on Saturday.
+I know.
+It's a problem, isn't it?
+Let me try to work something out.
+What?
+I have to think about it.
+You're fooling me.
+Oh, I'm not, Carl.
+Give me a chance to think about it,
+and I'll come up with something.
+A surprise? 
+Maybe.
+But you just put on your pajamas and robe,
+and I'll think of a surprise.
+Will it hurt?
+No.
+There are other boys and girls here,
+and they're having their tonsils out.
+You'll meet them.
+I don't want to.
+Change your clothes, Carl.
+Everything will be just fine.

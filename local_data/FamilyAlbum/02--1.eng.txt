@@ -1,59 +1,59 @@
-Excuse me. Can you help me?(02--1)
-Sure, what do you want?(02--1)
-Where is 83 Wooster Street?(02--1)
-That's easy. Walk to the corner.(02--1)
-Then make a left turn.(02--1)
-Then walk two blocks to the traffic light.(02--1)
-Make another left to Wooster.(02--1)
-Thank you.(02--1)
-To the corner and then a left?(02--1)
-Yeah. A left.(02--1)
-Hot dog? Only seventy-five cents.(02--1)
-No. Thank you. I have a dinner date.(02--1)
-555-9470...and it's busy....(02--1)
-Try again.(02--1)
-555-9470...and it's still busy.(02--1)
-Excuse me, ma'am.(02--1)
-I'm looking for 83 Wooster Street.(02--1)
-Yes. Wooster Street is two blocks,(02--1)
-and 83 is to the right, about two houses.(02--1)
-Thank you, thank you!(02--1)
-You're welcome.(02--1)
-Who is it?(02--1)
-Harry Bennett. Is this Susan?(02--1)
-Yes, it is. Come up.(02--1)
-I'm on the top floor.(02--1)
-Hello, Harry. It's nice to meet you.(02--1)
-Nice to meet you, Susan.(02--1)
-Sorry I'm late.(02--1)
-The traffic. The parking. I was lost.(02--1)
-What pretty flowers! Thank you.(02--1)
-Oh, please come in.(02--1)
-Don't worry about being late. It's fine.(02--1)
-Excuse the mess. I just moved here.(02--1)
-Oh, I'd like you to meet my sister-in-law Marilyn.(02--1)
-Marilyn Stewart, this is Harry Bennett.(02--1)
-Pleased to meet you.(02--1)
-Nice to meet you, Harry.(02--1)
-Are we too late for our dinner reservation?(02--1)
-No, the restaurant will hold our table.(02--1)
-I know the owner very well.(02--1)
-I eat there a lot.(02--1)
-Do you know the phone number of the restaurant?(02--1)
-I'd like to call home(02--1)
-and leave the number with the baby-sitter.(02--1)
-Sure. The number is... five five five...seventeen twenty.(02--1)
-May I use the phone?(02--1)
-Five five five...one seven two oh. Hello?(02--1)
-Hi, Michelle. It's Daddy.(02--1)
-Can I speak to Betty?(02--1)
-I want to leave the phone number of the restaurant.... (02--1)
-Hi, Betty. I'll be at five five five...seventeen twenty.(02--1)
-OK. Thanks. See you later.(02--1)
-Well, that's done. Shall we go?(02--1)
-I'm ready. See you later, Marilyn.(02--1)
-Have a nice evening.(02--1)
-Bye, Marilyn. Hope to see you again.(02--1)
-Me, too. Have fun!(02--1)
-Thanks.(02--1)
-After you.(02--1)
+Excuse me. Can you help me?
+Sure, what do you want?
+Where is 83 Wooster Street?
+That's easy. Walk to the corner.
+Then make a left turn.
+Then walk two blocks to the traffic light.
+Make another left to Wooster.
+Thank you.
+To the corner and then a left?
+Yeah. A left.
+Hot dog? Only seventy-five cents.
+No. Thank you. I have a dinner date.
+555-9470...and it's busy....
+Try again.
+555-9470...and it's still busy.
+Excuse me, ma'am.
+I'm looking for 83 Wooster Street.
+Yes. Wooster Street is two blocks,
+and 83 is to the right, about two houses.
+Thank you, thank you!
+You're welcome.
+Who is it?
+Harry Bennett. Is this Susan?
+Yes, it is. Come up.
+I'm on the top floor.
+Hello, Harry. It's nice to meet you.
+Nice to meet you, Susan.
+Sorry I'm late.
+The traffic. The parking. I was lost.
+What pretty flowers! Thank you.
+Oh, please come in.
+Don't worry about being late. It's fine.
+Excuse the mess. I just moved here.
+Oh, I'd like you to meet my sister-in-law Marilyn.
+Marilyn Stewart, this is Harry Bennett.
+Pleased to meet you.
+Nice to meet you, Harry.
+Are we too late for our dinner reservation?
+No, the restaurant will hold our table.
+I know the owner very well.
+I eat there a lot.
+Do you know the phone number of the restaurant?
+I'd like to call home
+and leave the number with the baby-sitter.
+Sure. The number is... five five five...seventeen twenty.
+May I use the phone?
+Five five five...one seven two oh. Hello?
+Hi, Michelle. It's Daddy.
+Can I speak to Betty?
+I want to leave the phone number of the restaurant.... 
+Hi, Betty. I'll be at five five five...seventeen twenty.
+OK. Thanks. See you later.
+Well, that's done. Shall we go?
+I'm ready. See you later, Marilyn.
+Have a nice evening.
+Bye, Marilyn. Hope to see you again.
+Me, too. Have fun!
+Thanks.
+After you.

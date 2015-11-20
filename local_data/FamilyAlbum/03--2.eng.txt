@@ -1,80 +1,80 @@
-Excuse me. Is this seat taken?(03--2)
-No, it's not taken.(03--2)
-Oh, thank you.(03--2)
-Oh, let me help you with this.(03--2)
-Oh, thank you.(03--2)
-Do you want to sit by the window?(03--2)
-No, no, no. I like the aisle seat better.(03--2)
-Please, you sit by the window.(03--2)
-My name is Stewart... Malcolm Stewart.(03--2)
-Pleased to meet you.(03--2)
-I'm Elsa Tobin. How do you do?(03--2)
-Do you live in New York?(03--2)
-No, no. I'm from Florida.(03--2)
-I am, too. But didn't you just get on?(03--2)
-No, no. I just changed my seat.(03--2)
-A man next to me was smoking,(03--2)
-and smoke really bothers me.(03--2)
-Where are you from in Florida?(03--2)
-Titusville. It's near Orlando.(03--2)
-Small world. I'm from Titusville, too.(03--2)
-Really? What part?(03--2)
-My husband and I live near Spaceport.(03--2)
-I know that area.(03--2)
-My house is only a few miles from Spaceport.(03--2)
-Do you still live there?(03--2)
-Oh yes, yes. My husband's there now.(03--2)
-He couldn't take time off to come to New York with me.(03--2)
-Do you still live there?(03--2)
-No. I sold the house and the furniture,(03--2)
-put a few personal things in an old trunk,(03--2)
-and shipped it to my children in New York.(03--2)
-That's my destination.(03--2)
-Are you married?(03--2)
-My wife died four years ago.(03--2)
-She was a wonderful woman. A real friend.(03--2)
-I'm sorry. Really, I'm sorry.(03--2)
-Lots of wonderful memories.(03--2)
-We were married almost fifty years.(03--2)
-Well, forty-seven, to be exact.(03--2)
-John and I celebrate our fortieth anniversary next month.(03--2)
-Oh, congratulations! That's nice.(03--2)
-What does John do?(03--2)
-He's an aerospace engineer(03--2)
-and works for Orlando Aircraft Corporation.(03--2)
-He started with them almost forty years ago.(03--2)
-What do you do?(03--2)
-I just retired. Had my own company.(03--2)
-A construction company. Roads, bridges, big stuff.(03--2)
-But I just sold it and retired.(03--2)
-Excuse me, ma'am. Ticket, please.(03--2)
-Would you kindly hold these keys, please?(03--2)
-I have a ticket, I know.(03--2)
-I was in the smoking section.(03--2)
-It's OK, lady. Take your time.(03--2)
-I'm sure it's in your purse, Mrs. Tobin.(03--2)
-Oh, here it is.(03--2)
-And here are your keys.(03--2)
-Thank you.(03--2)
-Do you have family in New York?(03--2)
-No, no. But I do have very close friends in New York City.(03--2)
-We like to go to the theater together.(03--2)
-You said you have family in New York.(03--2)
-Yes, indeed.(03--2)
-A son and his wife and their three children--(03--2)
-my grandchildren.(03--2)
-You must be excited.(03--2)
-I can't wait, to see them!(03--2)
-Are you going to live with them?(03--2)
-Yes.(03--2)
-Permanently?(03--2)
-Well... they want me to,(03--2)
-but it's too early to know for sure.(03--2)
-I'm pretty independent.(03--2)
-I tried to teach my kids the importance of independence,(03--2)
-but I'm not sure I want to be alone.(03--2)
-Some people don't mind being alone.I do.(03--2)
-I understand. But tell me.(03--2)
-Why did you stop working?(03--2)
-I retired because... I wanted to be with my family.(03--2)
-I didn't want to be alone anymore!(03--2)
+Excuse me. Is this seat taken?
+No, it's not taken.
+Oh, thank you.
+Oh, let me help you with this.
+Oh, thank you.
+Do you want to sit by the window?
+No, no, no. I like the aisle seat better.
+Please, you sit by the window.
+My name is Stewart... Malcolm Stewart.
+Pleased to meet you.
+I'm Elsa Tobin. How do you do?
+Do you live in New York?
+No, no. I'm from Florida.
+I am, too. But didn't you just get on?
+No, no. I just changed my seat.
+A man next to me was smoking,
+and smoke really bothers me.
+Where are you from in Florida?
+Titusville. It's near Orlando.
+Small world. I'm from Titusville, too.
+Really? What part?
+My husband and I live near Spaceport.
+I know that area.
+My house is only a few miles from Spaceport.
+Do you still live there?
+Oh yes, yes. My husband's there now.
+He couldn't take time off to come to New York with me.
+Do you still live there?
+No. I sold the house and the furniture,
+put a few personal things in an old trunk,
+and shipped it to my children in New York.
+That's my destination.
+Are you married?
+My wife died four years ago.
+She was a wonderful woman. A real friend.
+I'm sorry. Really, I'm sorry.
+Lots of wonderful memories.
+We were married almost fifty years.
+Well, forty-seven, to be exact.
+John and I celebrate our fortieth anniversary next month.
+Oh, congratulations! That's nice.
+What does John do?
+He's an aerospace engineer
+and works for Orlando Aircraft Corporation.
+He started with them almost forty years ago.
+What do you do?
+I just retired. Had my own company.
+A construction company. Roads, bridges, big stuff.
+But I just sold it and retired.
+Excuse me, ma'am. Ticket, please.
+Would you kindly hold these keys, please?
+I have a ticket, I know.
+I was in the smoking section.
+It's OK, lady. Take your time.
+I'm sure it's in your purse, Mrs. Tobin.
+Oh, here it is.
+And here are your keys.
+Thank you.
+Do you have family in New York?
+No, no. But I do have very close friends in New York City.
+We like to go to the theater together.
+You said you have family in New York.
+Yes, indeed.
+A son and his wife and their three children--
+my grandchildren.
+You must be excited.
+I can't wait, to see them!
+Are you going to live with them?
+Yes.
+Permanently?
+Well... they want me to,
+but it's too early to know for sure.
+I'm pretty independent.
+I tried to teach my kids the importance of independence,
+but I'm not sure I want to be alone.
+Some people don't mind being alone.I do.
+I understand. But tell me.
+Why did you stop working?
+I retired because... I wanted to be with my family.
+I didn't want to be alone anymore!
