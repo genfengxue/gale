@@ -1,0 +1,21 @@
+<h1>搜索结果</h1>
+<form action="/admin/search" method="post">
+  关键词：<input type="text" name="keyword" /><br>
+  <input type="submit" value="提交" />
+</form>
+
+<p>相关结果<%= results.length %>个</p>
+
+<table border=1>
+  <tr>
+    <th>lesson</th>
+    <th>sentence</th>
+  </tr>
+  <% _.each(results, function(result) { %>
+  <tr>
+    <td><%= result.lessonNo %></td>
+    <td><%= result.english %></td>
+  </tr>
+  <% }); %>
+</table>
+

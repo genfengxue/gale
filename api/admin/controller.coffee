@@ -5,6 +5,7 @@ crypto = require 'crypto'
 
 Sentence = _u.getModel 'sentence'
 User = _u.getModel 'user'
+FamilyAlbum = _u.getModel 'family_album'
 
 router.get "/", auth.verifyTokenCookie(), (req, res, next) ->
   token = null
@@ -89,5 +90,17 @@ familyAlbumCountWordsObject = buildCountWordsObject('family_album_converted_coun
 
 router.get "/family_album_count_words", (req, res, next) ->
   res.render 'count_words', familyAlbumCountWordsObject
+
+router.get "/search", (req, res, next) ->
+  res.render 'search_results', {results: []}
+
+router.post "/search", (req, res, next) ->
+  keyword = req.body.keyword
+  console.log(keyword)
+  FamilyAlbum.findQ {$text: {$search: "\"#{keyword}\""}}, {score: {$meta: 'textScore'}}, {sort: {score: {$meta: 'textScore'}}}
+  .then (results) ->
+    res.render 'search_results', {results: results}
+  .catch next
+  .done()
 
 module.exports = router
