@@ -1,0 +1,417 @@
+[
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 1,
+      "english" : "Ah! Miss Stewart! Welcome!"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 2,
+      "english" : "How are you?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 3,
+      "english" : "Fine, Somsak. And you?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 4,
+      "english" : "Fine, thank you."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 5,
+      "english" : "This is my friend Harry Bennett."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 6,
+      "english" : "Pleased to meet you."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 7,
+      "english" : "Very nice to meet you."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 8,
+      "english" : "Any friend of Miss Stewart's is welcome at Somsak's."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 9,
+      "english" : "Follow me, please."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 10,
+      "english" : "I like it here."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 11,
+      "english" : "I do, too. I come here often."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 12,
+      "english" : "A special place for special people."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 13,
+      "english" : "Thank you, Somsak."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 14,
+      "english" : "Well! Nice restaurant."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 15,
+      "english" : "Would you like something to drink?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 16,
+      "english" : "Yes, I'd like a glass of ginger ale with ice."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 17,
+      "english" : "Harry, what would you like?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 18,
+      "english" : "Do you have a dry white wine?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 19,
+      "english" : "How about a California chablis?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 20,
+      "english" : "Chablis is fine."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 21,
+      "english" : "What would you like to eat?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 22,
+      "english" : "I'd like the mee krob."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 23,
+      "english" : "Harry, would you like to see a menu? Harry"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 24,
+      "english" : "No, it's Ok."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 25,
+      "english" : "I'll have the mee krob also."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 26,
+      "english" : "What is it?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 27,
+      "english" : "Crispy fried noodles. I love them."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 28,
+      "english" : "May I bring you a salad?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 29,
+      "english" : "Oh yes."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 30,
+      "english" : "What do you recommend today?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 31,
+      "english" : "I recommend rose-petal salad."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 32,
+      "english" : "Special for new friends."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 33,
+      "english" : "Rose-petal salad?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 34,
+      "english" : "Why not?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 35,
+      "english" : "I'll take care of everything."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 36,
+      "english" : "I hope you're hungry."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 37,
+      "english" : "What? Oh, yes. Starving."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 38,
+      "english" : "Well, I ..."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 39,
+      "english" : "Well, I ..."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 40,
+      "english" : "What do you do at Universe Toy Company?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 41,
+      "english" : "I'm the vice-president of new toy development."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 42,
+      "english" : "Terrific!"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 43,
+      "english" : "I know you 're a CPA."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 44,
+      "english" : "That's true. Harry Bennett,"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 45,
+      "english" : "certified public accountant."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 46,
+      "english" : "I love numbers."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 47,
+      "english" : "I do some work for Smith and Dale,your company's accounting firm."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 48,
+      "english" : "And so..."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 49,
+      "english" : "Here we are."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 50,
+      "english" : "Yes."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 51,
+      "english" : "I have a daughter."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 52,
+      "english" : "I know. How old is she?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 53,
+      "english" : "She's nine years old."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 54,
+      "english" : "That's a nice age. What's her name?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 55,
+      "english" : "Michelle."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 56,
+      "english" : "Do you have a picture of her?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 57,
+      "english" : "She's very pretty."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 58,
+      "english" : "Thank you."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 59,
+      "english" : "Rose-petal salad."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 60,
+      "english" : "And there's a phone call for you, Mr. Bennett."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 61,
+      "english" : "Excuse me, Susan."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 62,
+      "english" : "I hope nothing is wrong."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 63,
+      "english" : "I'll get the rest of the dinner."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 64,
+      "english" : "Excuse me."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 65,
+      "english" : "Please forgive me, Susan, but..."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 66,
+      "english" : "I have to leave. I feel terrible, but..."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 67,
+      "english" : "What's the matter?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 68,
+      "english" : "My daughter isn't feeling well."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 69,
+      "english" : "Oh no! Is it serious?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 70,
+      "english" : "I don't know. The baby-sitter says she has a stomachache,"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 71,
+      "english" : "and she's crying."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 72,
+      "english" : "I'll have to go home."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 73,
+      "english" : "Will you forgive me?"
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 74,
+      "english" : "Of course. I'm so sorry for Michelle."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 75,
+      "english" : "And you didn't have a chance to eat."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 76,
+      "english" : "Oh, it's OK."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 77,
+      "english" : "Let me take you home first."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 78,
+      "english" : "No, no. Please, go ahead."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 79,
+      "english" : "It's our first date."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 80,
+      "english" : "We'll make another."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 81,
+      "english" : "Please don't worry."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 82,
+      "english" : "I'll phone you."
+   },
+   {
+      "lessonNo" : "02--2",
+      "sentenceNo" : 83,
+      "english" : "I hope your daughter is all right. Good-bye."
+   }
+]

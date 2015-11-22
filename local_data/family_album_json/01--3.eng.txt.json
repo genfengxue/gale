@@ -1,0 +1,607 @@
+[
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 1,
+      "english" : "And give her a teaspoon of the medicine after every meal."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 2,
+      "english" : "You're welcome. Good-bye."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 3,
+      "english" : "How are you?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 4,
+      "english" : "Don't worry. She'll be fine."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 5,
+      "english" : "I'm tired and hungry."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 6,
+      "english" : "Well, Marilyn and Richard called."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 7,
+      "english" : "They'll be here soon, and then we'll eat."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 8,
+      "english" : "All right. Is...is Susan coming?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 9,
+      "english" : "Well, she'll be here later."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 10,
+      "english" : "She has to work late tonight."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 11,
+      "english" : "And what's Robbie cooking for dinner?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 12,
+      "english" : "It's a surprise."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 13,
+      "english" : "I hope it's pasta."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 14,
+      "english" : "Robbie, the dinner was terrific."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 15,
+      "english" : "Yes, it was delicious."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 16,
+      "english" : "What's for dessert?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 17,
+      "english" : "Oh, I forgot dessert."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 18,
+      "english" : "Robbie!"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 19,
+      "english" : "Don't worry."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 20,
+      "english" : "We've got lots of ice cream."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 21,
+      "english" : "Oh, I'd love some ice cream."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 22,
+      "english" : "Well, there's chocolate and coffee and a little vanilla."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 23,
+      "english" : "I'll have vanilla."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 24,
+      "english" : "Is that all right with everyone?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 25,
+      "english" : "I'll have chocolate."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 26,
+      "english" : "Me, too."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 27,
+      "english" : "Uh, one scoop of coffee"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 28,
+      "english" : "and one scoop of chocolate for me."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 29,
+      "english" : "Robbie, will you help me serve?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 30,
+      "english" : "I keep thinking about that bag of film. Eight rolls."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 31,
+      "english" : "A whole day's work."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 32,
+      "english" : "And good stuff, too."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 33,
+      "english" : "Don't worry, Richard."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 34,
+      "english" : "Somenoe will find it."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 35,
+      "english" : "I'll get it."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 36,
+      "english" : "Hello."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 37,
+      "english" : "Does Richard Stewart live here?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 38,
+      "english" : "Yes, he's my brother."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 39,
+      "english" : "I'm Robbie...Robbie Stewart."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 40,
+      "english" : "I'm Alexandra Pappas."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 41,
+      "english" : "How do you do?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 42,
+      "english" : "Your brother left his bag of film on the ferryboat."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 43,
+      "english" : "I found it."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 44,
+      "english" : "I'm really glad to see you."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 45,
+      "english" : "I mean...my brother'll be really glad to see you!"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 46,
+      "english" : "Robbie! Who is it?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 47,
+      "english" : "It's Richard's film!"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 48,
+      "english" : "I mean, Alexandra Pappas."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 49,
+      "english" : "Come in, please."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 50,
+      "english" : "Alexandra!"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 51,
+      "english" : "Hello, Richard. I found your bag!"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 52,
+      "english" : "Oh, thank you! Thank you!"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 53,
+      "english" : "Um...Alexandra, let me introduce you."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 54,
+      "english" : "This is my wife Marilyn."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 55,
+      "english" : "Richard showed me your photo."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 56,
+      "english" : "How do you do?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 57,
+      "english" : "Oh yes."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 58,
+      "english" : "Richard told us all about you."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 59,
+      "english" : "It's nice to meet you."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 60,
+      "english" : "And this is my mother, Ellen Stewart."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 61,
+      "english" : "How do you do?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 62,
+      "english" : "And my father, Dr. Philip Stewart."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 63,
+      "english" : "Nice to meet you, Alexandra."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 64,
+      "english" : "And...ah...you met Robbie."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 65,
+      "english" : "Yes. And you must be Susan. Hi."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 66,
+      "english" : "Hi. Welcome."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 67,
+      "english" : "I'm so glad you found the bag"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 68,
+      "english" : "and took the time and trouble to return it."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 69,
+      "english" : "Oh, it was no trouble."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 70,
+      "english" : "I just took the wrong train."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 71,
+      "english" : "Would you like something to eat?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 72,
+      "english" : "Thank you, no."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 73,
+      "english" : "I'm late for dinner at my house."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 74,
+      "english" : "I really have to go."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 75,
+      "english" : "Would you like to call home?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 76,
+      "english" : "I'd appreciate that."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 77,
+      "english" : "Please, use the phone."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 78,
+      "english" : "Thanks. Excuse me."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 79,
+      "english" : "Alexandra's a high-school exchange student from Greece."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 80,
+      "english" : "Where does she live?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 81,
+      "english" : "With a family in the Bronx."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 82,
+      "english" : "Oh, that's not too far from here!"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 83,
+      "english" : "Take it easy, Robbie."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 84,
+      "english" : "Thank you."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 85,
+      "english" : "I can only stay a few minutes."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 86,
+      "english" : "Have some iced tea."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 87,
+      "english" : "Thanks, Mrs. Stewart."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 88,
+      "english" : "Please sit down, Alexandra."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 89,
+      "english" : "So, you're an exchange student."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 90,
+      "english" : "Where do you go to school?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 91,
+      "english" : "At the Bronx High School of Science."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 92,
+      "english" : "Oh, that's a very good school."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 93,
+      "english" : "What are your favorite subjects?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 94,
+      "english" : "Biology and mathematics."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 95,
+      "english" : "Richard tells me you're a doctor."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 96,
+      "english" : "Yes, a pediatrician."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 97,
+      "english" : "And what does your father do?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 98,
+      "english" : "He's a lawyer, in Thessaloniki."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 99,
+      "english" : "Would you like some pasta?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 100,
+      "english" : "I made it myself."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 101,
+      "english" : "It might be a little cold."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 102,
+      "english" : "Thanks, no. I do have to go."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 103,
+      "english" : "It was nice meeting you all."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 104,
+      "english" : "Well, maybe you'll come for lunch some Sunday,"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 105,
+      "english" : "so we can really thank you"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 106,
+      "english" : "for bringing Richard's bag back."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 107,
+      "english" : "Maybe."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 108,
+      "english" : "You're welcome anytime."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 109,
+      "english" : "Good-bye."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 110,
+      "english" : "Can I drive you home?"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 111,
+      "english" : "No, thanks."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 112,
+      "english" : "The train is just up the street."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 113,
+      "english" : "It won't take me long at all."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 114,
+      "english" : "Well, you really saved the day for me, Alexandra."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 115,
+      "english" : "Bye."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 116,
+      "english" : "Bye-bye."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 117,
+      "english" : "Good night."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 118,
+      "english" : "She's a smart young lady, and very nice."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 119,
+      "english" : "Very! Hey, she forgot her bag!"
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 120,
+      "english" : "I guess we'll be seeing Alexandra again."
+   },
+   {
+      "lessonNo" : "01--3",
+      "sentenceNo" : 121,
+      "english" : "Right, Robbie?"
+   }
+]
