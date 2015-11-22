@@ -62,21 +62,32 @@ router.get "/sentences", (req, res, next) ->
   .catch next
   .done()
 
-countWords = require '../../local_data/count_words/count_words_converted.json'
-numWords = (_.pluck countWords, 'word').length
-totalCount = _.reduce(countWords, (sum, ele) ->
-  return sum + (if ele.count >= 10 then 10 else ele.count)
-, 0)
+buildCountWordsObject = (filename) ->
+  countWords = require "../../local_data/count_words/#{filename}"
+  numWords = (_.pluck countWords, 'word').length
+  totalCount = _.reduce(countWords, (sum, ele) ->
+    return sum + (if ele.count >= 10 then 10 else ele.count)
+  , 0)
 
-sortedCountWords = countWords.sort (a, b) ->
-  return b.count - a.count
+  sortedCountWords = countWords.sort (a, b) ->
+    return b.count - a.count
 
-router.get "/count_words", (req, res, next) ->
-#  res.send sortedCountWords
-  res.render 'count_words', {
+  return {
     sortedCountWords: sortedCountWords
     numWords: numWords
     totalCount: totalCount
   }
+
+countWordsObject = buildCountWordsObject('count_words_converted.json')
+
+router.get "/count_words", (req, res, next) ->
+#  res.send sortedCountWords
+  res.render 'count_words', countWordsObject
+
+
+familyAlbumCountWordsObject = buildCountWordsObject('family_album_converted_count_words.json')
+
+router.get "/family_album_count_words", (req, res, next) ->
+  res.render 'count_words', familyAlbumCountWordsObject
 
 module.exports = router

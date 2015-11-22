@@ -14,7 +14,7 @@
     <td><%= countWord.count %></td>
     <td>
     <% _.each(countWord.stats, function(one, index) { %>
-      <% if (index <= 5) { %>
+      <% if (index <= 2) { %>
         <p><%= one.sentence + " " + one.lessonNo + " " + one.sentenceNo %></p>
       <% } %>
     <% }); %>

@@ -5,12 +5,15 @@ use lib 'scripts';
 use Data::Dumper;
 use Gale qw/read_file write_file json_encode json_decode/;
 
-my $JSON_DIR = 'local_data/L01-54-json';
-my $COUNT_WORDS_DIR = 'local_data/count_words';
+#my $json_dir = 'local_data/L01-54-json';
+#my $COUNT_WORDS_DIR = 'local_data/count_words';
+my $json_dir = 'local_data/family_album_json';
+my $count_words_json = '../../local_data/count_words/family_album_count_words.json';
+my $converted_count_words_json = '../../local_data/count_words/family_album_converted_count_words.json';
 
-chdir $JSON_DIR or die $!;
+chdir $json_dir or die $!;
 my @files = glob "*";
-#@files = @files[0, 1];
+#@files = ($files[0]);
 
 my $result = {};
 for my $file (@files) {
@@ -29,8 +32,8 @@ for my $file (@files) {
     }
   }
 }
-#print Dumper $result;
-#write_file("../../$COUNT_WORDS_DIR/count_words.json", json_encode($result));
+print Dumper $result;
+write_file($count_words_json, json_encode($result));
 
 my $convertedResult = [];
 for my $word (keys %$result) {
@@ -47,7 +50,4 @@ for my $word (keys %$result) {
   push @{ $convertedResult }, $one;
 }
 print Dumper $convertedResult;
-write_file("../../$COUNT_WORDS_DIR/count_words_converted.json", json_encode($convertedResult));
-
-
-__END__
+write_file($converted_count_words_json, json_encode($convertedResult));
