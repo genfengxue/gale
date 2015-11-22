@@ -1,8 +1,6 @@
 use warnings;
 use strict;
 use Data::Dumper;
-use Encode;
-use JSON;
 
 use lib 'scripts';
 use Gale qw/getLessonNo write_file json_encode/;
