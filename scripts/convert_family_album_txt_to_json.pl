@@ -28,11 +28,11 @@ for my $file (@files) {
     my $object = {
       lessonNo => $lessonNo,
       sentenceNo => $sentenceNo,
-      english  => $line,
+      english  => $line || die "$lessonNo $sentenceNo",
     };
 
     push @{$objects}, {%{$object}};
   }
-#  print json_encode( $objects );
-  write_file($json_file, json_encode( $objects ) );
 }
+#print json_encode( $objects );
+write_file($json_file, json_encode( $objects ) );
