@@ -97,9 +97,9 @@ router.get "/search", (req, res, next) ->
 router.post "/search", (req, res, next) ->
   keyword = req.body.keyword
   console.log(keyword)
-  FamilyAlbum.findQ {$text: {$search: "\"#{keyword}\""}}, {score: {$meta: 'textScore'}}, {sort: {score: {$meta: 'textScore'}}}
+  FamilyAlbum.findQ {$text: {$search: keyword}}, {score: {$meta: 'textScore'}}, {sort: {score: {$meta: 'textScore'}}}
   .then (results) ->
-    res.render 'search_results', {results: results}
+    res.render 'search_results', {results: results, keyword: keyword}
   .catch next
   .done()
 
