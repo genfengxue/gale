@@ -92,7 +92,7 @@ router.get "/family_album_count_words", (req, res, next) ->
   res.render 'count_words', familyAlbumCountWordsObject
 
 router.get "/search", (req, res, next) ->
-  res.render 'search_results', {results: []}
+  res.render 'search_results', {results: [], keyword: ''}
 
 router.post "/search", (req, res, next) ->
   keyword = req.body.keyword
