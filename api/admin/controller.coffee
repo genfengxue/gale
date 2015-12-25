@@ -101,11 +101,13 @@ router.post "/search", (req, res, next) ->
   Q(
     if keyword
       console.log(keyword)
-      pattern = new RegExp(keyword)
+      pattern = new RegExp("\\b#{keyword}\\b")
       FamilyAlbum.findQ {english: {$regex: pattern}}
     else if textKeyword
       console.log(textKeyword)
-      FamilyAlbum.findQ {$text: {$search: textKeyword}}, {score: {$meta: 'textScore'}}, {sort: {score: {$meta: 'textScore'}}}
+      FamilyAlbum.findQ {
+        $text: {$search: textKeyword}
+      }, {score: {$meta: 'textScore'}}, {sort: {score: {$meta: 'textScore'}}}
   )
   .then (results) ->
     console.log(results)
