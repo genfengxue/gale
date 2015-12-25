@@ -92,14 +92,24 @@ router.get "/family_album_count_words", (req, res, next) ->
   res.render 'count_words', familyAlbumCountWordsObject
 
 router.get "/search", (req, res, next) ->
-  res.render 'search_results', {results: [], keyword: ''}
+  res.render 'search_results', {results: [], keyword: '', textKeyword: ''}
 
 router.post "/search", (req, res, next) ->
   keyword = req.body.keyword
-  console.log(keyword)
-  FamilyAlbum.findQ {$text: {$search: keyword}}, {score: {$meta: 'textScore'}}, {sort: {score: {$meta: 'textScore'}}}
+  textKeyword = req.body.textKeyword
+  console.log(req.body)
+  Q(
+    if keyword
+      console.log(keyword)
+      pattern = new RegExp(keyword)
+      FamilyAlbum.findQ {english: {$regex: pattern}}
+    else if textKeyword
+      console.log(textKeyword)
+      FamilyAlbum.findQ {$text: {$search: textKeyword}}, {score: {$meta: 'textScore'}}, {sort: {score: {$meta: 'textScore'}}}
+  )
   .then (results) ->
-    res.render 'search_results', {results: results, keyword: keyword}
+    console.log(results)
+    res.render 'search_results', {results: results, keyword: keyword ? '', textKeyword: textKeyword ? ''}
   .catch next
   .done()
 
